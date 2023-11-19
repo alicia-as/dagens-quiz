@@ -121,7 +121,7 @@ const IndexPage: React.FC = () => {
           disabled={isSubmitted}
           className="w-full bg-blue-500 text-white p-2 rounded-lg hover:bg-blue-600"
         >
-          Submit Answers
+          Sjekk svarene
         </button>
         )}
       </form>
