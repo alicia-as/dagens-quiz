@@ -31,7 +31,9 @@ const IndexPage: React.FC = () => {
 
   const handleSubmit = () => {
     setIsSubmitted(true);
+  };
 
+  const handleShare = () => {
     // Check answers and generate result string
     const resultString = questions
       .map((question, index) => {
@@ -44,7 +46,7 @@ const IndexPage: React.FC = () => {
 
     // Copy result string and link to clipboard
     navigator.clipboard
-      .writeText(resultString + "\nPlay the quiz: https://quiz.alicia.app")
+      .writeText(resultString + "\nSpill dagens quiz på: https://quiz.alicia.app")
       .then(
         () => {
           // Show confirmation message
@@ -68,7 +70,7 @@ const IndexPage: React.FC = () => {
         isOpen={isModalOpen}
         onClose={() => setIsModalOpen(false)}
       >
-        <p>Results copied to clipboard!</p>
+        <p>Resultatene er kopiert til din utklippstavle!</p>
       </ClipboardModal>
       <h1 className="text-2xl font-bold text-center mb-4">Dagens Quiz</h1>
       <form
@@ -80,11 +82,11 @@ const IndexPage: React.FC = () => {
         {" "}
         {questions.map((question, index) => (
           <div key={index} className="mb-4">
-            <p className="font-medium mb-2">{question.question}</p>
+            <p className="font-semibold mb-2">{question.question}</p>
             {isSubmitted ? (
               <div>
                 <p className="font-medium">
-                  Your Answer:{" "}
+                  Ditt svar:{" "}
                   <span className="font-normal text-gray-200">
                     {userAnswers[index]}
                   </span>
@@ -99,8 +101,8 @@ const IndexPage: React.FC = () => {
                 >
                   {userAnswers[index].toLowerCase() ===
                   question.answer.toLowerCase()
-                    ? "✅ Correct!"
-                    : `❌ Incorrect. Correct Answer: ${question.answer}`}
+                    ? "✅ Korrekt!"
+                    : `❌ Feil. Rett svar: '${question.answer}'`}
                 </p>
               </div>
             ) : (
@@ -113,15 +115,25 @@ const IndexPage: React.FC = () => {
             )}
           </div>
         ))}
+        {!isSubmitted && (
         <button
           onClick={handleSubmit}
           disabled={isSubmitted}
-          className="w-full bg-blue-500 text-white p-2 rounded hover:bg-blue-600"
+          className="w-full bg-blue-500 text-white p-2 rounded-lg hover:bg-blue-600"
         >
           Submit Answers
         </button>
+        )}
       </form>
       {isSubmitted && <div className="mt-4">{/* Display results here */}</div>}
+      {isSubmitted && (
+        <button
+          onClick={handleShare}
+          className="w-full bg-green-500 font-medium text-white p-2 rounded-lg hover:bg-green-600 mt-4"
+        >
+          Del ditt resultat!
+        </button>
+      )}
     </div>
   );
 };
