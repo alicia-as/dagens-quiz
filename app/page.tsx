@@ -8,6 +8,7 @@ interface Question {
 }
 
 const IndexPage: React.FC = () => {
+  const [isLoading, setIsLoading] = useState(true);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [userAnswers, setUserAnswers] = useState<string[]>([]);
   const [isSubmitted, setIsSubmitted] = useState(false);
@@ -19,11 +20,13 @@ const IndexPage: React.FC = () => {
       const response = await fetch("/api/questions");
       if (!response.ok) {
         console.error("Failed to fetch questions");
+        setIsLoading(false);
         return;
       }
       const data = await response.json();
       setQuestions(data);
       setUserAnswers(Array(data.length).fill(""));
+      setIsLoading(false);
     };
 
     fetchQuestions();
@@ -46,7 +49,9 @@ const IndexPage: React.FC = () => {
 
     // Copy result string and link to clipboard
     navigator.clipboard
-      .writeText(resultString + "\nSpill dagens quiz på: https://quiz.alicia.app")
+      .writeText(
+        resultString + "\nSpill dagens quiz på: https://quiz.alicia.app"
+      )
       .then(
         () => {
           // Show confirmation message
@@ -80,6 +85,14 @@ const IndexPage: React.FC = () => {
         }}
       >
         {" "}
+        {isLoading && <p>Laster spørsmål...</p>}
+        {!isLoading && questions.length === 0 && (
+          // Nice message to show when there are no questions
+          <div class="my-4 text-center">
+            <p>Ingen spørsmål i dag!</p>
+            <p>Sjekk tilbake i morgen 😎</p>
+          </div>
+        )}
         {questions.map((question, index) => (
           <div key={index} className="mb-4">
             <p className="font-semibold mb-2">{question.question}</p>
@@ -116,13 +129,13 @@ const IndexPage: React.FC = () => {
           </div>
         ))}
         {!isSubmitted && (
-        <button
-          onClick={handleSubmit}
-          disabled={isSubmitted}
-          className="w-full bg-blue-500 text-white p-2 rounded-lg hover:bg-blue-600"
-        >
-          Sjekk svarene
-        </button>
+          <button
+            onClick={handleSubmit}
+            disabled={isSubmitted}
+            className="w-full bg-blue-500 text-white p-2 rounded-lg hover:bg-blue-600"
+          >
+            Sjekk svarene
+          </button>
         )}
       </form>
       {isSubmitted && <div className="mt-4">{/* Display results here */}</div>}
