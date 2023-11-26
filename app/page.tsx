@@ -88,7 +88,7 @@ const IndexPage: React.FC = () => {
         {isLoading && <p>Laster spørsmål...</p>}
         {!isLoading && questions.length === 0 && (
           // Nice message to show when there are no questions
-          <div class="my-4 text-center">
+          <div className="my-4 text-center">
             <p>Ingen spørsmål i dag!</p>
             <p>Sjekk tilbake i morgen 😎</p>
           </div>
