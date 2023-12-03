@@ -1,0 +1,27 @@
+[
+    {
+      "question": "Hvilken lagidrett var oppvisningsgren i OL i 1924 og 1932? Den ble en offisiell gren fra og med vinter-OL 1998 og Norge har vunnet en gullmedalje.",
+      "answer": "Curling",
+      "aliases": ["OL-idrett Curling", "Curling i OL"]
+    },
+    {
+      "question": "Grunnsteinen til hvilken kjent bygning ble lagt ned av kong Haakon VII i 1931? Du får lete på Monopolbrettet.",
+      "answer": "Rådhuset",
+      "aliases": ["Oslo Rådhus", "Rådhuset på Monopolbrettet"]
+    },
+    {
+      "question": "På hvilken øy heter den største byen Mariehamn?",
+      "answer": "Åland",
+      "aliases": ["Ålandøyene", "Mariehamn på Åland"]
+    },
+    {
+      "question": "Hvilken av bøkene i Det gamle testamente har samme navn som general Halvspenn?",
+      "answer": "Amos",
+      "aliases": ["Boken Amos", "Profeten Amos"]
+    },
+    {
+      "question": "Hvilken av bøkene i Det gamle testamente har samme navn som artisten som synger om Grace Kelly?",
+      "answer": "Mika",
+      "aliases": ["Boken Mika", "Profeten Mika"]
+    }
+]

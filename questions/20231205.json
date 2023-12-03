@@ -1,0 +1,27 @@
+[
+    {
+      "question": "Trinidad og Tobago har en hovedstad (og havneby) med et europeisk land i navnet. Hva heter den?",
+      "answer": "Port of Spain",
+      "aliases": ["Port-of-Spain", "Port of Spain"]
+    },
+    {
+      "question": "Hvilket «ølmerke» har vært utenriksminister i Norge under tre forskjellige statsministre?",
+      "answer": "Knut Frydenlund",
+      "aliases": ["Frydenlund"]
+    },
+    {
+      "question": "Hvilken gresk øy ved den tyrkiske kysten har et navn som også kan være en stemning som ikke kan oppnås uten Kims potetgull?",
+      "answer": "Kos",
+      "aliases": ["Ingen Kims ingen Kos", "Øya Kos"]
+    },
+    {
+      "question": "Hvilken øy, som ikke er en øy, men en kommune i Nordland, har en østlandsby i sitt navn?",
+      "answer": "Hamarøy",
+      "aliases": ["Kommunen Hamarøy", "Hamarøy i Nordland"]
+    },
+    {
+      "question": "Daryl heter det til etternavn, mens moren til Samuel i Bibelen heter det til fornavn. Hvilket navn, som kan leses begge veier?",
+      "answer": "Hannah",
+      "aliases": ["Hanna", "Bibelsk Hannah"]
+    }
+]

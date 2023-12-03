@@ -5,8 +5,7 @@ import path from 'path';
 // Handler for your API endpoint
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
   const today = new Date();
-  const dateString = today.toISOString().split('T')[0].replace(/-/g, '');
-  console.log("🚀 ~ file: questions.ts:9 ~ handler ~ dateString:", dateString)
+  const dateString = today.toISOString().split('T')[0].replace(/-/g, '');  
   
 
   // Path to your questions directory

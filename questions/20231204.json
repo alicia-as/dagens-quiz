@@ -1,0 +1,27 @@
+[
+    {
+      "question": "Hva heter kjempene i gresk mytologi som kun har et øye?",
+      "answer": "Kykloper",
+      "aliases": ["Cyclops", "Ettøyde kjemper", "Kyklopene", "Kyklop"]
+    },
+    {
+      "question": "Han ble regnet som den mest verdifulle krigeren etter Akilles. Et europeisk storlag har tatt navn etter kjempen. Navnet takk!",
+      "answer": "Ajax",
+      "aliases": ["Ajax Amsterdam", "Ajax-krigeren", "Ajax Amsterdam FC", "Ajax FC"]
+    },
+    {
+      "question": "Hvilken luring har lurt Zevs til å falle i søvn flere ganger? Han har bl.a. sønnene Morfeus og Fantasos.",
+      "answer": "Hypnos",
+      "aliases": ["Guden for søvn", "Zevs' bedrager", "Hypos"]
+    },
+    {
+      "question": "En av Jupiters fire store måner er oppkalt etter en kvinne som ble lurt til Kreta av Zevs. Hun har også gitt navn til stedet der vi bor. Navnet takk!",
+      "answer": "Europa",
+      "aliases": ["Jupiters måne Europa", "Kontinentet Europa"]
+    },
+    {
+      "question": "Hva het nymfen som lovet Odyssevs udødelighet om han ble på hennes øy? Hun har gitt navn til en musikk og en dans i Karibien.",
+      "answer": "Kalypso",
+      "aliases": ["Nymfen Kalypso", "Kalypso-musikk", "Kalypso-dans"]
+    }
+]

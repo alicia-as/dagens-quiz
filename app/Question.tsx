@@ -2,7 +2,8 @@ import React, { useState } from 'react';
 
 interface QuestionProps {
   question: string;
-  correctAnswer: string; // This should ideally be kept secret until submission
+  correctAnswer: string; 
+  aliases?: string[]; // Optional, but useful for handling typos, etc.
 }
 
 const Question: React.FC<QuestionProps> = ({ question, correctAnswer }) => {

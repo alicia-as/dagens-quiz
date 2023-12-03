@@ -1,0 +1,27 @@
+[
+    {
+      "question": "En av verdens sterkeste tidevannsstrømmer er også en av Nordlands best besøkte turistattraksjoner. Hva heter den?",
+      "answer": "Saltstraumen",
+      "aliases": ["Tidevannsstrømmen Saltstraumen", "Saltstraumen i Nordland"]
+    },
+    {
+      "question": "Hvilken turistattraksjon i Italia har samme navn som en bygning i Oslo?",
+      "answer": "Colosseum",
+      "aliases": ["Colosseum i Roma", "Colosseum kino"]
+    },
+    {
+      "question": "OBX-indeksen består av de 25 mest omsatte aksjene på Oslo Børs. En av dem har tatt navn etter en elv. Hvilken?",
+      "answer": "Orkla",
+      "aliases": ["Orkla ASA", "Elven Orkla"]
+    },
+    {
+      "question": "Et av OBX-selskapene driver en produksjon som er basert på Birkeland-Eydes metode. Hva heter det?",
+      "answer": "Yara",
+      "aliases": ["Yara International ASA", "Yara kunstgjødsel"]
+    },
+    {
+      "question": "Hvilken verdenskjent kunstner ble født i Hviterussland i 1887. Da han døde nesten 100 år senere hadde han fransk navn. Hva het han da?",
+      "answer": "Marc Chagall",
+      "aliases": ["Chagall", "Kunstneren Marc Chagall", "Kunstneren Chagall", "Mark Chagall"]
+    }
+]

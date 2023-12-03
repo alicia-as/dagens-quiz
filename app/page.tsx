@@ -5,6 +5,7 @@ import ClipboardModal from "./ClipboardModal";
 interface Question {
   question: string;
   answer: string; // Ideally, this shouldn't be on the client side
+  aliases?: string[]; // Optional, but useful for handling typos, etc.
 }
 
 const IndexPage: React.FC = () => {
@@ -36,12 +37,17 @@ const IndexPage: React.FC = () => {
     setIsSubmitted(true);
   };
 
+  const isCorrect = (index: number) => {
+    return userAnswers[index].toLowerCase() ===
+      questions[index].answer.toLowerCase()
+      || (questions[index].aliases && questions[index].aliases?.map(a => a.toLowerCase()).includes(userAnswers[index].toLowerCase()));
+  }
+
   const handleShare = () => {
     // Check answers and generate result string
     const resultString = questions
       .map((question, index) => {
-        return userAnswers[index].toLowerCase() ===
-          question.answer.toLowerCase()
+        return isCorrect(index)
           ? "🟩"
           : "🟥"; // Replace '🟥' with other emojis as needed
       })
@@ -106,14 +112,12 @@ const IndexPage: React.FC = () => {
                 </p>
                 <p
                   className={
-                    userAnswers[index].toLowerCase() ===
-                    question.answer.toLowerCase()
+                    isCorrect(index)
                       ? "text-green-200"
                       : "text-red-200"
                   }
                 >
-                  {userAnswers[index].toLowerCase() ===
-                  question.answer.toLowerCase()
+                  {isCorrect(index)
                     ? "✅ Korrekt!"
                     : `❌ Feil. Rett svar: '${question.answer}'`}
                 </p>
