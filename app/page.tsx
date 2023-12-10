@@ -37,10 +37,14 @@ const IndexPage: React.FC = () => {
     setIsSubmitted(true);
   };
 
+  const isAliasCorrect = (index: number) => {
+    return questions[index].aliases && questions[index].aliases?.map(a => a.toLowerCase()).includes(userAnswers[index].toLowerCase());
+  }
+
   const isCorrect = (index: number) => {
     return userAnswers[index].toLowerCase() ===
       questions[index].answer.toLowerCase()
-      || (questions[index].aliases && questions[index].aliases?.map(a => a.toLowerCase()).includes(userAnswers[index].toLowerCase()));
+      || isAliasCorrect(index);
   }
 
   const handleShare = () => {
@@ -118,7 +122,7 @@ const IndexPage: React.FC = () => {
                   }
                 >
                   {isCorrect(index)
-                    ? "✅ Korrekt!"
+                    ? (isAliasCorrect(index) ? `✅ Korrekt.\n${question.answer}` :  "✅ Korrekt!")
                     : `❌ Feil. Rett svar: '${question.answer}'`}
                 </p>
               </div>
