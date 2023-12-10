@@ -38,22 +38,21 @@ const IndexPage: React.FC = () => {
   };
 
   const isAliasCorrect = (index: number) => {
-    return questions[index].aliases && questions[index].aliases?.map(a => a.toLowerCase()).includes(userAnswers[index].toLowerCase());
+    const userAnswer = userAnswers[index].toLowerCase().trim();
+    return questions[index].aliases && questions[index].aliases?.map(a => a.toLowerCase()).includes(userAnswer);
   }
 
   const isCorrect = (index: number) => {
-    return userAnswers[index].toLowerCase() ===
+    return userAnswers[index].toLowerCase().trim() ===
       questions[index].answer.toLowerCase()
-      || isAliasCorrect(index);
-  }
+      || isAliasCorrect(index);  
+  };
 
   const handleShare = () => {
     // Check answers and generate result string
     const resultString = questions
       .map((question, index) => {
-        return isCorrect(index)
-          ? "🟩"
-          : "🟥"; // Replace '🟥' with other emojis as needed
+        return isCorrect(index) ? "🟩" : "🟥"; // Replace '🟥' with other emojis as needed
       })
       .join("");
 
@@ -116,9 +115,7 @@ const IndexPage: React.FC = () => {
                 </p>
                 <p
                   className={
-                    isCorrect(index)
-                      ? "text-green-200"
-                      : "text-red-200"
+                    isCorrect(index) ? "text-green-200" : "text-red-200"
                   }
                 >
                   {isCorrect(index)
