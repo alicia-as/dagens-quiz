@@ -1,0 +1,39 @@
+[
+  {
+    "question": "Hvilken norsk fotballklubb har vunnet flest seriemesterskap?",
+    "answer": "Rosenborg",
+    "aliases": ["Rosenborg BK", "Rosenborg Ballklubb", "RBK"]
+  },
+  {
+    "question": "Hvilken by er hjemsted for fotballklubben Viking FK?",
+    "answer": "Stavanger"
+  },
+  {
+    "question": "Hvem var Norges landslagstrener i fotball for menn under VM i 1998?",
+    "answer": "Egil Olsen",
+    "aliases": ["Drillo", "Drillo Olsen", "Egil Drillo Olsen"]
+  },
+  {
+    "question": "Hvilken norsk spiller ble toppscorer i Premier League i sesongen 1996-1997?",
+    "answer": "Ole Gunnar Solskjær",
+    "aliases": ["Ole Gunnar Solskjaer", "Solskjær", "Solskjaer"]
+  },
+  {
+    "question": "Hvilke to år, med 6 års mellomrom, vant Norge fotball-EM for kvinner?",
+    "answer": "1987 og 1993",
+    "aliases": [
+      "1987, 1993",
+      "1993, 1987",
+      "1987 og 93",
+      "93 og 87",
+      "87 og 93",
+      "93 og 1987",
+      "1987 og 1993",
+      "1993 og 1987",
+      "87 & 93",
+      "93 & 87",
+      "87&93",
+      "93&87"
+    ]
+  }
+]
