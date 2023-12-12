@@ -2,6 +2,11 @@
 import React, { useEffect, useState } from "react";
 import ClipboardModal from "./ClipboardModal";
 
+
+interface Data {
+  questions: Question[];
+  theme?: string;
+}
 interface Question {
   question: string;
   answer: string; // Ideally, this shouldn't be on the client side
@@ -11,6 +16,7 @@ interface Question {
 const IndexPage: React.FC = () => {
   const [isLoading, setIsLoading] = useState(true);
   const [questions, setQuestions] = useState<Question[]>([]);
+  const [theme, setTheme] = useState<string | undefined>();
   const [userAnswers, setUserAnswers] = useState<string[]>([]);
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -25,7 +31,8 @@ const IndexPage: React.FC = () => {
         return;
       }
       const data = await response.json();
-      setQuestions(data);
+      setQuestions(data.questions || data);
+      setTheme(data.theme)
       setUserAnswers(Array(data.length).fill(""));
       setIsLoading(false);
     };
@@ -59,7 +66,7 @@ const IndexPage: React.FC = () => {
     // Copy result string and link to clipboard
     navigator.clipboard
       .writeText(
-        resultString + "\nSpill dagens quiz på: https://quiz.alicia.app"
+        resultString + "\nSpill dagens quiz på: https://quiz.alicia.app." + (theme ? ` Dagens tema: ${theme}` : "")
       )
       .then(
         () => {
