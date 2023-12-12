@@ -33,14 +33,26 @@ const IndexPage: React.FC = () => {
       const data = await response.json();
       setQuestions(data.questions || data);
       setTheme(data.theme)
-      setUserAnswers(Array(data.length).fill(""));
       setIsLoading(false);
     };
 
     fetchQuestions();
   }, []);
 
+  // Retrieve answers from local storage
+  const answersKey = new Date().toLocaleDateString() + "-answers";
+  useEffect(() => {
+    const answers = localStorage.getItem(answersKey);
+    if (answers) {
+      setUserAnswers(JSON.parse(answers));
+      setIsSubmitted(true);
+    }
+  }, []);
+
   const handleSubmit = () => {
+    // Save answers to local storage
+    localStorage.setItem(answersKey, JSON.stringify(userAnswers));
+
     setIsSubmitted(true);
   };
 
