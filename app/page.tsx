@@ -2,7 +2,6 @@
 import React, { useEffect, useState } from "react";
 import ClipboardModal from "./ClipboardModal";
 
-
 interface Data {
   questions: Question[];
   theme?: string;
@@ -32,7 +31,7 @@ const IndexPage: React.FC = () => {
       }
       const data = await response.json();
       setQuestions(data.questions || data);
-      setTheme(data.theme)
+      setTheme(data.theme);
       setIsLoading(false);
     };
 
@@ -57,14 +56,18 @@ const IndexPage: React.FC = () => {
   };
 
   const isAliasCorrect = (index: number) => {
-    const userAnswer = userAnswers[index].toLowerCase().trim();
-    return questions[index].aliases && questions[index].aliases?.map(a => a.toLowerCase()).includes(userAnswer);
-  }
+    const userAnswer = userAnswers[index]?.toLowerCase().trim();
+    return (
+      questions[index].aliases &&
+      questions[index].aliases?.map((a) => a.toLowerCase()).includes(userAnswer)
+    );
+  };
 
   const isCorrect = (index: number) => {
-    return userAnswers[index].toLowerCase().trim() ===
-      questions[index].answer.toLowerCase()
-      || isAliasCorrect(index);  
+    return (
+      userAnswers[index]?.toLowerCase().trim() ===
+        questions[index].answer.toLowerCase() || isAliasCorrect(index)
+    );
   };
 
   const handleShare = () => {
@@ -78,7 +81,9 @@ const IndexPage: React.FC = () => {
     // Copy result string and link to clipboard
     navigator.clipboard
       .writeText(
-        resultString + "\nSpill dagens quiz på: https://quiz.alicia.app." + (theme ? ` Dagens tema: ${theme}` : "")
+        resultString +
+          "\nSpill dagens quiz på: https://quiz.alicia.app." +
+          (theme ? ` Dagens tema: ${theme}` : "")
       )
       .then(
         () => {
@@ -138,7 +143,9 @@ const IndexPage: React.FC = () => {
                   }
                 >
                   {isCorrect(index)
-                    ? (isAliasCorrect(index) ? `✅ Korrekt.\n${question.answer}` :  "✅ Korrekt!")
+                    ? isAliasCorrect(index)
+                      ? `✅ Korrekt.\n${question.answer}`
+                      : "✅ Korrekt!"
                     : `❌ Feil. Rett svar: '${question.answer}'`}
                 </p>
               </div>
