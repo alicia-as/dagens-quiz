@@ -103,7 +103,7 @@ const IndexPage: React.FC = () => {
   };
 
   return (
-    <div className="max-w-md mx-auto p-4 bg-slate-500">
+    <div className="max-w-md mx-auto mt-4 rounded-lg p-4 bg-slate-500">
       <ClipboardModal
         isOpen={isModalOpen}
         onClose={() => setIsModalOpen(false)}

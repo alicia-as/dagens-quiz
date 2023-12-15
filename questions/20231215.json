@@ -1,29 +1,36 @@
 {
-    "theme": "Godt & Blandet",
-    "questions": [
-        {
-            "question": "Hvilken avdød statsleder tok initiativ til opprettelsen av «Den afrikanske union»?",
-            "answer": "Muammar al-Gaddafi",
-            "aliases": ["Gaddafi", "Muammar Gaddafi", "Muammar al-Gaddafi", "Muammar al Gaddafi"]
-        }, 
-        {
-            "question": "I hvilken høytliggende hovedstad, med et navn som begynner og slutter på samme bokstav, har «Den afrikanske union» sitt hovedkvarter?",
-            "answer": "Addis Abeba",
-            "aliases": ["Addes Abiba"]
-        }, 
-        {
-            "question": "I hvilket kaukasisk land, med en nyttig kroppsdel i begynnelsen av navnet, kan man alltids betale med en «dram»?",
-            "answer": "Armenia"
-        }, 
-        {
-            "question": "Tom Cruise spiller hovedrollen i en film fra 2008 som har en norrøn dødsvette som tittel. Hvilken film?",,
-            "answer": "Valkyrie"
-        },
-        {
-            "question": "En av verdens største hotellkjeder mener de er best og har en himmelretning i navnet. Hva heter kjeden?",
-            "answer": "Best Western",
-            "aliases": ["Best Western Hotels & Resorts", "Best Western Hotels and Resorts"]
-
-        }        
-    ]
+  "theme": "Godt & Blandet",
+  "questions": [
+    {
+      "question": "Hvilken avdød statsleder tok initiativ til opprettelsen av «Den afrikanske union»?",
+      "answer": "Muammar al-Gaddafi",
+      "aliases": [
+        "Gaddafi",
+        "Muammar Gaddafi",
+        "Muammar al-Gaddafi",
+        "Muammar al Gaddafi"
+      ]
+    },
+    {
+      "question": "I hvilken høytliggende hovedstad, med et navn som begynner og slutter på samme bokstav, har «Den afrikanske union» sitt hovedkvarter?",
+      "answer": "Addis Abeba",
+      "aliases": ["Addes Abiba"]
+    },
+    {
+      "question": "I hvilket kaukasisk land, med en nyttig kroppsdel i begynnelsen av navnet, kan man alltids betale med en «dram»?",
+      "answer": "Armenia"
+    },
+    {
+      "question": "Tom Cruise spiller hovedrollen i en film fra 2008 som har en norrøn dødsvette som tittel. Hvilken film?",
+      "answer": "Valkyrie"
+    },
+    {
+      "question": "En av verdens største hotellkjeder mener de er best og har en himmelretning i navnet. Hva heter kjeden?",
+      "answer": "Best Western",
+      "aliases": [
+        "Best Western Hotels & Resorts",
+        "Best Western Hotels and Resorts"
+      ]
+    }
+  ]
 }
