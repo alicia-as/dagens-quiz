@@ -1,0 +1,41 @@
+{
+  "theme": "Elver",
+  "questions": [
+    {
+      "question": "Nilen er Afrikas desidert lengste elv. Hva heter den nest lengste, som renner ut i Atlanterhavet?",
+      "answer": "Kongo",
+      "aliases": ["Kongoelven", "Kongo-elven", "Kongofloden", "Kongo-floden"]
+    },
+    {
+      "question": "Hva heter elven i Finnmark som ligger midt i Madagaskars hovedstad?",
+      "answer": "AnTANAnarivo",
+      "aliases": ["Tana", "Tanaelva", "Tana-elva", "Tanaelven"]
+    },
+    {
+      "question": "Hvilken stor amerikansk elv (med samme navn som en delstat) renner ut i Californiabukten i Mexico?",
+      "answer": "Colorado",
+      "aliases": [
+        "Coloradoelven",
+        "Colorado-elven",
+        "Coloradoelva",
+        "Colorado-elva"
+      ]
+    },
+    {
+      "question": "Hva heter Italias tredje lengste elv som har sitt utspring i Appenninene og bl.a. renner gjennom Roma? Et norsk strømselskap har nesten samme navn.",
+      "answer": "Tiber",
+      "aliases": [
+        "Tiberen",
+        "Tiber-elven",
+        "Tiberelven",
+        "Tiber-elva",
+        "Tibber"
+      ]
+    },
+    {
+      "question": "I hvilken by med samme navn som en elv ble Nordlyskatedralen åpnet den 10. februar?",
+      "answer": "Alta",
+      "aliases": ["Altaelva", "Alta-elva", "Altaelven", "Alta-elven"]
+    }
+  ]
+}
