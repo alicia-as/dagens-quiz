@@ -4,7 +4,14 @@
     {
       "question": "Nilen er Afrikas desidert lengste elv. Hva heter den nest lengste, som renner ut i Atlanterhavet?",
       "answer": "Kongo",
-      "aliases": ["Kongoelven", "Kongo-elven", "Kongofloden", "Kongo-floden"]
+      "aliases": [
+        "Kongoelven",
+        "Kongo-elven",
+        "Kongofloden",
+        "Kongo-floden",
+        "Kongoelva",
+        "Kongo-elva"
+      ]
     },
     {
       "question": "Hva heter elven i Finnmark som ligger midt i Madagaskars hovedstad?",
