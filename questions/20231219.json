@@ -1,0 +1,30 @@
+{
+  "theme": "Godt & Blandet (repeat)",
+  "questions": [
+    {
+      "question": "Filmene «Tom Jones» (1963) og «Annie Hall» (1977) har begge vunnet Oscar for beste film. Etter de to er det kun en film der tittelen også er hele navnet på hovedrollekarakteren. Hvilken film?",
+      "answer": "Forrest Gump",
+      "aliases": ["Forrest Gump", "Gump", "Forrest"]
+    },
+    {
+      "question": "Hvilken tegneseriefigur har samme navn som en Oscar-vinner fra 1976?",
+      "answer": "Rocky",
+      "aliases": ["Rocky", "Rocky Balboa"]
+    },
+    {
+      "question": "Hva het han til fornavn, broren til David Attenborough, som regisserte filmen «Gandhi» i 1982?",
+      "answer": "Richard",
+      "aliases": ["Richard", "Richard Attenborough"]
+    },
+    {
+      "question": "Han ble født i Østerrike-Ungarn og har gitt navn til «Schindlers liste». Fornavnet har du lest flere ganger i dag. Hva het han?",
+      "answer": "Oskar",
+      "aliases": ["Oscar", "Oskar Schindler", "Schindler"]
+    },
+    {
+      "question": "Vi må tilbake til 2002 for å finne en Oscarvinner som har en by som tittel og intet annet. Hvilken film?",
+      "answer": "Chicago",
+      "aliases": ["Chicago"]
+    }
+  ]
+}
