@@ -3,22 +3,44 @@
   "questions": [
     {
       "question": "Hva heter hovedstaden i Canada?",
-      "answer": "Ottawa"            
+      "answer": "Ottawa"
     },
     {
       "question": "To hovedsteder i Sør-Amerika (ikke Panama) har et navn der bokstaven 'A' er med tre ganger. Kan du nevne minst en av dem??",
       "answer": "Caracas, Venezuela og Paramaribo, Surinam.",
-      "aliases": ["Caracas, Paramaribo", "Paramaribo, Caracas", "Caracas Paramaribo", "Paramaribo Caracas", "Caracas og Paramaribo", "Paramaribo og Caracas", "Paramaribo & Caracas", "Caracas & Paramaribo", "Caracas, Paramaribo", "Paramaribo, Caracas", "Paramaribo & Caracas", "Caracas & Paramaribo", "Caracas", "Paramaribo"]
+      "aliases": [
+        "Caracas, Paramaribo",
+        "Paramaribo, Caracas",
+        "Caracas Paramaribo",
+        "Paramaribo Caracas",
+        "Caracas og Paramaribo",
+        "Paramaribo og Caracas",
+        "Paramaribo & Caracas",
+        "Caracas & Paramaribo",
+        "Caracas, Paramaribo",
+        "Paramaribo, Caracas",
+        "Paramaribo & Caracas",
+        "Caracas & Paramaribo",
+        "Caracas",
+        "Paramaribo"
+      ]
     },
     {
-      "question": "Hvilken europeisk hovedstad har samme navn som dronningen av Spania?",
+      "question": "Hvilken europeisk hovedstad har samme navn som den tidligere dronningen av Spania?",
       "answer": "Sofia, Bulgaria",
       "aliases": ["Sofia", "Sofia, Bulgaria", "Bulgaria"]
     },
     {
       "question": "Til hvilket land, hvis hovedstad har samme navn, grenser Costa Rica i sør?",
       "answer": "Panama",
-      "aliases": ["Panama", "Panama City", "Panama city", "Panama by", "Panama By", "Panama byen"]
+      "aliases": [
+        "Panama",
+        "Panama City",
+        "Panama city",
+        "Panama by",
+        "Panama By",
+        "Panama byen"
+      ]
     },
     {
       "question": "Hvilken hovedstad er den nordligste i verden?",
