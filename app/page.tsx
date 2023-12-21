@@ -110,7 +110,12 @@ const IndexPage: React.FC = () => {
       >
         <p>Resultatene er kopiert til din utklippstavle!</p>
       </ClipboardModal>
-      <h1 className="text-2xl font-bold text-center mb-4">Dagens Quiz</h1>
+      <h1 className="text-2xl font-bold text-center m2-4">Dagens Quiz</h1>
+      {theme && (
+        <p className="text-center text-gray-200 text-sm my-2">
+          <span className="font-semibold">Tema:</span> {theme}
+        </p>
+      )}
       <form
         onSubmit={(e) => {
           e.preventDefault();
