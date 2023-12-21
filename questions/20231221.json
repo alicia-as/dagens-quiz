@@ -1,0 +1,25 @@
+{
+  "theme": "Hovedsteder",
+  "questions": [
+    {
+      "question": "To hovedsteder i Sør-Amerika (ikke Panama) har et navn der bokstaven 'A' er med tre ganger. Kan du nevne minst en av dem??",
+      "answer": "Caracas, Venezuela og Paramaribo, Surinam.",
+      "aliases": [
+        "Caracas, Paramaribo",
+        "Paramaribo, Caracas",
+        "Caracas Paramaribo",
+        "Paramaribo Caracas",
+        "Caracas og Paramaribo",
+        "Paramaribo og Caracas",
+        "Paramaribo & Caracas",
+        "Caracas & Paramaribo",
+        "Caracas, Paramaribo",
+        "Paramaribo, Caracas",
+        "Paramaribo & Caracas",
+        "Caracas & Paramaribo",
+        "Caracas",
+        "Paramaribo"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "theme": "Parlez-vous français?",
+  "questions": [
+    {
+      "question": "I hvilken fransk by holdt Philippe Pétains regjering til under andre verdenskrig?",
+      "answer": "Vichy",
+      "aliases": ["Vichy-regimet", "Vichyregimet"]
+    },
+    {
+      "question": "Med en kort oppfordring, hva heter bevegelsen som ble stiftet av Frankrikes kommende president, Emmanuel Macron i 2016?",
+      "answer": "En Marche",
+      "aliases": ["En Marche!", "En Marche", "En Marche !", "Marche", "Marche!"]
+    },
+    {
+      "question": "'Gallia est omnis divisa in partes tres', er de første ordene i De Bello Gallico, skrevet av hvem?",
+      "answer": "Julius Cæsar",
+      "aliases": [
+        "Julius Caesar",
+        "Julius Cæsar",
+        "Julius Caesar",
+        "Cæsar",
+        "Caesar"
+      ]
+    },
+    {
+      "question": "Når vi sier Poulet på fransk, hva tenker vi på da?",
+      "answer": "Kylling",
+      "aliases": ["Høne", "kyllinger", "kyling"]
+    },
+    {
+      "question": "Hva er navnet på den franske nasjonalsangen?",
+      "answer": "La Marseillaise",
+      "aliases": [
+        "Marseillaise",
+        "Marseillaisen",
+        "Marseillaisen",
+        "Marseilaissen",
+        "Marseilansen",
+        "marseille",
+        "marseilles",
+        "marseillaise"
+      ]
+    }
+  ]
+}
