@@ -1,0 +1,29 @@
+{
+  "theme": "Drøbak",
+  "questions": [
+    {
+      "question": "Hvilken historisk viktig del av Oslofjorden danner skillet mellom Indre og Ytre Oslofjord?",
+      "answer": "Drøbaksundet"
+    },
+    {
+      "question": "«Visst fanden skal der skytes med skarpt!» Hva het øverstkommanderende på Oscarsborg som reagerte med disse ord da Blücher ble oppdaget den 9. april 1940?",
+      "answer": "Birger Eriksen",
+      "aliases": ["Eriksen", "Birger", "Oberst Eriksen"]
+    },
+    {
+      "question": "Hva slags kulturell, årlig tradisjon og nasjonal happening startet i Drøbak i 1973?",
+      "answer": "Den norske filmfestivalen",
+      "aliases": ["Filmfestivalen", "Filmfestival"]
+    },
+    {
+      "question": "Hva het den tidligere kommunen på vestsiden av Drøbak-sundet som tidligere ble utsatt for mye politisk tåkeprat?",
+      "answer": "Hurum",
+      "aliases": ["Hurum kommune"]
+    },
+    {
+      "question": "Hva het skipet som ble senket i Drøbaksundet den 9. april 1940?",
+      "answer": "Blücher",
+      "aliases": ["Blucher"]
+    }
+  ]
+}
