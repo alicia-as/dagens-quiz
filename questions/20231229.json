@@ -1,0 +1,30 @@
+{
+  "theme": "Fugl & Fisk",
+  "questions": [
+    {
+      "question": "Erithacus Rubecula er Englands nasjonalfugl. Den er også identisk med tittelen på en roman av Jo Nesbø. Hvilken fugl?",
+      "answer": "Rødstrupe",
+      "aliases": ["Rødstrupe", "Rødstrupa", "Rødstrupen"]
+    },
+    {
+      "question": "Hvilket radioprogram, med en ferskvannsfisk i navnet, fikk stor suksess etter andre verdenskrig og ble relansert på 2000-tallet med Knut Borge som programleder?",
+      "answer": "SpØRRETimen",
+      "aliases": ["Spørretimen", "Spørretime", "Spørretimene"]
+    },
+    {
+      "question": "Hva heter fylkesfuglen i Finnmark, en betegnelse som av enkelte også brukes om kvinner?",
+      "answer": "Rype",
+      "aliases": ["Rypen", "Rypa", "Rypene"]
+    },
+    {
+      "question": "Hvilken fisk, som er torskens favorittmat, har et navn som også betegnelsen på en prosess der man forbinder metaller?",
+      "answer": "Lodde",
+      "aliases": ["Lodda", "Loddene", "Loddas", "Lodder"]
+    },
+    {
+      "question": "Hvilken hønsefugl ble satt ut i norsk fauna på 1800-tallet, og har gitt navn til både en Aukrust-figur og et mildt banneord?",
+      "answer": "Fasanen (Fy fasan og Ben Redic Fy Fazan)",
+      "aliases": ["Fasan", "Fasanen", "Fasanene", "Fasaner"]
+    }
+  ]
+}
