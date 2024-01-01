@@ -1,0 +1,29 @@
+{
+  "theme": "Monopol (Reprise)",
+  "questions": [
+    {
+      "question": "Hva heter gaten bak Slottet i Oslo som har fått en heller beskjeden plass på Monopolbrettet?",
+      "answer": "Parkveien"
+    },
+    {
+      "question": "Hvilken gate ligger mellom Grensen og Ringgata på Monopolbrettet?",
+      "answer": "Gabels gate",
+      "aliases": ["Gabelsgate", "Gabel gate", "gabelgata"]
+    },
+    {
+      "question": "Sirhan B. Sirhan har siden juni 1968 hatt et tilholdssted som også finnes på Monopolbrettet. Hvilket?",
+      "answer": "Fengsel",
+      "aliases": ["fengselet", "prison", "jail"]
+    },
+    {
+      "question": "Hvilket lag i Obos-ligaen har samme navn som et av feltene på Monopolbrettet?",
+      "answer": "Start",
+      "aliases": ["IK Start", "Start Fotball"]
+    },
+    {
+      "question": "Hvor mange gater på Monopolbrettet er oppkalt etter svensker?",
+      "answer": "2. Karl Johans gate og Nobels gate",
+      "aliases": ["to", "2"]
+    }
+  ]
+}
