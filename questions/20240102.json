@@ -1,0 +1,34 @@
+{
+  "theme": "Godt Nyttår (reprise)",
+  "questions": [
+    {
+      "question": "Hvilket fotballag blir det eneste fra Oslo å se i Eliteserien i år?",
+      "answer": "KFUM",
+      "aliases": [
+        "kfum oslo",
+        "kfum oslo fotball",
+        "Kristelig Forening for Unge Menn"
+      ]
+    },
+    {
+      "question": "Hvilken forbokstav er mest vanlig på Hovedsteder i Afrika?",
+      "answer": "Asmara, Addis Abeba, Antananarivo, Alger, Accra, Abuja",
+      "aliases": ["a", "A"]
+    },
+    {
+      "question": "Hvilket navn fikk han, den nedfryste steinaldermannen som i 1991 ble funnet i de tyrolske alper?",
+      "answer": "Karbon 14 metoden avslørte at han hadde ligget i isbreen i 5300 år.",
+      "aliases": ["ötzi", "otzi", "øtzi", "øtsi"]
+    },
+    {
+      "question": "Scrabble har vært blant de mest populære spillene siden det ble klekket ut i 1938. Husker du hvor mange ruter brettet inneholder?",
+      "answer": "Brettet har 15x15 ruter.",
+      "aliases": ["225", "tohundreogtjuefem"]
+    },
+    {
+      "question": "Hvem spilte den kvinnelige hovedrollen I Titanic? (1997)",
+      "answer": "Kate Winslet",
+      "aliases": ["kate winslet", "winslet", "kate"]
+    }
+  ]
+}
