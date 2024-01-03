@@ -1,0 +1,29 @@
+{
+  "theme": "Afrika - revisit",
+  "questions": [
+    {
+      "question": "Hvilket afrikansk land med lang kystlinje er mer enn dobbelt så stort som Norge, men har bare snaue to millioner innbyggere (landet grenser til Botswana)?",
+      "answer": "Namibia"
+    },
+    {
+      "question": "Hvilket afrikansk land har datteren til Obama gjemt i navnet sitt?",
+      "answer": "Mali. Hun heter Malia",
+      "aliases": ["Mali", "Malia", "Mali(a)"]
+    },
+    {
+      "question": "Hvilket afrikansk land har et navn som blir til et helt vanlig norsk jentenavn dersom du stokker om på de to første bokstavene?",
+      "answer": "Niger/Inger.",
+      "aliases": ["Niger", "Inger"]
+    },
+    {
+      "question": "Hvilket afrikansk land har en europeisk halvøy i navnet?",
+      "answer": "L(iberia)",
+      "aliases": ["Liberia", "Iberia"]
+    },
+    {
+      "question": "I hvilket afrikansk land, som har slukt sin egen hovedstad, ligger Ahaggar-fjellene?",
+      "answer": "Alger(ie)",
+      "aliases": ["Alger", "Algerie", "Algeri", "Algeria"]
+    }
+  ]
+}
