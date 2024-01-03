@@ -1,0 +1,38 @@
+{
+  "theme": "Velkommen til 2024",
+  "questions": [
+    {
+      "question": "OL returnerer til Paris i 2024, for tredje gang. Første gang var i 1900. Når var andre gang?",
+      "answer": "1924"
+    },
+    {
+      "question": "EM i fotball arrangeres også i 2024. Hvor da?",
+      "answer": "Tyskland"
+    },
+    {
+      "question": "1. januar ble Egypt, Ethiopia, Iran, Saudi Arabia og UAE medlem av en organisasjon (som nå kanskje bør skifte navn). Hvilken?",
+      "answer": "BRICS",
+      "aliases": ["Brazil, Russia, India, China, South Africa", "BRIKS"]
+    },
+    {
+      "question": "Hvilket europeisk land kommer garantert til å bytte monark i 2024?",
+      "answer": "Danmark. Margrethe II annonserte i sin nyttårstale av hun vil gå av 12. januar.",
+      "aliases": ["Danmark"]
+    },
+    {
+      "question": "USA har presidentvalg i 2024. På hvilken dato?",
+      "answer": "5. november",
+      "aliases": [
+        "5.11",
+        "5.11.2024",
+        "05.11.24",
+        "femte november",
+        "femte november 2024",
+        "5. november 2024",
+        "5.nov",
+        "5.november",
+        "5.november 2024"
+      ]
+    }
+  ]
+}
