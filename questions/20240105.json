@@ -1,0 +1,41 @@
+{
+  "theme": "Rød",
+  "questions": [
+    {
+      "question": "Manfred von Richthofen hadde skutt ned 80 av fiendens fly da han selv ble skutt ned og drept i 1918. Under hvilket navn er han bedre kjent?",
+      "answer": "Den røde baron",
+      "aliases": [
+        "Den røde baron",
+        "Den røde baronen",
+        "Røde baron",
+        "Rød baron",
+        "Rød Baronen"
+      ]
+    },
+    {
+      "question": "Hvilken amerikansk delstatshovedstad har et navn som betyr noe sånt som «rød stokk»?",
+      "answer": "Baton Rouge, Louisiana",
+      "aliases": [
+        "Baton Rouge",
+        "Baton roug",
+        "Louisiana",
+        "Baton Rouge, Louisiana"
+      ]
+    },
+    {
+      "question": "Hvilken populær amerikansk jule- og eventyrsang fra 1949 ble senere oversatt av Arne Bendiksen og Egil Hagen?",
+      "answer": "Rudolf er rød på nesen",
+      "aliases": ["Rudolf er rød på nesen", "Rudolf er rød på nesa", "rudolf"]
+    },
+    {
+      "question": "Hvor mange striper i det amerikanske flagget er røde?",
+      "answer": "7",
+      "aliases": ["7", "syv"]
+    },
+    {
+      "question": "Hvilken film fra 1999 som vant fem Oscars har hundrevis av røde roser på filmplakaten?",
+      "answer": "American Beauty",
+      "aliases": ["American Beauty", "American beauty"]
+    }
+  ]
+}
