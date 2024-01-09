@@ -1,0 +1,28 @@
+{
+  "theme": "Söta bror",
+  "questions": [
+    {
+      "question": "Hvilken svenske har strøket med i filmene «Exorcisten», «Minority Report» og i tv-serien «Game of Thrones», før han selv strøk med i 2020?",
+      "answer": "Max von Sydow",
+      "aliases": ["von Sydow", "Max von Sydow", "Max", "Sydow"]
+    },
+    {
+      "question": "I det gamle Rom het det «Via Lactea». I Sverige heter det Vintergatan. Hvilket relativt stort område er det snakk om?",
+      "answer": "Melkeveien"
+    },
+    {
+      "question": "Hvilken svensk tegneseriefigur har samme navn som en hardtslående amerikansk filmfigur?",
+      "answer": "Rocky"
+    },
+    {
+      "question": "Västerås vant Superettan i Sverige i fjor, men hva heter det øverste nivået i herrenes fotball hos «Söta bror»?",
+      "answer": "Allsvenskan",
+      "aliases": ["Allsvenskan", "Allsvenska", "Allsvenskan", "Allsvenskan"]
+    },
+    {
+      "question": "Hva er Sveriges tredje største by?",
+      "answer": "Malmö",
+      "aliases": ["Malmö", "Malmø", "Malmoe"]
+    }
+  ]
+}
