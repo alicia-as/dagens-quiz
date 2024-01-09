@@ -1,0 +1,36 @@
+{
+  "theme": "Monopol",
+  "questions": [
+    {
+      "question": "Dersom du står på «Gratis parkering» og får terningkast 10 havner du i fengsel. Hvilke gater havner du på dersom du kaster 9?",
+      "answer": "Torggata",
+      "aliases": ["torget", "torggata", "torgata", "torggaten", "torgaten"]
+    },
+    {
+      "question": "Oslo S, Skøyen stasjon og Grorud stasjon er tre av de fire stasjonene på Monpolbrettet. Hvilken stasjon er den fjerde?",
+      "answer": "Bryn stasjon",
+      "aliases": ["Bryn", "Bryn stasjon"]
+    },
+    {
+      "question": "Hvor mange felter kan man bygge på i Monopol?",
+      "answer": "22",
+      "aliases": ["tjue to", "22", "tjue to felter", "22 felter"]
+    },
+    {
+      "question": "Hvilken gamblingby i New Jersey danner grunnlag for det originale Monopolbrettet?",
+      "answer": "Atlantic City",
+      "aliases": ["Atlantic City", "Atlantic", "Atlantic city"]
+    },
+    {
+      "question": "Hvilket felt på Monopolbrettet kommer før Bygdøy allé? På Bygdøy allé er feltets navn ikke tilfellet",
+      "answer": "Gratis parkering",
+      "aliases": [
+        "Gratis parkering",
+        "gratis parkering",
+        "parkering",
+        "parkeringen",
+        "parkeringa"
+      ]
+    }
+  ]
+}
