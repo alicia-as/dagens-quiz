@@ -1,0 +1,28 @@
+{
+  "theme": "Øy!",
+  "questions": [
+    {
+      "question": "Øyene Sumatra og Java er en del av en øygruppe med samme navn som et klissete pålegg. Hva heter øygruppen?",
+      "answer": "Sundaøyene",
+      "aliases": ["Sunda", "Sundaøy"]
+    },
+    {
+      "question": "Hvilket grenseløst EU-land er mindre enn samtlige av Finnmarks kommuner, men har likevel mer enn fem ganger så mange innbyggere som fylket til sammen?",
+      "answer": "Malta"
+    },
+    {
+      "question": "Hvilken liten øy midt mellom Korsika og det italienske fastlandet har på tross av at den er ubebodd allikevel vært verdenskjent siden 1844?",
+      "answer": "Montecristo",
+      "aliases": ["Monte cristo", "Cristo"]
+    },
+    {
+      "question": "Hva heter den tredje største øya i det Karibiske hav etter Cuba og Hispaniola?",
+      "answer": "Jamaica"
+    },
+    {
+      "question": "Hvilken øy blir til et arabaisk land dersom du legger på en forbokstav og til en bok dersom du legger på en bokstav foran der igjen?",
+      "answer": "Man. Oman, Roman",
+      "aliases": ["Oman"]
+    }
+  ]
+}
