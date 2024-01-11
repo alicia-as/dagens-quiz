@@ -1,0 +1,48 @@
+{
+  "theme": "Melodi Grand Prix",
+  "questions": [
+    {
+      "question": "Hvor mange gang har Norge vunnet Eurovision Song Contest?",
+      "answer": "3 ganger. 1985 (Bobbysocks), 1995 (Secret Garden) og 2009 (Alexander Rybak)",
+      "aliases": ["3", "tre"]
+    },
+    {
+      "question": "Hvor skal finalen i Eurovision Song Contest 2024 arrangeres?",
+      "answer": "Malmö, Sverige",
+      "aliases": [
+        "Malmö",
+        "Sverige",
+        "Malmø",
+        "Malmo",
+        "Malmo, Sverige",
+        "Malmø, Sverige"
+      ]
+    },
+    {
+      "question": "Marcus & Martinus har blitt voksne. Hva var tittelen på deres vinnerlåt i «MGP Jr. 2012», som beskriver tvillingene med tre ord?",
+      "answer": "To dråper vann",
+      "aliases": ["dråper vann"]
+    },
+    {
+      "question": "Hvilken artist, med samme navn som en stor elv, vant Eurovision Song Contest i 2011 med låten Satellite»?",
+      "answer": "Lena",
+      "aliases": ["lena"]
+    },
+    {
+      "question": "Hva heter de to programlederne i årets utgave av Melodi Grand Prix?",
+      "answer": "Marion Ravn og Fredrik Solvang",
+      "aliases": [
+        "Marion Ravn",
+        "Fredrik Solvang",
+        "Fredrik Solvang og Marion Ravn",
+        "Fredrik og Marion",
+        "Marion og Fredrik",
+        "Marion Ravn & Fredrik Solvang",
+        "Fredrik Solvang & Marion Ravn",
+        "Fredrik og Marion Ravn",
+        "Marion Ravn og Fredrik",
+        "Marion og Fredrik Solvang"
+      ]
+    }
+  ]
+}
