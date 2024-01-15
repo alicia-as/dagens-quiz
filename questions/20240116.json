@@ -1,0 +1,41 @@
+{
+  "theme": "Svaret begynner å 'M'!",
+  "questions": [
+    {
+      "question": "Hvilket karismatisk statsleder sørget, sammen med pave Pius XI, for at Vatikanstaten ble opprettet i 1929?",
+      "answer": "Mussolini",
+      "aliases": [
+        "Benito Mussolini",
+        "Il Duce",
+        "Musolini",
+        "Benito Amilcare Andrea Mussolini",
+        "Benito Musolini"
+      ]
+    },
+    {
+      "question": "Hvem er hovedperson i den klassiske filmen Steamboat Willie fra 1928, som nylig har entret det offentlige domenet?",
+      "answer": "Mikke Mus",
+      "aliases": ["Mickey Mouse", "Mickey", "Mikke"]
+    },
+    {
+      "question": "Hvilken menneskerettighetsforkjemper ble skutt i april 1968?",
+      "answer": "Martin Luther King",
+      "aliases": ["MLK", "Martin King"]
+    },
+    {
+      "question": "Og denne ovennevnte personen ble skutt i hvilken amerikansk by?",
+      "answer": "Memphis",
+      "aliases": [
+        "Memphis, Tennessee",
+        "Memphis Tennessee",
+        "Memphis, TN",
+        "Memphis TN",
+        "Memfis"
+      ]
+    },
+    {
+      "question": "Et skytevåpen, en vinflaske og en fiktiv privatdetektiv. Hvilken betegnelse?",
+      "answer": "Magnum"
+    }
+  ]
+}
