@@ -20,7 +20,13 @@
     {
       "question": "Hvilken menneskerettighetsforkjemper ble skutt i april 1968?",
       "answer": "Martin Luther King",
-      "aliases": ["MLK", "Martin King"]
+      "aliases": [
+        "MLK",
+        "Martin King",
+        "Martin Luther King Jr.",
+        "Martin Luther King Jr",
+        "Martin"
+      ]
     },
     {
       "question": "Og denne ovennevnte personen ble skutt i hvilken amerikansk by?",
