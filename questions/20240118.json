@@ -1,0 +1,37 @@
+{
+  "theme": "Gøy med bokstaver",
+  "questions": [
+    {
+      "question": "Hva slags type klesplagg, brukt av mange helter, blir til en meget dyr delikatesse dersom du putter inn en bokstav (r)?",
+      "answer": "tøfler (trøfler)",
+      "aliases": [
+        "tøffler",
+        "tøffel",
+        "tøfler",
+        "tøffelen",
+        "tøfflene",
+        "trøflene"
+      ]
+    },
+    {
+      "question": "Hvilket av FNs medlemsland har et navn som blir til et av de vanligste norske kvinnenavnene dersom du staver landets navn baklengs?",
+      "answer": "Irak (Kari)",
+      "aliases": ["Irak", "Kari"]
+    },
+    {
+      "question": "Hvilket land blir til en stor halvøy dersom du tar vekk forbokstaven og til en tidligere sjef for det sovjetiske sikkerhetspolitiet (henrettet 1953) dersom du tar vekk neste bokstav?",
+      "answer": "Liberia (Iberia, Beria)",
+      "aliases": ["Liberia", "Iberia", "Beria"]
+    },
+    {
+      "question": "Hvilken kommune i Rogaland har samme navn som et internasjonalt nyhetsmagasin?",
+      "answer": "Time",
+      "aliases": ["Time kommune", "Nattsvermere"]
+    },
+    {
+      "question": "Hvilket norsk fylke blir til en liten leilighet dersom du setter inn bokstaven ”O”?",
+      "answer": "Troms (toroms)",
+      "aliases": ["Troms", "toroms"]
+    }
+  ]
+}
