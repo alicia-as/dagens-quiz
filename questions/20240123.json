@@ -1,0 +1,47 @@
+{
+  "theme": "Svenske tilstander",
+  "questions": [
+    {
+      "question": "Hvilken svenske født i 1707 kalte seg for Carolus Linnaeus?",
+      "answer": "Carl von Linné",
+      "aliases": [
+        "Carl von Linne",
+        "Carl Linnaeus",
+        "Carl Linné",
+        "Carl von Linnaeus",
+        "Carl Linneaus",
+        "Carl Linne"
+      ]
+    },
+    {
+      "question": "Vi nordmenn er politisk bevisste, så vi husker vel navnet på Sveriges statsminister?",
+      "answer": "Ulf Kristersson",
+      "aliases": ["Ulf", "Kristersson", "Ulf Kristerson"]
+    },
+    {
+      "question": "Hva heter Sveriges største flyplass?",
+      "answer": "Stockholm-Arlanda",
+      "aliases": [
+        "Arlanda",
+        "Arlanda, Stockholm",
+        "Stockholm Arlanda",
+        "Stockholm-Arlanda",
+        "Stockholm Arlanda Airport"
+      ]
+    },
+    {
+      "question": "Thomas Wassberg, Björn Borg og Ingemar Stenmark var alle medlemmer av den svenske, gyldne årgangen. De ble født året før Laika ble verdensberømt, hvilket?",
+      "answer": "1956"
+    },
+    {
+      "question": "Hva heter den svenske skuespillerveteranen som var Sylvester Stallones motstander i Rocky IV (1985)?",
+      "answer": "Dolph Lundgren",
+      "aliases": [
+        "Dolph Lundgren",
+        "Hans Lundgren",
+        "Hans Dolph Lundgren",
+        "Lundgren"
+      ]
+    }
+  ]
+}
