@@ -1,0 +1,30 @@
+{
+  "theme": "Amerikanske presidenter",
+  "questions": [
+    {
+      "question": "Hvilken amerikansk president, som gikk av i 1953 hadde en kone som het Bess?",
+      "answer": "Harry S Truman",
+      "aliases": ["Harry Truman", "Truman", "Harry S. Truman"]
+    },
+    {
+      "question": "Sett bort fra dagens og forrige president, hvem er den eldste som har innehatt embetet?",
+      "answer": "Ronald Reagan",
+      "aliases": ["Reagan"]
+    },
+    {
+      "question": "Hvilken amerikansk president etablerte US Secret Service i 1865 uten selv å dra nytte av deres tjenester?",
+      "answer": "Abraham Lincoln, som ble skutt rett etter at han undertegnet papirene.",
+      "aliases": ["Lincoln", "Abraham Lincoln"]
+    },
+    {
+      "question": "Hvilken amerikansk skuespiller og regissør, født i 1930, har vunnet Oscar fem ganger og ble født med et fornavn som kan minne deg om en tidligere amerikansk president?",
+      "answer": "Clinton 'Clint Eastwood",
+      "aliases": ["Clint Eastwood", "Bill Clinton", "Eastwood", "Clinton"]
+    },
+    {
+      "question": "En amerikansk president (1921-1923) hadde et etternavn som i beste fall kan få deg til å tenke på et instrument og et landskap i Hordaland. Hvilken president?",
+      "answer": "Warren G. Harding",
+      "aliases": ["Harding", "Warren Harding"]
+    }
+  ]
+}
