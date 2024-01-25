@@ -1,0 +1,28 @@
+{
+  "theme": "Svaret starter på 'v'.",
+  "questions": [
+    {
+      "question": "Hva er det noe misvisende navnet på sydspissen av øya Tjøme?",
+      "answer": "Verdens Ende"
+    },
+    {
+      "question": "Hvilken prosess, som ble utviklet av Charles Goodyear i 1839, omdanner kautsjuk til et mer elastisk materiale? ",
+      "answer": "Vulkanisering",
+      "aliases": ["vulkan"]
+    },
+    {
+      "question": "Flyplasser har gjerne et tillegg i navnet som for eksempel Bergen Lufthavn, Flesland. Hva heter i så fall Trondheim Lufthavn?",
+      "answer": "Værnes",
+      "aliases": ["vaernes", "Trondheim Lufthavn Værnes"]
+    },
+    {
+      "question": "Hva heter Sveriges største innsjø, som er mer enn 15 ganger større enn Mjøsa?",
+      "answer": "Vänern",
+      "aliases": ["vanern"]
+    },
+    {
+      "question": "Hovedstaden på Seychellene har samme navn som en romantittel av Knut Hamsun fra 1898. Hva heter de to?",
+      "answer": "Victoria"
+    }
+  ]
+}
