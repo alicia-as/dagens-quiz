@@ -1,0 +1,35 @@
+{
+  "theme": "Det er Fredag!",
+  "questions": [
+    {
+      "question": "Hvilket møte finner sted hver fredag klokken 11.00 på slottet?",
+      "answer": "Statsråd",
+      "aliases": ["statsraad", "statsrådet", "statsrådsmøte", "statsrådsmøtet"]
+    },
+    {
+      "question": "Hvilken jødisk høytid begynner ved solnedgang på fredag og varer til solnedgang på lørdag?",
+      "answer": "Sabbat",
+      "aliases": ["sabbaten"]
+    },
+    {
+      "question": "'Det e fredag, så ka skjer da?' synger hvilken artist?",
+      "answer": "Kjartan Lauritzen",
+      "aliases": ["kjartan", "lauritzen"]
+    },
+    {
+      "question": "Hvilket fredagsmagasin som kom med første utgave i 1926, ble lagt ned i 1993, men gjenopplivet i 2005?",
+      "answer": "A-magasinet",
+      "aliases": ["a-magasinet", "a magasinet", "a", "aftenposten"]
+    },
+    {
+      "question": "Hva kalles avtalen som ble inngått i 1998, oppkalt etter en helligdag, som utgjør grunnlaget for fredsprosessen i Nord-Irland?",
+      "answer": "Langfredagsavtalen",
+      "aliases": [
+        "langfredagsavtalen",
+        "langfredagsavtala",
+        "fredagsavtalen",
+        "fredagsavtala"
+      ]
+    }
+  ]
+}
