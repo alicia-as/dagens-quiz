@@ -1,0 +1,30 @@
+{
+  "theme": "På fylla!",
+  "questions": [
+    {
+      "question": "Hva slags produkter kan fåes i størrelsene Balthazar, Salmanazar, Methusalem og Jéroboam?",
+      "answer": "Champagne",
+      "aliases": ["sjampanja"]
+    },
+    {
+      "question": "Hvilken bar ble åpnet i 1933 i Key West, Florida og ble verdenskjent etter at Ernest Hemingway ble stamgjest der?",
+      "answer": "Sloppy Joe's",
+      "aliases": ["sloppy joes"]
+    },
+    {
+      "question": "Hvilket irsk ølmerke har en harpe som logo?",
+      "answer": "Guinness",
+      "aliases": ["guiness", "guinnes"]
+    },
+    {
+      "question": "Kjøpmannen i Hamsuns roman «Pan» har, kanskje ikke uten grunn, samme navn om et norsk bryggeri. Hva heter bryggeriet, som også er et lite dyr?",
+      "answer": "Mack",
+      "aliases": ["mack ølbryggeri", "mack øl", "mack bryggeri", "mack brygg"]
+    },
+    {
+      "question": "En gammel russisk sang har samme navn som et av de mest solgte vodkamerkene på Vinmonopolet. Hva heter den?",
+      "answer": "Kalinka",
+      "aliases": ["kalinka vodka"]
+    }
+  ]
+}
