@@ -1,0 +1,26 @@
+{
+  "theme": "Norske TV-serier",
+  "questions": [
+    {
+      "question": "Hva heter søsteren til Roy Narvestad i TV-serien Borettslaget?",
+      "answer": "Ruth"
+    },
+    {
+      "question": "«Bedre med to reparatører enn ingen reparatører». Hvilken barne-TV-serie?",
+      "answer": "Pompel og Pilt",
+      "aliases": ["pompel", "pilt", "pompel & pilt", "pompel og pilt"]
+    },
+    {
+      "question": "I hvilken TV-serie spiller Charlotte Frogner den hundegalde Celine?",
+      "answer": "Side om side"
+    },
+    {
+      "question": "I hvilken serie, som gikk på TVNorge til 2022, møter vi en braut av skuespillere som spiller seg selv?",
+      "answer": "Helt perfekt"
+    },
+    {
+      "question": "Hvor mange episoder av Hotel Cæsar ble det laget? 1231, 2312 eller 3123?",
+      "answer": "3123"
+    }
+  ]
+}
