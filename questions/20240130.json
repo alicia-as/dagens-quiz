@@ -2,9 +2,15 @@
   "theme": "På fylla!",
   "questions": [
     {
-      "question": "Hva slags produkter kan fåes i størrelsene Balthazar, Salmanazar, Methusalem og Jéroboam?",
+      "question": "Hva slags type drikk kan fåes i størrelsene Balthazar, Salmanazar, Methusalem og Jéroboam?",
       "answer": "Champagne",
-      "aliases": ["sjampanja"]
+      "aliases": [
+        "sjampanje",
+        "champagneflasker",
+        "sjampanjeflasker",
+        "sjampanjeflaskene",
+        "champagneflaskene"
+      ]
     },
     {
       "question": "Hvilken bar ble åpnet i 1933 i Key West, Florida og ble verdenskjent etter at Ernest Hemingway ble stamgjest der?",
