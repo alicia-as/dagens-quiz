@@ -1,0 +1,42 @@
+{
+  "theme": "Med en bokstav i manko",
+  "questions": [
+    {
+      "question": "Hvilken ørliten struktur mister den lille massen den har når man fjerner den første bokstaven?",
+      "answer": "A(tom)",
+      "aliases": ["atom", "atomet"]
+    },
+    {
+      "question": "Hvilket ord med betydningen «Å bli enige om å utføre straffbare handlinger» blir til en deilig dessert dersom du fjerner bokstaven «L»?",
+      "answer": "Komp(l)ott",
+      "aliases": ["kompott", "kompotten", "kompottkake", "komplot", "komplott"]
+    },
+    {
+      "question": "Hvilken internasjonal lufthavn blir til en norsk maler dersom du fjerner første bokstaven navnet?",
+      "answer": "K(astrup)",
+      "aliases": [
+        "kastrup",
+        "astrup",
+        "astrup fearnley",
+        "Kastrup lufthavn",
+        "kasstrup"
+      ]
+    },
+    {
+      "question": "Hva slags hodeplagg flytter til byen dersom du fjerner første bokstaven i ordet?",
+      "answer": "T(urban",
+      "aliases": ["turban", "turbanen", "urban"]
+    },
+
+    {
+      "question": "Den ene vant «Komiprisen 2014», den andre hadde en sentral rolle i «Hotel Cæsar». Deres felles fornavn blir grusomt dersom du fjerner bokstaven «i». Hva heter de to kvinnene til fornavn?",
+      "answer": "Henr(i)ette Steenstrup og Lien",
+      "aliases": [
+        "Henriette Steenstrup",
+        "Henriette Steenstrup og Lien",
+        "Henriette",
+        "Henrette"
+      ]
+    }
+  ]
+}
