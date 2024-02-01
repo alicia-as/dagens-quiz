@@ -1,0 +1,29 @@
+{
+  "theme": "Asia",
+  "questions": [
+    {
+      "question": "Thimpu er Asias høyestliggende hovedstad (2648 moh.) og har rundt 100 000 innbyggere. I hvilket lett antennelig land ligger den?",
+      "answer": "Bhutan",
+      "aliases": ["bhutan", "bhutanen", "bhutanisk", "butan"]
+    },
+    {
+      "question": "I hvilket land med 170 millioner innbyggere rager det høyeste punktet 1064 moh.?",
+      "answer": "Bangladesh",
+      "aliases": ["bangladesh", "bangladeshisk", "bangladeshi"]
+    },
+    {
+      "question": "Hvilken av Asias største elver har sitt utspring i Himalaya og renner, på tross av navnet, ut i havet i Pakistan?",
+      "answer": "Indus",
+      "aliases": ["indus-elven", "induselven", "indus"]
+    },
+    {
+      "question": "Hva heter Asias østligste hovedstad?",
+      "answer": "Tokyo"
+    },
+
+    {
+      "question": "Den er en av Asias største elver og noen kaller den «Multipliseres». Hva heter den egentlig?",
+      "answer": "Ganges"
+    }
+  ]
+}
