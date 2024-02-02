@@ -1,0 +1,30 @@
+{
+  "theme": "Amerikanske stater",
+  "questions": [
+    {
+      "question": "Hvor mange amerikanske stater starter på bokstaven 'M'?",
+      "answer": "8. Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana",
+      "aliases": ["8", "åtte"]
+    },
+    {
+      "question": "Alaska er den største. Hvilken amerikansk stat kommer på andre plass?",
+      "answer": "Texas",
+      "aliases": ["texas"]
+    },
+    {
+      "question": "Hvilken amerikansk delstat, med hovedstad Providence, er mindre i areal enn tidligere Østfold fylke?",
+      "answer": "Rhode Island",
+      "aliases": ["rhode island"]
+    },
+    {
+      "question": "Atlanta International Airport er verdens travleste. Flyplassen tar imot 90 millioner reisende hvert år. I hvilket europeisk land / amerikansk stat ligger den?",
+      "answer": "Georgia"
+    },
+
+    {
+      "question": "En av verdens ti største innsjøer har samme navn som en amerikansk delstat. Hvilket navn?",
+      "answer": "Michigan",
+      "aliases": ["lake michigan"]
+    }
+  ]
+}
