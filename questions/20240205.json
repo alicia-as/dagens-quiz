@@ -1,0 +1,30 @@
+{
+  "questions": [
+    {
+      "aliases": ["maldivene", "maldives"],
+      "answer": "Maldivene",
+      "question": "I hvilken øystat med 2000 øyer og hovedstad Malé er det høyeste punktet to meter over havet?"
+    },
+    {
+      "aliases": ["Robben"],
+      "answer": "Robben Island",
+      "question": "Hvilken liten øy i det sørlige Afrika (med samme navn som en nederlandsk fotballegende) er med på UNESCOs liste over verdens kultur- og naturarvsteder?"
+    },
+    {
+      "aliases": ["Trinidad", "Tobago", "Trinidad & Tobago"],
+      "answer": "Trinidad og Tobago",
+      "question": "Hvilken liten øystat, med hovedstaden Port of Spain, ligger ved kysten av Venezuela?"
+    },
+    {
+      "aliases": ["Seychellene", "Seychelles"],
+      "answer": "Seychellene",
+      "question": "Hovedstaden heter Victoria. Hva heter øystaten og ferieparadiset nord for Madagaskar?"
+    },
+    {
+      "aliases": ["Malmøyen"],
+      "answer": "Malmøya",
+      "question": "Med en stein i navnet, hva heter den største øyen i Oslo?"
+    }
+  ],
+  "theme": "Øy!"
+}
