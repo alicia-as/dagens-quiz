@@ -1,0 +1,42 @@
+{
+  "theme": "Kongelig 👑",
+  "questions": [
+    {
+      "question": "Hvilken israelsk konge skal ha bygget tempelet i Jerusalem? Legger du på en bokstav, får du et skimerke.",
+      "answer": "Salomo (Salomon)",
+      "aliases": ["salomo", "salomon", "kong salomo", "kong salomon"]
+    },
+    {
+      "question": "Kong Charles har nylig fått kreft. Hvor gammel er han? (+/- 2 år)",
+      "answer": "Han er 75 år",
+      "aliases": ["75 år", "75", "73", "77", "74", "76"]
+    },
+    {
+      "question": "Hva heter kongen av Danmark?",
+      "answer": "Frederik X",
+      "aliases": [
+        "frederik",
+        "frederik x",
+        "frederik 10",
+        "frederik den 10",
+        "frederik den tiende",
+        "fredrik",
+        "kong frederik",
+        "kong frederik x",
+        "kong frederik 10",
+        "kong frederik den 10",
+        "kong frederik den tiende"
+      ]
+    },
+    {
+      "question": "Hvilket fornavn: En norsk prinsesse, en svensk forfatterinne og en tidligere belgisk dronning?",
+      "answer": "Astrid",
+      "aliases": ["astri"]
+    },
+    {
+      "question": "I hvilken by, som betyr «Det kongelige fjellet», ble Leonard Cohen født?",
+      "answer": "Montreal",
+      "aliases": ["montréal", "montreal"]
+    }
+  ]
+}
