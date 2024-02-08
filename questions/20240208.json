@@ -1,0 +1,34 @@
+{
+  "theme": "Med et tall i svaret",
+  "questions": [
+    {
+      "question": "Hva heter den geografiske passasjen som skiller Europa fra Afrika mellom Spania og Marokko?",
+      "answer": "Gibraltarstredet (tre)",
+      "aliases": ["gibraltarstredet"]
+    },
+    {
+      "question": "Hva er den latinske betegnelsen på lårbenet?",
+      "answer": "Femur (fem)",
+      "aliases": ["femur"]
+    },
+    {
+      "question": "Hva heter det populære rekreasjonsområdet i Ringsaker kommune som har tatt navn etter en av de syv innsjøene som ligger der?",
+      "answer": "Sjusjøen (sjv)",
+      "aliases": ["sjusjøen"]
+    },
+    {
+      "question": "Hvilken tidligere Høyrepolitiker er nå samfunnsredaktør i E24?",
+      "answer": "Torbjøen Røe Isaksen (to, en)",
+      "aliases": [
+        "torbjørn isaksen",
+        "torbjørn roe isaksen",
+        "torbjørn røe isaksen"
+      ]
+    },
+    {
+      "question": "Hvilken lite dyr er det som forårsaker sykdommen borreliose?",
+      "answer": "Flåtten (åtte)",
+      "aliases": ["flått", "flåtten"]
+    }
+  ]
+}
