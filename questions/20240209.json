@@ -1,0 +1,37 @@
+{
+  "theme": "Naboland",
+  "questions": [
+    {
+      "question": "Hvilket av våre nærmeste naboland har et blått, svart og hvitt flagg?",
+      "answer": "Estland"
+    },
+    {
+      "question": "Hvilket land i Sør-Amerika, som ikke grenser til Brasil, har bare to naboland?",
+      "answer": "Ecuador, som grenser til Colombia og Peru",
+      "aliases": ["ecuador"]
+    },
+    {
+      "question": "Hvilke to ganske fattige naboland ble med i EU (EF) i 1986?",
+      "answer": "Spania og Portugal",
+      "aliases": [
+        "spania, portugal",
+        "portugal, spania",
+        "spania og portugal",
+        "portugal og spania",
+        "spania & portugal",
+        "portugal & spania",
+        "spania, portugal",
+        "portugal, spania"
+      ]
+    },
+    {
+      "question": "Hva heter det knøttlille landet i Afrika som har Senegal som eneste naboland?",
+      "answer": "Gambia"
+    },
+    {
+      "question": "Nabolandene Nord-Korea og Sør-Korea har samme navn på valutaen sin, som om de begge har tatt gjenforeningsseieren på forskudd. Hva heter valutaen?",
+      "answer": "Won",
+      "aliases": ["won"]
+    }
+  ]
+}
