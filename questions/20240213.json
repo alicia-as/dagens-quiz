@@ -1,0 +1,30 @@
+{
+  "theme": "Biler",
+  "questions": [
+    {
+      "question": "Et bilmodell, et klesplagg, en tidligere olympisk øvelse der du ikke kan bruke venstrehånden. Hvilket ord?",
+      "answer": "Polo",
+      "aliases": ["polo"]
+    },
+    {
+      "question": "Hvilken blomst er nasjonalplante i både Egypt og India, og også et et bilmerke?",
+      "answer": "Lotus"
+    },
+    {
+      "question": "En av Skandinavias ledende madrassprodusenter har samme navn som et legendarisk bilmerke, samt en ganske dårlig nabo. Hvilket navn?",
+      "answer": "Jensen",
+      "aliases": ["Jensen"]
+    },
+    {
+      "question": "Hvilken bilmodell fra Honda har samme navn som et album av Queen fra 1978, men hadde egentlig et annet navn som ikke egner seg på trykk i Norge?",
+      "answer": "Jazz. Modellen het opprinnelig Honda Fitta.",
+      "aliases": ["Honda jazz", "jazz"]
+    },
+
+    {
+      "question": "Hvilken bilmodell fra Fiat som ble lansert første gang i 1983 har samme navn som et kortspill, samt et musikkalbum utgitt av Green Day?",
+      "answer": "Uno",
+      "aliases": ["Fiat Uno", "Uno"]
+    }
+  ]
+}
