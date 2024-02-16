@@ -1,0 +1,56 @@
+{
+  "theme": "I lufta",
+  "questions": [
+    {
+      "question": "Gardermoen, Flesland og Værnes er alle blant Norges fire største flyplasser. Hvilken mangler?",
+      "answer": "Sola lufthavn",
+      "aliases": [
+        "Sola",
+        "Stavanger",
+        "Stavanger lufthavn",
+        "Stavanger lufthavn, Sola",
+        "Sola flyplass"
+      ]
+    },
+    {
+      "question": "Boeing 787 er ifølge selskapet ”fremtidens passasjerfly.” Hva blir flyet kalt?",
+      "answer": "Dreamliner",
+      "aliases": [
+        "Dreamliner",
+        "Boeing Dreamliner",
+        "787 Dreamliner",
+        "Boeing 787 Dreamliner"
+      ]
+    },
+    {
+      "question": "Verdens lengste kommersielle flyrute går fra Singapore til New York. Hvor mange timer tar turen? (+/- 2 timer)",
+      "answer": "18.5 timer",
+      "aliases": [
+        "18",
+        "18 timer",
+        "16",
+        "20",
+        "16 timer",
+        "20 timer",
+        "19",
+        "19 timer",
+        "17",
+        "17 timer",
+        "18t",
+        "18 t",
+        "18 timer"
+      ]
+    },
+    {
+      "question": "Hva er navnet på den europeiske flytypen som er verdens største kommersielle passasjerfly? Den kom i trafikk i 2005.",
+      "answer": "Airbus A380",
+      "aliases": ["A380", "Airbus A380", "A380 Airbus"]
+    },
+
+    {
+      "question": "Fornebu lufthavn ble åpnet noen uker etter at Adolf Hitler fylte 50 år. Franco vinner den spanske borgerkrigen. Hvilket år? (+/- 1 år)",
+      "answer": "1939",
+      "aliases": ["1938", "1940"]
+    }
+  ]
+}
