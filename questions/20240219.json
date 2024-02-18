@@ -1,0 +1,46 @@
+{
+  "theme": "Farmen",
+  "questions": [
+    {
+      "question": "Hvilken mann med stilig allitterasjon-navn vant den første sesongen av Farmen?",
+      "answer": "Gaute Grøtta Grav",
+      "aliases": [
+        "Gaute Grav",
+        "Gaute Grøtta",
+        "Gaute Grøtta Grav",
+        "Gaute Grav Grøtta"
+      ]
+    },
+    {
+      "question": "Mannen som var programleder for andre sesong har også vært programleder for 'Vil du bli millionær?'. Hva heter han?",
+      "answer": "Frithjof Wilborn",
+      "aliases": [
+        "Frithjof",
+        "Wilborn",
+        "Frithjof Wilborn",
+        "Wilborn Frithjof"        
+      ]
+    },
+    {
+      "question": "Etter hvert ble også Farmen Kjendis en greie. Hvem er den eneste kvinnelige vinneren?",
+      "answer": "Tiril Sjåstad Christiansen",
+      "aliases": [
+        "Tiril Sjåstad",
+        "Tiril Christiansen",
+        "Tiril Sjåstad Christiansen",
+        "Tiril Christiansen Sjåstad"
+      ]
+    },
+    {
+      "question": "Hvem av disse har ikke vært programleder for Farmen? Mads Hansen, Kathrine Sørland, eller Gaute Grøtta Grav?",
+      "answer": "Kathrine Sørland",
+      "aliases": ["Kathrine", "Sørland", "Kathrine Sørland"]
+    },
+
+    {
+      "question": "Fjorårets Farmen-kjendis vinner har et egoistisk etternavn på fransk. Hva heter han?",
+      "answer": "Trond Moi",
+      "aliases": ["Trond", "Moi", "Trond Moi"]
+    }
+  ]
+}
