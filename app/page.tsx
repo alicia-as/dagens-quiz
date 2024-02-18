@@ -1,6 +1,7 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import ClipboardModal from "./ClipboardModal";
+import ScoreBoxes from "./ScoreBoxes";
 
 interface Data {
   questions: Question[];
@@ -19,6 +20,7 @@ const IndexPage: React.FC = () => {
   const [userAnswers, setUserAnswers] = useState<string[]>([]);
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [averageCorrect, setAverageCorrect] = useState(null);
 
   useEffect(() => {
     // Fetch questions from your API
@@ -48,11 +50,48 @@ const IndexPage: React.FC = () => {
     }
   }, []);
 
-  const handleSubmit = () => {
+  const handleSubmit = async () => {
     // Save answers to local storage
-    localStorage.setItem(answersKey, JSON.stringify(userAnswers));
-
+    if (process.env.NODE_ENV !== "development") {
+      localStorage.setItem(answersKey, JSON.stringify(userAnswers));
+    }
     setIsSubmitted(true);
+
+    // Submit answers to the server
+    try {
+      const response = await fetch("/api/submit", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          answers: userAnswers,
+          numberOfCorrect: questions.filter((_, index) => isCorrect(index))
+            .length,
+        }),
+      });
+
+      const result = await response.json();
+      if (response.ok) {
+        // Handle success, e.g., display a message or redirect
+        console.log("Submission successful", result);
+      } else {
+        // Handle server errors or invalid responses
+        console.error("Submission failed", result);
+      }
+    } catch (error) {
+      // Handle network errors
+      console.error("Error submitting answers", error);
+    }
+
+    // Fetch summary after submission
+    fetch("/api/summary")
+      .then((response) => response.json())
+      .then((data) => {
+        setAverageCorrect(data.averageCorrect);
+        setIsSubmitted(true); // Make sure this is set after fetching the summary
+      })
+      .catch((error) => console.error("Couldn't fetch summary", error));
   };
 
   const isAliasCorrect = (index: number) => {
@@ -175,6 +214,16 @@ const IndexPage: React.FC = () => {
         )}
       </form>
       {isSubmitted && <div className="mt-4">{/* Display results here */}</div>}
+
+      {isSubmitted && averageCorrect && (
+        <div>
+          <p>
+            Dagens gjennomsnittlige riktige svar:{" "}
+            {(averageCorrect * 5).toFixed(2)} / 5
+          </p>
+          <ScoreBoxes average={averageCorrect} />
+        </div>
+      )}
       {isSubmitted && (
         <button
           onClick={handleShare}
