@@ -1,4 +1,5 @@
 // pages/api/summary.ts
+import { NextApiRequest, NextApiResponse } from "next";
 import { app } from "../api/firebaseConfig"; // Adjust the path as necessary
 import {
   getFirestore,
@@ -10,7 +11,10 @@ import {
 
 const db = getFirestore(app);
 
-export default async function handler(req, res) {
+export default async function handler(
+  req: NextApiRequest,
+  res: NextApiResponse
+) {
   if (req.method !== "GET") {
     return res.status(405).end("Method Not Allowed");
   }
