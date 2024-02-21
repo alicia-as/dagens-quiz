@@ -1,0 +1,57 @@
+{
+  "theme": "Fruktig",
+  "questions": [
+    {
+      "question": "Hvilken kjent bananselskap deler navn med en karakter i Andeby?",
+      "answer": "Dole (Duck)",
+      "aliases": [
+        "Dole",
+        "Dole Duck"
+      ]
+    },
+    {
+      "question": "Hvilken frukt blir gjæret og destillert når man lager brennevinet slivovitsj?",
+      "answer": "Plomme",
+      "aliases": [
+        "Plommer"
+      ]
+    },
+    {
+      "question": "Hvilke to frukter er sentrale i drinken Pina Colada?",
+      "answer": "Ananas og kokos (nøtten er en steinfrukt)",
+      "aliases": [
+        "Ananas og kokos",
+        "Ananas",
+        "Kokos",
+        "Kokosnøtt og ananas",
+        "Kokos og ananas",
+        "Kokosnøtt, ananas",
+        "Kokos, ananas",
+        "Ananas og kokosnøtt",
+        "Ananas og kokosnøtten",
+        "Ananas og kokosnøtta",
+        "Ananas, kokos",
+        "Ananas, kokosnøtt",
+        "Ananas kokosnøtt",
+        "Ananas kokos",
+        "Ananas kokosnøtta",
+        "Ananas & kokosnøtt",
+        "Ananas & kokos",
+        "Ananas & kokosnøtta",
+        "Kokos & ananas",
+        "Kokosnøtt & ananas"
+      ]
+    },
+    {
+      "question": "Hvilken eplesort ga navn til den stasjonære computeren som ble lansert av Apple i 1984?",
+      "answer": "Macintosh",
+      "aliases": ["Mac", "Macintosh"]
+    },
+
+    {
+      "question": "Hvilket band med fruktig navn gjorde stor suksess med sangen «En glad calypso om våren» på 1980-tallet?",
+      "answer": "Banana Airlines",
+      "aliases": ["Banana Airlines"]
+    }
+  ]
+}
