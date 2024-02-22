@@ -1,0 +1,44 @@
+{
+  "theme": "Norske byer",
+  "questions": [
+    {
+      "question": "Hva heter supermodellen, med etternavn lik en norsk by, som ble oppdaget som 14-åring og etter hvert er blitt mer kjent for sitt rusproblem?",
+      "answer": "Kate Moss",
+      "aliases": [
+        "Moss"
+      ]
+    },
+    {
+      "question": "En av verdens nordligste bosetninger ligger på sydsiden av Kongsfjorden på Svalbard og har tatt navn etter en norsk by. Hva heter det vesle stedet?",
+      "answer": "Ny-Ålesund",
+      "aliases": [
+        "Ny-Ålesund",
+        "Ny Ålesund",
+        "New Ålesund"
+      ]
+    },
+    {
+      "question": "Hva slags yrke blir til en norsk by dersom du tar vekk den første bokstaven?",
+      "answer": "Frisør, Risør",
+      "aliases": [
+        "Frisør",
+        "Risør"
+      ]
+    },
+    {
+      "question": "Hvilken annen norsk by i Rogaland blir til et kraftuttrykk dersom du fjerner forbokstaven? Tar du deretter vekk den siste bokstaven får du et jentenavn. ",
+      "answer": "Sauda (au da, Aud)",
+      "aliases": [
+        "Sauda",
+        "Auda"
+      ]
+    },
+    {
+      "question": "Hvilken norsk by ble grunnlagt i 1991 og fullstendig ødelagt i november 2009?",
+      "answer": "Pepperkakebyen i Bergen",
+      "aliases": [
+        "Pepperkakebyen"
+      ]
+    }
+  ]
+}
