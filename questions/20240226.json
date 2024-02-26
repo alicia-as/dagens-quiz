@@ -1,0 +1,41 @@
+{
+  "theme": "Kjente landemerker",
+  "questions": [
+    {
+      "question": "De lokale kaller den for 'Uluru'. Under hvilket navn er landemerket bedre kjent",
+      "answer": "Ayer's rock",
+      "aliases": [
+        "Ayers rock"
+      ]
+    },
+    {
+      "question": "Den franske ingeniøren Gustave Eiffel har foruten Eiffeltårnet konstruert et annet verdenskjent landemerke. Hvilket?",
+      "answer": "Frihetsgudinnen, som ble skjenket til USA i 1886 av det franske folk",
+      "aliases": [
+        "Statue of Liberty",
+        "Frihetsgudinnen",
+        "Statue of Liberty National Monument"
+      ]
+    },
+    {
+      "question": "Hvilket kjent landemerke befinner seg der hvor det britiske parlamentet holder hus?",
+      "answer": "Big Ben (Palace of Westminster)",
+      "aliases": [
+        "Big Ben",
+        "Palace of Westminster"
+      ]
+    },
+    {
+      "question": "Hvilket landemerke, ferdigstilt i år 82 e.kr, har gitt navn til et underholdningshus på Majorstuen?",
+      "answer": "Colosseum",
+      "aliases": [
+        "Colosseum i Roma",
+        "Colosseum kino"
+      ]
+    },
+    {
+      "question": "La Sagrada Familia er kjent som kirken som aldri klarer å bli ferdigbygd. Hvilken by finner vi den i?",
+      "answer": "Barcelona"
+    }
+  ]
+}
