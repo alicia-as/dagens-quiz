@@ -1,0 +1,36 @@
+{
+  "theme": "Hvilket år? (repeat)",
+  "questions": [
+    {
+      "question": "Begrepet Bergen Beat ble lansert av Rolv Wesenlund på 60-tallet. Han var på den tiden innspillingsleder i Phillips, og ga ut en rekke singler under merkelappen Bergen Beat. Wesenlund ble født et år som også er produktet av et kvadratrottall. Hvilket år?",
+      "answer": "1936"
+    },
+    {
+      "question": "Edvard Munch ble født samme år som London Underground ble åpnet og Abraham Lincoln holdt sin Gettysburg-tale. Hvilket år (Hordalands høyeste punkt har samme tall)?",
+      "answer": "1863 (Hardangerjøkulen)",
+      "aliases": [
+        "1863"
+      ]
+    },
+    {
+      "question": "Hvilket årstall ble Halvdan Sivertsen født? Året kan skrives med romertallene MCML.",
+      "answer": "1950"
+    },
+    {
+      "question": "Mor Teresa dør, Trondheim feirer sitt tusenårsjubileum og Kina overtar Hong Kong. Hvilket år (pluss/minus et år)?",
+      "answer": "1997",
+      "aliases": [
+        "1996",
+        "1998"
+      ]
+    },
+    {
+      "question": "I januar eksploderte romfergen Challenger og i april eksploderte en reaktor i Tsjernobyl. Fjorten mennesker omkom når Hotell Caledonien i Kristiansand brant. Hvilket år (pluss/minus et år)?",
+      "answer": "1986",
+      "aliases": [
+        "1985",
+        "1987"
+      ]
+    }
+  ]
+}
