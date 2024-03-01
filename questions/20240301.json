@@ -1,0 +1,39 @@
+  {
+    "theme": "Hovedsteder på 'A'",
+    "questions": [
+      {
+        "question": "Antanarivo er hovedstaden i hvilket Afrikansk land? ",
+        "answer": "Madagaskar"
+      },
+      {
+        "question": "Landets hovedstad er ikke landets største. Hvilken by, som ble hovedstad i 1930, har gitt navn til en katterase?",
+        "answer": "Ankara, som tidligere het Angora",
+        "aliases": [
+          "Ankara",
+          "Angora"
+        ]
+      },
+      {
+        "question": "Hovedstaden heter Asmara og ligger i Afrika. Hvilket land er det?",
+        "answer": "Eritrea",
+        "aliases": [
+          "Erithrea"
+        ]
+      },
+      {
+        "question": "De forente arabiske emirater består av syv emirater. Hva heter det største som har samme navn som hovedstaden i emiratene?",
+        "answer": "Abu Dhabi",
+        "aliases": [
+          "Abu Dabi"
+        ]
+      },
+      {
+        "question": "Hvilken hovedstad som starter på 'A' blir til landet det ligger i dersom du legger på to bokstaver?",
+        "answer": "ALger, som blir til Algerie",
+        "aliases": [
+          "Alger",
+          "Algerie"
+        ]
+      }
+    ]
+  }
