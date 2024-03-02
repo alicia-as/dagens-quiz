@@ -1,0 +1,34 @@
+{
+  "theme": "Hovedsteder (repeat)",
+  "questions": [
+    {
+      "question": "Hvilket krydder har navn til felles med en arabisk hovedstad?",
+      "answer": "Muskat, som også er hovedstaden i Oman. ",
+      "aliases": [
+        "Muskat",
+        "Oman",
+        "Muskat, Oman"
+      ]
+    },
+    {
+      "question": "I løpet av 2024 endrer Indonesia hovedstad til Nusantara. Hva heter dagens hovedstad, som nå må gi fra seg tittelen?",
+      "answer": "Jakarta"
+    },
+    {
+      "question": "Hvilken øystat i Det karibiske hav, med Bridgetown som hovedstad, har et gult og blått flagg med et fiskespyd i midten?",
+      "answer": "Barbados"
+    },
+    {
+      "question": "I hvilket kjempestort afrikansk land, med mikroskopiske vannplanter som hovedstad, ligger Ahaggarfjellene?",
+      "answer": "Algerie",
+      "aliases": [
+        "Alger",
+        "Algeria"
+      ]
+    },
+    {
+      "question": "Øystaten som ligger et godt stykke øst for Australia har like mange bokstaver i navnet som hovedstaden Suva. Hva heter landet?",
+      "answer": "Fiji"
+    }
+  ]
+}

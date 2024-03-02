@@ -1,0 +1,45 @@
+{
+  "theme": "Film og TV (repeat)",
+  "questions": [
+    {
+      "question": "I hvilken tv-serie finner vi søsknene Nate, Claire og David?",
+      "answer": "Six Feet Under",
+      "aliases": [
+        "6 Feet Under",
+        "Six Ft Under",
+        "6 Ft Under"
+      ]
+    },
+    {
+      "question": "Hvem vant Oscar i år 2000 for sin rolle som Erin Brockovich i filmen med samme navn?",
+      "answer": "Julia Roberts"
+    },
+    {
+      "question": "Hvilken hardtslående film som vant Oscar for beste film i 1976 har en del av en fjellkjede som tittel?",
+      "answer": "Rocky"
+    },
+    {
+      "question": "Hvilken oscarvinnende film fra 1991 som har et dyr i tittelen har et annet levende vesen som norsk tittel, et vesen med ekstremt god luktesans?",
+      "answer": "Silence of the Lambs",
+      "aliases": [
+        "Silence of the Lamb",
+        "Nattsvermeren",
+        "Nattsvermerne",
+        "Nattsvermer",
+        "Nattsvermere",
+        "Nattsvermeren",
+        "Nattsvermerne",
+        "Nattsvermer",
+        "Nattsvermere"
+      ]
+    },
+    {
+      "question": "Hvilken komedie fra 1998 hadde en amerikansk presidents etternavn i tittelen?",
+      "answer": "Truman Show",
+      "aliases": [
+        "The Truman Show",
+        "Truman"
+      ]
+    }
+  ]
+}

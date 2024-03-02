@@ -1,0 +1,44 @@
+{
+  "theme": "Med dyr i svaret (repeat)",
+  "questions": [
+    {
+      "question": "Den nordligste kommunen i Nordland har en fugl i begynnelsen av navnet. Hva heter den?",
+      "answer": "Andøy",
+      "aliases": [
+        "Andøya"
+      ]
+    },
+    {
+      "question": "Hvilken europeisk hovedstad blir til et uønsket pattedyr i norsk fauna dersom du fjerner en «S»?",
+      "answer": "Minsk (mink)",
+      "aliases": [
+        "Minsk",
+        "mink"
+      ]
+    },
+    {
+      "question": "Alle kjenner jo Emil fra Lönneberget, men hva heter gården han bor på?",
+      "answer": "Katthult"
+    },
+    {
+      "question": "Smak på denne: Hva heter den østligste av hovedstedene på den arabiske halvøya?",
+      "answer": "Muskat",
+      "aliases": [
+        "Muscate",
+        "muscat",
+        "Muskatt"
+      ]
+    },
+    {
+      "question": "Hvilken aktivitet, som er høyaktuell i Norge om dagen, er også navnet på en fugl?",
+      "answer": "Måke",
+      "aliases": [
+        "Måken",
+        "Måker",
+        "Måkene",
+        "å måke",
+        "å måke snø"
+      ]
+    }
+  ]
+}

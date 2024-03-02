@@ -1,0 +1,44 @@
+{
+  "theme": "Amerika (repeat)",
+  "questions": [
+    {
+      "question": "Hvilken amerikansk delstat har, ikke uten grunn, samme navn som det gigantiske området som USA kjøpte av Frankrike i 1803?",
+      "answer": "Louisiana",
+      "aliases": []
+    },
+    {
+      "question": "Hvilken amerikansk president ble født samme dag som Charles Darwin i 1809, men døde mange år tidligere enn engelskmannen i 1865?",
+      "answer": "Abraham Lincoln",
+      "aliases": [
+        "Lincoln"
+      ]
+    },
+    {
+      "question": "Hvem er årsaken til at vi heiser flaggene her i Norge på USAs nasjonaldag?",
+      "answer": "Dronning Sonja. Hun har bursdag",
+      "aliases": [
+        "Sonja",
+        "Dronning Sonja",
+        "Dronningen har bursdag",
+        "Dronninga har bursdag",
+        "Sonja har bursdag",
+        "Dronningen",
+        "Dronning Sonja har bursdag"
+      ]
+    },
+    {
+      "question": "På grensen mellom Ontario og hvilken amerikansk delstat finner vi Niagara Falls?",
+      "answer": "New York",
+      "aliases": [
+        "New York State",
+        "New York State of Mind",
+        "New York, New York"
+      ]
+    },
+    {
+      "question": "Med samme navn som et land, i hvilken amerikansk delstat foregår handlingen i «Tatt av vinden»?",
+      "answer": "Georgia",
+      "aliases": []
+    }
+  ]
+}
