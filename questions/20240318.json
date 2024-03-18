@@ -1,0 +1,35 @@
+{
+  "theme": "Svaret begynner på 'P'",
+  "questions": [
+    {
+      "question": "Hva kalles brettet som malerkunstnere blander sine farger på?",
+      "answer": "Palett",
+      "aliases": [
+        "Paletten",
+        "pallett"
+      ]
+    },
+    {
+      "question": "Arne Hurlen er mannen som skriver de fleste tekstene og melodiene i et band med arkitektonisk navn. Hva heter bandet? ",
+      "answer": "Postgirobygget"
+    },
+    {
+      "question": "Hvilket giftig grunnstoff ble brukt til å ta livet av den tidligere KGB-agenten Aleksandr Litvinenko?",
+      "answer": "Polonium"
+    },
+    {
+      "question": "I hvilken tegnefilm fra 1940 kunne man for første gang høre sangen «When You Wish upon a Star»?",
+      "answer": "Pinocchio",
+      "aliases": [
+        "Pinokkio"
+      ]
+    },
+    {
+      "question": "Hvilket universitet kan skryte av å ha hatt Toni Morrison, Albert Einstein og Robert Oppenheimer som ansatte, samt Brooke Shields, Thomas Mann, John F. Kennedy og Donald Rumsfeld som studenter?",
+      "answer": "Princeton University",
+      "aliases": [
+        "Princeton"
+      ]
+    }
+  ]
+}
