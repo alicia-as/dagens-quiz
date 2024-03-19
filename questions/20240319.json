@@ -1,0 +1,49 @@
+{
+  "theme": "Hummer og kanari",
+  "questions": [
+    {
+      "question": "Den største av kanariøyene huser den berømte vulkanen Teide. Hva heter øya?",
+      "answer": "Tenerife",
+      "aliases": [
+        "Teneriffa",
+        "Tenerif"
+      ]
+    },
+    {
+      "question": "Hvilket krepsdyr, med vitenskapelig navn nephropidae, har samme navn som et amerikansk bilmerke?",
+      "answer": "Hummer"
+    },
+    {
+      "question": "Hvilken Kanariøy er nesten sirkelrund og har 800 000 innbyggere?",
+      "answer": "Gran Canaria",
+      "aliases": [
+        "Grand Canaria",
+        "Gran kanaria"
+      ]
+    },
+    {
+      "question": "På hvilket fotballstadion holder kanarifansen til?",
+      "answer": "Åråsen (Lillestrøm)",
+      "aliases": [
+        "Araasen",
+        "Åråsen",
+        "Lillestrøm",
+        "Lillestrøm stadion",
+        "LSK",
+        "Lillestrøm sportsklubb",
+        "Lillestrøm fotballklubb",
+        "LSK stadion",
+        "åråsen stadion",
+        "lillestrøm stadion"
+      ]
+    },
+    {
+      "question": "Hvor mange bein har krabber, reker og hummere?",
+      "answer": "Tifotkrepsene har, ti bein.",
+      "aliases": [
+        "10",
+        "ti"
+      ]
+    }
+  ]
+}
