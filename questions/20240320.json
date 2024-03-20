@@ -1,0 +1,42 @@
+{
+  "theme": "Australia",
+  "questions": [
+    {
+      "question": "Første del  av navnet på en australsk by og første del av artistnavnet til Vincent Damon Furnier. En figur skapt av Lewis Carroll har også dette navnet. Hvilket?",
+      "answer": "Alice (Springs, Cooper, I Eventyrland). ",
+      "aliases": [
+        "Alice"
+      ]
+    },
+    {
+      "question": "Hvilken australsk by, som har hatt store arrangement tidligere, arrangerer denne helgen løp i Formel 1?",
+      "answer": "Melbourne",
+      "aliases": [
+        "Melbourne"
+      ]
+    },
+    {
+      "question": "Hva heter hovedstaden og den største byen i den australske delstaten Western Australia?",
+      "answer": "Perth",
+      "aliases": [
+        "pert"
+      ]
+    },
+    {
+      "question": "Hva heter øya som ble oppdaget 25. desember 1643 og er australsk territorium selv om den ligger 500 km sør for Jakarta? ",
+      "answer": "Christmas Island",
+      "aliases": [
+        "Christmas Island",
+        "Juleøya",
+        "Christmas"
+      ]
+    },
+    {
+      "question": "Australias valutakode er også et navn somn 10 000 norske kvinner har. Hvilket?",
+      "answer": "AUD",
+      "aliases": [
+        "AUD"
+      ]
+    }
+  ]
+}
