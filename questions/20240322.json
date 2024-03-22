@@ -1,0 +1,31 @@
+{
+  "theme": "Øl!",
+  "questions": [
+    {
+      "question": "Hvilket ølmerke er ifølge reklamen 'Probably the best beer in the world'?",
+      "answer": "Carlsberg"
+    },
+    {
+      "question": "Hvilken ølsort med høy alkoholprosent og mye humle har et navn som av kjennere forkortes til IPA?",
+      "answer": "India Pale Ale",
+      "aliases": [
+        "Indian Pale Ale"
+      ]
+    },
+    {
+      "question": "Et av verdens mest solgte ølmerker er amerikansk, men har stjålet navnet fra et europeisk øl og en europeisk by. Navnet takk!",
+      "answer": "Budweiser",
+      "aliases": [
+        "Bud light"
+      ]
+    },
+    {
+      "question": "Hvilket sort, overgjæret øl har et navn som betyr «sterk»?",
+      "answer": "Stout"
+    },
+    {
+      "question": "Hvilket ølmerke kan også være en jordbærtype, et virus eller et himmelfenomen?",
+      "answer": "Corona"
+    }
+  ]
+}
