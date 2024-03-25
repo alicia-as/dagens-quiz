@@ -1,0 +1,44 @@
+{
+  "theme": "Norsk politikk",
+  "questions": [
+    {
+      "question": "Hvem er for øyeblikket finansminister i Norge?",
+      "answer": "Trygve Slagsvold Vedum",
+      "aliases": [
+        "Trygve Slagsvold Vedum",
+        "Trygve Vedum",
+        "Trygve Slagsvold"
+      ]
+    },
+    {
+      "question": "Den skandaleutsatte nåværende arbeids- og inkluderingsministeren har et pyromanisk etternavn. Hva heter hun?",
+      "answer": "Tonje Brenna",
+      "aliases": [
+        "Brenna"
+      ]
+    },
+    {
+      "question": "Hvilket år ble Stortinget grunnlagt?",
+      "answer": "1814",
+      "aliases": [
+        "1814"
+      ]
+    },
+    {
+      "question": "Med et etternavn som kan få deg til i bakverkshumør, hva heter lederen for KrF?",
+      "answer": "Olaug Bollestad",
+      "aliases": [
+        "Bollestad"
+      ]
+    },
+    {
+      "question": "Hvor mange partier er det på Stortinget per dags dato? (+/- 1)",
+      "answer": "10. Ap, H, FrP, SV, SP, V, KrF, MDG, R, PF (Pasientfokus)",
+      "aliases": [
+        "10",
+        "9",
+        "11"
+      ]
+    }
+  ]
+}
