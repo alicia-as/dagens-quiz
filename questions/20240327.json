@@ -1,0 +1,41 @@
+{
+  "theme": "Med en drikk i svaret",
+  "questions": [
+    {
+      "question": "Hva heter det noenlunde kontroversielle humorprogrammet på NRK med programleder Gaute Næss og sidekick Snore Monsson?",
+      "answer": "gauTEshow",
+      "aliases": [
+        "Gauteshow",
+        "Gaute show"
+      ]
+    },
+    {
+      "question": "Hvilken av EUs hovedsteder ligger nærmest Paris?",
+      "answer": "BRUSsel 264 km (Luxembourg 294, London 344). ",
+      "aliases": [
+        "Brussel"
+      ]
+    },
+    {
+      "question": "Hvilken medalje ble det på brødrene Northug under lagsprinten i NM forrige uke?",
+      "answer": "sØLv",
+      "aliases": [
+        "Sølv"
+      ]
+    },
+    {
+      "question": "Hvilken by har en flyplass som heter Leonardo da Vinci-Fiumicino?",
+      "answer": "ROMa",
+      "aliases": [
+        "Roma"
+      ]
+    },
+    {
+      "question": "Hva het mobilselskapet som ble opprettet i år 2000 som et ledd i Telenors ungdomssatsning? Det ble lagt ned i 2017.",
+      "answer": "dJUICE",
+      "aliases": [
+        "Djuice"
+      ]
+    }
+  ]
+}
