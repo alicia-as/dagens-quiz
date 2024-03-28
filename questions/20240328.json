@@ -1,0 +1,47 @@
+{
+  "theme": "I det periodiske system",
+  "questions": [
+    {
+      "question": "Hvilket grunnstoff har gitt navn til en tidsalder og har husdyr som kjemisk symbol?",
+      "answer": "Jern (Fe)",
+      "aliases": [
+        "Fe",
+        "jern",
+        "jern (Fe)",
+        "ferron",
+        "jernalderen"
+      ]
+    },
+    {
+      "question": "«Taushet er gull» sies det, men det passer dårlig med gullets kjemiske symbol, som er..?",
+      "answer": "AU!",
+      "aliases": [
+        "Au"
+      ]
+    },
+    {
+      "question": "Grunnstoffet med atomnummer 9 er, på tross av at det er giftig, populært å putte i munnen. Hva heter det?",
+      "answer": "Fluor (F)",
+      "aliases": [
+        "F",
+        "fluor"
+      ]
+    },
+    {
+      "question": "Grunnstoffet med atomnummer 80 var, på tross av at det er giftig, populært å putte i munnen. Hva heter det?",
+      "answer": "Kvikksølv (i amalgamfyllinger)",
+      "aliases": [
+        "Hg",
+        "kvikksølv",
+        "amalgam"
+      ]
+    },
+    {
+      "question": "Hvilket søramerikansk land har fått sitt navn fra grunnstoffet sølv?",
+      "answer": "Argentina",
+      "aliases": [
+        "argentina"
+      ]
+    }
+  ]
+}
