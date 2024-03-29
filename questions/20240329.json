@@ -1,0 +1,63 @@
+{
+  "theme": "Identisk",
+  "questions": [
+    {
+      "question": "Hvilken skuespiller har et mellomnavn som er identisk med en gresk bokstav?",
+      "answer": "Catherine Zeta-Jones",
+      "aliases": [
+        "Catherine Zeta Jones",
+        "Zeta",
+        "Zeta-Jones",
+        "Zeta Jones",
+        "Catherine"
+      ]
+    },
+    {
+      "question": "Hvilket håpløst forelsket kjærestepar har begge gitt navn til to av ordene i bokstaveringsalfabetet?",
+      "answer": "Romeo og Julie",
+      "aliases": [
+        "Romeo",
+        "Julie",
+        "Romeo & Julie",
+        "Romeo og Julia",
+        "Romeo og Juliet",
+        "Romeo, Julie",
+        "Julie, Romeo"
+      ]
+    },
+    {
+      "question": "Hvilken skuespiller har vunnet to Oscars og har et etternavn som er identisk med hovedstaden på øya Man?",
+      "answer": "Michael Douglas",
+      "aliases": [
+        "Michael Douglas",
+        "Douglas"
+      ]
+    },
+    {
+      "question": "Julia Roberts fikk Oscar for sin rolle i en film fra 2000. Hva heter hovedrollekarakteren, et navn som er identisk med filmens tittel?",
+      "answer": "Erin Brockovich",
+      "aliases": [
+        "Brockovich"
+      ]
+    },
+    {
+      "question": "Søstrene Olsen er kanskje de rikeste og mest berømte tvillingene i verden. Hva heter de to til fornavn?",
+      "answer": "Mary-Kate og Ashley",
+      "aliases": [
+        "Mary-Kate",
+        "Ashley",
+        "Mary Kate & Ashley",
+        "Mary Kate og Ashley",
+        "Mary-Kate & Ashley",
+        "Ashley & Mary-Kate",
+        "Ashely & Mary Kate",
+        "Ashley og Mary-Kate",
+        "Ashley og Mary Kate",
+        "Mary-Kate og Ashley Olsen",
+        "Mary Kate og Ashley Olsen",
+        "Mary-Kate Olsen",
+        "Ashley Olsen"
+      ]
+    }
+  ]
+}
