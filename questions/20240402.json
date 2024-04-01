@@ -1,0 +1,46 @@
+{
+  "theme": "Voff voff!",
+  "questions": [
+    {
+      "question": "Den kritikerroste svenske filmen «Mitt liv som hund» kom på kinoene i på midten av 80-tallet. Hvilken hund var inspirasjonskilde til filmtittelen?",
+      "answer": "Laika",
+      "aliases": [
+        "Lajka"
+      ]
+    },
+    {
+      "question": "Hva slags hunderase er den gamle tv-helten Lassie?",
+      "answer": "Collie",
+      "aliases": [
+        "Colliehund",
+        "Collie-hund",
+        "Collie hund",
+        "Colliehunden",
+        "Colly"
+      ]
+    },
+    {
+      "question": "Donald Duck har en hund. Med samme navn som en verdiløs valuta, hva heter den?",
+      "answer": "Bolivar (Venezuelas valuta)",
+      "aliases": [
+        "Bolivar"
+      ]
+    },
+    {
+      "question": "Fra hvilket EU-land og populært reisemål kommer hunderasen dalmatiner?",
+      "answer": "Kroatia (Dalmatia)",
+      "aliases": [
+        "Kroatia",
+        "Croatia",
+        "Dalmatia"
+      ]
+    },
+    {
+      "question": "Debbie Harry er frontfigur i en gruppe som har samme navn som hunden til Adolf Hitler. Navnet takk!",
+      "answer": "Blondie",
+      "aliases": [
+        "Blondi"
+      ]
+    }
+  ]
+}
