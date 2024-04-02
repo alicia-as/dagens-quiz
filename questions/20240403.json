@@ -1,0 +1,47 @@
+{
+  "theme": "Fra bakke til bar",
+  "questions": [
+    {
+      "question": "Hva er den viktigste ingrediensen (kornsort) i bourbon whiskey?",
+      "answer": "Mais",
+      "aliases": [
+        "Maisen",
+        "Maiskorn",
+        "Maiskornet",
+        "Majs",
+        "Majskorn"
+      ]
+    },
+    {
+      "question": "Hvilken viltvoksende plante som ikke suser brukes til ølbrygging?",
+      "answer": "Humle",
+      "aliases": [
+        "Humlen"
+      ]
+    },
+    {
+      "question": "Hva er hovedråvaren som brukes i produksjonen av akevitt?",
+      "answer": "Poteter",
+      "aliases": [
+        "Potet",
+        "Poteten"
+      ]
+    },
+    {
+      "question": "Hva er hovedråvaren i produksjonen av tequila?",
+      "answer": "Agave",
+      "aliases": [
+        "Agaveplanten",
+        "Agaven"
+      ]
+    },
+    {
+      "question": "Hva i all verden er brennevinet slivovitsj brygget på?",
+      "answer": "Plommer",
+      "aliases": [
+        "Plomme",
+        "Plommen"
+      ]
+    }
+  ]
+}
