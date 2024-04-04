@@ -1,0 +1,50 @@
+{
+  "theme": "Syv sorter og litt til",
+  "questions": [
+    {
+      "question": "Hvilken tradisjonell julekake ser ut som et kremmerhus og serveres gjerne med multekrem?",
+      "answer": "Krumkake",
+      "aliases": [
+        "Krumkaken",
+        "Krumkakene",
+        "kromkake",
+        "kromkaken",
+        "kromkakene"
+      ]
+    },
+    {
+      "question": "Hvilke av de syv sorter er flate og mønstrete og stekes i et eget stekejern? Bytter du ut første bokstav, får du en posesuppeprodusent!",
+      "answer": "Goro (Toro)",
+      "aliases": [
+        "Goro"
+      ]
+    },
+    {
+      "question": "Hvilken rund kake med hull i midten ble tidligere bare laget etter slaktingen til jul, men kan nå fås nå året rundt?",
+      "answer": "Smultring",
+      "aliases": [
+        "Donut",
+        "Donuts",
+        "smultringen"
+      ]
+    },
+    {
+      "question": "Hvilken høy kake er laget av mandler og melis og kan minne om Eiffeltårnet?",
+      "answer": "Kransekake",
+      "aliases": [
+        "Kransekaken",
+        "Kransekakene"
+      ]
+    },
+    {
+      "question": "Hva heter kaken som er laget av kjeks, kokosfett, kokesjokolade og geletopper? Kaken har samme navn som et sted der man kunne søke svar på sine spørsmål.",
+      "answer": "Delfiakake (Orakelet i Delfi)",
+      "aliases": [
+        "Delfia",
+        "Delfiakaken",
+        "Delfiakaken",
+        "Delfiakakene"
+      ]
+    }
+  ]
+}
