@@ -1,0 +1,44 @@
+{
+  "theme": "Dyr",
+  "questions": [
+    {
+      "question": "Hvilket land hadde ingen kameler for 200 år siden, men nærmere en million kameler i 2000?",
+      "answer": "Australia"
+    },
+    {
+      "question": "Hva slags dyr var Hugin og Munin i norrøn mytologi?",
+      "answer": "Ravn",
+      "aliases": [
+        "Ravner"
+      ]
+    },
+    {
+      "question": "Hva slags dyr har kjeksprodusenten Sætre i sin logo?",
+      "answer": "En hane",
+      "aliases": [
+        "Hane",
+        "Hanen",
+        "Høne",
+        "Høna",
+        "Hønen",
+        "En høne"
+      ]
+    },
+    {
+      "question": "Hvilket dyr bruker det australske flyselskapet Qantas som sitt varemerke?",
+      "answer": "Kenguru",
+      "aliases": [
+        "Kenguruen",
+        "Kenguruer"
+      ]
+    },
+    {
+      "question": "Hvilken liten dyrebolig er også navnet på en del av det indre øret i hodet vårt?",
+      "answer": "Sneglehus",
+      "aliases": [
+        "Sneglehuset",
+        "Sneglehusene"
+      ]
+    }
+  ]
+}
