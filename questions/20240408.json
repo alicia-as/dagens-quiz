@@ -1,0 +1,31 @@
+{
+  "theme": "Verdensrommet",
+  "questions": [
+    {
+      "question": "Hva var navnet på den sovjetiske romstasjonen som ble etablert i verdensrommet i 1986?",
+      "answer": "Mir"
+    },
+    {
+      "question": "Hvilket navn brukes av amerikanske astronauter for å vise kontrollrommet at de har forstått en beskjed?",
+      "answer": "Roger",
+      "aliases": [
+        "Rogers"
+      ]
+    },
+    {
+      "question": "Hvilken planet, som også er en sjokolade, har tilnavnet «den røde planet»?",
+      "answer": "Mars"
+    },
+    {
+      "question": "Den største månen i Solsystemet er større enn planeten Merkur. Hva heter den: Europa, Ganymedes, Io eller Callisto?",
+      "answer": "Ganymedes",
+      "aliases": [
+        "Ganymede"
+      ]
+    },
+    {
+      "question": "Hvilket land ble i 2003 det tredje i historien til å sende mennesker ut i verdensrommet?",
+      "answer": "Kina"
+    }
+  ]
+}
