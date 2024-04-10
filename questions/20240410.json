@@ -1,0 +1,39 @@
+{
+  "theme": "Svarer starter på 'M' (repeat)",
+  "questions": [
+    {
+      "question": "Med et insekt i begynnelsen av navnet, i hvilket vestafrikansk land er Nouakchott hovedstad?",
+      "answer": "Mauritania",
+      "aliases": [
+        "Mauretania"
+      ]
+    },
+    {
+      "question": "Judi Dench vant Oscar for sin rolle som Elizabeth I i filmen «Shakespeare in Love» fra 1998. Hun har også spilt i flere James Bond-filmer. Hvilken rolle har hun der?",
+      "answer": "M",
+      "aliases": [
+        "Moneypenny",
+        "Moneypenney",
+        "Moneypeney",
+        "Miss Moneypenny",
+        "Miss Moneypenney",
+        "Miss Moneypeney"
+      ]
+    },
+    {
+      "question": "I hvilken norsk by kommer brusprodusenten Oskar Sylte fra?",
+      "answer": "Molde"
+    },
+    {
+      "question": "Roma er Italias største by målt i folketall. Hva heter Italias nest største by?",
+      "answer": "Milano",
+      "aliases": [
+        "Milan"
+      ]
+    },
+    {
+      "question": "Hvilken liten by i Essex, England har gitt navn til det noen kaller jålesalt, en grovere utgave enn vanlig salt?",
+      "answer": "Maldon"
+    }
+  ]
+}
