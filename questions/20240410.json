@@ -33,7 +33,10 @@
     },
     {
       "question": "Hvilken liten by i Essex, England har gitt navn til det noen kaller jålesalt, en grovere utgave enn vanlig salt?",
-      "answer": "Maldon"
+      "answer": "Maldon",
+      "aliases": [
+        "Maldonsalt"
+      ]
     }
   ]
 }
