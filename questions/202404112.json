@@ -1,0 +1,43 @@
+{
+  "theme": "Sist & Minst",
+  "questions": [
+    {
+      "question": "Afrikas minste land fikk sin frihet i 1965. Med et navn som kan få deg til å tenke på Donald Glovers artistnavn, hva heter det?",
+      "answer": "Gambia (Gambino)",
+      "aliases": [
+        "Gambia",
+        "Gambino",
+        "The Gambia"
+      ]
+    },
+    {
+      "question": "Hva heter den største kommunen i Norge som er større enn de tre minste fylkene til sammen? Et berømt opprør fant sted her i 1852.",
+      "answer": "Kautokeino",
+      "aliases": [
+        "kautokeino"
+      ]
+    },
+    {
+      "question": "Et av verdens minste land ble selvstendig i 1945 og bruker dollar som betalingsmiddel. Hva heter det?",
+      "answer": "Singapore",
+      "aliases": [
+        "Singapor"
+      ]
+    },
+    {
+      "question": "Hva heter den bittelille sigarrøykende skurken som regner Mikke Mus som sin verste fiende?",
+      "answer": "Mikro-Midas",
+      "aliases": [
+        "Mikro Midas",
+        "Mikromidas"
+      ]
+    },
+    {
+      "question": "Hvilken planet er solsystemets minste etter at Pluto ikke lenger får lov å være planet?",
+      "answer": "Merkur",
+      "aliases": [
+        "Merkury"
+      ]
+    }
+  ]
+}
