@@ -1,0 +1,34 @@
+{
+  "theme": "Hovedsteder",
+  "questions": [
+    {
+      "question": "Hva heter hovedstaden og den største byen i den australske delstaten Western Australia?",
+      "answer": "Perth"
+    },
+    {
+      "question": "I hvilket søramerikansk land, som ikke har kyst, heter hovedstaden Asunción?",
+      "answer": "Paraguay",
+      "aliases": [
+        "Paraguai"
+      ]
+    },
+    {
+      "question": "Hva het hovedstaden i Pakistan før Islamabad overtok på begynnelsen av 60-tallet?",
+      "answer": "Karachi",
+      "aliases": [
+        "Karatsji"
+      ]
+    },
+    {
+      "question": "I Hvilket afrikansk kongedømme heter hovedstaden Rabat?",
+      "answer": "Marokko"
+    },
+    {
+      "question": "Syrias hovedstad er en av verdens eldste byer. Hva heter den?",
+      "answer": "Damaskus",
+      "aliases": [
+        "Dimashq"
+      ]
+    }
+  ]
+}
