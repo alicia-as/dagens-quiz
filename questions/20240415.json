@@ -21,13 +21,18 @@
     },
     {
       "question": "I Hvilket afrikansk kongedømme heter hovedstaden Rabat?",
-      "answer": "Marokko"
+      "answer": "Marokko",
+      "aliases": [
+        "Morocco",
+        "Marocco"
+      ]
     },
     {
       "question": "Syrias hovedstad er en av verdens eldste byer. Hva heter den?",
       "answer": "Damaskus",
       "aliases": [
-        "Dimashq"
+        "Dimashq",
+        "Damascus"
       ]
     }
   ]
