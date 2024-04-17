@@ -1,0 +1,45 @@
+{
+  "theme": "Vinnere",
+  "questions": [
+    {
+      "question": "Hvem vant Oscar for sin melodi «Lose Yourself» i en film fra 2002 der han selv spilte hovedrollen?",
+      "answer": "Eminem",
+      "aliases": [
+        "Marshall Bruce Mathers III",
+        "Marshall Mathers"
+      ]
+    },
+    {
+      "question": "Journalistene strømmer til Henrik Ibsens gate 51 i oktober hvert år. For å dekke vinneren av hvilken pris?",
+      "answer": "Nobels fredspris",
+      "aliases": [
+        "Nobel peace prize",
+        "Nobels fredsprisen",
+        "Nobel peace prize winner",
+        "Nobel peace prize vinner",
+        "Nobel peace prize vinneren",
+        "Nobels fredspris vinner",
+        "Fredsprisen",
+        "Fredsprisvinneren"
+      ]
+    },
+    {
+      "question": "Hvilken elv, som renner ut i Mjøsa, har samme navn som en elv i Øst-Sibir og vinneren av Eurovision Song Contest 2010?",
+      "answer": "Lena"
+    },
+    {
+      "question": "Hvilket britisk lag vant Champions League for første gang i 2023?",
+      "answer": "Manchester City",
+      "aliases": [
+        "City"
+      ]
+    },
+    {
+      "question": "Seierherren i slaget ved Waterloo var hertug og har fått en sydlig hovedstad oppkalt etter seg. Hvilken hovedstad?",
+      "answer": "Wellington",
+      "aliases": [
+        "Duke of Wellington"
+      ]
+    }
+  ]
+}
