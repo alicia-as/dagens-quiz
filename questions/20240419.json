@@ -1,0 +1,40 @@
+{
+  "theme": "Med grense til...",
+  "questions": [
+    {
+      "question": "Tanzania har en lang kystlinje til Det indiske hav. Hvilket land som grenser til Tanzania har kystlinje til Atlanterhavet?",
+      "answer": "Den demokratiske republikken Kongo",
+      "aliases": [
+        "Kongo",
+        "DRC",
+        "Congo",
+        "DR Kongo",
+        "Kongo-Kinshasa",
+        "Kongo-Kinshassa",
+        "Demokratiske republikken Kongo",
+        "Kongo-Kinshasa",
+        "DRK"
+      ]
+    },
+    {
+      "question": "Hvilken delstat, som grenser til Wisconsin, Iowa, Sør-Dakota og Nord-Dakota og med innbyggere som Bob Dylan og Kim Basinger, var USAs nordligste før Alaska ble innlemmet i 1959?",
+      "answer": "Minnesota"
+    },
+    {
+      "question": "Hvilket land i Mellom-Amerika, som grenser til Guatemala, El Salvador og Nicaragua, har en hovedstad som heter Tegucigalpa?",
+      "answer": "Honduras"
+    },
+    {
+      "question": "Hva heter den tyske delstaten som grenser til Tsjekkia i sør og Polen i vest og som har nesten samme navn som et håndredskap?",
+      "answer": "Sachsen",
+      "aliases": [
+        "Sachsen-Anhalt",
+        "Sachsen Anhalt"
+      ]
+    },
+    {
+      "question": "Hva heter det canadiske territoriet som grenser til Alaska og som først og fremst er kjent for gullrushet i Klondike på 1800-tallet?",
+      "answer": "Yukon"
+    }
+  ]
+}
