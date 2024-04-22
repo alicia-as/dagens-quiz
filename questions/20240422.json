@@ -1,0 +1,52 @@
+{
+  "theme": "Litt av hvert 1",
+  "questions": [
+    {
+      "question": "Hvilket radiumpar oppdaget grunnstoffet polonium i 1898?",
+      "answer": "Pierre og Marie Curie",
+      "aliases": [
+        "Marie og Pierre Curie",
+        "Curie",
+        "Marie Curie",
+        "Pierre Curie",
+        "Marie & Pierre Curie",
+        "Pierre & Marie Curie"
+      ]
+    },
+    {
+      "question": "Hvilket grunnstoff ble oppdaget i 1895 og har fått navn etter den greske solguden?",
+      "answer": "Helium",
+      "aliases": [
+        "He"
+      ]
+    },
+    {
+      "question": "Hvor mange strenger har som regel en balalaika?",
+      "answer": "3",
+      "aliases": [
+        "tre"
+      ]
+    },
+    {
+      "question": "Og hvor mange tangenter har et vanlig piano, svarte som hvite; 66, 88 eller 108?",
+      "answer": "88",
+      "aliases": [
+        "åtteåtti",
+        "åtte og åtti",
+        "åtte og åttitall",
+        "åtte og åttitangenter",
+        "åtte og åttitangent"
+      ]
+    },
+    {
+      "question": "Et bakverk, et musikkinstrument, en nyttig utvekst og en del av Afrika. Hvilket ord?",
+      "answer": "Horn",
+      "aliases": [
+        "horn",
+        "hornet",
+        "horna",
+        "hornene"
+      ]
+    }
+  ]
+}
