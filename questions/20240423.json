@@ -1,0 +1,39 @@
+{
+  "theme": "Bare Bokstavrim",
+  "questions": [
+    {
+      "question": "Hva het jenta som ønsket at Gud skulle kjøpe en Mercedes til henne, men som døde av overdose i 1970?",
+      "answer": "Janis Joplin",
+      "aliases": [
+        "Joplin"
+      ]
+    },
+    {
+      "question": "Hvilken fryktet organisasjon hadde sin spede begynnelse i Tennessee julen 1865?",
+      "answer": "Ku Klux Klan",
+      "aliases": [
+        "KKK"
+      ]
+    },
+    {
+      "question": "Artistnavnet er Eminem. Men hva er hans ekte navn? Fornavnet deler han med et av tidenes største hjelpeprogram.",
+      "answer": "Marshall Mathers",
+      "aliases": [
+        "Marshall Mathers 3",
+        "Marshal Mathers III"
+      ]
+    },
+    {
+      "question": "Den ble grunnlagt av keiser Menelik II på slutten av 1800-tallet, men hva heter den største hovedstaden i verden som ligger i et land uten kyst (målt i folketall)?",
+      "answer": "Addis Abeba"
+    },
+    {
+      "question": "Hvilken person, som ble født fire dager før Hitler skal ha gitt Adolf ideen om å anlegge sin rare bart?",
+      "answer": "Charlie Chaplin",
+      "aliases": [
+        "Charles Chaplin",
+        "Chaplin"
+      ]
+    }
+  ]
+}
