@@ -12,7 +12,8 @@
       "question": "Hvilken fryktet organisasjon hadde sin spede begynnelse i Tennessee julen 1865?",
       "answer": "Ku Klux Klan",
       "aliases": [
-        "KKK"
+        "KKK",
+        "Ku Klux"
       ]
     },
     {
@@ -20,12 +21,17 @@
       "answer": "Marshall Mathers",
       "aliases": [
         "Marshall Mathers 3",
-        "Marshal Mathers III"
+        "Marshal Mathers III",
+        "Marshall Mathers III",
+        "Marshal Mathers"
       ]
     },
     {
       "question": "Den ble grunnlagt av keiser Menelik II på slutten av 1800-tallet, men hva heter den største hovedstaden i verden som ligger i et land uten kyst (målt i folketall)?",
-      "answer": "Addis Abeba"
+      "answer": "Addis Abeba",
+      "aliases": [
+        "Addis Ababa"
+      ]
     },
     {
       "question": "Hvilken person, som ble født fire dager før Hitler skal ha gitt Adolf ideen om å anlegge sin rare bart?",
