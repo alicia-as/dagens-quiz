@@ -1,0 +1,40 @@
+{
+  "theme": "Sydpolen for hundre år siden",
+  "questions": [
+    {
+      "question": "Hva het skipet som Roald Amundsen lånte av Fridtjof Nansen med lovnad om å seile mot nord, men som han fraktet sine menn med sydover til Antarktis for nøyaktig hundre år siden?",
+      "answer": "Fram",
+      "aliases": [
+        "Framskipet"
+      ]
+    },
+    {
+      "question": "Hvilken øy med deilig navn ”mellomlandet” Amundsens  ekspedisjon på for å fylle tankene før kursen ble stukket mot syd?",
+      "answer": "Madeira"
+    },
+    {
+      "question": "Hva heter forskningsstasjonen på Dronning Maud land som ble etablert, muligens for å opprettholde norske interesser og som har samme navn som et stort olje- og gassfelt?",
+      "answer": "Troll"
+    },
+    {
+      "question": "Nesten tre måneder etter suksessen, den 7. mars 1912, sendte Roald Amundsen et telegram hjem til Norge om at de hadde nådd målet. Det ble sendt fra Hobart. I hvilket land ligger den byen?",
+      "answer": "Australia (Tasmania)",
+      "aliases": [
+        "Australia",
+        "Tasmania"
+      ]
+    },
+    {
+      "question": "Sjefen for de britiske styrkene omkom etter å ha innsett nederlaget. Hva het han?",
+      "answer": "Robert Falcon Scott",
+      "aliases": [
+        "Scott",
+        "Robert Scott",
+        "Falcon Scott",
+        "Robert Falcon",
+        "Robert Falcon Scott",
+        "Falcon Scott"
+      ]
+    }
+  ]
+}
