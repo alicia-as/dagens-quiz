@@ -1,0 +1,41 @@
+{
+  "theme": "Det bruser!",
+  "questions": [
+    {
+      "question": "Hvilken leskedrikk ble funnet opp i Tyskland i 1940, selges i 180 land og er en seriøs konkurrent til en norskprodusert drikk?",
+      "answer": "Fanta"
+    },
+    {
+      "question": "Hva var det farmasøyten John Pemberton utviklet i 1985 som i dag nytes over hele verden?",
+      "answer": "Coca-Cola",
+      "aliases": [
+        "Coca Cola",
+        "Cola",
+        "Coke"
+      ]
+    },
+    {
+      "question": "Hvilket norskprodusert mineralvann har samme navn som en norsk motocrosskjører og en spansk verdensmester i fotball?",
+      "answer": "Villa, tidligere kjent som Villa Farris (André Villa, David Villa).",
+      "aliases": [
+        "Villa",
+        "Villa Farris"
+      ]
+    },
+    {
+      "question": "Hvilken uskyldig sitronbrus blir til en mye mindre uskyldig leskedrikk dersom du fjerner siste bokstav?",
+      "answer": "Sprite (Sprit)",
+      "aliases": [
+        "Sprite",
+        "Sprit"
+      ]
+    },
+    {
+      "question": "Hva heter Farris' relativt nye serie med smakstilstatt vann, som har enda mer smak enn Bris?",
+      "answer": "Frus",
+      "aliases": [
+        "Farris Frus"
+      ]
+    }
+  ]
+}
