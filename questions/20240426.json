@@ -1,50 +1,33 @@
 {
-  "theme": "Rød (repeat)",
+  "theme": "Bilmerker",
   "questions": [
     {
-      "question": "Manfred von Richthofen hadde skutt ned 80 av fiendens fly da han selv ble skutt ned og drept i 1918. Under hvilket navn er han bedre kjent?",
-      "answer": "Den røde baron",
+      "question": "Panda x 4x, Grande Punto og Croma, hvilket bilmerke? ",
+      "answer": "Fiat"
+    },
+    {
+      "question": "Hvilken SI-enhet deler navn med et bilmerke som ble startet i California i 2003?",
+      "answer": "Tesla",
       "aliases": [
-        "Den røde baron",
-        "Den røde baronen",
-        "Røde baron",
-        "Rød baron",
-        "Rød Baronen"
+        "Tesla Motors"
       ]
     },
     {
-      "question": "Hvilken amerikansk delstatshovedstad har et navn som betyr noe sånt som «rød stokk»?",
-      "answer": "Baton Rouge, Louisiana",
+      "question": "Hvilket kjent bilmerke betyr på norsk: 'Jeg ruller'?",
+      "answer": "Volvo"
+    },
+    {
+      "question": "Bilmerket Datsun gikk ut av produksjon i 1983 og selges nå under et annet navn. ",
+      "answer": "Nissan",
       "aliases": [
-        "Baton Rouge",
-        "Baton roug",
-        "Louisiana",
-        "Baton Rouge, Louisiana"
+        "Nissan Motor Corporation"
       ]
     },
     {
-      "question": "Hvilken populær amerikansk jule- og eventyrsang fra 1949 ble senere oversatt av Arne Bendiksen og Egil Hagen?",
-      "answer": "Rudolf er rød på nesen",
+      "question": "En norsk film fra 2003 med bl.a Aksel Hennie i hovedrollen har samme navn som et tidligere norsk bilmerke. Hvilket?",
+      "answer": "Buddy",
       "aliases": [
-        "Rudolf er rød på nesen",
-        "Rudolf er rød på nesa",
-        "rudolf"
-      ]
-    },
-    {
-      "question": "Hvor mange striper i det amerikanske flagget er røde?",
-      "answer": "7",
-      "aliases": [
-        "7",
-        "syv"
-      ]
-    },
-    {
-      "question": "Hvilken film fra 1999 som vant fem Oscars har hundrevis av røde roser på filmplakaten?",
-      "answer": "American Beauty",
-      "aliases": [
-        "American Beauty",
-        "American beauty"
+        "Buddy Electric"
       ]
     }
   ]
