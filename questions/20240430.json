@@ -1,0 +1,50 @@
+{
+  "theme": "Leg meg!",
+  "questions": [
+    {
+      "question": "Med fornavn Gregory og et etternavn man kan bo i, hvem er denne legen?",
+      "answer": "House",
+      "aliases": [
+        "Dr. House",
+        "Gregory House",
+        "Dr. Gregory House",
+        "Dr House"
+      ]
+    },
+    {
+      "question": "Ellen Pompeo spiller hovedrollen i denne TV-serien som har gått siden 2005. Hva heter serien?",
+      "answer": "Grey's Anatomy",
+      "aliases": [
+        "Greys Anatomy",
+        "Grey's",
+        "Grays Anatomy",
+        "Gray's Anatomy"
+      ]
+    },
+    {
+      "question": "Sherlock Holmes' venn og kollega, som også er en lege, har samme etternavn som en robot fra IBM. Hva heter han?",
+      "answer": "Watson",
+      "aliases": [
+        "Dr. Watson",
+        "John Watson"
+      ]
+    },
+    {
+      "question": "I hvilken tv-serie fra 2016 må lege og skuespiller Anders Danielsens Lies rollefigur amputere begge beina?",
+      "answer": "Nobel",
+      "aliases": [
+        "Nobel-serien",
+        "Nobel - fred for enhver pris",
+        "Nobel fred for enhver pris"
+      ]
+    },
+    {
+      "question": "Hvilken tysk lege ble gravlagt i Brasil i 1979 under navnet Wolfgang Gerhard?",
+      "answer": "Josef Mengele",
+      "aliases": [
+        "Dr. Mengele",
+        "Mengele"
+      ]
+    }
+  ]
+}
