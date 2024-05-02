@@ -1,0 +1,44 @@
+{
+  "theme": "Den periodiske tabell",
+  "questions": [
+    {
+      "question": "Hva kalles de syv grunnstoffene som er plassert helt til høyre i det periodiske system?",
+      "answer": "Edelgasser",
+      "aliases": [
+        "Edelgassene",
+        "Edelgass",
+        "Edel gasser"
+      ]
+    },
+    {
+      "question": "Hvilken grunnstoff med atomnummer 25 ble isolert i 1774 og brukt i stålproduksjon tidlig på 1800-tallet da det gjorde jernet sterkere? Tar du vekk siste bokstav, får du en tegneserie.",
+      "answer": "Mangan (Manga)",
+      "aliases": [
+        "Mangan",
+        "Manga"
+      ]
+    },
+    {
+      "question": "Hvilket grunnstoff er tyngst; gull, uran eller platina?",
+      "answer": "Platina. En liter veier 21,45 kilo (uran=19,0 gull=19,3).",
+      "aliases": [
+        "Platina"
+      ]
+    },
+    {
+      "question": "Hvilket grunnstoff, oppkalt etter den greske månegudinnen, har et navn som også kan være et pattedyr i bestemt form?",
+      "answer": "Selen"
+    },
+    {
+      "question": "Grunnstoffet med atomnummer 102 ble oppdaget i 1957 og oppkalt etter en svenske som har gjor mange glade. Hva het han?",
+      "answer": "Nobel(ium)",
+      "aliases": [
+        "Nobelium",
+        "Nobel",
+        "Alfred Nobel",
+        "Alfred",
+        "Nobelprisen"
+      ]
+    }
+  ]
+}
