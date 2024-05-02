@@ -1,0 +1,52 @@
+{
+  "theme": "Med mat i svaret",
+  "questions": [
+    {
+      "question": "I hvilket klassisk brettspill vinner man ved å erobre hele verden?",
+      "answer": "Risk (ris)",
+      "aliases": [
+        "Risk",
+        "Ris"
+      ]
+    },
+    {
+      "question": "Hvilken populær norsk musikkgruppe kunne gjerne hett «Pushball» dersom de var engelskspråklige?",
+      "answer": "Röyksopp (sopp)",
+      "aliases": [
+        "Röyksopp",
+        "Røyksopp"
+      ]
+    },
+    {
+      "question": "Han ble født året etter Ole Bull og døde året etter Ole Bull. Blant sentrale verker kan vi nevne «Idioten» og «Brødrene Karamazov». Navnet takk!",
+      "answer": "Dostojevskij (ost)",
+      "aliases": [
+        "Dostojevskij",
+        "Dostojevski",
+        "Dostojevskij",
+        "Fjodor Dostojevskij",
+        "Fjodor Dostojevski",
+        "Fjodor Dostojevskij",
+        "Dostojevskij",
+        "Dostojevski"
+      ]
+    },
+    {
+      "question": "Med en velsmakende småkake som etternavn, hva heter Europas kanskje mektigste nåværende statsleder?",
+      "answer": "Emmanuel Macron (Makron)",
+      "aliases": [
+        "Emmanuel Macron",
+        "Macron",
+        "Makron"
+      ]
+    },
+    {
+      "question": "Hvilken rågod kjøttrett har tatt navn etter en folkegruppe (6 millioner mennesker) som for det meste holder til i Russland?",
+      "answer": "Biff tartar (tatar)",
+      "aliases": [
+        "Biff tartar",
+        "Tartar"
+      ]
+    }
+  ]
+}
