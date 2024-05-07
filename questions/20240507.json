@@ -1,0 +1,43 @@
+{
+  "theme": "Eurovision",
+  "questions": [
+    {
+      "question": "I dag sparkes Eurovision Song Contest 2024 i gang. I hvilken by?",
+      "answer": "Malmö",
+      "aliases": [
+        "Malmo",
+        "Malmø",
+        "Malmø, Sverige",
+        "Malmö, Sverige",
+        "Malmo, Sverige"
+      ]
+    },
+    {
+      "question": "Hvilket år vant Norge sist Eurovision Song Contest?",
+      "answer": "2009, med Alexander Rybak",
+      "aliases": [
+        "2009"
+      ]
+    },
+    {
+      "question": "Det er ikke kun europeiske land som deltar i Eurovision Song Contest. Hvilket deltakende land ligger lengst unna Paris geografisk?",
+      "answer": "Australia",
+      "aliases": [
+        "Australia, Australia"
+      ]
+    },
+    {
+      "question": "Sverige har vunnet hele 7 ganger, og er med det ett av de to landene som har vunnet flest ganger. Denne plasseringen deler de med hvilket land?",
+      "answer": "Irland"
+    },
+    {
+      "question": "Hvor mange land har vært med i Eurovision Song Contest siden starten i 1956; 32, 42, 52 eller 62?",
+      "answer": "52",
+      "aliases": [
+        "52 land",
+        "52 land har vært med",
+        "femti to"
+      ]
+    }
+  ]
+}
