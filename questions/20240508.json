@@ -1,0 +1,45 @@
+{
+  "theme": "Ablegøyer med afrikanske land",
+  "questions": [
+    {
+      "question": "Hvilket afrikansk land blir til en irsk artist dersom du fjerner den første bokstaven?",
+      "answer": "Kenya (Enya)",
+      "aliases": [
+        "Kenya",
+        "Enya"
+      ]
+    },
+    {
+      "question": "Hvilket afrikansk land blir til en Obama dersom du fjerner de to første bokstaven?",
+      "answer": "Somalia (Malia)",
+      "aliases": [
+        "Somalia",
+        "Malia"
+      ]
+    },
+    {
+      "question": "Hvilket afrikansk land har et asiatisk land gjemt i navnet sitt?",
+      "answer": "Burkina Faso (Kina)",
+      "aliases": [
+        "Burkina Faso",
+        "Kina"
+      ]
+    },
+    {
+      "question": "Hvilket afrikansk land på fire bokstaver blir til en søramerikansk hovedstad dersom du stokker om på bokstavene?",
+      "answer": "Mali (Lima)",
+      "aliases": [
+        "Mali",
+        "Lima"
+      ]
+    },
+    {
+      "question": "Hvilket afrikansk land blir til nabolandet dersom du fjerner de to siste bokstavene?",
+      "answer": "Nigeria (Niger)",
+      "aliases": [
+        "Nigeria",
+        "Niger"
+      ]
+    }
+  ]
+}
