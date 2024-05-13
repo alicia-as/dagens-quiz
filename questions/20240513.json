@@ -1,0 +1,51 @@
+{
+  "theme": "Blå",
+  "questions": [
+    {
+      "question": "Hvilken stor elv har sitt utløp i Tanasjøen (1830 moh)?",
+      "answer": "Den blå nilen",
+      "aliases": [
+        "Den blå nilen",
+        "Blå nilen",
+        "Blånilen",
+        "The Blue Nile"
+      ]
+    },
+    {
+      "question": "Ved hvilken elv ligger utestedet Blå i Oslo?",
+      "answer": "Akerselva",
+      "aliases": [
+        "Akerselva",
+        "Akerselven"
+      ]
+    },
+    {
+      "question": "Filmen «Blue Is the Warmest Colour” vant den gjeveste prisen i Cannes 2013. Hva kalles prisen?",
+      "answer": "Gullpalmen",
+      "aliases": [
+        "The Palme d'Or",
+        "Palme d'Or"
+      ]
+    },
+    {
+      "question": "Hva heter plassen i Bergen som har «Den blå steinen» godt plantet i sin midte?",
+      "answer": "Torgallmenningen",
+      "aliases": [
+        "Torgallmenning",
+        "Torgallmenninga",
+        "Torgalmennigen"
+      ]
+    },
+    {
+      "question": "Faren til Svein Tjugeskjegg som levde for mer enn 1000 år siden har blitt mer berømt enn noen sinne. Hva het han?",
+      "answer": "Harald Blåtann (Bluetooth)",
+      "aliases": [
+        "Harald Blåtann",
+        "Harald Bluetooth",
+        "Harald Blåtand",
+        "Harald Blåtann (Bluetooth)",
+        "Bluetooth"
+      ]
+    }
+  ]
+}
