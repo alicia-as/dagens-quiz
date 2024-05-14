@@ -1,0 +1,42 @@
+{
+  "theme": "Høye fjell",
+  "questions": [
+    {
+      "question": "Kilimanjaro er Afrikas høyeste fjell. I hvilket land ligger det?",
+      "answer": "Tanzania"
+    },
+    {
+      "question": "Hva heter det høyeste fjellet i fjellkjeden Karakorum som strekker seg 8611 m.o.h., og ligger på grensen mellom Pakistan og Folkerepublikken Kina?",
+      "answer": "K2",
+      "aliases": [
+        "Karakorum 2"
+      ]
+    },
+    {
+      "question": "Hvor i all verden ligger den 2277 meter høye vulkanen Beerenberg?",
+      "answer": "Jan Mayen",
+      "aliases": [
+        "Jan Mayen (Norge)"
+      ]
+    },
+    {
+      "question": "Elbrus regnes av mange som Europas høyeste fjell. I hvilken fjellkjede ligger det?",
+      "answer": "Kaukasus",
+      "aliases": [
+        "Kaukasusfjellene",
+        "Kaukasusfjellene (Russland)",
+        "Caucasus"
+      ]
+    },
+    {
+      "question": "Aconcagua er det høyeste fjellet utenfor Asia, og ligger i Argentina. Hvor høyt er det: 6962, 7112 eller 7341 meter over havet?",
+      "answer": "6962 meter",
+      "aliases": [
+        "6962",
+        "6962 m",
+        "6962 meter over havet",
+        "6962 m.o.h."
+      ]
+    }
+  ]
+}
