@@ -1,0 +1,38 @@
+{
+  "theme": "Tegneserier",
+  "questions": [
+    {
+      "question": "Hvilket måltid er også en av Norges mest populære tegneserier?",
+      "answer": "Lunch",
+      "aliases": [
+        "Lønsj"
+      ]
+    },
+    {
+      "question": "Hvilken svartkledd, norsk tegneseriefigur har samme etternavn som racerbilføreren Juan Pablo Montoya?",
+      "answer": "Nemi",
+      "aliases": [
+        "Nemi Montoya"
+      ]
+    },
+    {
+      "question": "I hvilken amerikansk tegneserie som kom ut i 1950 møter vi Amos Halvspenn? Denne tegneserien kan spises hvis du varmer den opp i ovnen.",
+      "answer": "Billy",
+      "aliases": [
+        "Billys"
+      ]
+    },
+    {
+      "question": "I hvilken tegneserie med to grunnstoff som navn møter vi foxterrieren Terry, Kaptein Archibald Haddock og detektivene Dupond og Dupont?",
+      "answer": "TinTin",
+      "aliases": [
+        "Tintin",
+        "TinnTinn"
+      ]
+    },
+    {
+      "question": "Hvilken populær norsk tegneserie, skapt av Frode Øverli, har et navn som også kan bety 'stor mage'?",
+      "answer": "Pondus"
+    }
+  ]
+}
