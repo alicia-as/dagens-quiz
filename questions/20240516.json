@@ -1,0 +1,47 @@
+{
+  "theme": "Gøy med første bokstav!",
+  "questions": [
+    {
+      "question": "Hvilken sentral oldtidsby i det nordvestre Lilleasia, som i dag heter İznik og ligger i  Tyrkia, hadde et navn som blir til et konsern grunnlagt i Småland i 1943 dersom du tar vekk første bokstaven i navnet?",
+      "answer": "Nikea (IKEA)",
+      "aliases": [
+        "Nikea",
+        "IKEA"
+      ]
+    },
+    {
+      "question": "Hvilket spill som de fleste av oss har spilt, blir til et dyr de færreste av oss har sett dersom du bytter ut første bokstaven?",
+      "answer": "Bingo, som blir til Dingo",
+      "aliases": [
+        "Bingo",
+        "Dingo"
+      ]
+    },
+    {
+      "question": "Apropos forrige spørsmål: Europas lengste elv renner ut i Det kaspiske hav og tar du vekk første bokstaven får du et jentenavn. Hvilken elv?",
+      "answer": "Volga (Olga)",
+      "aliases": [
+        "Volga",
+        "Olga"
+      ]
+    },
+    {
+      "question": "Du skal få den første bokstaven i hvert ord og så skal du finne ut hvilket ordtak som skjuler seg bak bokstavene: DEBMEFIHETPT.",
+      "answer": "Det er bedre med en fugl i hånden enn ti på taket",
+      "aliases": [
+        "Det er bedre med en fugl i hånden enn ti på taket.",
+        "Det er bedre med en fugl i hendene enn ti på taket",
+        "Det er bedre med en fugl i hendene enn 10 på taket"
+      ]
+    },
+    {
+      "question": "Hva slags bok blir til et land dersom du tar vekk første bokstaven, men blir til en hovedstad dersom du i stedet tar bort siste bokstaven?",
+      "answer": "Roman, Oman, Roma",
+      "aliases": [
+        "Roman",
+        "Oman",
+        "Roma"
+      ]
+    }
+  ]
+}
