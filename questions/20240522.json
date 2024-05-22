@@ -1,0 +1,25 @@
+{
+  "theme": "Hvilket år?",
+  "questions": [
+    {
+      "question": "Flåklypa Grand Prix  gjorde braksuksess på norske kinoer, det ble forbud mot å reklamere for alkohol og tobakk, Eva Longoria ble født og USA flyktet hals over hode fra Vietnam. Hvilket år?",
+      "answer": "1975"
+    },
+    {
+      "question": "Trump er president, Greta Thunberg blir TIME person of the year, Notre Dame brenner og Game of Thrones avsluttes. Hvilket år?",
+      "answer": "2019"
+    },
+    {
+      "question": "Momsen økes til 25%, Ap, SV & Sp vinner valget, og israelske styrker trekker seg ut av Gaza-stripen etter 38 års okkupasjon. Hvilket år?",
+      "answer": "2005"
+    },
+    {
+      "question": "De jevngamle Charlie Chaplin, Arnulf Øverland og Adolf Hitler ble alle født i april. I hvilket år, hvis sifre summerer til 26?",
+      "answer": "1889"
+    },
+    {
+      "question": "Hvilket år, som skrives MCMLXXXII med romertall, brøt Falklandskrigen ut?",
+      "answer": "1982"
+    }
+  ]
+}
