@@ -1,0 +1,46 @@
+{
+  "theme": "Amerikanske delstater",
+  "questions": [
+    {
+      "question": "Hvilken delstat, med 11 bokstaver langt navn på tross av at kun fire ulike bokstaver benyttes, har hovedstad Jackson?",
+      "answer": "Mississippi",
+      "aliases": [
+        "Missisippi",
+        "Misisippi",
+        "Missisipi",
+        "Misisipi",
+        "Misisipi"
+      ]
+    },
+    {
+      "question": "Hvilken delstat, som deler navn med en fiktiv popstjerne, er den 4. største etter areal, med et areal som er ca 1% mindre enn Norge inkludert Svalbard?",
+      "answer": "Montana (Hannah Montana)",
+      "aliases": [
+        "Hannah Montana",
+        "Montana"
+      ]
+    },
+    {
+      "question": "Johnny Depp, Loretta Lynn, Muhammad Ali og Abraham Lincoln kommer alle fra samme delstat. Delstatens navn inngår også i et gatekjøkkennavn. Hvilken delstat?",
+      "answer": "Kentucky (Fried Chicken)",
+      "aliases": [
+        "Kentucky"
+      ]
+    },
+    {
+      "question": "Honolulu, Hawaii, Indianapolis, Indiana og Oklahoma City, Oklahoma er tre av fire delstatshovedsteder som har samme forbokstav i navnet som staten de er hovedstad i. Hvilken er den fjerde?",
+      "answer": "Dover, Delaware",
+      "aliases": [
+        "Delaware",
+        "Dover"
+      ]
+    },
+    {
+      "question": "I hvilken delstat, som blir til et vanlig norsk pikenavn dersom du fjerner de to siste bokstavene, heter hovedstaden Boise?",
+      "answer": "Idaho",
+      "aliases": [
+        "Ida"
+      ]
+    }
+  ]
+}
