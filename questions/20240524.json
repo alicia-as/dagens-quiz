@@ -1,0 +1,45 @@
+{
+  "theme": "Svaret begynner på 'C'",
+  "questions": [
+    {
+      "question": "Med en delstats navn, hva heter elven som renner inn i den kunstige innsjøen Lake Mead i USA?",
+      "answer": "Colorado-elven",
+      "aliases": [
+        "Colorado",
+        "Colorado River",
+        "Colorado-elven",
+        "Coloradoelven",
+        "Colorado-elva",
+        "Coloradoelva"
+      ]
+    },
+    {
+      "question": "Hvilket svensk postordrefirma ble stiftet i Dalarna i 1918, selger i dag mer enn 15 000 artikler og har utsalg i de fleste store byer i Norden?",
+      "answer": "Clas Ohlson",
+      "aliases": [
+        "Clas Ohlson"
+      ]
+    },
+    {
+      "question": "Rumba er en «rolig» cha cha cha, og er en dans på UNESCOs liste over verdens kulturarv. Fra hvilket land stammer rumbaen?",
+      "answer": "Cuba"
+    },
+    {
+      "question": "Mexicos største delstat har gitt navn til en av verdens minste hunderaser. Hva heter de to?",
+      "answer": "Chihuahua",
+      "aliases": [
+        "Chihahua",
+        "Chihuahua-hund",
+        "Chihaha"
+      ]
+    },
+    {
+      "question": "Muligens oppkalt etter en gris, hva heter kulturhuset til Det Norske Studentersamfund på Majorstua i Oslo?",
+      "answer": "Chateau Neuf",
+      "aliases": [
+        "Chateau Nuef",
+        "Chateau Nuf"
+      ]
+    }
+  ]
+}
