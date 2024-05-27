@@ -1,0 +1,50 @@
+{
+  "theme": "Med grunnstoff i svaret",
+  "questions": [
+    {
+      "question": "Hvilken stor norsk bedrift har tatt navn etter et trefat som ble brukt til å frakte og oppbevare mat?",
+      "answer": "Tine (tin)",
+      "aliases": [
+        "Tine",
+        "Tinn",
+        "Tinn"
+      ]
+    },
+    {
+      "question": "Hva het tyskeren som vant Wimbledon-turneringen i tennis i 1985 i en alder av 17?",
+      "answer": "Boris Becker (Bor)",
+      "aliases": [
+        "Boris Becker",
+        "Bor",
+        "Becker",
+        "Boris"
+      ]
+    },
+    {
+      "question": "Hva heter den bittelille sigarrøykende skurken som regner Mikke Mus som sin verste fiende?",
+      "answer": "Mikromidas (krom)",
+      "aliases": [
+        "Mikromidas",
+        "Mikro-midas",
+        "Krom",
+        "Mikro midas"
+      ]
+    },
+    {
+      "question": "I hvilken film fra 1958 spiller Erling Lindahl psykoanalytikeren Kai Bugge, som løser mordgåter på utradisjonelt vis?",
+      "answer": "De dødes tjern (jern)",
+      "aliases": [
+        "De dødes tjern",
+        "Jern"
+      ]
+    },
+    {
+      "question": "Grunnstoffet har atomnummer 80 og har et grunnstoff med atomnummer 47 i navnet. Hvilket grunnstoff er det snakk om?",
+      "answer": "Kvikksølv (sølv)",
+      "aliases": [
+        "Kvikksølv",
+        "Sølv"
+      ]
+    }
+  ]
+}
