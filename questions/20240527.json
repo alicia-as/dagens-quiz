@@ -1,0 +1,37 @@
+{
+  "theme": "Slagord",
+  "questions": [
+    {
+      "question": "Hvilket produkt tenker du på når du hører slagordet: «En dråpe er nok»?",
+      "answer": "Zalo"
+    },
+    {
+      "question": "Hvilket produkt tenker du på når du hører slagordet: «For liten og for stor»?",
+      "answer": "Lano",
+      "aliases": [
+        "Lano såpe",
+        "Lano såpestykke"
+      ]
+    },
+    {
+      "question": "Hvilket tidligere gigantisk selskap brukte slagordet: «Connecting people»?",
+      "answer": "Nokia"
+    },
+    {
+      "question": "Hvilken produsent bruker slagordet: «The Best a Man Can Get»?",
+      "answer": "Gillette",
+      "aliases": [
+        "Gillete",
+        "Gilette"
+      ]
+    },
+    {
+      "question": "Hvem brukes slagordet «Litt dyrere, for smakens skyld» av?",
+      "answer": "Evergood",
+      "aliases": [
+        "Evergood kaffe",
+        "Evergood classic"
+      ]
+    }
+  ]
+}
