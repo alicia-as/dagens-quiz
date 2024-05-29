@@ -1,0 +1,31 @@
+{
+  "theme": "Hvilken land?",
+  "questions": [
+    {
+      "question": "Bjørn Einar Romøren satte verdensrekord da han hoppet 239 meter i mammutbakken Planica, i hvilket land?",
+      "answer": "Slovenia"
+    },
+    {
+      "question": "Napoleon ble beseiret i slaget ved Waterloo i 1815. I hvilket land?",
+      "answer": "Belgia"
+    },
+    {
+      "question": "Serengeti nasjonalpark ligger i et øst-afrikansk land som byttet hovedstad fra Dar-Es-Salaam til Dodoma i 1996. Hvilket land?",
+      "answer": "Tanzania",
+      "aliases": [
+        "Tansania"
+      ]
+    },
+    {
+      "question": "Hvilket land er størst; Danmark, Belgia eller Nederland?",
+      "answer": "Danmark (42 952 km²). Belgia er minst (30 688 km²), fulgt av Nederland (41 850 km²)",
+      "aliases": [
+        "Danmark"
+      ]
+    },
+    {
+      "question": "I hvilket land har den rockete og noe kontroversielle Javier Milei vært president siden desember 2023?",
+      "answer": "Argentina"
+    }
+  ]
+}
