@@ -42,7 +42,10 @@ export default async function handler(
         ? (totalCorrect / (totalSubmissions * 5)).toFixed(2)
         : 0; // There are always 5 questions
 
-    res.status(200).json({ averageCorrect });
+    res.status(200).json({
+      averageCorrect,
+      totalSubmissions,
+    });
   } catch (error) {
     console.error("Error fetching summary: ", error);
     res.status(500).json({ error: "Failed to fetch summary" });

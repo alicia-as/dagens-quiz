@@ -20,7 +20,8 @@ const IndexPage: React.FC = () => {
   const [userAnswers, setUserAnswers] = useState<string[]>([]);
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [averageCorrect, setAverageCorrect] = useState(null);
+  const [averageCorrect, setAverageCorrect] = useState<number | null>(null);
+  const [totalSubmissions, setTotalSubmissions] = useState<number | null>(null);
 
   useEffect(() => {
     // Fetch questions from your API
@@ -40,6 +41,18 @@ const IndexPage: React.FC = () => {
     fetchQuestions();
   }, []);
 
+  // Function to fetch summary
+  const fetchSummary = async () => {
+    try {
+      const response = await fetch("/api/summary");
+      const data = await response.json();
+      setAverageCorrect(data.averageCorrect);
+      setTotalSubmissions(data.totalSubmissions);
+    } catch (error) {
+      console.error("Couldn't fetch summary", error);
+    }
+  };
+
   // Retrieve answers from local storage
   const answersKey = new Date().toLocaleDateString() + "-answers";
   useEffect(() => {
@@ -47,6 +60,7 @@ const IndexPage: React.FC = () => {
     if (answers) {
       setUserAnswers(JSON.parse(answers));
       setIsSubmitted(true);
+      fetchSummary(); // Fetch summary when answers are cached
     }
   }, []);
 
@@ -85,13 +99,7 @@ const IndexPage: React.FC = () => {
     }
 
     // Fetch summary after submission
-    fetch("/api/summary")
-      .then((response) => response.json())
-      .then((data) => {
-        setAverageCorrect(data.averageCorrect);
-        setIsSubmitted(true); // Make sure this is set after fetching the summary
-      })
-      .catch((error) => console.error("Couldn't fetch summary", error));
+    fetchSummary();
   };
 
   const isAliasCorrect = (index: number) => {
@@ -215,11 +223,11 @@ const IndexPage: React.FC = () => {
       </form>
       {isSubmitted && <div className="mt-4">{/* Display results here */}</div>}
 
-      {isSubmitted && averageCorrect && (
+      {isSubmitted && averageCorrect !== null && (
         <div>
           <p>
             Dagens gjennomsnittlige riktige svar:{" "}
-            {(averageCorrect * 5).toFixed(2)} / 5
+            {(averageCorrect * 5).toFixed(2)} / 5 ({totalSubmissions} svar)
           </p>
           <ScoreBoxes average={averageCorrect} />
         </div>
