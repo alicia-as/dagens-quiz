@@ -3,7 +3,12 @@
   "questions": [
     {
       "question": "Hvis det står V.S.O.P. på flasken, hvilket brennevin drikker du sannsynligvis da?",
-      "answer": "Cognac"
+      "answer": "Cognac",
+      "aliases": [
+        "Cognacen",
+        "Konjak",
+        "Konjakk"
+      ]
     },
     {
       "question": "Hvilken drue, som har fått navn etter en kommune i det østlige Frankrike, er basisdrue i hvitviner som chablis, montrachet og meursault?",
@@ -21,7 +26,7 @@
       ]
     },
     {
-      "question": "Hvilket populært norsk ølmerke blir til et ekstremvær om du fjerner første bokstav, og samskipnaden for norske utenlandsstudenter om du fjerner den siste?",
+      "question": "Hvilket populært norsk ølmerke blir til et ekstremvær om du fjerner sitste bokstav, og samskipnaden for norske utenlandsstudenter om du fjerner den første?",
       "answer": "Hansa (Hans, ANSA)",
       "aliases": [
         "Hansa"
