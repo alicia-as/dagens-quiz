@@ -1,0 +1,38 @@
+{
+  "theme": "Godt i glasset",
+  "questions": [
+    {
+      "question": "Hvis det står V.S.O.P. på flasken, hvilket brennevin drikker du sannsynligvis da?",
+      "answer": "Cognac"
+    },
+    {
+      "question": "Hvilken drue, som har fått navn etter en kommune i det østlige Frankrike, er basisdrue i hvitviner som chablis, montrachet og meursault?",
+      "answer": "Chardonnay",
+      "aliases": [
+        "Chardonnay-druen",
+        "Chardonnaydruen"
+      ]
+    },
+    {
+      "question": "Hva er den viktigste ingrediensen (kornsort) i bourbon whiskey?",
+      "answer": "Mais",
+      "aliases": [
+        "Maisen"
+      ]
+    },
+    {
+      "question": "Hvilket populært norsk ølmerke blir til et ekstremvær om du fjerner første bokstav, og samskipnaden for norske utenlandsstudenter om du fjerner den siste?",
+      "answer": "Hansa (Hans, ANSA)",
+      "aliases": [
+        "Hansa"
+      ]
+    },
+    {
+      "question": "Du tar 5 cl lys rom, 2.5 cl limejuice, 2 barskjeer med hvitt sukker, 8 mynteblader, en splæsj Club Soda og en dæsj Angostura Bitters. Hvilken cubansk drink får du da?",
+      "answer": "Mojito",
+      "aliases": [
+        "Mojitoen"
+      ]
+    }
+  ]
+}
