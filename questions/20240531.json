@@ -1,0 +1,37 @@
+{
+  "theme": "TV-serier",
+  "questions": [
+    {
+      "question": "Med samme navn som et skjørt byggverk, hvilken politisk dramaserie hadde premiere på «Netflix» i 2013?",
+      "answer": "House of Cards",
+      "aliases": [
+        "House of Cards-serien",
+        "Kortenes hus"
+      ]
+    },
+    {
+      "question": "Hvilken tv-serie brukte Villa Arabesque i Acapulco, Mexico som location ved oppstarten i 2003?",
+      "answer": "Paradise Hotel",
+      "aliases": [
+        "Paradise Hotel-serien",
+        "Pærra"
+      ]
+    },
+    {
+      "question": "Hvilken tv-serie har en logo som består av grunnstoffene Brom og Barium?",
+      "answer": "Breaking Bad"
+    },
+    {
+      "question": "Hvilken populær tv-serie ble skapt av vennene David Krane og Martha Kaufmann?",
+      "answer": "Friends",
+      "aliases": [
+        "Friends-serien",
+        "Venner for livet"
+      ]
+    },
+    {
+      "question": "Nord-Dakotas største by er også navnet på en tv-serie som hadde premiere i 2012. Denne var igjen basert på en film fra 1996. Hva heter tv-serien?",
+      "answer": "Fargo"
+    }
+  ]
+}
