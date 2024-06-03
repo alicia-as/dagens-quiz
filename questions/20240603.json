@@ -1,0 +1,39 @@
+{
+  "theme": "Aktuelt, uke 23",
+  "questions": [
+    {
+      "question": "Akademikernes streik ble i går avsluttet ved tvungen lønnsnemnd. Hva heter den andre fagforeningen som fortsatt streiker?",
+      "answer": "Unio"
+    },
+    {
+      "question": "Champions League-finalen ble spilt lørdag. Hvilket lag vant, for 15. gang?",
+      "answer": "Real Madrid"
+    },
+    {
+      "question": "Det er straks duket for EM i fotball i Tyskland. Hvor mange lag deltar i mesterskapet?",
+      "answer": "24",
+      "aliases": [
+        "24 lag",
+        "24 nasjoner"
+      ]
+    },
+    {
+      "question": "Det har nylig blitt delt ut Michelin-stjerner til norske restauranter. Hvilken Stavanger-restaurant gikk fra to til tre stjerner?",
+      "answer": "Re-Naa",
+      "aliases": [
+        "Re Naa",
+        "Re-Naa Stavanger",
+        "Renaa",
+        "RENÅ",
+        "Renå"
+      ]
+    },
+    {
+      "question": "Claudia Sheinbaum ligger an til å bli landets første kvinnelige president, etter et godt valg søndag. Hvilket land er det snakk om?",
+      "answer": "Mexico",
+      "aliases": [
+        "Meksiko"
+      ]
+    }
+  ]
+}
