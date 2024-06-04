@@ -1,0 +1,49 @@
+{
+  "theme": "Reisebrev fra Spania",
+  "questions": [
+    {
+      "question": "Hva heter fjellkjeden i California som har samme navn som en nabostat og en liten, men høy fjellkjede på Spanias fastland?",
+      "answer": "Sierra Nevada",
+      "aliases": [
+        "Sierra Nevada California",
+        "Sierra Nevada Spania"
+      ]
+    },
+    {
+      "question": "Hva heter den spanske byen som er kjent for sin arkitektur, og som har en egen park designet av Antoni Gaudí?",
+      "answer": "Barcelona"
+    },
+    {
+      "question": "Hva er det som tradisjonelt gir risen i spanjolenes nasjonalrett, paella, den gyldengule fargen?",
+      "answer": "Safran",
+      "aliases": [
+        "Saffran",
+        "Saffron"
+      ]
+    },
+    {
+      "question": "Det heter Giro d ‘Italia og Tour de France, men hva heter spanjolenes store sykkelløp?",
+      "answer": "Vuelta a España",
+      "aliases": [
+        "Vuelta a Espana",
+        "Vuelta",
+        "La Vuelta",
+        "La Vuelta a España",
+        "La Vuelta a Espana",
+        "Vuelta Espana",
+        "Vuelta de España",
+        "Vuelta de Espana"
+      ]
+    },
+    {
+      "question": "Dersom du seiler rett øst fra Valencia, hvilken stor øy støter du da etter hvert på?",
+      "answer": "Mallorca",
+      "aliases": [
+        "Majorca",
+        "Mallorka",
+        "Majorka",
+        "Mallorca"
+      ]
+    }
+  ]
+}
