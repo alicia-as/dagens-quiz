@@ -1,0 +1,49 @@
+{
+  "theme": "Bytt en bokstav",
+  "questions": [
+    {
+      "question": "Hvilken tysk by har et navn som blir til en skikkelig bakrus dersom du bytter ut en av bokstavene og setter inn en ”G” i stedet?",
+      "answer": "Hannover (Hangover)",
+      "aliases": [
+        "Hannover",
+        "Hangover"
+      ]
+    },
+    {
+      "question": "Hvilken festning, best kjent som fengsel, blir til et middel mot halsvondt dersom du bytter ut den første bokstaven?",
+      "answer": "Bastillen (Pastillen)",
+      "aliases": [
+        "Bastillen",
+        "Pastillen",
+        "Bastille",
+        "Pastille",
+        "Bastill",
+        "Pastill"
+      ]
+    },
+    {
+      "question": "Hvilken hovedstad i Midtøsten blir til en kortlek dersom du bytter ut en bokstav?",
+      "answer": "Kabul (Kabal)",
+      "aliases": [
+        "Kabul",
+        "Kabal"
+      ]
+    },
+    {
+      "question": "Hvilken havneby på østkysten av Sør-Afrika er landets tredje største, og blir til et hodeplagg dersom du bytter ut første bokstav?",
+      "answer": "Durban (Turban)",
+      "aliases": [
+        "Durban",
+        "Turban"
+      ]
+    },
+    {
+      "question": "Hvilket lite afrikansk land på vestkysten av Afrika, med hovedstad Lomé, har et navn som blir til et gammelt klesplagg dersom du bytter ut siste bokstav?",
+      "answer": "Togo (Toga)",
+      "aliases": [
+        "Togo",
+        "Toga"
+      ]
+    }
+  ]
+}
