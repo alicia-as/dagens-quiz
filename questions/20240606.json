@@ -1,0 +1,39 @@
+{
+  "theme": "London",
+  "questions": [
+    {
+      "question": "Hvilken av disse fotballklubbene er IKKE en London-klubb: Queens Park Rangers, Aston Villa, Fulham eller Chelsea?",
+      "answer": "Aston Villa, som er en klubb fra Birmingham",
+      "aliases": [
+        "Aston Villa"
+      ]
+    },
+    {
+      "question": "Klokken «Big Ben» ble satt på plass i 1858. I hvilket palass?",
+      "answer": "Westminster",
+      "aliases": [
+        "Palace of Westminster",
+        "West-minster",
+        "Westminster-palasset",
+        "Westminsterpalasset",
+        "Westminsterpalasset"
+      ]
+    },
+    {
+      "question": "London har arrangert OL tre ganger. Når var sist?",
+      "answer": "2012"
+    },
+    {
+      "question": "Hvilken av disse elvene renner gjennom London: Themsen, Seinen, Donau eller Po?",
+      "answer": "Themsen"
+    },
+    {
+      "question": "Hva kalles dialekten til en arbeider fra Londons East End? ",
+      "answer": "Cockney",
+      "aliases": [
+        "Cockney-dialekt",
+        "Cockneydialekt"
+      ]
+    }
+  ]
+}
