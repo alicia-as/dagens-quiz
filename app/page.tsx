@@ -25,6 +25,7 @@ const IndexPage: React.FC = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [averageCorrect, setAverageCorrect] = useState<number | null>(null);
   const [totalSubmissions, setTotalSubmissions] = useState<number | null>(null);
+  const [warningMessage, setWarningMessage] = useState<string | null>(null);
 
   useEffect(() => {
     // Fetch questions from your API
@@ -38,6 +39,7 @@ const IndexPage: React.FC = () => {
       const data = await response.json();
       setQuestions(data.questions || data);
       setTheme(data.theme);
+      setUserAnswers(new Array(data.questions.length).fill("")); // Initialize with empty strings
       setIsLoading(false);
     };
 
@@ -68,6 +70,12 @@ const IndexPage: React.FC = () => {
   }, []);
 
   const handleSubmit = async () => {
+    // Check if all fields are filled
+    if (userAnswers.some((answer) => !answer || answer.trim() === "")) {
+      setWarningMessage("Vennligst fyll ut alle svarene før du sender inn.");
+      return;
+    }
+
     // Save answers to local storage
     if (process.env.NODE_ENV !== "development") {
       localStorage.setItem(answersKey, JSON.stringify(userAnswers));
@@ -158,6 +166,9 @@ const IndexPage: React.FC = () => {
     const newAnswers = [...userAnswers];
     newAnswers[index] = answer;
     setUserAnswers(newAnswers);
+    if (warningMessage) {
+      setWarningMessage(null);
+    }
   };
 
   return (
@@ -188,6 +199,9 @@ const IndexPage: React.FC = () => {
             <p>Ingen spørsmål i dag!</p>
             <p>Sjekk tilbake i morgen 😎</p>
           </div>
+        )}
+        {warningMessage && (
+          <p className="text-red-500 text-center mt-2">{warningMessage}</p>
         )}
         {questions.map((question, index) => (
           <div key={index} className="mb-4">
@@ -222,7 +236,7 @@ const IndexPage: React.FC = () => {
             )}
           </div>
         ))}
-        {!isSubmitted && (
+        {!isSubmitted && questions.length > 0 && (
           <button
             onClick={handleSubmit}
             disabled={isSubmitted}
