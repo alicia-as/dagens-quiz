@@ -1,0 +1,46 @@
+{
+  "theme": "Frukt på fredag",
+  "questions": [
+    {
+      "question": "Hvilken frukt, med en gresk partyøy i slutten av navnet, var en forhatt Twist-smak som ble fjernet i 2017?",
+      "answer": "Aprikos",
+      "aliases": [
+        "Apricot",
+        "Aprikos-twist"
+      ]
+    },
+    {
+      "question": "Hvilken frukt har samme navn som verdens mest talte språk?",
+      "answer": "Mandarin",
+      "aliases": [
+        "Mandarinfrukt",
+        "Mandarin-appelsin"
+      ]
+    },
+    {
+      "question": "Hvilken frukt har fått både tegnefilmfigurer og en popgruppe oppkalt etter seg og var i tillegg en viktig ingrediens i en sang (med Arve Opsahl) som var populær etter krigen?",
+      "answer": "Bananen (i pyjamas, Bananarama, Når det kommer en båt med bananer)",
+      "aliases": [
+        "Banan",
+        "Bananer",
+        "Bananen"
+      ]
+    },
+    {
+      "question": "Hvilken frukt er sentral i drinken Pina Colada?",
+      "answer": "Ananas (og kokos)",
+      "aliases": [
+        "Ananas",
+        "Ananasjuice",
+        "Kokos"
+      ]
+    },
+    {
+      "question": "Hvilken frukt brukes til å lage brennevinet calvados?",
+      "answer": "Eple",
+      "aliases": [
+        "Epler"
+      ]
+    }
+  ]
+}
