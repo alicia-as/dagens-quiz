@@ -2,6 +2,9 @@
 import React, { useEffect, useState } from "react";
 import ClipboardModal from "./ClipboardModal";
 import ScoreBoxes from "./ScoreBoxes";
+import levenshtein from "js-levenshtein";
+
+const LEVENSHTEIN_THRESHOLD = 2; // Adjust this value as needed
 
 interface Data {
   questions: Question[];
@@ -106,14 +109,22 @@ const IndexPage: React.FC = () => {
     const userAnswer = userAnswers[index]?.toLowerCase().trim();
     return (
       questions[index].aliases &&
-      questions[index].aliases?.map((a) => a.toLowerCase()).includes(userAnswer)
+      questions[index].aliases?.some(
+        (alias) =>
+          levenshtein(userAnswer, alias.toLowerCase()) <= LEVENSHTEIN_THRESHOLD
+      )
     );
   };
 
   const isCorrect = (index: number) => {
+    const userAnswer = userAnswers[index]?.toLowerCase().trim();
+    const correctAnswer = questions[index].answer.toLowerCase();
+    const isAlias = isAliasCorrect(index);
+
     return (
-      userAnswers[index]?.toLowerCase().trim() ===
-        questions[index].answer.toLowerCase() || isAliasCorrect(index)
+      userAnswer === correctAnswer ||
+      isAlias ||
+      levenshtein(userAnswer, correctAnswer) <= LEVENSHTEIN_THRESHOLD
     );
   };
 
