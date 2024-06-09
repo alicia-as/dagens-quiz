@@ -1,0 +1,45 @@
+{
+  "theme": "Skuespillere på 'S'",
+  "questions": [
+    {
+      "question": "Den mest kjente Sex og Singelliv-stjernen spiller rollen som Carrie Bradshaw. Hva heter hun?",
+      "answer": "Sarah Jessica Parker",
+      "aliases": [
+        "Sarah Jessica",
+        "Jessica Parker",
+        "SJP"
+      ]
+    },
+    {
+      "question": "John Travolta spilte hovedrollen i den ikke akkurat kritikerroste filmen «Stayin’ Alive» for drøye 30 år siden. Hvilken ofte slaktet skuespiller regisserte filmen?",
+      "answer": "Sylvester Stallone",
+      "aliases": [
+        "Stallone"
+      ]
+    },
+    {
+      "question": "Med samme fornavn som datteren til Obama, hvilken «baron» har spilt roller som Bruno og Borat?",
+      "answer": "Sacha Baron Cohen",
+      "aliases": [
+        "Sacha Baron",
+        "Baron Cohen",
+        "Sacha",
+        "Sacha Cohen"
+      ]
+    },
+    {
+      "question": "Hvilken sjef i «Boardwalk Empire» har strøket med i «The Sopranos», «The Big Lebowski» og «Fargo»?",
+      "answer": "Steve Buscemi",
+      "aliases": [
+        "Buscemi"
+      ]
+    },
+    {
+      "question": "Hvilken frukt brukes til å lage brennevinet calvados?",
+      "answer": "Eple",
+      "aliases": [
+        "Epler"
+      ]
+    }
+  ]
+}
