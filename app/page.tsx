@@ -39,7 +39,7 @@ const IndexPage: React.FC = () => {
       const data = await response.json();
       setQuestions(data.questions || data);
       setTheme(data.theme);
-      setUserAnswers(new Array(data.questions.length).fill("")); // Initialize with empty strings
+      // setUserAnswers(new Array(data.questions.length).fill("")); // Initialize with empty strings
       setIsLoading(false);
     };
 
