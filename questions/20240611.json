@@ -1,0 +1,39 @@
+{
+  "theme": "Sjokolader",
+  "questions": [
+    {
+      "question": "Hvilken kokosinnholdig sjokolade kom på markedet i 1951 og tok navn etter et berømt skip fra 1700-tallet?",
+      "answer": "Bounty"
+    },
+    {
+      "question": "Hva heter Freia i Sverige?",
+      "answer": "Marabou",
+      "aliases": [
+        "Marabou Freia"
+      ]
+    },
+    {
+      "question": "Hvilken romanfigur, først beskrevet i 1838, har samme navn som et kjent norsk assortert sjokoladeprodukt?",
+      "answer": "Twist (Oliver Twist)",
+      "aliases": [
+        "Oliver Twist",
+        "Twist"
+      ]
+    },
+    {
+      "question": "Hvilket Nidar-produkt lansert i 1988 har samme navn som et handling man gjerne vil få til i f.eks tennis eller volleyball?",
+      "answer": "Smash!",
+      "aliases": [
+        "Smash"
+      ]
+    },
+    {
+      "question": "Hvilken sjokolade, som mange forveksler med Troika, fikk sitt navn etter et kunstverk som ble ferdigstilt i Oslo i 1943?",
+      "answer": "Monolit",
+      "aliases": [
+        "Monolitten",
+        "Monolitt"
+      ]
+    }
+  ]
+}
