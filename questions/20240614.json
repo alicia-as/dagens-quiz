@@ -1,0 +1,29 @@
+{
+  "theme": "Ferie",
+  "questions": [
+    {
+      "question": "De kaller hovedstaden sin for Krung Thep. Hvilket ferieland tenker vi på?",
+      "answer": "Thailand"
+    },
+    {
+      "question": "Hva heter den sørligste regionen i Spania der Sevilla er den største byen?",
+      "answer": "Andalucia"
+    },
+    {
+      "question": "Ved hvilken innsjø ligger ferie- og handelsbyen Karlstad?",
+      "answer": "Vänern",
+      "aliases": [
+        "Vänerns innsjø",
+        "Vanern"
+      ]
+    },
+    {
+      "question": "I hvilken sørlig italiensk by ble den moderne pizzaen oppfunnet?",
+      "answer": "Napoli"
+    },
+    {
+      "question": "Ved hvilken europeisk hovedstad ligger Disneyland?",
+      "answer": "Paris"
+    }
+  ]
+}
