@@ -1,29 +1,51 @@
 {
-  "theme": "Ferie",
+  "theme": "Svenske tilstander (Repeat)",
   "questions": [
     {
-      "question": "De kaller hovedstaden sin for Krung Thep. Hvilket ferieland tenker vi på?",
-      "answer": "Thailand"
-    },
-    {
-      "question": "Hva heter den sørligste regionen i Spania der Sevilla er den største byen?",
-      "answer": "Andalucia"
-    },
-    {
-      "question": "Ved hvilken innsjø ligger ferie- og handelsbyen Karlstad?",
-      "answer": "Vänern",
+      "question": "Hvilken svenske født i 1707 kalte seg for Carolus Linnaeus?",
+      "answer": "Carl von Linné",
       "aliases": [
-        "Vänerns innsjø",
-        "Vanern"
+        "Carl von Linne",
+        "Carl Linnaeus",
+        "Carl Linné",
+        "Carl von Linnaeus",
+        "Carl Linneaus",
+        "Carl Linne"
       ]
     },
     {
-      "question": "I hvilken sørlig italiensk by ble den moderne pizzaen oppfunnet?",
-      "answer": "Napoli"
+      "question": "Vi nordmenn er politisk bevisste, så vi husker vel navnet på Sveriges statsminister?",
+      "answer": "Ulf Kristersson",
+      "aliases": [
+        "Ulf",
+        "Kristersson",
+        "Ulf Kristerson"
+      ]
     },
     {
-      "question": "Ved hvilken europeisk hovedstad ligger Disneyland?",
-      "answer": "Paris"
+      "question": "Hva heter Sveriges største flyplass?",
+      "answer": "Stockholm-Arlanda",
+      "aliases": [
+        "Arlanda",
+        "Arlanda, Stockholm",
+        "Stockholm Arlanda",
+        "Stockholm-Arlanda",
+        "Stockholm Arlanda Airport"
+      ]
+    },
+    {
+      "question": "Thomas Wassberg, Björn Borg og Ingemar Stenmark var alle medlemmer av den svenske, gyldne årgangen. De ble født året før Laika ble verdensberømt, hvilket?",
+      "answer": "1956"
+    },
+    {
+      "question": "Hva heter den svenske skuespillerveteranen som var Sylvester Stallones motstander i Rocky IV (1985)?",
+      "answer": "Dolph Lundgren",
+      "aliases": [
+        "Dolph Lundgren",
+        "Hans Lundgren",
+        "Hans Dolph Lundgren",
+        "Lundgren"
+      ]
     }
   ]
 }
