@@ -1,0 +1,33 @@
+{
+  "theme": "Fotball-EM",
+  "questions": [
+    {
+      "question": "I hvilket land arrangeres fotball-EM i år?",
+      "answer": "Tykland"
+    },
+    {
+      "question": "De regjerende mestrene i fotball-EM kvalifiserte seg ikke til VM året etter, men er tilbake i år. Hvilket land?",
+      "answer": "Italia"
+    },
+    {
+      "question": "Hva heter tyskernes landslagstrener, som bare er 36 år?",
+      "answer": "Julian Nagelsmann",
+      "aliases": [
+        "Julian Nagelsmann",
+        "Nagelsmann",
+        "Julian"
+      ]
+    },
+    {
+      "question": "Hvilket år var Norge sist med i fotball-EM for herrer?",
+      "answer": "2000. Dette er også det eneste EM-sluttspillet Norge har deltatt i.",
+      "aliases": [
+        "2000"
+      ]
+    },
+    {
+      "question": "'It's coming home' synger engelskmennene. De har aldri vunnet EM, men når vant England sist VM?",
+      "answer": "1966"
+    }
+  ]
+}
