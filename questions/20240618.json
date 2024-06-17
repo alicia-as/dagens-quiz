@@ -1,0 +1,41 @@
+{
+  "theme": "Byer på B",
+  "questions": [
+    {
+      "question": "Belgia ble i går overrumplet av et land som først ble uavhengig i 1993. Hva heter hovedstaden der?",
+      "answer": "Bratislava (Slovakia)",
+      "aliases": [
+        "Bratislava"
+      ]
+    },
+    {
+      "question": "I hvilken hovedstad måtte George Bush dukke da en sko sneiet hodet hans under en pressekonferanse i 2008?",
+      "answer": "Bagdad",
+      "aliases": [
+        "Baghdad"
+      ]
+    },
+    {
+      "question": "Hva heter administrasjonssenteret i Nordland fylkeskommune?",
+      "answer": "Bodø",
+      "aliases": [
+        "Bodo"
+      ]
+    },
+    {
+      "question": "Hvilken snart 1000 år gammel nordisk by med ca. 300 000 innbyggere blir til et sjøtransportmiddel dersom man bytter ut første bokstav?",
+      "answer": "Bergen (Fergen)",
+      "aliases": [
+        "Bergen"
+      ]
+    },
+    {
+      "question": "Hvilken europeisk hovedstad blir til en annen europeisk hovedstad lengre sørvest dersom du fjerner fjerde og femte bokstav?",
+      "answer": "Berlin (Bern)",
+      "aliases": [
+        "Berlin",
+        "Bern"
+      ]
+    }
+  ]
+}
