@@ -1,0 +1,29 @@
+{
+  "theme": "Japan",
+  "questions": [
+    {
+      "question": "Hvilket japansk ord betyr noe sånt som «ha det bra» og er også tittelen på mange sanger?",
+      "answer": "Sayonara"
+    },
+    {
+      "question": "Hva heter byen på den japanske øya Hokkaido som arrangerte det første vinter-OL i Asia i 1972?",
+      "answer": "Sapporo"
+    },
+    {
+      "question": "Hva kalles den tradisjonelle japanske nasjonaldrakten, Japans svar på bunaden?",
+      "answer": "Kimono"
+    },
+    {
+      "question": "Et anagram av dagens hovedstad, hvilken by var Japans hovedstad fram til 1868?",
+      "answer": "Kyoto"
+    },
+    {
+      "question": "Hvilken japansk forfatter har skrevet en bok om norsk skog?",
+      "answer": "Haruki Murakami",
+      "aliases": [
+        "Murakami",
+        "Haruki"
+      ]
+    }
+  ]
+}
