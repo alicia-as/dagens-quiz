@@ -1,0 +1,46 @@
+{
+  "theme": "Katt 😼",
+  "questions": [
+    {
+      "question": "Hvilket tidligere land har gitt navn til en katterase og en spesiell type mennesker?",
+      "answer": "Siam (Siamesiske tvillinger)",
+      "aliases": [
+        "Thailand",
+        "Siamesisk",
+        "Siam"
+      ]
+    },
+    {
+      "question": "En rekke paver, samt østerrikeren som hoppet fra verdensrommet har fornavn som også er et vanlig kattenavn. Hvilket?",
+      "answer": "Felix",
+      "aliases": [
+        "Feliks"
+      ]
+    },
+    {
+      "question": "En rekke paver, samt en action-skuespiller har fornavn som er et vanlig kattenavn, det har også katten som ikke klarer å fange Pip. Hvilket navn?",
+      "answer": "Sylvester",
+      "aliases": [
+        "Silvester"
+      ]
+    },
+    {
+      "question": "Hvilken katt, som ble «skapt» av en østerriker i 1935, er en av verdens mest kjente selv om den ikke har noe navn?",
+      "answer": "Schrödingers katt",
+      "aliases": [
+        "Schrödinger",
+        "Schrödingers",
+        "Schrödingers katt",
+        "Schrödinger's cat"
+      ]
+    },
+    {
+      "question": "Hva heter den late, selvgode og selvopptatte katten som dukket opp i avisstripene for første gang i 1978?",
+      "answer": "Pusur / Garfield",
+      "aliases": [
+        "Garfield",
+        "Pusur"
+      ]
+    }
+  ]
+}
