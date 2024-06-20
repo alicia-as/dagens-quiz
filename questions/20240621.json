@@ -1,0 +1,28 @@
+{
+  "theme": "Ost 🧀",
+  "questions": [
+    {
+      "question": "Hun vant Oscar for sin rolle i filmen «Room» fra 2015. Hun heter Larson til etternavn. Hvilken ost har hun til fornavn?",
+      "answer": "Brie"
+    },
+    {
+      "question": "Hvilken ost, som er Storbritannias mest populære, har fått navn etter en liten by i Somerset i det sørvestlige England?",
+      "answer": "Cheddar"
+    },
+    {
+      "question": "Hvilken ost har et navn som kan få deg til å tenke på en høyt ansett kriger i middelalderen, samt et norsk skiarrangement?",
+      "answer": "Ridderost",
+      "aliases": [
+        "Ridder"
+      ]
+    },
+    {
+      "question": "Hvilken ost med blågrønn marmorering er laget av kumelk og har fått sitt navn fra en kommune i Milano? Osten skal visstnok ha blitt produsert siden år 879.",
+      "answer": "Gorgonzola"
+    },
+    {
+      "question": "Hvilken ost, produsert av saue- og geitemelk, har EU-beskyttet navn og kan derfor kun produseres i enkelte områder i Hellas? Tar du vekk siste bokstav blir den tykk!",
+      "answer": "Feta"
+    }
+  ]
+}
