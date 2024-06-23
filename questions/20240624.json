@@ -1,0 +1,34 @@
+{
+  "theme": "Edelstener 💎",
+  "questions": [
+    {
+      "question": "Hvilket kosmetikkselskap ble stiftet av en polskfødt dame (1872 – 1965), først i Melbourne, og ekspanderte deretter i rask rekkefølge til London, Paris og New York?",
+      "answer": "Helen Rubinstein"
+    },
+    {
+      "question": "Hvilket område ble kalt «Juvelen i kronen» i det gamle britiske imperiet?",
+      "answer": "India",
+      "aliases": [
+        "Britisk India"
+      ]
+    },
+    {
+      "question": "Oppkalt etter en grønn og vakker bergart, hva heter datteren til Mick og Bianca Jagger, som ble født i 1971? En sjokolade med samme navn hadde en kortlivet affære for 10 år siden.",
+      "answer": "Jade",
+      "aliases": [
+        "Yade"
+      ]
+    },
+    {
+      "question": "I hvilket land med himmelretning i navnet ble den mer enn 600 gram tunge Cullinan-diamanten funnet i 1905?",
+      "answer": "Sør-Afrika",
+      "aliases": [
+        "Sør Afrika"
+      ]
+    },
+    {
+      "question": "Hva kaller vi den på norsk, edelstenen som engelsktalende kaller «Emerald»?",
+      "answer": "Smaragd"
+    }
+  ]
+}
