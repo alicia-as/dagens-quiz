@@ -1,0 +1,37 @@
+{
+  "theme": "Innsjøer",
+  "questions": [
+    {
+      "question": "Hva heter den største av de fem store innsjøene i De store sjøer, som ligger på grensen mellom Canada og USA?",
+      "answer": "Lake Superior",
+      "aliases": [
+        "Superior",
+        "Øvresjøen"
+      ]
+    },
+    {
+      "question": "Hvilken afrikansk innsjø på 68 800 kvadratkilometer har flere tusen øyer og et navn som kan få deg til å tenke på en Hamsun-roman?",
+      "answer": "Victoriasjøen",
+      "aliases": [
+        "Victoria",
+        "Lake Victoria",
+        "Nyanza"
+      ]
+    },
+    {
+      "question": "Ved hvilken stor innsjø, som har samme navn som en delstat, ligger Chicago?",
+      "answer": "Michigan",
+      "aliases": [
+        "Lake Michigan"
+      ]
+    },
+    {
+      "question": "Ved hvilken innsjø ligger Eidsvoll?",
+      "answer": "Mjøsa"
+    },
+    {
+      "question": "Store Bjørnesjø og Store Slavesjø er to av verdens største innsjøer. I hvilket land ligger de?",
+      "answer": "Canada"
+    }
+  ]
+}
