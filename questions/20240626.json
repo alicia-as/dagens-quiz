@@ -1,0 +1,35 @@
+{
+  "theme": "Ormer, slanger og så videre 🐍",
+  "questions": [
+    {
+      "question": "Hva er det 'egentlige' navnet til Rowan Atkinsons skikkelse Sorte Orm?",
+      "answer": "Edmund Blackadder",
+      "aliases": [
+        "Blackadder"
+      ]
+    },
+    {
+      "question": "Hva het det rølpete norske humorbladet med usmakelig slangete navn som kom ut fra 1986 til 2002?",
+      "answer": "Pyton"
+    },
+    {
+      "question": "Hvilken slangeart har gitt navn til både helikoptre, en mangaserie, en thriller av Frederick Forsyth og et ølmerke?",
+      "answer": "Cobra",
+      "aliases": [
+        "Kobra"
+      ]
+    },
+    {
+      "question": "Hvilken type orm var Stuxnet, som ble oppdaget i 2010?",
+      "answer": "En dataorm",
+      "aliases": [
+        "Dataorm",
+        "Virus"
+      ]
+    },
+    {
+      "question": "Hva heter gassfeltet i Nordsjøen som er oppkalt etter Olav Tryggvasons langskip?",
+      "answer": "Ormen Lange"
+    }
+  ]
+}
