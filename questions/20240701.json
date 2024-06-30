@@ -1,0 +1,32 @@
+{
+  "theme": "Det er mandag, selsagt!  🦭",
+  "questions": [
+    {
+      "question": "Hvilken kommune på Nordmøre i Møre og Romsdal har gitt navn til «verdens beste ysteri»?",
+      "answer": "Selbu"
+    },
+    {
+      "question": "Hvilket grunnstoff, oppkalt etter den greske månegudinnen, har et navn som også kan være et pattedyr i bestemt form?",
+      "answer": "Selen"
+    },
+    {
+      "question": "Justin Bieber venter sitt første barn med kona Hailey Baldwin. Hva heter Justin's superkjente ekskjæreste, som også er artist?",
+      "answer": "Selena Gomez",
+      "aliases": [
+        "Gomez",
+        "Selena"
+      ]
+    },
+    {
+      "question": "Hvilken by i Tyskland har gitt navn til et kullsyreholdig mineralvann?",
+      "answer": "Selters"
+    },
+    {
+      "question": "Hva heter programlederen av debattprogrammet «Trygdekontoret», en kar som også spiller i Turboneger?",
+      "answer": "Thomas Seltzer",
+      "aliases": [
+        "Seltzer"
+      ]
+    }
+  ]
+}
