@@ -1,0 +1,42 @@
+{
+  "theme": "Verb med flere betydninger",
+  "questions": [
+    {
+      "question": "En tidligere statsminister har det som fornavn og det er noe de fleste planter prøver å gjøre. Hvilket verb?",
+      "answer": "Gro (Gro Harlem Brundtland)",
+      "aliases": [
+        "Gro",
+        "Å gro"
+      ]
+    },
+    {
+      "question": "Hva var fornavnet til Trotskij, en oppfordring du garantert oppfyller i dag?",
+      "answer": "Lev! (Lev Trotskij)",
+      "aliases": [
+        "Lev",
+        "Å leve"
+      ]
+    },
+    {
+      "question": "I 2012 ble «Årets nyord» skapt av noen trøtte tenåringer. Hvilket verb?",
+      "answer": "Å nave",
+      "aliases": [
+        "Nave"
+      ]
+    },
+    {
+      "question": "Et verb som er en mishagsytring, en del av et olympisk våpen og et etternavn. Hvilket ord?",
+      "answer": "Bue",
+      "aliases": [
+        "Å bue"
+      ]
+    },
+    {
+      "question": "Et ildsted, en kommune i Innlandet og et verb som antyder at man ikke gleder seg. Hvilket ord?",
+      "answer": "Grue",
+      "aliases": [
+        "Å grue"
+      ]
+    }
+  ]
+}
