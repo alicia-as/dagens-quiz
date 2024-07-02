@@ -1,0 +1,37 @@
+{
+  "theme": "Bakindia",
+  "questions": [
+    {
+      "question": "Hvilken hovedstad 350 km nord for Singapore blir nevnt i samme åndedrag som «biff á la Lindstrøm» i Øystein Sundes låt «Mesterkokken»?",
+      "answer": "Kuala Lumpur (Og det var biff á la Lindstrøm og ku á la Lumpur)",
+      "aliases": [
+        "Kuala Lumpur"
+      ]
+    },
+    {
+      "question": "Hvilket lands flagg har en gul stjerne på rød bakgrunn?",
+      "answer": "Vietnam"
+    },
+    {
+      "question": "I hvilket land holder khmerfolket til? De omtrent 15 millioner innbyggerne utgjør ca. 90 % av landets innbyggere.",
+      "answer": "Kambodsja",
+      "aliases": [
+        "Cambodia"
+      ]
+    },
+    {
+      "question": "Hvilket land grenser til Myanmar, Kina, Vietnam, Kambodsja og Thailand?",
+      "answer": "Laos",
+      "aliases": [
+        "Siam"
+      ]
+    },
+    {
+      "question": "Hvilket land er det eneste i verden som grenser både til Malaysia og India?",
+      "answer": "Myanmar",
+      "aliases": [
+        "Burma"
+      ]
+    }
+  ]
+}
