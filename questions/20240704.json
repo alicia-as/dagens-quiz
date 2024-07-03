@@ -1,0 +1,57 @@
+{
+  "theme": "Helt hovedstad (repeat)",
+  "questions": [
+    {
+      "question": "Hvilken av verdens hovedsteder ble grunnlagt under navnet Tenochtitlan på 1300-tallet?",
+      "answer": "Mexico by",
+      "aliases": [
+        "Mexico by",
+        "Mexico City",
+        "Mexico",
+        "Meksiko",
+        "Meksiko by",
+        "Meksiko City"
+      ]
+    },
+    {
+      "question": "Hvilket sigarettmerke er også navnet på delstatshovedstaden i Oregon, men kan også være et forsamlingslokale?",
+      "answer": "Salem"
+    },
+    {
+      "question": "Hva heter hovedstaden i Kamerun, et navn som begynner på fire vokaler?",
+      "answer": "Yaoundé",
+      "aliases": [
+        "Yaoundé",
+        "Yaounde",
+        "Yaoundé",
+        "Yaoundé",
+        "Yaoundé"
+      ]
+    },
+    {
+      "question": "Med samme navn som hovedstaden, hva heter elven som renner ut i Atlanterhavet like ved hovedstaden i Fransk Guyana?",
+      "answer": "Cayenne",
+      "aliases": [
+        "Cayenne",
+        "Kajenne",
+        "Kajenné",
+        "Kajenne",
+        "Kajenné"
+      ]
+    },
+    {
+      "question": "Hvilken europeisk hovedstad er oppkalt etter hovedstaden i Iran?",
+      "answer": "Albanias hovedstad Tirana (Teheran)",
+      "aliases": [
+        "Tirana",
+        "Tirane",
+        "Tiranë",
+        "Tiranë",
+        "Tirana (Teheran)",
+        "Tirane (Teheran)",
+        "Tiranë (Teheran)",
+        "Tiranë (Teheran)"
+      ]
+    }
+  ]
+}
