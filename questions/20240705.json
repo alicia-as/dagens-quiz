@@ -1,0 +1,38 @@
+{
+  "theme": "Enheter (repeat)",
+  "questions": [
+    {
+      "question": "Hvilken enhet for måling av effekt, som står skrevet mange steder i de fleste hjem, har fått navn etter pioneren som utviklet dampmaskinen?",
+      "answer": "Watt (James Watt).",
+      "aliases": [
+        "Watt"
+      ]
+    },
+    {
+      "question": "Hva kalles måleenheten for hastigheter som forholder seg til lyden?",
+      "answer": "Mach"
+    },
+    {
+      "question": "Hvilken gammel måleenhet for areal tilsvarte fire mål og har samme navn som en kjent podkastvertinne?",
+      "answer": "Tønne",
+      "aliases": [
+        "Lisa Tønne"
+      ]
+    },
+    {
+      "question": "I hvilket land kan du betale med myntenheten Togrog, der en togrog = 100 mongo?",
+      "answer": "Mongolia"
+    },
+    {
+      "question": "Hva måles med enheten Pascal?",
+      "answer": "Trykk",
+      "aliases": [
+        "Press",
+        "Atmosfæriske trykk",
+        "Lufttrykk",
+        "Luftrykk",
+        "Atmosfærisk trykk"
+      ]
+    }
+  ]
+}
