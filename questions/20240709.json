@@ -1,0 +1,39 @@
+{
+    "theme": "Brad Pitt",
+    "questions": [
+        {
+            "question": "Med en oldtidsby som tittel, i hvilken film fra 2004 spiller Brad Pitt rollen som Akilles?",
+            "answer": "Troy",
+            "aliases": [
+                "Troja"
+            ]
+        },
+        {
+            "question": "I hvilken film fra 2008 blir rollefiguren til Brad Pitt yngre og yngre?",
+            "answer": "The Curious Case of Benjamin Button",
+            "aliases": [
+                "Benjamin Button"
+            ]
+        },
+        {
+            "question": "I hvilken film fra 1999 spiller Brad Pitt rollen som slåsskjempen Tyler Durden?",
+            "answer": "Fight Club"
+        },
+        {
+            "question": "Med Brad Pitt i hovedrollen, hvilke to filmer har samme tall i tittelen? Tallet holder!",
+            "answer": "7. Seven og Seven Years in Tibet",
+            "aliases": [
+                "7 og 7 Years in Tibet",
+                "Seven og Seven Years in Tibet",
+                "Seven og 7 Years in Tibet",
+                "7",
+                "Syv",
+                "Seven"
+            ]
+        },
+        {
+            "question": "Hvilken bar i andre etasje på Hotel Norge i Bergen har samme navn som en Oscarvinnende film fra 2006 der Brad Pitt spiller mot Kate Blanchett?",
+            "answer": "Babel"
+        }
+    ]
+}
