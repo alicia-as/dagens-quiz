@@ -1,0 +1,33 @@
+{
+    "theme": "Tobakk 🚬",
+    "questions": [
+        {
+            "question": "I hvilken amerikansk delstat ble tobakksplanten dyrket allerede på 1600-tallet?",
+            "answer": "Virginia"
+        },
+        {
+            "question": "En av verdens største tobakksprodusenter har tatt navn etter en kar som ble født i London i 1835. Hva het han?",
+            "answer": "Philip Morris",
+            "aliases": [
+                "Phillip Morris",
+                "Morris"
+            ]
+        },
+        {
+            "question": "Hvilket sigarettmerke tok navn etter en nobelprisvinner da det ble lansert i 1914?",
+            "answer": "Teddy (Roosevelt)",
+            "aliases": [
+                "Teddy",
+                "Roosevelt"
+            ]
+        },
+        {
+            "question": "En superkjent artist som døde i 2016 hadde samme navn som et velkjent sigarettmerke. Hvilket sigarettmerke?",
+            "answer": "Prince"
+        },
+        {
+            "question": "Et grevskap i England, et svensk band som bl.a hadde låten 'Dom andra' og et sigarretmerke har alle samme navn. Hvilket?",
+            "answer": "Kent"
+        }
+    ]
+}
