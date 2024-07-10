@@ -1,0 +1,41 @@
+{
+    "theme": "Regjeringen regjerer",
+    "questions": [
+        {
+            "question": "Hva heter Helse- og omsorgsministeren, som inntil nylig var næringsminister?",
+            "answer": "Jan Christian Vestre",
+            "aliases": [
+                "Jan Christian Vestre",
+                "Vestre",
+                "Jan Vestre"
+            ]
+        },
+        {
+            "question": "Med et etternavn som brukes flittig i barnefotballen, hva heter barne- og familieministeren?",
+            "answer": "Kjersti Toppe",
+            "aliases": [
+                "Toppe"
+            ]
+        },
+        {
+            "question": "Geir Pollestad er vår landbruks- og matminister. Hvilket parti representerer han?",
+            "answer": "Senterpartiet"
+        },
+        {
+            "question": "Espen Barth Eide er en av de mest erfarne i regjeringen. Hva slags minister er han?",
+            "answer": "Utenriksminister",
+            "aliases": [
+                "Utenriksdepartementet"
+            ]
+        },
+        {
+            "question": "Og til slutt: hva heter finansministeren?",
+            "answer": "Trygve Slagsvold Vedum",
+            "aliases": [
+                "Trygve Slagsvold",
+                "Trygve Vedum",
+                "Slagsvold Vedum"
+            ]
+        }
+    ]
+}
