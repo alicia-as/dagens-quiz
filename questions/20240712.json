@@ -1,0 +1,50 @@
+{
+    "theme": "Blandet drops 1",
+    "questions": [
+        [
+            {
+                "question": "Dersom fru Trump får hjemlengsel og drar tilbake til sitt fødeland. Hvor reiser hun da?",
+                "answer": "Til Slovenia",
+                "aliases": [
+                    "Slovenia",
+                    "Fru Trumps fødeland"
+                ]
+            },
+            {
+                "question": "Ekvator «deler» en av verdens fem største øyer i to. Hva heter den?",
+                "answer": "Borneo",
+                "aliases": [
+                    "Øya Borneo",
+                    "Borneo delt av ekvator"
+                ]
+            },
+            {
+                "question": "Hvilket kjent japansk ord betyr noe sånt som «ta på seg klær»?",
+                "answer": "Kimono",
+                "aliases": [
+                    "Japansk Kimono",
+                    "Klesplagg Kimono"
+                ]
+            },
+            {
+                "question": "Planeten Mars er oppkalt etter den romerske krigsguden. Hva hadde planeten hett dersom den hadde vært oppkalt etter gudens greske motstykke?",
+                "answer": "Ares",
+                "aliases": [
+                    "Gresk krigsgud Ares",
+                    "Mars' greske navn"
+                ]
+            },
+            {
+                "question": "Mars har to små måner. Hva heter de?",
+                "answer": "Phobos og Deimos",
+                "aliases": [
+                    "Deimos og Phobos",
+                    "Phobos & Deimos",
+                    "Deimos & Phobos",
+                    "Phobos, Deimos",
+                    "Deimos, Phobos"
+                ]
+            }
+        ]
+    ]
+}
