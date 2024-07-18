@@ -1,0 +1,40 @@
+{
+    "theme": "Andeby (repeat)",
+    "questions": [
+        {
+            "question": "Hetty, Letty og Netty heter noe helt annet på engelsk. Navnene kan gi deg vårfornemmelser. Hva heter de tre?",
+            "answer": "April, May og June",
+            "aliases": [
+                "April, May & June",
+                "April, May og June",
+                "April May June",
+                "April May & June",
+                "April May and June"
+            ]
+        },
+        {
+            "question": "Nevøen til Petter Smart er kanskje enda smartere enn sin onkel. Med samme navn som et tidligere NRK-program og en SI-enhet, hva heter han?",
+            "answer": "Newton"
+        },
+        {
+            "question": "Nevøen til Langbein er uten tvil smartere enn sin onkel. Med samme navn som en snill okse, hva heter han?",
+            "answer": "Ferdinand",
+            "aliases": [
+                "Ferdinand",
+                "Ferdinand (okse)"
+            ]
+        },
+        {
+            "question": "Hvilken Disney-figur ble skapt i 1930, og ble derfor oppkalt etter dette årets store vitenskapelige oppdagelse?",
+            "answer": "Pluto"
+        },
+        {
+            "question": "Hva heter kameraten til Mikke og Langbein som er kjæreste med Klara Ku på tross av at han er en hest?",
+            "answer": "Klaus Knegg",
+            "aliases": [
+                "Knegg",
+                "Klaus"
+            ]
+        }
+    ]
+}
