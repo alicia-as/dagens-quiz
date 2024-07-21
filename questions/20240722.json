@@ -1,0 +1,39 @@
+{
+    "theme": "Artige anagrammer",
+    "questions": [
+        {
+            "question": "Hvilken internasjonalt kjent by med pussig anagram var hovedstad i Japan fram til 1868?",
+            "answer": "Kyoto, som er et anagram av Tokyo",
+            "aliases": [
+                "Kyoto"
+            ]
+        },
+        {
+            "question": "Hvilken norsk politiker med ni liv skjuler seg bak det noe misvisende anagrammet «god kristen»?",
+            "answer": "Trond Giske"
+        },
+        {
+            "question": "Hvilken hyperaktuell skikkelse skjuler seg bak anagrammet «ei, den job!»?",
+            "answer": "Joe Biden",
+            "aliases": [
+                "Joseph Biden",
+                "Joe R Biden"
+            ]
+        },
+        {
+            "question": "Et engelsk anagram: Dersom du stokker på bokstavene, hva slags forhatt innretning får vi ut av «Cash Lost in 'em»?",
+            "answer": "Slot machines",
+            "aliases": [
+                "Slot machine"
+            ]
+        },
+        {
+            "question": "Hvilket asiatisk land har et navn, som dersom du stokker om på bokstavene, blir til verdens sterkeste lyskilde (og en norsk kommune)?",
+            "answer": "Laos, som blir til Sola",
+            "aliases": [
+                "Laos",
+                "Sola"
+            ]
+        }
+    ]
+}

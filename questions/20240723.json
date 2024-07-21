@@ -1,0 +1,40 @@
+{
+    "theme": "Jobba",
+    "questions": [
+        {
+            "question": "X",
+            "answer": "X",
+            "aliases": [
+                "X"
+            ]
+        },
+        {
+            "question": "Y",
+            "answer": "Y",
+            "aliases": [
+                "Y"
+            ]
+        },
+        {
+            "question": "Z",
+            "answer": "Z",
+            "aliases": [
+                "Z"
+            ]
+        },
+        {
+            "question": "Æ",
+            "answer": "Æ",
+            "aliases": [
+                "Æ"
+            ]
+        },
+        {
+            "question": "Ø",
+            "answer": "Ø",
+            "aliases": [
+                "Ø"
+            ]
+        }
+    ]
+}
