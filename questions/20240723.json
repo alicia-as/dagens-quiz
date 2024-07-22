@@ -1,39 +1,33 @@
 {
-    "theme": "Jobba",
+    "theme": "Repeat, Repeat",
     "questions": [
         {
-            "question": "X",
-            "answer": "X",
+            "question": "Et rockeband med kjent for å holde linja, et populært hesteveddeløpsspill og sjef for Mercedes-laget i Formel 1. Hva tenker vi på?",
+            "answer": "Toto"
+        },
+        {
+            "question": "Hvilken gungansk rollefigur fra Star Wars med etternavn Binks var den første computer-genererte rollefiguren?",
+            "answer": "Jar Jar",
             "aliases": [
-                "X"
+                "Jar-Jar",
+                "Jar Jar Binks"
             ]
         },
         {
-            "question": "Y",
-            "answer": "Y",
-            "aliases": [
-                "Y"
-            ]
+            "question": "Hvilken øy i Fransk Polynesia med et repeterende navn var kongedømme fram til 1888?",
+            "answer": "Bora Bora"
         },
         {
-            "question": "Z",
-            "answer": "Z",
-            "aliases": [
-                "Z"
-            ]
+            "question": "Hva er den gjentagende tittelen til Stella Mwangis vinnerlåt fra 2011?",
+            "answer": "Haba Haba"
         },
         {
-            "question": "Æ",
-            "answer": "Æ",
+            "question": "Hvilket internasjonalt selskap med gjentagende navn var først ute med festbart plaster i 1899?",
+            "answer": "Jonhson & Johnson",
             "aliases": [
-                "Æ"
-            ]
-        },
-        {
-            "question": "Ø",
-            "answer": "Ø",
-            "aliases": [
-                "Ø"
+                "Johnson Johnson",
+                "Johnson & Johnsons",
+                "Jonson & Jonson"
             ]
         }
     ]
