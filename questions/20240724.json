@@ -1,39 +1,28 @@
 {
-    "theme": "Jobba",
+    "theme": "Beundringsverdige byggverk",
     "questions": [
         {
-            "question": "X",
-            "answer": "X",
-            "aliases": [
-                "X"
-            ]
+            "question": "Hva ble det kalt, det storslåtte byggverket som sto klart til verdensutstillingen i London i 1851 og som ble ødelagt av brann i 1936? Et fotballag har samme navn.",
+            "answer": "Crystal Palace"
         },
         {
-            "question": "Y",
-            "answer": "Y",
-            "aliases": [
-                "Y"
-            ]
+            "question": "Alle guders tempel ble bygget i Roma av Keiser Hadrian rundt 120 e.kr., og er den best bevarte bygningen fra denne tiden. Med et navn som kan få deg til å tenke på en stor katt, hva heter dette byggverket?",
+            "answer": "Pantheon"
         },
         {
-            "question": "Z",
-            "answer": "Z",
-            "aliases": [
-                "Z"
-            ]
+            "question": "Hva heter den store, hvite marmorkuppelen i India som ble bygget som et mausoleum til minne om en keisers avdøde kone?",
+            "answer": "Taj Mahal"
         },
         {
-            "question": "Æ",
-            "answer": "Æ",
-            "aliases": [
-                "Æ"
-            ]
+            "question": "Hvilken enorm bygning, som man også finner i geometrien, ligger i Arlington, Virginia?",
+            "answer": "Pentagon"
         },
         {
-            "question": "Ø",
-            "answer": "Ø",
+            "question": "Hvilket byggverk ble påbegynt i 1961 og, på tross av at det straks ble verdenskjent, revet i 1989?",
+            "answer": "Berlinmuren",
             "aliases": [
-                "Ø"
+                "Berlinske Muren",
+                "Berliner Mauer"
             ]
         }
     ]
