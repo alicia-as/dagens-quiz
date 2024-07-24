@@ -70,8 +70,12 @@ const IndexPage: React.FC = () => {
   }, []);
 
   const handleSubmit = async () => {
-    // Check if all fields are filled
-    if (userAnswers.some((answer) => !answer || answer.trim() === "")) {
+    if (
+      userAnswers.length !== questions.length ||
+      userAnswers.some(
+        (answer) => !answer || answer.trim() === "" || answer === null
+      )
+    ) {
       setWarningMessage("Vennligst fyll ut alle svarene før du sender inn.");
       return;
     }
@@ -126,7 +130,8 @@ const IndexPage: React.FC = () => {
 
   const isCorrect = (index: number) => {
     const userAnswer = userAnswers[index]?.toLowerCase().trim();
-    const correctAnswer = questions[index].answer.toLowerCase();
+    if (!userAnswer) return false;
+    const correctAnswer = questions[index]?.answer.toLowerCase();
     const isAlias = isAliasCorrect(index);
 
     return (
