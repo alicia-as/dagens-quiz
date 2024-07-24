@@ -1,40 +1,34 @@
 {
-    "theme": "Jobba",
+    "theme": "Hovedsteder i Asia",
     "questions": [
         {
-            "question": "X",
-            "answer": "X",
+            "question": "Hvilken hovedstad, som er blant verdens største i folketall, ligger på øya Java?",
+            "answer": "Jakarta"
+        },
+        {
+            "question": "Hvilket 'stan'-land har en hovedstad som blir til et solokortspill hvis du bytter ut én bokstav?",
+            "answer": "Afghanistan, med hovedstaden Kabul (kabal)",
             "aliases": [
-                "X"
+                "Afghanistan",
+                "Kabul",
+                "Kabul (Afghanistan)",
+                "Kabal"
             ]
         },
         {
-            "question": "Y",
-            "answer": "Y",
+            "question": "Hva heter hovedstaden i Saudi Arabia?",
+            "answer": "Riyadh"
+        },
+        {
+            "question": "Azeribaijans hovedstad har et navn som også kan skrives som 'V'. Hva heter byen?",
+            "answer": "Baku (bak 'u')",
             "aliases": [
-                "Y"
+                "Baku"
             ]
         },
         {
-            "question": "Z",
-            "answer": "Z",
-            "aliases": [
-                "Z"
-            ]
-        },
-        {
-            "question": "Æ",
-            "answer": "Æ",
-            "aliases": [
-                "Æ"
-            ]
-        },
-        {
-            "question": "Ø",
-            "answer": "Ø",
-            "aliases": [
-                "Ø"
-            ]
+            "question": "Hvilket land har et areal som er en tredjedel av Sveriges areal, har 170 millioner innbyggere og en hovedstad som heter Dhaka?",
+            "answer": "Bangladesh"
         }
     ]
 }
