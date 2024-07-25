@@ -1,39 +1,45 @@
 {
-    "theme": "Jobba",
+    "theme": "Presidentvalg i USA",
     "questions": [
         {
-            "question": "X",
-            "answer": "X",
+            "question": "Årets presidentvalg har tatt en ny venning - hvem har blitt den nye favoritten til å være demokratenes presidentkandidat?",
+            "answer": "Kamala Harris",
             "aliases": [
-                "X"
+                "Harris",
+                "Kamala"
             ]
         },
         {
-            "question": "Y",
-            "answer": "Y",
+            "question": "Under valget i 2000 vant George W. Bush knepent. Hva var navnet på motkandidaten?",
+            "answer": "Al Gore",
             "aliases": [
-                "Y"
+                "Gore"
             ]
         },
         {
-            "question": "Z",
-            "answer": "Z",
+            "question": "George W. Bush's far var også president. Hvilken ungfol tapte han mot i 1992?",
+            "answer": "Bill Clinton",
             "aliases": [
-                "Z"
+                "Clinton"
             ]
         },
         {
-            "question": "Æ",
-            "answer": "Æ",
+            "question": "Hvilken eksentrisk milliardær stilte som uavhengig kandidat i presidentvalget i USA i 1992 og 1996, og fikk en vesentlig del av stemmene?",
+            "answer": "Ross Perot",
             "aliases": [
-                "Æ"
+                "Perot"
             ]
         },
         {
-            "question": "Ø",
-            "answer": "Ø",
+            "question": "I år stiller også en ganske eksentrisk kandidat. Med et familienavn som veier tungt innenfor amerikansk politikk, hva heter han?",
+            "answer": "Robert F. Kennedy Jr.",
             "aliases": [
-                "Ø"
+                "Robert F. Kennedy",
+                "Kennedy Jr.",
+                "Kennedy",
+                "Robert Kennedy Jr.",
+                "Robert F Kennedy Jr",
+                "Robert F Kennedy Junior"
             ]
         }
     ]
