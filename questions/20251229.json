@@ -1,0 +1,42 @@
+{
+    "theme": "OL-grener",
+    "questions": [
+        {
+            "question": "Hvilken OL-gren ble først introdusert i Tokyo i 2021 og avholdes ikke i Paris, men i Tahiti(!) under årets leker?",
+            "answer": "Surfing",
+            "aliases": [
+                "Surfing"
+            ]
+        },
+        {
+            "question": "Christian Sørum og Anders Mol er tilbake for å forsvare OL-gullet sitt. I hvilken sport?",
+            "answer": "Sandvolleyball",
+            "aliases": [
+                "Beachvolleyball",
+                "Volleyball"
+            ]
+        },
+        {
+            "question": "Hvilken sport, som i år har 372 utøvere i 14 vektklasser, blir til et barnslig brettspill om du bytter ut første bokstav?",
+            "answer": "Judo, som blir Ludo",
+            "aliases": [
+                "Judo"
+            ]
+        },
+        {
+            "question": "Det er en uunnværlig del i en olympisk øvelse til sjøs. Det er også navnet på en olympisk øvelse for kvinner. I flere andre olympisk grener er det noe du bør unngå. Hvilket ord?",
+            "answer": "Bom (seiling, turn, skyting++)",
+            "aliases": [
+                "Bom"
+            ]
+        },
+        {
+            "question": "Dyret heter Papillon på fransk, og er også navnet på en olympisk øvelse. Hvilken?",
+            "answer": "Butterfly (svømming)",
+            "aliases": [
+                "Butterfly",
+                "Svømming"
+            ]
+        }
+    ]
+}
