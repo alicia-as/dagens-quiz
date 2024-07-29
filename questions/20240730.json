@@ -1,0 +1,40 @@
+{
+    "theme": "Hvilket dyr?",
+    "questions": [
+        {
+            "question": "Hva slags dyr er en riesenschnauzer?",
+            "answer": "Hund",
+            "aliases": [
+                "En hund"
+            ]
+        },
+        {
+            "question": "Hvilken smakfull fugl fra Amerika har fått sitt engelske navn fra et land langt borte?",
+            "answer": "Kalkun, som på engelsk heter turkey",
+            "aliases": [
+                "Kalkun",
+                "Turkey",
+                "Turkey (kalkun)"
+            ]
+        },
+        {
+            "question": "Med samme navn som et beltedyr, hvilken dansk dokumentarfilm fra 2010 handler om danske soldater på oppdrag i Afghanistan?",
+            "answer": "Armadillo"
+        },
+        {
+            "question": "Jeff Goldblum og Geena Davis spilte hovedrollene i en film fra 1986. Med et insekt som tittel, hva heter grøsseren?",
+            "answer": "Fluen (The Fly)",
+            "aliases": [
+                "Fluen",
+                "The Fly"
+            ]
+        },
+        {
+            "question": "Hvilken film fra 1986 ble skrevet av hovedrolleinnehaveren Sylvester Stallone og har en slange som tittel?",
+            "answer": "Cobra",
+            "aliases": [
+                "Kobra"
+            ]
+        }
+    ]
+}
