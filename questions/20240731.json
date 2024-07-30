@@ -1,0 +1,34 @@
+{
+    "theme": "Norske romaner",
+    "questions": [
+        {
+            "question": "Hvilken roman av Lars Saabye Christensen har atomnummer 82 som tittel?",
+            "answer": "Bly"
+        },
+        {
+            "question": "Hvilken Ambjørnsen-roman i Elling-serien fra 1995 har tatt navn etter den mest irriterende sangen og dansen noensinne?",
+            "answer": "Fugledansen"
+        },
+        {
+            "question": "Hvilken norsk nobelprisvinner fikk sin gjennombruddsroman med «Jenny» i 1911?",
+            "answer": "Sigrid Undset",
+            "aliases": [
+                "Undset"
+            ]
+        },
+        {
+            "question": "Hvilken kvinnelig bergensk forfatter skrev romansyklusen «Hellemyrsfolket» på slutten av 1800-tallet?",
+            "answer": "Amalie Skram",
+            "aliases": [
+                "Skram"
+            ]
+        },
+        {
+            "question": "Hvilken forfatter har hatt en viss suksess med «My Struggle» i USA?",
+            "answer": "Karl Ove Knausgård",
+            "aliases": [
+                "Knausgård"
+            ]
+        }
+    ]
+}
