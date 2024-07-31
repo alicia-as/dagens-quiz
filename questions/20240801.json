@@ -1,0 +1,39 @@
+{
+    "theme": "Bare på butikken",
+    "questions": [
+        {
+            "question": "Hvilken butikkjede lokker kundene med «Smil, du har gjort en god deal!»?",
+            "answer": "Coop Prix",
+            "aliases": [
+                "Prix"
+            ]
+        },
+        {
+            "question": "Hvilken butikkjede lokket kundene med «Bare lave priser», et slagord de har kuttæt ut?",
+            "answer": "Rema 1000",
+            "aliases": [
+                "Rema",
+                "Rema 1000"
+            ]
+        },
+        {
+            "question": "Hvilken New Zealand-inspirert butikkjede ble etablert av Tor- og Henning Kirkeng, samt Svein Wike i 1979?",
+            "answer": "Kiwi",
+            "aliases": [
+                "Kiwi"
+            ]
+        },
+        {
+            "question": "Hvilket industriselskap, som har hentet navnet fra sitt viktigste produkt, er «Markedsledende på isolasjon- skapt for norske forhold»? Tar du vekk første bokstav, blir det varmt!",
+            "answer": "Glava"
+        },
+        {
+            "question": "Hva het Kristianias første stormagasin, stiftet av to kompiser, som ble åpnet i Kongens gate i 1874?",
+            "answer": "Steen & Strøm",
+            "aliases": [
+                "Steen og Strøm",
+                "Steen & Strøm"
+            ]
+        }
+    ]
+}
