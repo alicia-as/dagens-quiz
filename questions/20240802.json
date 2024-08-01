@@ -1,0 +1,42 @@
+{
+    "theme": "Med andre ord",
+    "questions": [
+        {
+            "question": "De norske soldatene i Tysklandsbrigaden etter annen verdenskrig fikk et kallenavn som igjen har gitt navn til noen meget vanlige bukser. Hva kaller vi de?",
+            "answer": "Olabukser",
+            "aliases": [
+                "Ola-soldater"
+            ]
+        },
+        {
+            "question": "Hvilket fransk ord brukes om en musikalsk komposisjon som er inspirert av nattens stemning? Ordet er også tittelen på en internasjonal norsk hit fra 1995.",
+            "answer": "Nocturne"
+        },
+        {
+            "question": "Hvilken musikk- og dansestil, som ligner på flamenco, var også navnet på et sirkus i en norsk spillefilm fra 1954?",
+            "answer": "Fandango"
+        },
+        {
+            "question": "Hvilken sykelig tilstand, som har en betegnelse fra gresk, betyr «oksehunger»?",
+            "answer": "Bulimi",
+            "aliases": [
+                "Bullimi"
+            ]
+        },
+        {
+            "question": "Til hvilken anledning/dag ble kodenavnene Omaha, Gold, Juno, Sword og Utah benyttet?",
+            "answer": "D-dagen",
+            "aliases": [
+                "Dagen D",
+                "D dagen",
+                "Landgangen i Normandie",
+                "Invasjonen i Normandie",
+                "Normandie-invasjonen",
+                "Normandieinvasjonen",
+                "Ved landgangen i Normandie den 6. juni 1944",
+                "6. juni 1944",
+                "D-day"
+            ]
+        }
+    ]
+}
