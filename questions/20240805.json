@@ -1,0 +1,37 @@
+{
+    "theme": "Besynderlig botanikk",
+    "questions": [
+        {
+            "question": "Hvilket familiemedlem har fått mye dårlig omtale i eventyr, men har også gitt navn til fiolen med det vitenskapelige navnet «Viola tricolor»?",
+            "answer": "Stemoren",
+            "aliases": [
+                "Stemor"
+            ]
+        },
+        {
+            "question": "Engsoleie er nasjonalblomst på Færøyene. Hvilket annet «fett» navn er vanlig her i Norge?",
+            "answer": "Smørblomst",
+            "aliases": [
+                "Smørblomsten"
+            ]
+        },
+        {
+            "question": "Hvilken tresort har det vitenskapelige navnet Aesculus hippocastanum?",
+            "answer": "Hestekastanje",
+            "aliases": [
+                "Kastanje"
+            ]
+        },
+        {
+            "question": "Det er 1800 nordmenn som har det som etternavn. En kommune på Hadeland heter det også. Hvilken tresort?",
+            "answer": "Gran"
+        },
+        {
+            "question": "Den heter Fandens mælkebøtte i Danmark. På gammelfransk het den «dent-de-lion». Hva heter ugresset derfor på norsk?",
+            "answer": "Løvetann",
+            "aliases": [
+                "Løvetannen"
+            ]
+        }
+    ]
+}
