@@ -1,0 +1,46 @@
+{
+    "theme": "Blå",
+    "questions": [
+        {
+            "question": "Hva slags husdyr er rasen som blir kalt «belgisk blå»? Det må ofte utføres keisersnitt på hunndyrene på grunn av de forvokste fostrene.",
+            "answer": "Storfe",
+            "aliases": [
+                "En ku",
+                "Kyr",
+                "Okse",
+                "Ku",
+                "Kveg"
+            ]
+        },
+        {
+            "question": "Hva slags sjelden rase er papegøyen som John Cleese prøver å levere tilbake til Michael Palin i en Python-sketsj fra 1969?",
+            "answer": "Norwegian Blue",
+            "aliases": [
+                "Norsk blå papegøye",
+                "Norsk blåpapegøye"
+            ]
+        },
+        {
+            "question": "Juliette Binoche spiller hovedrollen i filmen «Blå» fra 1993. Fra hvilket land kom regissøren, Krzysztof Kieślowski?",
+            "answer": "Polen",
+            "aliases": [
+                "Polen"
+            ]
+        },
+        {
+            "question": "Hvilken by ca. 18 km nordøst for Milano har gitt navn til Italias mest kjente blåmuggost?",
+            "answer": "Gorgonzola",
+            "aliases": [
+                "Gorgonsola"
+            ]
+        },
+        {
+            "question": "Hvilket grunnstoff med atomnummer 27 har gitt navn til en nyanse av blått?",
+            "answer": "Kobolt(blå)",
+            "aliases": [
+                "Kobolt",
+                "Koboltblå"
+            ]
+        }
+    ]
+}
