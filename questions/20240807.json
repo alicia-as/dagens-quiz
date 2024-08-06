@@ -1,0 +1,40 @@
+{
+    "theme": "Tilbake til Andeby",
+    "questions": [
+        {
+            "question": "Hva heter gårdsgutten utenfor Andeby som sover gjennomsnittlig 18 timer i døgnet?",
+            "answer": "Guffen",
+            "aliases": [
+                "Guffen"
+            ]
+        },
+        {
+            "question": "Hvilken klønete slektning av Donald heter Fætter Vims i Danmark?",
+            "answer": "Klodrik",
+            "aliases": [
+                "Fetter Klodrik"
+            ]
+        },
+        {
+            "question": "I engelsk versjon heter han Chief O'Hara. Hva heter politimesteren i historiene om Mikke Mus og Langbein i norsk versjon?",
+            "answer": "Politimester Fiks",
+            "aliases": [
+                "Fiks"
+            ]
+        },
+        {
+            "question": "Hva slags upopulært yrke hadde Donalds fjerne slektning, Moby Duck?",
+            "answer": "Han var hvalfanger",
+            "aliases": [
+                "Hvalfanger"
+            ]
+        },
+        {
+            "question": "Hvilken figur i Andeby har fått sitt navn og lynne fra en figur i Charles Dickens' «En julefortelling»?",
+            "answer": "Skrue McDuck (Ebenezer Scrooge)",
+            "aliases": [
+                "Skrue McDuck",
+                "Ebenezer Scrooge"
+            ]
+        }
+    }
