@@ -1,0 +1,28 @@
+{
+    "theme": "Hovedsteder 2",
+    "questions": [
+        {
+            "question": "Hvilken svensk prinsesse har samme navn som en av EUs hovedsteder?",
+            "answer": "Sofia"
+        },
+        {
+            "question": "Hovedstaden i Peru deler navn med 19 norske kvinner. Hva heter den?",
+            "answer": "Lima"
+        },
+        {
+            "question": "Syv hovedsteder begynner og slutter på bokstaven «A». Dersom vi ser bort fra «A» er det kun en annen hovedstad som begynner og slutter på samme vokal. Hva heter den?",
+            "answer": "Oslo"
+        },
+        {
+            "question": "I hvilket lite sultanat på Borneo er Bandar Seri Begawan hovedstad?",
+            "answer": "Brunei"
+        },
+        {
+            "question": "Hvilken brusfabrikk i Lillestrøm har samme navn som en av EUs eldste hovedsteder?",
+            "answer": "Roma mineralvannfabrikk",
+            "aliases": [
+                "Roma"
+            ]
+        }
+    ]
+}
