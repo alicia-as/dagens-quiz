@@ -1,0 +1,38 @@
+{
+    "theme": "Caprino",
+    "questions": [
+        {
+            "question": "Hvem har stemmen som teaterdirektør i filmen «Karius og Baktus» fra 1955?",
+            "answer": "Thorbjørn Egner",
+            "aliases": [
+                "Egner"
+            ]
+        },
+        {
+            "question": "Hva heter han til fornavn, sønnen til Ivo Caprino som var med og hjalp sin far med Flåklypa-filmen på 70-tallet?",
+            "answer": "Remo"
+        },
+        {
+            "question": "«Askeladden og hjelperne» hadde premiere på Saga kino i Oslo i 1961. Hvor mange hjelpere har Askeladden i filmversjonen?",
+            "answer": "Tre; en kjøttsulten, en som var usedvanlig lettbeint og en som holdt seg for truten",
+            "aliases": [
+                "Tre",
+                "3"
+            ]
+        },
+        {
+            "question": "En vakker reve-enke bodde langt inne i skogen med sin hushjelp. Hva het sistnevnte?",
+            "answer": "Korse",
+            "aliases": [
+                "Korse"
+            ]
+        },
+        {
+            "question": "Statoil la i 2022 ned et oljefelt (30 km nord for Oseberg) i 2022. Hva heter feltet, som er oppkalt etter en av Caprinos figurer?",
+            "answer": "Veslefrikk",
+            "aliases": [
+                "Veslefrikk"
+            ]
+        }
+    ]
+}
