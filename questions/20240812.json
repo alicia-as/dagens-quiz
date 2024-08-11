@@ -1,0 +1,41 @@
+{
+    "theme": "¡Viva España!",
+    "questions": [
+        {
+            "question": "I hvilken by i Navarra arrangeres det årlige okseløpet under San Fermín-festivalen?",
+            "answer": "Pamplona",
+            "aliases": [
+                "Pamplona"
+            ]
+        },
+        {
+            "question": "Hvilken nordlig spansk by har samme navn på baskisk som en hobbit i «Ringenes herre»?",
+            "answer": "Bilbao (Bilbo)",
+            "aliases": [
+                "Bilbo"
+            ]
+        },
+        {
+            "question": "Hvilken spansk skuespillerinne har samme navn som konen til Odyssevs, men er for tiden gift med Javier Bardem?",
+            "answer": "Penélope Cruz",
+            "aliases": [
+                "Cruz"
+            ]
+        },
+        {
+            "question": "Ta en Ford-modell og en spillegal amerikansk delstat, og du får Spanias «høyeste» fjellkjede. Hva heter den?",
+            "answer": "Sierra Nevada",
+            "aliases": [
+                "Sierra",
+                "Nevada"
+            ]
+        },
+        {
+            "question": "Det høyeste fjellet i Spania er Teide og ligger på en øy. Hva heter den?",
+            "answer": "Tenerife",
+            "aliases": [
+                "Tenerife"
+            ]
+        }
+    ]
+}
