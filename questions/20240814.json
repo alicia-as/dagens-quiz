@@ -1,0 +1,43 @@
+{
+    "theme": "Svenske skuespillere",
+    "questions": [
+        {
+            "question": "Hvilken svensk skuespiller, som har en IQ på 160, spiller rollen som Ivan Drago i «Rocky IV» (1985)?",
+            "answer": "Dolph Lundgren",
+            "aliases": [
+                "Lundgren",
+                "Dolph"
+            ]
+        },
+        {
+            "question": "En norsk monark, en svensk skuespiller og en norsk idrettstjerne. Hvilket navn?",
+            "answer": "Ingrid; Alexandra, Bergman, Kristiansen",
+            "aliases": [
+                "Ingrid",
+                "Ingrid Bergman"
+            ]
+        },
+        {
+            "question": "Hvilken svensk-amerikansk skuespiller, med samme fornavn som en svensk Person of the year, uttalte for lenge siden: «Jeg har aldri sagt at jeg vil være ensom, jeg har bare sagt at jeg vil være i fred. Det er stor forskjell.»?",
+            "answer": "Greta Garbo",
+            "aliases": [
+                "Garbo"
+            ]
+        },
+        {
+            "question": "Hva heter den uspiselige rollekarakteren til Simon J. Berger i TV-serien «Exit»?",
+            "answer": "Adam Velle",
+            "aliases": [
+                "Adam",
+                "Velle"
+            ]
+        },
+        {
+            "question": "I Mamma Mia! spiller Amanda Seyfried, Meryl Streep, Colin Firth og Pierce Brosnan sammen med hvilken svensk skuespiller?",
+            "answer": "Stellan Skarsgård",
+            "aliases": [
+                "Skarsgård"
+            ]
+        }
+    ]
+}
