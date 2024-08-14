@@ -1,0 +1,39 @@
+{
+    "theme": "Nobel",
+    "questions": [
+        {
+            "question": "Oppkalt etter en by, hva heter gaten som ligger mellom Nedre Slottsgate og Nobels gate på Monopol-spillet?",
+            "answer": "Trondheimsveien",
+            "aliases": [
+                "Trondheimsveien"
+            ]
+        },
+        {
+            "question": "Hvem spilte rollen som løytnant Erling Riiser i NRK-serien «Nobel» fra 2016?",
+            "answer": "Aksel Hennie",
+            "aliases": [
+                "Hennie"
+            ]
+        },
+        {
+            "question": "William Golding fikk Nobelprisen i 1983. Hvilken roman fra 1954 er han mest kjent for? Avguden Beelzebub, som sammenlignes med Satan, har også dette som kallenavn.",
+            "answer": "Fluenes herre"
+        },
+        {
+            "question": "Hvilken institusjon, som regnes for å være verdens eldste av sitt slag, innførte «Nobelprisen i økonomi» i 1968?",
+            "answer": "Sveriges Riksbank",
+            "aliases": [
+                "Riksbank",
+                "Riksbanken",
+                "Sentralbanken i Sverige"
+            ]
+        },
+        {
+            "question": "Hvilken norsk nobelprisvinner fra 1928 hadde en far som var arkeolog, noe som nok inspirerte hennes skriving om middelalderen?",
+            "answer": "Sigrid Undset",
+            "aliases": [
+                "Undset"
+            ]
+        }
+    ]
+}
