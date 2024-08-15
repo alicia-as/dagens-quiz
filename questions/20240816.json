@@ -1,0 +1,34 @@
+{
+    "theme": "Trump!",
+    "questions": [
+        {
+            "question": "Donald J. Trump er hans fulle navn. Hva står J for?",
+            "answer": "John"
+        },
+        {
+            "question": "Hva het TV-serien som gjorde Donald Trump kjent for et bredere publikum?",
+            "answer": "The Apprentice",
+            "aliases": [
+                "Apprentice",
+                "Kandidaten"
+            ]
+        },
+        {
+            "question": "Melania Trump ble født i Jugoslavia i 1970. I hvilket av dagens land?",
+            "answer": "Slovenia"
+        },
+        {
+            "question": "Donald Trump har (minst) fem barn. Hva er navnet på hans yngste sønn, som også er en adelig tittel?",
+            "answer": "Barron Trump",
+            "aliases": [
+                "Barron",
+                "Barron William Trump",
+                "Baron Trump"
+            ]
+        },
+        {
+            "question": "Mar-a-Lago er Trumps private klubb og hjem, som også har blitt kalt «The Winter White House». Hvilken delstat ligger Mar-a-Lago i?",
+            "answer": "Florida"
+        }
+    ]
+}
