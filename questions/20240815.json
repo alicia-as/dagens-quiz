@@ -17,7 +17,10 @@
         },
         {
             "question": "William Golding fikk Nobelprisen i 1983. Hvilken roman fra 1954 er han mest kjent for? Avguden Beelzebub, som sammenlignes med Satan, har også dette som kallenavn.",
-            "answer": "Fluenes herre"
+            "answer": "Fluenes herre",
+            "aliases": [
+                "Lord of the Flies"
+            ]
         },
         {
             "question": "Hvilken institusjon, som regnes for å være verdens eldste av sitt slag, innførte «Nobelprisen i økonomi» i 1968?",
