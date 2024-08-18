@@ -1,0 +1,41 @@
+{
+    "theme": "Den nest største byen",
+    "questions": [
+        {
+            "question": "Hva heter Colombias nest største by, som har gitt navn til det beryktede narkotikakartellet ledet av Pablo Escobar og vært kjent som «kokainhandelens hovedstad»?",
+            "answer": "Medellín",
+            "aliases": [
+                "Medellin"
+            ]
+        },
+        {
+            "question": "Ved hvilken by, som i dag er Egypts nest største, ble fyrtårnet på Faros bygget for mer enn 2000 år siden?",
+            "answer": "Alexandria",
+            "aliases": [
+                "Aleksandria"
+            ]
+        },
+        {
+            "question": "Hva heter Russlands nest største by, som er kjent for sine hvite netter og har blitt kalt «Nordens Venezia»?",
+            "answer": "St. Petersburg",
+            "aliases": [
+                "Saint Petersburg",
+                "Sankt Petersburg",
+                "Petersburg",
+                "Petrograd",
+                "Leningrad"
+            ]
+        },
+        {
+            "question": "Den nest største byen i delstaten New York ligger ved Niagara og har et navn som også er betegnelsen på et stort dyr. Hva heter byen?",
+            "answer": "Buffalo"
+        },
+        {
+            "question": "Republikken Irlands nest største by har et navn som kan få deg til å tenke på et produkt som produseres i mengder i Portugal. Hva heter byen?",
+            "answer": "Cork",
+            "aliases": [
+                "Kork"
+            ]
+        }
+    ]
+}
