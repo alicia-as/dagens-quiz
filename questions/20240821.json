@@ -1,0 +1,42 @@
+{
+    "theme": "Den siste bokstav",
+    "questions": [
+        {
+            "question": "Han fikk Oscar for sin rolle i Hjortejegeren fra 1978. Bytter du ut den siste bokstaven i etternavnet får du navnet på en av verdens mest kjente tegneseriefigurer. Hva heter skuespilleren?",
+            "answer": "Christopher Walken (Fantomet = Christopher «Kit» Walker)",
+            "aliases": [
+                "Walken",
+                "Christopher Walken"
+            ]
+        },
+        {
+            "question": "Hva heter den siste bokstaven i det greske alfabetet, som også er navnet på et sveitsisk klokkemerke?",
+            "answer": "Omega"
+        },
+        {
+            "question": "OL-ringen lengst til høyre har samme farge som den siste bokstaven i Google. Hvilken farge er det snakk om?",
+            "answer": "Rød"
+        },
+        {
+            "question": "Hvilken by i Vestland har samme navn som et fotballag i Eliteserien dersom du fjerner den siste bokstaven?",
+            "answer": "Odda (Odd)",
+            "aliases": [
+                "Odda",
+                "Odd"
+            ]
+        },
+        {
+            "question": "Hvilke to urolige og fiendtlig innstilte naboland bytter navn dersom de også bytter den siste bokstaven med hverandre?",
+            "answer": "Iran og Irak",
+            "aliases": [
+                "Iran",
+                "Irak",
+                "Irak og Iran",
+                "Irak & Iran",
+                "Iran & Irak",
+                "Iran, Irak",
+                "Irak, Iran"
+            ]
+        }
+    ]
+}
