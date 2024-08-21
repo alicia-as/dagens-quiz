@@ -1,0 +1,28 @@
+{
+    "theme": "Øyer på 'T'",
+    "questions": [
+        {
+            "question": "Formosa er et tidligere navn på en politisk omstridt øy i Øst-Asia. Hva heter øya i dag?",
+            "answer": "Taiwan"
+        },
+        {
+            "question": "Under årets OL ble surfingen arrangert 'halve verden' unna vertsby Paris. Hva heter øya der surfingen foregikk?",
+            "answer": "Tahiti"
+        },
+        {
+            "question": "Teide er med sine 3717 moh. Spanias høyeste fjell. Hvor ligger fjellet?",
+            "answer": "Tenerife",
+            "aliases": [
+                "Teneriff"
+            ]
+        },
+        {
+            "question": "Hvilken øy er Australias største?",
+            "answer": "Tasmania"
+        },
+        {
+            "question": "Kongeparets private sommersted, Mågerø, ligger på en odde sør for Tønsberg. I hvilken øykommune?",
+            "answer": "Tjøme"
+        }
+    ]
+}
