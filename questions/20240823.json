@@ -1,0 +1,45 @@
+{
+    "theme": "Kim (repeat)",
+    "questions": [
+        {
+            "question": "Hvilken finne vant Formel 1 i 2007?",
+            "answer": "Kimi Räikkönen",
+            "aliases": [
+                "Kimi Räikkönen",
+                "Raikkonen",
+                "Kimi Raikkonen",
+                "Räikkönen"
+            ]
+        },
+        {
+            "question": "Hvilken Kim Hadde suksess med låten 'Kids in America' i 1981 og med 'You Keep Me Hangin' On' i 1987?",
+            "answer": "Kim Wilde",
+            "aliases": [
+                "Wilde"
+            ]
+        },
+        {
+            "question": "Ekskona til Kanye West og mor til North, Saint og Chicago heter hva?",
+            "answer": "Kim Kardashian",
+            "aliases": [
+                "Kardashian"
+            ]
+        },
+        {
+            "question": "Kim Jong Un har vært Nord-Koreas leder siden 2011. Hva het hans far som var leder før han?",
+            "answer": "Kim Jong Il",
+            "aliases": [
+                "Jong Il",
+                "Kim Jong-Il",
+                "Jong-Il"
+            ]
+        },
+        {
+            "question": "Hvilken dansk musiker kjent for blant annet 'This is my life' slo gjennom som frontfigur i bandet Gasolin på slutten av 60-tallet?",
+            "answer": "Kim Larsen",
+            "aliases": [
+                "Larsen"
+            ]
+        }
+    ]
+}
