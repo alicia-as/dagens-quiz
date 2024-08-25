@@ -1,0 +1,28 @@
+{
+    "theme": "Politi-serier",
+    "questions": [
+        {
+            "question": "I tv-krimmen «The Wire» er handlingen lagt til Frank Zappas hjemby I Maryland. Hva heter den?",
+            "answer": "Baltimore"
+        },
+        {
+            "question": "Med sine 36 sesonger, hvilken dokumentarserie har introsangen 'Bad Boys' av Inner Circle?",
+            "answer": "Cops"
+        },
+        {
+            "question": "Og hva heter den norske 'versjonen' av forrige spørsmål?",
+            "answer": "Nattpatruljen"
+        },
+        {
+            "question": "I hvilken TV-serie med en bydel i nanvet møter vi Jake Peralta, Rosa Diaz og Terry Jeffords?",
+            "answer": "Brooklyn Nine-Nine",
+            "aliases": [
+                "Brooklyn 99"
+            ]
+        },
+        {
+            "question": "I hvilken delstat finner handlingen i True Detective sesong 1 primært sted?",
+            "answer": "Louisiana"
+        }
+    ]
+}
