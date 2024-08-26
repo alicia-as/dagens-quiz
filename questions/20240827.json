@@ -1,0 +1,36 @@
+{
+    "theme": "Søtsaker",
+    "questions": [
+        {
+            "question": "Hvilken italiensk godteriprodusent fører merkevarer som Nutella, Tic Tac og Kinderegg?",
+            "answer": "Ferrero"
+        },
+        {
+            "question": "Hvilken luftig sjokolade fra Nidar har ei blå ku i sitt varemerke?",
+            "answer": "Stratos"
+        },
+        {
+            "question": "Hvilken godteriprodusent ble etablert i 1934 som Malmö Lakrits Compani?",
+            "answer": "Malaco"
+        },
+        {
+            "question": "Hvem har skapt bildene i Freiasalen i Oslo, kunstverk som i dag er fredet av Riksantikvaren?",
+            "answer": "Edvard Munch",
+            "aliases": [
+                "Munch"
+            ]
+        },
+        {
+            "question": "Hvilket politisk parti benytter «samme» logo som et Freia-produkt?",
+            "answer": "Senterpartiet",
+            "aliases": [
+                "Senterpartiet",
+                "Sp",
+                "Senterpartiet (firkløver)",
+                "Sp (firkløver)",
+                "Sp-firkløver",
+                "Firkløver"
+            ]
+        }
+    ]
+}
