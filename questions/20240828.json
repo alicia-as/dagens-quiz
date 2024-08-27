@@ -1,0 +1,47 @@
+{
+    "theme": "Sjakk matt!",
+    "questions": [
+        {
+            "question": "Hvilket 22 år gammelt vidunderbarn ble verdensmester i 2013 etter å ha slått Viswanathan Anand?",
+            "answer": "Magnus Carlsen",
+            "aliases": [
+                "Carlsen"
+            ]
+        },
+        {
+            "question": "Hvilken genial, men ganske sprø amerikaner, bosatte seg på Island etter å ha vært ettersøkt i USA? Han var verdensmester i sjakk fra 1972 til 1975.",
+            "answer": "Bobby Fischer",
+            "aliases": [
+                "Fischer"
+            ]
+        },
+        {
+            "question": "Hvilken sjakkspiller ble verdensmester i 1985 etter å ha slått Anatolij Karpov? Han tapte derimot mot dataprogrammet Deep Blue i 1997.",
+            "answer": "Garry Kasparov",
+            "aliases": [
+                "Kasparov",
+                "Garri Kasparov"
+            ]
+        },
+        {
+            "question": "Hva heter Netflix-serien fra 2020 om Beth Harmon, en sjakkspiller som sliter med rusavhengighet?",
+            "answer": "The Queen's Gambit",
+            "aliases": [
+                "Queen's Gambit",
+                "Queens Gambit",
+                "The Queens Gambit"
+            ]
+        },
+        {
+            "question": "Når du spiller med de hvite brikkene i sjakk, hvilken farge har da feltet helt til venstre på din side (A1)? (Svart eller hvitt)",
+            "answer": "Svart",
+            "aliases": [
+                "Sort",
+                "Sorte",
+                "Brun",
+                "Brunfarge",
+                "Svart felt"
+            ]
+        }
+    ]
+}
