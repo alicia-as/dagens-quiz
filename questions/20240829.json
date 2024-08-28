@@ -1,0 +1,33 @@
+{
+    "theme": "Vest",
+    "questions": [
+        {
+            "question": "På hvilken øy finner vi kongeriket Norges vestligste punkt?",
+            "answer": "Jan Mayen"
+        },
+        {
+            "question": "Landet ligger vest i Afrika. Hovedstaden het Bathurst frem til 1973, da det skiftet navn til Banjul. Hvilket land, som nesten betyr reke på spansk?",
+            "answer": "Gambia",
+            "aliases": [
+                "The Gambia"
+            ]
+        },
+        {
+            "question": "Hvilket olje- og gassfelt vest for Sognefjorden har samme navn som en del barnehager, en eventyrfigur og et gammelt band der Anne Grete Preus var medlem?",
+            "answer": "Veslefrikk"
+        },
+        {
+            "question": "Hurtigruten har sitt første og vestligste anløp seks og en halv time etter at den har lagt fra kai i Bergen. Til hvilken by er den kommet da?",
+            "answer": "Florø"
+        },
+        {
+            "question": "Hva heter den delen av Det hvite hus der «Det ovale rom» og presserommet ligger?",
+            "answer": "Vestfløyen (The West Wing)",
+            "aliases": [
+                "West Wing",
+                "The West Wing",
+                "Vestfløyen"
+            ]
+        }
+    ]
+}
