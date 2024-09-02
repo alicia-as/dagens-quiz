@@ -1,0 +1,28 @@
+{
+    "theme": "Lisa",
+    "questions": [
+        {
+            "question": "Hvilket selskap sto bak den personlige computeren Lisa, som ble introdusert i 1983?",
+            "answer": "Apple"
+        },
+        {
+            "question": "Hva heter skuespilleren som spiller den rare Phoebe Buffay i TV-serien ”Friends”?",
+            "answer": "Lisa Kudrow",
+            "aliases": [
+                "Kudrow"
+            ]
+        },
+        {
+            "question": "Den velstående Francesco del Giocondo har vel de færreste hørt om, men hans kone vet alle hvem er. Hva heter, eller rettere sagt hvem tenker vi på?",
+            "answer": "Mona Lisa"
+        },
+        {
+            "question": "Lisa Simpsons bror heter Bart. Hva heter hennes bitte lille søster?",
+            "answer": "Maggie"
+        },
+        {
+            "question": "Hva heter pakistanergutten som er komikeren Lisa Tønnes alter ego? En av verdens beste sjakkspillere har samme navn.",
+            "answer": "Ali Reza"
+        }
+    ]
+}
