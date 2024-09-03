@@ -1,0 +1,41 @@
+{
+    "theme": "Frukt i tittelen",
+    "questions": [
+        {
+            "question": "I hvilken film av Stanley Kubrick møter vi Alex som er stor fan av Ludvig van Beethoven?",
+            "answer": "A Clockwork Orange",
+            "aliases": [
+                "Clockwork Orange",
+                "Orange"
+            ]
+        },
+        {
+            "question": "Seth Rogen og James Franco spiller i denne marihuana-komedien fra 2008, som har en frukt i tittelen. Hvilken?",
+            "answer": "Pineapple Express",
+            "aliases": [
+                "Ananas Express",
+                "Pinapple"
+            ]
+        },
+        {
+            "question": "Hvem var B1 og B2 som mange barn stiftet bekjentskap med på 1990-tallet?",
+            "answer": "Bananas in Pyjamas",
+            "aliases": [
+                "Bananer i pysjamas",
+                "Bananer"
+            ]
+        },
+        {
+            "question": "Hvilken Röyksopp-låt fra 2001 vant en Spellemannpris for beste musikkvideo?",
+            "answer": "Eple"
+        },
+        {
+            "question": "Hvilken kontroversiell film av Mel Gibson fra 2004 høstet kritikk fra noen kristne miljøer?",
+            "answer": "The Passion of the Christ",
+            "aliases": [
+                "Passion of the Christ",
+                "Passion"
+            ]
+        }
+    ]
+}
