@@ -1,0 +1,35 @@
+{
+    "theme": "Berømte båter",
+    "questions": [
+        {
+            "question": "Med en stjerne i navnet, hva het rederiet som bl.a. drev RMS Titanic?",
+            "answer": "White Star Line",
+            "aliases": [
+                "Hvite stjerne-linjen"
+            ]
+        },
+        {
+            "question": "Hvilken sjokolade med samme navn som et berømt skip er «The taste of paradise» ifølge reklamen?",
+            "answer": "Bounty"
+        },
+        {
+            "question": "Undertittelen er «The curse of the Black Pearl». Hvilken film fra 2003?",
+            "answer": "Pirates of the Caribbean",
+            "aliases": [
+                "Pirates of the Caribbean: The Curse of the Black Pearl",
+                "Pirates of the Caribbean: The Curse of the Black Pearl (2003)"
+            ]
+        },
+        {
+            "question": "Hvilket skip, som hadde samme navn som en romersk provins i det nåværende Portugal, ble torpedert i 1915 med nærmere 1200 omkomne som resultat?",
+            "answer": "Lusitania",
+            "aliases": [
+                "RMS Lusitania"
+            ]
+        },
+        {
+            "question": "«Midnatssol», «Trollfjord» og «Nordlys» er noen av skipene til et kjent rederi. Hvilket?",
+            "answer": "Hurtigruten"
+        }
+    ]
+}
