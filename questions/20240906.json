@@ -1,0 +1,34 @@
+{
+    "theme": "Fredag",
+    "questions": [
+        {
+            "question": "Hvilket engelsk rockeband, stiftet i 1978, er forelsket i fredag, skal man tro deres største hit?",
+            "answer": "The Cure (Friday I'm in Love)",
+            "aliases": [
+                "The Cure"
+            ]
+        },
+        {
+            "question": "Under hvilket navn er Per Kvikne, som slo gjennom med blant annet sangen «Fredag», mest kjent?",
+            "answer": "Kjartan Lauritzen"
+        },
+        {
+            "question": "Med en farge som etternavn, hva heter ungjenta som i 2011 ga ut den virale singelen «Friday»?",
+            "answer": "Rebecca Black",
+            "aliases": [
+                "Black"
+            ]
+        },
+        {
+            "question": "«Men det er først på fredag...» er starten på en kjent sang av hvilket Bergens-band? Navnet kan forøvrig være en vond opplevelse for kvinner.",
+            "answer": "Trang Fødsel"
+        },
+        {
+            "question": "Kjent for podkastene «Friminutt» og nå  «Storefri», hvilken komiker har også sluppet låten «Det er fredag» som har nesten 20 millioner avspillinger?",
+            "answer": "Herman Flesvig",
+            "aliases": [
+                "Flesvig"
+            ]
+        }
+    ]
+}
