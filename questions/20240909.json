@@ -1,0 +1,42 @@
+{
+    "theme": "Alle fugler",
+    "questions": [
+        {
+            "question": "Hva slags fugler, som ikke må forveksles med trær, befinner seg i manges lommer under fotballkamper?",
+            "answer": "Lerker (Lommelerker)",
+            "aliases": [
+                "Lommelerker",
+                "Lerker",
+                "Lerka",
+                "Lommelerka"
+            ]
+        },
+        {
+            "question": "Hvilken fugl er sentral i handlingen i barneboka «Danny, the Champion of the World»?",
+            "answer": "Fasaner (Danny og den store fasanjakten på norsk)",
+            "aliases": [
+                "Fasan",
+                "Fasaner"
+            ]
+        },
+        {
+            "question": "Den er ikke bare blant Norges minste fugler, men også blant landets mest tallrike. Etter navnet å dømme liker den seg ikke i granskog. Hva heter den sangglade fuglen?",
+            "answer": "Løvsanger",
+            "aliases": [
+                "Løvsangeren"
+            ]
+        },
+        {
+            "question": "Hvilken fugl, som kan bli opptil 50 år gammel, er Norges største?",
+            "answer": "Havørn",
+            "aliases": [
+                "Havørna",
+                "Havørnen"
+            ]
+        },
+        {
+            "question": "Erik Fosnes Hansen debuterte i 1985. Med hvilken roman?",
+            "answer": "Falketårnet"
+        }
+    ]
+}
