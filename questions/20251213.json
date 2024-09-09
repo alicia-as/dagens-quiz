@@ -1,0 +1,25 @@
+{
+    "theme": "Hvilket år?",
+    "questions": [
+        {
+            "question": "Arne Treholt ble arrestert og Ronald Reagan ble gjenvalgt som USAs president. Hvilket år?",
+            "answer": "1984"
+        },
+        {
+            "question": "Trump lanserer en av sine presidentkampanjer, Argentina vinner fotball-VM og Volodymyr Zelensky blir Time Magazine's Person of the Year. Hvilket år?",
+            "answer": "2022"
+        },
+        {
+            "question": "Hvilket år ble Gro Harlem Brundtland statsminister for første gang; 1981, 1983 eller 1985?",
+            "answer": "1981"
+        },
+        {
+            "question": "Østerrike, Finland og Sverige blir medlemmer i EU, Secret Garden Vinner Eurosong-finalen med «Nocturne» og Post Malone blir født. Hvilket år?",
+            "answer": "1995"
+        },
+        {
+            "question": "Hvilket år holdt John F. Kennedy sin «Ich bin ein Berliner»-tale; 1961, 1963 eller 1965?",
+            "answer": "1963"
+        }
+    ]
+}
