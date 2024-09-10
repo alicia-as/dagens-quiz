@@ -1,0 +1,44 @@
+{
+    "theme": "9/11",
+    "questions": [
+        {
+            "question": "Hva het de to skyskraperne som ble rammet av terrorisme 11. september 2001?",
+            "answer": "World Trade Center",
+            "aliases": [
+                "WTC",
+                "World Trade Centre",
+                "World Trade Centeret",
+                "World Trade Center-tårnene",
+                "World Trade Center Towers"
+            ]
+        },
+        {
+            "question": "... og hva heter den nye skyskraperen som senere ble bygget på samme sted?",
+            "answer": "One World Trade Center",
+            "aliases": [
+                "1 WTC",
+                "One WTC",
+                "One World Trade Centre",
+                "One World Trade Centeret",
+                "One World Trade Center-tårnet",
+                "One World Trade Center Tower"
+            ]
+        },
+        {
+            "question": "Tre amerikanske delstater ble rammet av terrorangrep 11. september 2001. New York og Pennsylvania var to av dem. Med et uskyldig navn, hvilken var den tredje?",
+            "answer": "Virginia"
+        },
+        {
+            "question": "George W. Bush var USAs president 11. september 2001. Hvem var visepresident?",
+            "answer": "Dick Cheney"
+        },
+        {
+            "question": "Hvilken figur, som i senere tid er blitt kjent for å være Donald Trumps talerør, var borgermester i New York under terrorangrepet 11. september 2001?",
+            "answer": "Rudy Giuliani",
+            "aliases": [
+                "Giuliani",
+                "Rudy"
+            ]
+        }
+    ]
+}
