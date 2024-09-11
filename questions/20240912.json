@@ -1,0 +1,37 @@
+{
+    "theme": "Hovedsteder i Amerika",
+    "questions": [
+        {
+            "question": "Verdens sterkeste jordskjelv fant sted i 1960, 700 kilometer syd for hovedstaden Santiago, og målte 9.5 på Richters skala. I hvilket land?",
+            "answer": "Chile"
+        },
+        {
+            "question": "I hvilken by ble den sommerolympiaden som har vært arrangert høyest over havet, arrangert i 1968?",
+            "answer": "Mexico City",
+            "aliases": [
+                "Mexico By",
+                "Meksiko by"
+            ]
+        },
+        {
+            "question": "Caracas er hovedstaden i et søramerikansk land, hvor det i det siste har vært mye bråk om hvem som vant valget. Hvilket?",
+            "answer": "Venezuela"
+        },
+        {
+            "question": "Hvilken norsk by har gjemt seg i navnet til Canadas hovedstad?",
+            "answer": "OTTA(wa)",
+            "aliases": [
+                "Otta",
+                "Ottawa"
+            ]
+        },
+        {
+            "question": "Hvilken sør-amerikansk hovedstad blir til et afrikansk land, som er tre ganger så stort som Norge, dersom du stokker på bokstavene?",
+            "answer": "Lima, Peru (som blir til Mali)",
+            "aliases": [
+                "Mali",
+                "Lima"
+            ]
+        }
+    ]
+}
