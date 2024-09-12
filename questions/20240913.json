@@ -1,0 +1,28 @@
+{
+    "theme": "Svaret starter på 'I'",
+    "questions": [
+        {
+            "question": "I hvilken planlagt hovedstad, grunnlagt i 1960, ligger den store Faisalmoskeen?",
+            "answer": "Islamabad"
+        },
+        {
+            "question": "I 1965 ble Tromsdalen kirke i Tromsø innviet. Under hvilket navn er kirken bedre kjent i dag? ",
+            "answer": "Ishavskatedralen"
+        },
+        {
+            "question": "Med en regnbuefarge til navn, hvilket lavprisselskap er Indias største flyselskap?",
+            "answer": "IndiGo"
+        },
+        {
+            "question": "Hvilken av figurene i historiene om Asterix heter Dogmatix i engelsk utgave?",
+            "answer": "Idefix",
+            "aliases": [
+                "Idefiks"
+            ]
+        },
+        {
+            "question": "Hvilken film-helt, som dukket opp for første gang i 1981, har samme (for-) navn som en amerikansk delstat?",
+            "answer": "Indiana Jones"
+        }
+    ]
+}
