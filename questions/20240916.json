@@ -1,0 +1,43 @@
+{
+    "theme": "Kjente Bjørner",
+    "questions": [
+        {
+            "question": "«Eg ser at du er trøtt,men eg kan ikkje gå alle skritta for deg.» Hvilken artist står bak disse ord?",
+            "answer": "Bjørn Eidsvåg",
+            "aliases": [
+                "Eidsvåg"
+            ]
+        },
+        {
+            "question": "Hvilken legende, som står skrevet på mange menn, ble kåret til tidenes beste svenske idrettsutøver i 2000?",
+            "answer": "Bjørn Borg",
+            "aliases": [
+                "Borg"
+            ]
+        },
+        {
+            "question": "Alan Alexander Milne er kjent som forfatteren av Ole Brumm. Hva heter denne bjørnen på originalspråket?",
+            "answer": "Winnie the Pooh",
+            "aliases": [
+                "Winnie-the-Pooh",
+                "Winnie Pooh",
+                "Pooh"
+            ]
+        },
+        {
+            "question": "Hvilken kjent nordmann ble født i 1832 på Kvikne nord for Tynset, og døde i Paris i 1910?",
+            "answer": "Bjørnstjerne Bjørnson",
+            "aliases": [
+                "Bjørnson",
+                "Bjørnstjerne"
+            ]
+        },
+        {
+            "question": "Hva er navnet på programlederen i Discovery Channels programserie Mann mot natur? ",
+            "answer": "Bear Grylls",
+            "aliases": [
+                "Grylls"
+            ]
+        }
+    ]
+}
