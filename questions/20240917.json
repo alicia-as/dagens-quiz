@@ -1,0 +1,44 @@
+{
+    "theme": "Mellomnavn i amerikansk politikk",
+    "questions": [
+        {
+            "question": "Bill Clintons mellomnavn var også etternavnet til USAs tredje president. Hvilket navn?",
+            "answer": "Jefferson",
+            "aliases": [
+                "Thomas Jefferson"
+            ]
+        },
+        {
+            "question": "Hva heter yngstemann George Bush til mellomnavn, som også er å finne i et kjent whiskymerke?",
+            "answer": "Walker",
+            "aliases": [
+                "Johnny Walker"
+            ]
+        },
+        {
+            "question": "Hvilken fremstående politiker har mellomnavnet Rodham?",
+            "answer": "Hillary Clinton",
+            "aliases": [
+                "Hillary Rodham Clinton",
+                "Clinton",
+                "Hillary"
+            ]
+        },
+        {
+            "question": "Barack Obama har samme mellomnavn som etternavnet på en tidligere irakisk president. Hvilket navn?",
+            "answer": "Hussein",
+            "aliases": [
+                "Saddam Hussein",
+                "Saddam",
+                "Husain"
+            ]
+        },
+        {
+            "question": "Noen hevder J-en i Donald J. Trump står for Jenius. Men hva er hans egentlige mellomnavn?",
+            "answer": "John",
+            "aliases": [
+                "Donald John Trump"
+            ]
+        }
+    ]
+}
