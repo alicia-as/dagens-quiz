@@ -1,0 +1,32 @@
+{
+    "theme": "Svaret slutter på 'x'",
+    "questions": [
+        {
+            "question": "Hva ble den kalt, unionen mellom tre små land fra 1948 som ble opptakten til dagen EU?",
+            "answer": "Benelux"
+        },
+        {
+            "question": "Hva er den største delstatshovedstaten i USA, målt i folketall?",
+            "answer": "Phoenix"
+        },
+        {
+            "question": "Han ble døpt James Marshall, og fikk sitt gjennombrudd som musiker med gruppa Experience i 1967. Han spilte gitar som ingen andre. Hvem snakker vi om?",
+            "answer": "Jimi Hendrix",
+            "aliases": [
+                "Hendrix"
+            ]
+        },
+        {
+            "question": "Hun ga ut albumet «Touch Me» da hun var 20 år gammel i 1986, og låten med samme navn ble en landeplage verden over. Hva heter artisten?",
+            "answer": "Samantha Fox",
+            "aliases": [
+                "Samanta Fox",
+                "Fox"
+            ]
+        },
+        {
+            "question": "De første olympiske vinterleker ble arrangert for 100 år siden i en by som også vil være blant arrangørbyene i 2030. Hvilken by?",
+            "answer": "Chamonix"
+        }
+    ]
+}
