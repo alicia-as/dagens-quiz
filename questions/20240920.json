@@ -1,0 +1,43 @@
+{
+    "theme": "William",
+    "questions": [
+        {
+            "question": "Sir John Falstaff dukker opp i tre skuespill. Hva heter forfatteren av stykkene?",
+            "answer": "William Shakespeare",
+            "aliases": [
+                "Shakespeare"
+            ]
+        },
+        {
+            "question": "Med Jefferson til mellomnavn, hva het USAs 42. president?",
+            "answer": "Bill Clinton",
+            "aliases": [
+                "William Jefferson Clinton",
+                "William Clinton",
+                "Clinton"
+            ]
+        },
+        {
+            "question": "Hva heter de til fornavn, de to Williams-søstrene som til sammen har vunnet 12 singeltitler i Wimbledon?",
+            "answer": "Venus og Serena",
+            "aliases": [
+                "Venus & Serena",
+                "Serena og Venus",
+                "Serena & Venus",
+                "Venus, Serena",
+                "Serena, Venus"
+            ]
+        },
+        {
+            "question": "Hva heter den mest kjente artisten Guy Chambers har snekret låter til?",
+            "answer": "Robbie Williams",
+            "aliases": [
+                "Robbie"
+            ]
+        },
+        {
+            "question": "Hvem spiller psykologen i filmen Good Will Hunting fra 1997?",
+            "answer": "Robin Williams"
+        }
+    ]
+}
