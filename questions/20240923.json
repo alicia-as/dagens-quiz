@@ -1,0 +1,41 @@
+{
+    "theme": "Hvilken bokstav? (repeat)",
+    "questions": [
+        {
+            "question": "Bokstaven, som er et romertall, er også en av James Bonds medarbeidere. I tillegg kan du se den i en av de mest kjente logoene i verden. Hvilken bokstav?",
+            "answer": "M (Moneypenny, McDonalds)",
+            "aliases": [
+                "M"
+            ]
+        },
+        {
+            "question": "Hvilket annet romertall, som er halvparten av forrige svar, er nasjonalitetsmerket for Tyskland?",
+            "answer": "D (500, M er 1000)",
+            "aliases": [
+                "D"
+            ]
+        },
+        {
+            "question": "Hvilken bokstav, som er mellomnavnet til en amerikansk president, er et høyt kort dersom du uttaler det?",
+            "answer": "S (Harry S. Truman, ess)",
+            "aliases": [
+                "S"
+            ]
+        },
+        {
+            "question": "Hvilken bokstav er den sunneste i det greske alfabetet samt noe folk flest stoler på?",
+            "answer": "Omega",
+            "aliases": [
+                "O",
+                "Omega"
+            ]
+        },
+        {
+            "question": "Hvilken bokstav, som også er et romertall, har høyest verdi i norsk Scrabble?",
+            "answer": "C (10 poeng)",
+            "aliases": [
+                "C"
+            ]
+        }
+    ]
+}
