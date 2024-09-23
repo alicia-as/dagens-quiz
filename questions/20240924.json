@@ -1,0 +1,42 @@
+{
+    "theme": "Bittesmå land",
+    "questions": [
+        {
+            "question": "Hvilket europeisk land, som ikke er med i EU, har ingen registrerte bilulykker, ingen drap, men allikevel flest lommetyverier i forhold til innbyggertallet",
+            "answer": "Vatikanstaten",
+            "aliases": [
+                "Vatikanet"
+            ]
+        },
+        {
+            "question": "Hvilket lite land ligger inneklemt mellom Sveits og Østerrike, og er dermed et av de to landene i verden som er dobbelt landlåst?",
+            "answer": "Liechtenstein",
+            "aliases": [
+                "Lichenstein"
+            ]
+        },
+        {
+            "question": "Hva er fellesbetegnelsen (som betyr «de små øyene») på de tusen øyene i Stillehavet som omfatter bl.a. Marianene, Nauru, Marshall- og Gilbertøyene?",
+            "answer": "Mikronesia",
+            "aliases": [
+                "Micro-nesia"
+            ]
+        },
+        {
+            "question": "Hvilket land, halvparten så stort som Finnmark, grenser til Guatemala og Honduras og har en hovedstad som heter San Salvador?",
+            "answer": "El Salvador",
+            "aliases": [
+                "Salvador"
+            ]
+        },
+        {
+            "question": "I hvilket bitte lite land ble «verdens største» statue av høvdingen Sitting Bull reist i 1974?",
+            "answer": "Legoland",
+            "aliases": [
+                "Legoland, Danmark",
+                "Danmark",
+                "Legoland Danmark"
+            ]
+        }
+    ]
+}
