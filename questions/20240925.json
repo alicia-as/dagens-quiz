@@ -1,0 +1,34 @@
+{
+    "theme": "Litt større land",
+    "questions": [
+        {
+            "question": "Luanda er hovedstad i et ganske stort land som har et norsk skisportsted gjemt i navnet. Hva heter landet?",
+            "answer": "Angola (Gol)",
+            "aliases": [
+                "Angola"
+            ]
+        },
+        {
+            "question": "Hvilket litt større land enn det forrige har også samme skispotsted i navnet, men en hovedstad som heter Ulaanbaatar?",
+            "answer": "Mongolia (Gol)",
+            "aliases": [
+                "Mongolia"
+            ]
+        },
+        {
+            "question": "I hvilket land, som er nesten nøyaktig 1 millioner km2 stort, ligger feriemålet Sharm El Sheikh?",
+            "answer": "Egypt",
+            "aliases": [
+                "Egypten"
+            ]
+        },
+        {
+            "question": "Hvilket land, som er ca fire ganger så stort som Norge, har kystlinje til hele den nordøstlige delen av Den persiske gulf?",
+            "answer": "Iran"
+        },
+        {
+            "question": "Afrikas tredje mest folkerike stat har vært okkupert, men har aldri vært koloni. Hva heter den?",
+            "answer": "Etiopia"
+        }
+    ]
+}
