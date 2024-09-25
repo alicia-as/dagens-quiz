@@ -1,0 +1,45 @@
+{
+    "theme": "Grunnstoffer",
+    "questions": [
+        {
+            "question": "Hvilket grunnstoff har den høyeste tettheten av de naturlig forekommende grunnstoffene? Det kjemiske symbolet er identisk med navnene på to norske kommuner.",
+            "answer": "Osmium (Os) 22,6 kg pr. liter.",
+            "aliases": [
+                "Osmium",
+                "Os"
+            ]
+        },
+        {
+            "question": "Hvilket grunnstoff har samme navn som Saturns største måne og et tall som kjemisk symbol?",
+            "answer": "Titan (Ti)",
+            "aliases": [
+                "Titan",
+                "Ti"
+            ]
+        },
+        {
+            "question": "Tar du vekk den siste bokstaven i grunnstoffet med atomnummer tujefem, ja da får du en tegneserie. Hvilket grunnstoff?",
+            "answer": "Mangan (manga er det japanske ordet for tegneserie).",
+            "aliases": [
+                "Mangan",
+                "Manga"
+            ]
+        },
+        {
+            "question": "Hvilket grunnstoff med atomnummer 26 har et overnaturlig vesen som kjemisk symbol?",
+            "answer": "Jern (Fe)",
+            "aliases": [
+                "Jern",
+                "Fe"
+            ]
+        },
+        {
+            "question": "Hvilket sjeldent grunnstoff er det eneste som naturlig binder seg til gull? Grunnstoffet er oppkalt etter det latinske navnet på Jorden og det kjemiske symbolet er identisk med en av verdens mest populære drikker.",
+            "answer": "Tellur (Te)",
+            "aliases": [
+                "Tellur",
+                "Te"
+            ]
+        }
+    ]
+}
