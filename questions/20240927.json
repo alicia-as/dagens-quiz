@@ -1,0 +1,46 @@
+{
+    "theme": "Populære bøker",
+    "questions": [
+        {
+            "question": "Hvilken farge hadde boken «Sitater fra formann Mao», som ble utgitt første gang i 1960?",
+            "answer": "Maos lille Røde var... rød",
+            "aliases": [
+                "Rødt",
+                "Rød"
+            ]
+        },
+        {
+            "question": "Hvilken årlig bok, som første gang kom ut i 1955, er verdens mest solgte (av bøker med opphavsrett)?",
+            "answer": "Guinness Rekordbok",
+            "aliases": [
+                "Guinness rekordbok",
+                "Guinness"
+            ]
+        },
+        {
+            "question": "Et grunnstoff som er en viktig ingrediens i enkelte kriminalromaner har «samme» navn som en tidligere Arsenal-manager. Hva heter det?",
+            "answer": "Arsen",
+            "aliases": [
+                "Arsène Wenger",
+                "Arsène",
+                "Wenger"
+            ]
+        },
+        {
+            "question": "Man kan trygt si at Quasimodo er avstandsforelsket i Esmeralda. I hvilken roman, der handlingen er lagt til 1482?",
+            "answer": "Ringeren i Notre Dame",
+            "aliases": [
+                "Ringeren i Notre Dame",
+                "Notre Dame"
+            ]
+        },
+        {
+            "question": "Hvilket selskap, oppkalt etter en av dommerne i Det gamle testamente, ble stiftet i 1899, med formål å plassere bibler på hotellrom, sykehus og andre institusjoner?",
+            "answer": "Gideon",
+            "aliases": [
+                "Gideon",
+                "Gideons"
+            ]
+        }
+    ]
+}

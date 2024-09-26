@@ -4,7 +4,7 @@ import ClipboardModal from "./ClipboardModal";
 import ScoreBoxes from "./ScoreBoxes";
 import levenshtein from "js-levenshtein";
 
-const LEVENSHTEIN_THRESHOLD = 0; // Adjust this value as needed
+const LEVENSHTEIN_THRESHOLD = 2; // Adjust this value as needed
 
 interface Data {
   questions: Question[];
