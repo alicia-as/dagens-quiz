@@ -1,0 +1,34 @@
+{
+    "theme": "Repeat, Repeat (Repeat)",
+    "questions": [
+        {
+            "question": "Et rockeband kjent for å holde linja, et populært hesteveddeløpsspill og sjef for Mercedes-laget i Formel 1. Hva tenker vi på?",
+            "answer": "Toto"
+        },
+        {
+            "question": "Hvilken gungansk rollefigur fra Star Wars med etternavn Binks var den første computer-genererte rollefiguren?",
+            "answer": "Jar Jar",
+            "aliases": [
+                "Jar-Jar",
+                "Jar Jar Binks"
+            ]
+        },
+        {
+            "question": "Hvilken øy i Fransk Polynesia med et repeterende navn var kongedømme fram til 1888?",
+            "answer": "Bora Bora"
+        },
+        {
+            "question": "Hva er den gjentagende tittelen til Stella Mwangis vinnerlåt fra 2011?",
+            "answer": "Haba Haba"
+        },
+        {
+            "question": "Hvilket internasjonalt selskap med gjentagende navn var først ute med festbart plaster i 1899?",
+            "answer": "Jonhson & Johnson",
+            "aliases": [
+                "Johnson Johnson",
+                "Johnson & Johnsons",
+                "Jonson & Jonson"
+            ]
+        }
+    ]
+}
