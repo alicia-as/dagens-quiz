@@ -153,7 +153,7 @@ const IndexPage: React.FC = () => {
     navigator.clipboard
       .writeText(
         resultString +
-          "\nSpill dagens quiz på: https://quiz.alicia.app." +
+          "\nSpill fem kjappe på: https://www.femkjappe.no." +
           (theme ? ` Dagens tema: ${theme}` : "")
       )
       .then(
@@ -178,13 +178,21 @@ const IndexPage: React.FC = () => {
 
   return (
     <div className="max-w-md mx-auto mt-4 rounded-lg p-4 bg-slate-500">
+      <div className="text-center" id="temp">
+        <span>Dagens Quiz heter nå Fem Kjappe.</span>
+        <br />
+        Nytt domene er{" "}
+        <a className="font-bold" href="https://www.femkjappe.no">
+          femkjappe.no
+        </a>
+      </div>
       <ClipboardModal
         isOpen={isModalOpen}
         onClose={() => setIsModalOpen(false)}
       >
         <p>Resultatene er kopiert til din utklippstavle!</p>
       </ClipboardModal>
-      <h1 className="text-2xl font-bold text-center m2-4">Dagens Quiz</h1>
+      <h1 className="text-2xl font-bold text-center m2-4">Fem Kjappe</h1>
       {theme && (
         <p className="text-center text-gray-200 text-sm my-2">
           <span className="font-semibold">Tema:</span> {theme}
