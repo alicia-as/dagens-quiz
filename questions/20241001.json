@@ -1,0 +1,39 @@
+{
+    "theme": "Twist",
+    "questions": [
+        {
+            "question": "Hvilken twistbit har et navn som kan bety «gal»?",
+            "answer": "Cocos",
+            "aliases": [
+                "Kokos"
+            ]
+        },
+        {
+            "question": "Hvilken trekantet twistbit, som forsvant i 2012, var en miniutgave av en verdenskjent sjokolade?",
+            "answer": "Toblerone"
+        },
+        {
+            "question": "Hvilken sang fra 1961, spilt av Cubby Checker, oppfordret folk til å spise mer Twist?",
+            "answer": "Let's Twist Again",
+            "aliases": [
+                "Lets Twist Again"
+            ]
+        },
+        {
+            "question": "Hvilken sjokolade, som også selges separat, er positivt på norsk men nedsettende på engelsk?",
+            "answer": "Japp",
+            "aliases": [
+                "Japp-sjokolade",
+                "Jap"
+            ]
+        },
+        {
+            "question": "Hvilken biloppfinner, med en twist-sjokolade i etternavnet, sto bak firmaet som slo seg sammen med Karl Benz i 1926?",
+            "answer": "Gottlieb Daimler",
+            "aliases": [
+                "Daimler",
+                "Daim"
+            ]
+        }
+    ]
+}
