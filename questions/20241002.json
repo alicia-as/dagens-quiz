@@ -1,0 +1,36 @@
+{
+    "theme": "Folkerikt",
+    "questions": [
+        {
+            "question": "Hvilket land er verdens tredje mest folkerike med en befolkning på drøyt 350 millioner?",
+            "answer": "USA",
+            "aliases": [
+                "USA",
+                "Amerika",
+                "Amerikas forente stater"
+            ]
+        },
+        {
+            "question": "Hvilket land er verdens femte største i areal og syvende største i folketall?",
+            "answer": "Brasil"
+        },
+        {
+            "question": "Hvilket land har flest innbyggere, Sør- eller Nord-Korea?",
+            "answer": "Sør-Korea har nesten dobbelt så mange innbyggere (52 mill).",
+            "aliases": [
+                "Sør-Korea"
+            ]
+        },
+        {
+            "question": "Hvilket muslimsk land er verdens femte mest folkerike med en befolkning som akkurat har bikket 250 millioner?",
+            "answer": "Pakistan"
+        },
+        {
+            "question": "I noen FN-land består >99 prosent av arealet av én øy. Hvilket av disse øylandene er det mest folkerike?",
+            "answer": "Madagaskar (32 millioner).",
+            "aliases": [
+                "Madagaskar"
+            ]
+        }
+    ]
+}
