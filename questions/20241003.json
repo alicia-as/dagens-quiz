@@ -1,0 +1,36 @@
+{
+    "theme": "Svaret begynner på 'H'",
+    "questions": [
+        {
+            "question": "Et av tidenes mest solgte album har en amerikansk delstat i tittelen. Hva heter det?",
+            "answer": "Hotel California",
+            "aliases": [
+                "California"
+            ]
+        },
+        {
+            "question": "«Slaget i Hafrsfjord» rundt 872 står sentralt i norsk historie. Hva het seierherren?",
+            "answer": "Harald Hårfagre",
+            "aliases": [
+                "Hårfagre",
+                "Harald"
+            ]
+        },
+        {
+            "question": "Zimbabwes hovedstad het tidligere Salisbury, men har siden 1982 hatt et navn som begynner på 'H'. Hva heter byen?",
+            "answer": "Harare"
+        },
+        {
+            "question": "Hva heter den gigantiske bukten som ligger på østsiden av Nunavut i Canada?",
+            "answer": "Hudsonbukta",
+            "aliases": [
+                "Hudson",
+                "Hudson Bay"
+            ]
+        },
+        {
+            "question": "Hvilket annet japansk ord bruker vi vanligvis i Norge når vi snakker om «Seppuku»?",
+            "answer": "Harakiri"
+        }
+    ]
+}
