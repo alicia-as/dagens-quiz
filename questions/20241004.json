@@ -1,0 +1,36 @@
+{
+    "theme": "Med et dyr i svaret",
+    "questions": [
+        {
+            "question": "Hvilken type Carlsberg-øl er kjent for sin alkoholstyrke, og fikk da også navn etter et sterkt dyr da det kom på markedet i 1959?",
+            "answer": "Elefantøl",
+            "aliases": [
+                "Elefant",
+                "Elephant"
+            ]
+        },
+        {
+            "question": "Hvilket ord kan settes etter både «by», «ring», «brev» og «freds»?",
+            "answer": "-due",
+            "aliases": [
+                "due"
+            ]
+        },
+        {
+            "question": "Filmen «Streik» bygger på en roman av Tor Obrestad fra 1972. I hvilket industristed, hvor Bjørn(!) Eidsvåg er født, foregår handlingen?",
+            "answer": "Sauda"
+        },
+        {
+            "question": "Taraxacum officinale blir på tross av sitt vakre utseende av mange regnet som ugress og luket bort fra plenen. Hva er det norske navnet på denne planten i kurvblomstfamilien?",
+            "answer": "Løvetann"
+        },
+        {
+            "question": "Hovedstaden i Sierra Leone heter Freetown. Hovedstaden i Gabon heter det samme, men på fransk, og da har et dyr i navnet. Hva heter byen?",
+            "answer": "Libreville (rev)",
+            "aliases": [
+                "Libreville",
+                "Libre ville"
+            ]
+        }
+    ]
+}
