@@ -1,0 +1,31 @@
+{
+    "theme": "Kvinnelige Oscar-nominerte",
+    "questions": [
+        {
+            "question": "Rooney Mara ble nominert til «Beste skuespiller» ved den 84. Oscarutdelingen for sin rolle som Lisbeth Salander. Engelsk tittel på film takk!",
+            "answer": "The Girl with the Dragon Tattoo",
+            "aliases": [
+                "Menn som hater kvinner"
+            ]
+        },
+        {
+            "question": "Hvilken kvinne ble nominert til «Beste skuespiller» ved den 86. Oscarutdelingen for sin rolle i «Gravity»?",
+            "answer": "Sandra Bullock"
+        },
+        {
+            "question": "Holly Hunter vant Oscar for sin rolle i en film fra 1993 som kan få deg til å tenke på både Grieg, jordbærgelé og vaniljesaus. Hvilken tittel?",
+            "answer": "Piano",
+            "aliases": [
+                "The Piano"
+            ]
+        },
+        {
+            "question": "Hvem ble nominert til Oscar for sin hovedrolle i Clint Eastwoods «Changeling» (2008) der en mor mister sin sønn og får en annen gutt i retur av politiet? Skuespilleren selv tviholder på barna.",
+            "answer": "Angelina Jolie"
+        },
+        {
+            "question": "Hvem ble nominert til Oscar for sin hovedrolle som Elizabeth Bennet i 2005 i en film som ikke kan nevnes uten at dere vet svaret?",
+            "answer": "Keira Knightley"
+        }
+    ]
+}
