@@ -1,0 +1,38 @@
+{
+    "theme": "Omhyggelige Oster 2",
+    "questions": [
+        {
+            "question": "Hvilken varemerkebeskyttet blåmuggost har fått sitt navn fra noen huler i det sørlige Frankrike?",
+            "answer": "Roquefort",
+            "aliases": [
+                "Roquefort Société"
+            ]
+        },
+        {
+            "question": "På hvilken ost finner vi symbolet «G35»?",
+            "answer": "Gudbrandsdalsost",
+            "aliases": [
+                "Brunost",
+                "Tine Gudbrandsdalsost",
+                "Tine Brunost"
+            ]
+        },
+        {
+            "question": "I hvilket land kommer osten emmentaler fra?",
+            "answer": "Sveits"
+        },
+        {
+            "question": "Norges mest solgte ost burde strengt tatt ikke hett Norvegia. Fra hvilken liten nederlandsk by kommer osten egentlig fra?",
+            "answer": "Gouda"
+        },
+        {
+            "question": "Hvilken liten by i Østfold, med smale øyne, har samme navn som væsken som blir igjen når ostemassen er utskilt ved ysting?",
+            "answer": "Mysen",
+            "aliases": [
+                "Mysost",
+                "Mysa",
+                "Myse"
+            ]
+        }
+    ]
+}
