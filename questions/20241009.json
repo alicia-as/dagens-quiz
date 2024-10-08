@@ -1,0 +1,33 @@
+{
+    "theme": "Steiner og mineraler",
+    "questions": [
+        {
+            "question": "Hvilket vanlig forekommende mineral gjorde tidtaking mer presis fra 1980-tallet? Navnet kan få deg til å tenke på en fjerdedel!",
+            "answer": "Kvarts"
+        },
+        {
+            "question": "Hvilken bergart, som blant annet brukes til å lage bord, består av kalkstein som har blitt omdannet ved høyt trykk og høy temperatur, en såkalt metamorfose?",
+            "answer": "Marmor"
+        },
+        {
+            "question": "Hvilket grunnstoff ble oppdaget etter et mineralfunn i Brevik i Telemark i 1828 og fikk navn etter en gud?",
+            "answer": "Thorium",
+            "aliases": [
+                "Th",
+                "Thor"
+            ]
+        },
+        {
+            "question": "Hvilket navn: En hunderase, et navn på en bergart og en del av Canada?",
+            "answer": "Labrador"
+        },
+        {
+            "question": "Hvilket grunnstoff blir utvunnet av malmsorten bauksitt?",
+            "answer": "Aluminium",
+            "aliases": [
+                "Al",
+                "Aluminiumsfolie"
+            ]
+        }
+    ]
+}
