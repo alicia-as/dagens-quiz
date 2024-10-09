@@ -1,0 +1,47 @@
+{
+    "theme": "Pest eller kolera (repeat)",
+    "questions": [
+        {
+            "question": "I 2009 ble svineinfluensaen erklært som pandemi av Verdens helseorganisasjon. I hvilket land, som er verdens 13. største, brøt den ut?",
+            "answer": "Mexico",
+            "aliases": [
+                "Mexico City",
+                "Meksiko"
+            ]
+        },
+        {
+            "question": "Til hvilken norsk by kom svartedauden i Norge i 1349?",
+            "answer": "Bjørgvin",
+            "aliases": [
+                "Bergen"
+            ]
+        },
+        {
+            "question": "Det så lenge ut til å bli enten Donald Trump eller Joe Biden som blir USAs neste president. Hvor mange år er de til sammen? (+/- 2 år)",
+            "answer": "77 + 81 = 158 år",
+            "aliases": [
+                "158",
+                "158 år",
+                "157",
+                "157 år",
+                "159",
+                "159 år",
+                "156",
+                "156 år",
+                "160",
+                "160 år"
+            ]
+        },
+        {
+            "question": "I hvilket organ har du betennelse hvis du har hepatitt?",
+            "answer": "Leveren",
+            "aliases": [
+                "Lever"
+            ]
+        },
+        {
+            "question": "Hvilken sykdom, med en fisk i slutten av navnet, angriper kun pasienter som har hatt vankopper tidligere i livet?",
+            "answer": "Helvetesild"
+        }
+    ]
+}
