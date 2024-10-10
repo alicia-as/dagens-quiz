@@ -1,0 +1,46 @@
+{
+    "theme": "Instrumenter",
+    "questions": [
+        {
+            "question": "Hvilket musikkinstrument består av en ring overtrukket med skinn og løse metallskiver festet til ringen? Bob Dylan spiller dette instrumentet, og har en sang med instrumentet i tittelen.",
+            "answer": "Tamburin",
+            "aliases": [
+                "Tambourin",
+                "Tambourine"
+            ]
+        },
+        {
+            "question": "Hvilket musikkinstrument, som er en del av slagverket, består av en rekke metallstaver som er montert på en treplate?",
+            "answer": "Xylofon",
+            "aliases": [
+                "Xylophone"
+            ]
+        },
+        {
+            "question": "Billy Joel fikk sitt gjennombrudd i 1973 med en sang som heter et <INSTRUMENT> Man. Hvilket instrument er det snakk om?",
+            "answer": "Piano",
+            "aliases": [
+                "Klaver",
+                "Flygel",
+                "Piano Man"
+            ]
+        },
+        {
+            "question": "Hvilket messingblåseinstrument, som har hentet navnet fra de tyske skoger, er utviklet fra posthornet og består av 2,7 til 3,7 meter med sammenrullede rør?",
+            "answer": "Valthorn (Wald = skog)",
+            "aliases": [
+                "Horn",
+                "Valthorn",
+                "French horn"
+            ]
+        },
+        {
+            "question": "Hvilket treblåseinstrument blir til et boligbyggerlag og en fotballiga om du putter på én bokstav?",
+            "answer": "Obo",
+            "aliases": [
+                "Oboe",
+                "Obos"
+            ]
+        }
+    ]
+}
