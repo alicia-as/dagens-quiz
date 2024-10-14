@@ -1,0 +1,32 @@
+{
+    "theme": "Hovedsteder 2",
+    "questions": [
+        {
+            "question": "Norges hovedstad lå som kjent midt i TjekkOSLOvakia. USA ligger også midt i en storby og überkontroversiell hovedstad. Hva heter den?",
+            "answer": "JerUSAlem"
+        },
+        {
+            "question": "Hvilken hovedstad som er nummer fem i den alfabetiske oversikten over FNs hovedsteder, har samme navn som noen små levende vesener?",
+            "answer": "Alger",
+            "aliases": [
+                "Algerie",
+                "Algeri"
+            ]
+        },
+        {
+            "question": "Ved hvilken hovedstad renner den drøyt 1000 km lange elven Tejo ut i Atlanterhavet?",
+            "answer": "Lisboa"
+        },
+        {
+            "question": "I hvilken asiatisk hovedstad ble sommer-OL arrangert i 1988?",
+            "answer": "Seoul"
+        },
+        {
+            "question": "Seierherren i slaget ved Waterloo var hertug og har fått en sydlig hovedstad oppkalt etter seg. Hvilken hovedstad?",
+            "answer": "Wellington, New Zealand",
+            "aliases": [
+                "Wellington"
+            ]
+        }
+    ]
+}
