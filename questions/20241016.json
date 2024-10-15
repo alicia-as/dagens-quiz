@@ -1,0 +1,44 @@
+{
+    "theme": "Flyselskaper",
+    "questions": [
+        {
+            "question": "Et av verdens største flyselskaper er også kallenavnet på den beste hånden man kan få som startkort i Texas Hold'em. Hvilket flyselskap?",
+            "answer": "American Airlines (AA)",
+            "aliases": [
+                "American Airlines",
+                "AA"
+            ]
+        },
+        {
+            "question": "Hvilket produkt fra Bergen, som kom på markedet i 1891, blir til et av Europas største flyselskap dersom du tømmer det?",
+            "answer": "Hansa (Lufthansa)",
+            "aliases": [
+                "Hansa",
+                "Lufthansa"
+            ]
+        },
+        {
+            "question": "Et av Asias største flyselskaper bruker initialene JAL som logo. Hva heter selskapet?",
+            "answer": "Japan Airlines",
+            "aliases": [
+                "Japan Airlines"
+            ]
+        },
+        {
+            "question": "Hvilken humortrio, som sto bak blant annet Brødrene Dal, hadde samme navn som et stort europeisk flyselskap?",
+            "answer": "KLM",
+            "aliases": [
+                "KLM Royal Dutch Airlines",
+                "KLM Royal Dutch"
+            ]
+        },
+        {
+            "question": "Det irske flyeselskapet Ryanair er kjent for å ha en av de mest aggressive prisstrategiene i bransjen. Med samme navn som en restaurant man kan finne på mange flyplasser, hva heter selskapets kontroversielle sjef?",
+            "answer": "Michael O'Leary",
+            "aliases": [
+                "Michael OLeary",
+                "O'Leary"
+            ]
+        }
+    ]
+}

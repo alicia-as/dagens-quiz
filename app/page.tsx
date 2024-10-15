@@ -178,14 +178,6 @@ const IndexPage: React.FC = () => {
 
   return (
     <div className="max-w-md mx-auto mt-4 rounded-lg p-4 bg-slate-500">
-      <div className="text-center" id="temp">
-        <span>Dagens Quiz heter nå Fem Kjappe.</span>
-        <br />
-        Nytt domene er{" "}
-        <a className="font-bold" href="https://www.femkjappe.no">
-          femkjappe.no
-        </a>
-      </div>
       <ClipboardModal
         isOpen={isModalOpen}
         onClose={() => setIsModalOpen(false)}

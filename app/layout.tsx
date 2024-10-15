@@ -6,7 +6,7 @@ import { Analytics } from "@vercel/analytics/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Dagens Quiz",
+  title: "Fem kjappe",
   description: "Fem spørsmål hver ukedag. Hvor mange klarer du?",
 };
 
