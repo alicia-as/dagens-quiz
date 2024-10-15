@@ -3,7 +3,10 @@
     "questions": [
         {
             "question": "Norges hovedstad lå som kjent midt i TjekkOSLOvakia. USA ligger også midt i en storby og überkontroversiell hovedstad. Hva heter den?",
-            "answer": "JerUSAlem"
+            "answer": "JerUSAlem",
+            "aliases": [
+                "LUSAka"
+            ]
         },
         {
             "question": "Hvilken hovedstad som er nummer fem i den alfabetiske oversikten over FNs hovedsteder, har samme navn som noen små levende vesener?",
