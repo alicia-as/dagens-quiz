@@ -1,0 +1,34 @@
+{
+    "theme": "Artig med Aviser",
+    "questions": [
+        {
+            "question": "Hvilken avis har fått kallenavnet «Tanta i Akersgata»?",
+            "answer": "Aftenposten"
+        },
+        {
+            "question": "Hvilken suksessrik forfatter var redaktør i Klassekampen fra 1997 til 2002? En senere redaktør i Klassekampen, Mimir Kristjansson, har skrevet en bok om denne forfatteren.",
+            "answer": "Jon Michelet",
+            "aliases": [
+                "Michelet"
+            ]
+        },
+        {
+            "question": "Med en delstat i navnet, hvilken avis avdekket Watergate-skandalen?",
+            "answer": "The Washington Post",
+            "aliases": [
+                "Washington Post"
+            ]
+        },
+        {
+            "question": "I hvilken fiktiv avis jobber journalistene Jimmy Olson og Perry White?",
+            "answer": "Daily Planet",
+            "aliases": [
+                "The Daily Planet"
+            ]
+        },
+        {
+            "question": "Hva står initialene VG for i avisen VG?",
+            "answer": "Verdens Gang"
+        }
+    ]
+}
