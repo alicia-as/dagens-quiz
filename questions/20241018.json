@@ -1,0 +1,73 @@
+{
+    "theme": "Person of the Year",
+    "questions": [
+        {
+            "question": "I 1930 ble en inder kåret til «Person of the Year». Hva het han?",
+            "answer": "Mahatma Gandhi",
+            "aliases": [
+                "Gandhi"
+            ]
+        },
+        {
+            "question": "Fjorårets «Person of the Year» heter Alison til mellomnavn og ble født i 1989. Hvilken superstjerne?",
+            "answer": "Taylor Swift",
+            "aliases": [
+                "Swift",
+                "Taylor"
+            ]
+        },
+        {
+            "question": "Hvilken 26 år gammel kvinne ble kåret til «Person of the Year» i 1952, samme år hennes far døde?",
+            "answer": "Elizabeth II",
+            "aliases": [
+                "Elizabeth",
+                "Queen Elizabeth",
+                "Dronning Elizabeth",
+                "Dronning Elizabeth II",
+                "Queen Elizabeth II"
+            ]
+        },
+        {
+            "question": "En gründer ble «Person of the Year» i 2010, bare 26 år gammel. Navnet takk!",
+            "answer": "Mark Zuckerberg",
+            "aliases": [
+                "Zuckerberg"
+            ]
+        },
+        {
+            "question": "Fire statsledere var «Person of the Year» i perioden 1938 – 41. To av dem het Franklin D. Roosevelt og Winston Churchill. Hva het de to andre (etternavn holder)?",
+            "answer": "Joseph Stalin og Adolf Hitler",
+            "aliases": [
+                "Stalin, Hitler",
+                "Stalin og Hitler",
+                "Hitler, Stalin",
+                "Hitler og Stalin",
+                "Josef Stalin og Adolf Hitler",
+                "Josef Stalin, Adolf Hitler",
+                "Stalin Adolf Hitler",
+                "Adolf Hitler Josef Stalin",
+                "Stalin & Hitler",
+                "Hitler & Stalin",
+                "Stalin/Hitler",
+                "Hitler/Stalin",
+                "Stalin Hitler",
+                "Hitler Stalin",
+                "Stalin Adolf",
+                "Adolf Stalin",
+                "Hitler Joseph Stalin",
+                "Stalin Joseph Hitler",
+                "Joseph Stalin, Hitler",
+                "Adolf Hitler, Stalin",
+                "Stalin Joseph",
+                "Hitler Adolf",
+                "Adolf & Stalin",
+                "Stalin & Adolf",
+                "Hitler & Joseph",
+                "Stalin and Adolf Hitler",
+                "Hitler and Joseph Stalin",
+                "Joseph and Adolf",
+                "Stalin and Hitler"
+            ]
+        }
+    ]
+}
