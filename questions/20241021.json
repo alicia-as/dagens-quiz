@@ -1,0 +1,43 @@
+{
+    "theme": "Svalbard",
+    "questions": [
+        {
+            "question": "Hva heter den største av øyene på Svalbard, som er nesten like stor som Nordland og som har en ganske stor norsk by i navnet?",
+            "answer": "Spitsbergen",
+            "aliases": [
+                "Spitsbergen"
+            ]
+        },
+        {
+            "question": "En av verdens nordligste bosetninger ligger på sydsiden av Kongsfjorden på Svalbard og har også en norsk by i navnet, litt mindre enn forrige. Hva heter denne bosetningen?",
+            "answer": "Ny-Ålesund",
+            "aliases": [
+                "Ny Ålesund"
+            ]
+        },
+        {
+            "question": "Hva heter den største bosetningen på Svalbard, som også er administrasjonssenter for øygruppen?",
+            "answer": "Longyearbyen",
+            "aliases": [
+                "Longyearbyen"
+            ]
+        },
+        {
+            "question": "Hvilken thriller av Alistair MacLean fra 1971 har en av øyene i Svalbard-arkipelet som tittel? Canadas største innsjø bruker samme dyr i navnet sitt.",
+            "answer": "Bjørnøya (Bear Island)",
+            "aliases": [
+                "Bear Island",
+                "Bjørnøya",
+                "The Bear Island"
+            ]
+        },
+        {
+            "question": "Hvilket gruveselskap ble stiftet i 1916 og har hovedkontor i Longyearbyen?",
+            "answer": "Store Norske Spitsbergen Kulkompani",
+            "aliases": [
+                "Store Norske",
+                "Det Store Norske"
+            ]
+        }
+    ]
+}
