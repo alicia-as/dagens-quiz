@@ -1,0 +1,43 @@
+{
+    "theme": "Danske Gleder 🇩🇰",
+    "questions": [
+        {
+            "question": "Hvilket dansk bryggeri bygget nye driftsbygninger i 1901 der fire gigantiske elefanter voktet inngangsporten?",
+            "answer": "Carlsberg"
+        },
+        {
+            "question": "Hvilket aksjefond har samme navn som Danmarks nordligste by? En rekefylt rett har også samme hentet navnet sitt herfra.",
+            "answer": "Skagen",
+            "aliases": [
+                "Skagen-fondene",
+                "Skagenrøre"
+            ]
+        },
+        {
+            "question": "Kjært barn har to forskjellige navn. Hva heter hovedstaden på Grønland?",
+            "answer": "Nuuk / Godthåb",
+            "aliases": [
+                "Nuuk",
+                "Godthåb",
+                "Godthåb / Nuuk",
+                "Nuuk / Godthåb",
+                "Godthab",
+                "Godthab & Nuuk",
+                "Godthåb & Nuuk"
+            ]
+        },
+        {
+            "question": "Danmarks statsminister heter Mette Frederiksen. Men hva heter Danmarks dronning?",
+            "answer": "Margrethe II",
+            "aliases": [
+                "Dronning Margrethe",
+                "Dronning Margrethe II",
+                "Margrethe"
+            ]
+        },
+        {
+            "question": "Hvilken liten dansk by har en domkirke som står på UNESCOs verdensarvliste, samt et vikingskipsmuseum, men er likevel kjent for mye annet?",
+            "answer": "Roskilde"
+        }
+    ]
+}
