@@ -1,0 +1,38 @@
+{
+    "theme": "Magisk! 🪄",
+    "questions": [
+        {
+            "question": "Hvilken av figurene i Andebyuniverset har etternavnet De Spell på originalspråket?",
+            "answer": "Magica fra Tryll",
+            "aliases": [
+                "Magica De Spell",
+                "Magica fra Tryll",
+                "Magica"
+            ]
+        },
+        {
+            "question": "Hvor mange bøker har J. K. Rowling skrevet om trollmannen Harry Potter?",
+            "answer": "7",
+            "aliases": [
+                "Syv"
+            ]
+        },
+        {
+            "question": "Hva var navnet på kong Arthurs magiske sverd?",
+            "answer": "Excalibur"
+        },
+        {
+            "question": "Britene har gitt dvergfalken (falco columbarius) navn etter en trollmann. Hvilken?",
+            "answer": "Merlin"
+        },
+        {
+            "question": "Hvilket ord brukes for mennesker uten magiske evner i  Harry Potter-bøkene, og kan også være et godteri i den virkelige verden?",
+            "answer": "Gomp",
+            "aliases": [
+                "Gomp",
+                "Gomper",
+                "Muggle"
+            ]
+        }
+    ]
+}
