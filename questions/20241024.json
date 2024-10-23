@@ -1,0 +1,34 @@
+{
+    "theme": "En liten tur til Afrika",
+    "questions": [
+        {
+            "question": "Verdens fjerde største øy er nesten like stor som Portugal og Spania til sammen og var fransk koloni fram til 1960. Med samme navn som en prisbelønt film fra 2005, hva heter øya?",
+            "answer": "Madagaskar"
+        },
+        {
+            "question": "Hvilken afrikansk innsjø på 68 800 kvadratkilometer har flere tusen øyer og samme navn som en roman av Knut Hamsun?",
+            "answer": "Victoriasjøen",
+            "aliases": [
+                "Lake Victoria",
+                "Victoria"
+            ]
+        },
+        {
+            "question": "Hvilket land, med hovedstad Windhoek, grenser til Angola, Zambia, Botswana og Sør-Afrika?",
+            "answer": "Namibia"
+        },
+        {
+            "question": "Hvilken selvstendig stat og øygruppe i Atlanterhavet løsrev seg fra Portugal i 1975? Landet fikk sitt navn fordi det var så grønt der!",
+            "answer": "Kapp Verde"
+        },
+        {
+            "question": "Hvilket berømt afrikansk landområde på størrelse med Europa skjuler et verdenskjent norsk band i navnet sitt?",
+            "answer": "Sahara (A-ha)",
+            "aliases": [
+                "Sahara",
+                "Sa-ha-ra",
+                "A-ha"
+            ]
+        }
+    ]
+}
