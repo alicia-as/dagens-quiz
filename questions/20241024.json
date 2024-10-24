@@ -19,7 +19,10 @@
         },
         {
             "question": "Hvilken selvstendig stat og øygruppe i Atlanterhavet løsrev seg fra Portugal i 1975? Landet fikk sitt navn fordi det var så grønt der!",
-            "answer": "Kapp Verde"
+            "answer": "Kapp Verde",
+            "aliases": [
+                "Cabo Verde"
+            ]
         },
         {
             "question": "Hvilket berømt afrikansk landområde på størrelse med Europa skjuler et verdenskjent norsk band i navnet sitt?",
