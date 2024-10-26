@@ -1,52 +1,39 @@
 {
-    "theme": "Bleu (repeat)",
+    "theme": "Martin",
     "questions": [
         {
-            "question": "Utestedet Blå ligger ved en av Oslos elver. Hvilken?",
-            "answer": "Akerselva",
+            "question": "Marcus & Martinus har blitt voksne. Hva var tittelen på deres vinnerlåt i «MGP Jr. 2012», som beskriver tvillingene med tre ord?",
+            "answer": "To dråper vann",
             "aliases": [
-                "Akerselven"
+                "dråper vann"
             ]
         },
         {
-            "question": "Hva er det spanske ordet for 'blå'? ",
-            "answer": "Azul",
+            "question": "Hvilken nobelprisvinner har setningen «Free at last, free at last, thank God Almighty I’m free at last» skrevet på sin grav?",
+            "answer": "Martin Luther King",
             "aliases": [
-                "Azur"
+                "MLK",
+                "Martin King",
+                "Martin Luther King Jr."
             ]
         },
         {
-            "question": "Spillvannet fra kraftverket ”Svartsengi” har blitt en kjent turistattraksjon. Hva heter stedet?",
-            "answer": "Den blå lagune",
+            "question": "Hvem mottok sin første Oscar for «beste regi» i 2007 etter å ha vært nominert fem ganger tidligere?",
+            "answer": "Martin Scorsese",
             "aliases": [
-                "Blue lagoon",
-                "Bláa lónið",
-                "The blue lagoon",
-                "Blåa lagoon",
-                "Den blåe lagune",
-                "Blå lagunen",
-                "Blå lagune"
+                "Scorsese"
             ]
         },
         {
-            "question": "Planten blå agave vokser i Mexico. Hva brukes den primært til?",
-            "answer": "Tequila",
+            "question": "Hvilken tidligere norsk fotballtrener blir til en luring dersom du putter en S og en G i begge ender av fornavnet hans?",
+            "answer": "Martin Andresen",
             "aliases": [
-                "Å lage tequila",
-                "Tequila produksjon",
-                "Tequilaproduksjon",
-                "Tequila produksjonen",
-                "brygge tequila"
+                "Andresen"
             ]
         },
         {
-            "question": "Hvor mye veier «Den blå steinen» i Bergen; 4, 16 eller 120 tonn?",
-            "answer": "16 tonn",
-            "aliases": [
-                "Seksten tonn",
-                "16",
-                "Seksten"
-            ]
+            "question": "For hvilket racinglag kjører Fernando Alonso i Formel 1 for tiden?",
+            "answer": "Aston Martin"
         }
     ]
 }
