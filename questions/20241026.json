@@ -1,0 +1,52 @@
+{
+    "theme": "Bleu (repeat)",
+    "questions": [
+        {
+            "question": "Utestedet Blå ligger ved en av Oslos elver. Hvilken?",
+            "answer": "Akerselva",
+            "aliases": [
+                "Akerselven"
+            ]
+        },
+        {
+            "question": "Hva er det spanske ordet for 'blå'? ",
+            "answer": "Azul",
+            "aliases": [
+                "Azur"
+            ]
+        },
+        {
+            "question": "Spillvannet fra kraftverket ”Svartsengi” har blitt en kjent turistattraksjon. Hva heter stedet?",
+            "answer": "Den blå lagune",
+            "aliases": [
+                "Blue lagoon",
+                "Bláa lónið",
+                "The blue lagoon",
+                "Blåa lagoon",
+                "Den blåe lagune",
+                "Blå lagunen",
+                "Blå lagune"
+            ]
+        },
+        {
+            "question": "Planten blå agave vokser i Mexico. Hva brukes den primært til?",
+            "answer": "Tequila",
+            "aliases": [
+                "Å lage tequila",
+                "Tequila produksjon",
+                "Tequilaproduksjon",
+                "Tequila produksjonen",
+                "brygge tequila"
+            ]
+        },
+        {
+            "question": "Hvor mye veier «Den blå steinen» i Bergen; 4, 16 eller 120 tonn?",
+            "answer": "16 tonn",
+            "aliases": [
+                "Seksten tonn",
+                "16",
+                "Seksten"
+            ]
+        }
+    ]
+}
