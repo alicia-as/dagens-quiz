@@ -1,0 +1,32 @@
+{
+    "theme": "SPQR",
+    "questions": [
+        {
+            "question": "Hvordan skriver du 2024 med romertall?",
+            "answer": "MMXXIV  "
+        },
+        {
+            "question": "Hvilken romersk keiser skal ha utnevnt sin egen hest til konsul i Roma?",
+            "answer": "Caligula"
+        },
+        {
+            "question": "Hvilken internasjonal sjokoladeprodusent har samme navn som en romersk gud?",
+            "answer": "Mars"
+        },
+        {
+            "question": "'Gallia est omnis divisa in partes tres' er åpningslinjen i en bok skrevet av hvilken romersk superstjerne?",
+            "answer": "Julius Cæsar",
+            "aliases": [
+                "Cæsar",
+                "Julius Caesar"
+            ]
+        },
+        {
+            "question": "Alle guders tempel ble bygget med hull i taket rundt år 120. Med et navn som kan få deg til å tenke på en stor katt, hva heter bygningen?",
+            "answer": "Pantheon",
+            "aliases": [
+                "Panther"
+            ]
+        }
+    ]
+}
