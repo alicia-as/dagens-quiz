@@ -1,0 +1,28 @@
+{
+    "theme": "Animert & Illustrert",
+    "questions": [
+        {
+            "question": "Hva heter den mest kjente Pokémon-figuren, som muligens er en asiatisk pipehare?",
+            "answer": "Pikachu"
+        },
+        {
+            "question": "Hvilket japansk ord for tegneserie er kommet inn i det norske språk?",
+            "answer": "Manga"
+        },
+        {
+            "question": "Hvilken animert TV-serie laget av Erlend Mørch og Steinar Klouman Hallert ruller i disse dager på NRK?",
+            "answer": "Hellerudsvingen",
+            "aliases": [
+                "Hellerud"
+            ]
+        },
+        {
+            "question": "I hvilket komisk blad har Alfred E. Neuman figurert på forsiden i mer enn 60 år?",
+            "answer": "MAD"
+        },
+        {
+            "question": "Hvilken tegneserie av Grethe Nestor og Norunn Blichfeldt Schjerven ble vist i Dagbladet fra 2006 til 2012? Serien hadde «samme» tittel som en roman av Jostein Gaarder fra 1991.",
+            "answer": "Zofies verden"
+        }
+    ]
+}
