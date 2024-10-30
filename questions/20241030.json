@@ -18,7 +18,11 @@
         },
         {
             "question": "I hvilket komisk blad har Alfred E. Neuman figurert på forsiden i mer enn 60 år?",
-            "answer": "MAD"
+            "answer": "MAD",
+            "aliases": [
+                "Mad",
+                "Mad Magazine"
+            ]
         },
         {
             "question": "Hvilken tegneserie av Grethe Nestor og Norunn Blichfeldt Schjerven ble vist i Dagbladet fra 2006 til 2012? Serien hadde «samme» tittel som en roman av Jostein Gaarder fra 1991.",
