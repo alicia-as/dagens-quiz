@@ -1,0 +1,47 @@
+{
+    "theme": "🎃 Skummelt! 🎃",
+    "questions": [
+        {
+            "question": "Undergrunnsstasjonen Whitechapel i Londons East End ble åpnet i 1884. Hvilken drapsmann herjet i samme område fire år senere?",
+            "answer": "Jack the Ripper"
+        },
+        {
+            "question": "Hvilken skummel sykdom har «samme» navn som et av de tolv stjernetegnene (på engelsk)?",
+            "answer": "Cancer (Krepsen)",
+            "aliases": [
+                "Kreft",
+                "Kreps",
+                "Kreftsykdommen",
+                "Canzer",
+                "Cancer",
+                "Krepsen"
+            ]
+        },
+        {
+            "question": "Hvilken gruppe planter i gresskarfamilien har det latinske navnet «Cucumis»?",
+            "answer": "Agurk"
+        },
+        {
+            "question": "I hvilket eventyr møter vi den litt skumle, men også ensomme Hufsa?",
+            "answer": "Mummitrollet",
+            "aliases": [
+                "Mummitrollet og Hufsa",
+                "Mummitrollet og den farlige",
+                "Mummi",
+                "Mummitrollet og den farlige Hufsa",
+                "mumitrollet",
+                "mummitrollet og hufsa",
+                "mummitrollet og den farlige hufsa"
+            ]
+        },
+        {
+            "question": "Hvilken stereotypi, fra fransk, brukes i litteratur, teater og film om en forførerisk kvinne med skumle hensikter?",
+            "answer": "Femme fatale",
+            "aliases": [
+                "Femme Fatale",
+                "Femme fatale",
+                "femme fatale"
+            ]
+        }
+    ]
+}
