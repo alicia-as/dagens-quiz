@@ -1,0 +1,51 @@
+{
+    "theme": "I lufta 🛬",
+    "questions": [
+        {
+            "question": "Dersom du tar av fra Flesland med DY 625, hvilket flyselskap reiser du med da?",
+            "answer": "Norwegian",
+            "aliases": [
+                "Norwegian Air Shuttle",
+                "Norwegian Air",
+                "Norwegian Airline",
+                "Norwegian Air Lines",
+                "Norwegian Air Shuttle ASA"
+            ]
+        },
+        {
+            "question": "Hartsfield–Jackson er en av verdens aller travleste flyplasser. Ved hvilken OL-by ligger den?",
+            "answer": "Atlanta",
+            "aliases": [
+                "Atlanta, Georgia",
+                "Atlanta, USA",
+                "Atlanta, Amerika"
+            ]
+        },
+        {
+            "question": "Flygeresset Amelia Earhart forsvinner over Stillehavet etter å ha flydd ¾ av strekningen rundt Jorden. Hvilket år? (+/- 2)",
+            "answer": "1937  ",
+            "aliases": [
+                "1936  ",
+                "1935  ",
+                "1938  ",
+                "1939  "
+            ]
+        },
+        {
+            "question": "Finlands største flyselskap ble etablert i 1923. Hva heter det?",
+            "answer": "Finnair",
+            "aliases": [
+                "Finnair Oyj",
+                "Finnair Plc",
+                "Finnair Abp"
+            ]
+        },
+        {
+            "question": "Hvilken flyplass i New York er oppkalt etter en tidligere borgermester?",
+            "answer": "LaGuardia",
+            "aliases": [
+                "LaGuardia Airport"
+            ]
+        }
+    ]
+}
