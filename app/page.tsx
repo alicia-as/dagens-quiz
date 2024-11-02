@@ -17,7 +17,7 @@ interface Question {
   aliases?: string[]; // Optional, but useful for handling typos, etc.
 }
 
-interface IndexPageProps {
+export interface IndexPageProps {
   quizDate?: string;
 }
 
