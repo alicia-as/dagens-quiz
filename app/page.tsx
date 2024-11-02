@@ -83,6 +83,8 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
 
   // Function to fetch summary
   const fetchSummary = async () => {
+    // We only fetch summary for the current date (if quizDate is not provided)
+    if (quizDate) return;
     try {
       const response = await fetch("/api/summary");
       const data = await response.json();
