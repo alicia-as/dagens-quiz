@@ -3,6 +3,7 @@ import React, { useEffect, useState } from "react";
 import ClipboardModal from "./ClipboardModal";
 import ScoreBoxes from "./ScoreBoxes";
 import levenshtein from "js-levenshtein";
+import { useRouter } from "next/navigation";
 
 const LEVENSHTEIN_THRESHOLD = 2; // Adjust this value as needed
 
@@ -30,6 +31,11 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
   const [averageCorrect, setAverageCorrect] = useState<number | null>(null);
   const [totalSubmissions, setTotalSubmissions] = useState<number | null>(null);
   const [warningMessage, setWarningMessage] = useState<string | null>(null);
+  const [availableDates, setAvailableDates] = useState<string[]>([]);
+  const [prevDate, setPrevDate] = useState<string | null>(null);
+  const [nextDate, setNextDate] = useState<string | null>(null);
+
+  const router = useRouter();
 
   useEffect(() => {
     // Fetch questions from your API
@@ -50,6 +56,32 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
 
     fetchQuestions();
   }, []);
+
+  useEffect(() => {
+    // Fetch the list of available dates
+    const fetchDates = async () => {
+      const response = await fetch("/api/available-dates");
+      const dates = await response.json();
+      setAvailableDates(dates);
+
+      const quizDateForReal =
+        quizDate ?? new Date().toISOString().split("T")[0].replace(/-/g, "");
+
+      // Find previous and next dates
+      const currentIndex = dates.indexOf(quizDateForReal);
+      if (currentIndex !== -1) {
+        setPrevDate(currentIndex > 0 ? dates[currentIndex - 1] : null);
+        setNextDate(
+          currentIndex < dates.length - 1 ? dates[currentIndex + 1] : null
+        );
+      } else {
+        setPrevDate(dates[dates.length - 1]);
+        setNextDate(null);
+      }
+    };
+
+    fetchDates();
+  }, [quizDate]);
 
   // Function to fetch summary
   const fetchSummary = async () => {
@@ -122,14 +154,19 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     fetchSummary();
   };
 
+  // The date is on YYYYMMDD format
+  const formatDate = (date: string) => {
+    const year = date.slice(0, 4);
+    const month = date.slice(4, 6);
+    const day = date.slice(6, 8);
+    return `${day}.${month}.${year}`;
+  };
+
   const isAliasCorrect = (index: number) => {
     const userAnswer = userAnswers[index]?.toLowerCase().trim();
-    return (
-      questions[index].aliases &&
-      questions[index].aliases?.some(
-        (alias) =>
-          levenshtein(userAnswer, alias.toLowerCase()) <= LEVENSHTEIN_THRESHOLD
-      )
+    return questions[index].aliases?.some(
+      (alias) =>
+        levenshtein(userAnswer, alias.toLowerCase()) <= LEVENSHTEIN_THRESHOLD
     );
   };
 
@@ -189,7 +226,9 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
       >
         <p>Resultatene er kopiert til din utklippstavle!</p>
       </ClipboardModal>
-      <h1 className="text-2xl font-bold text-center m2-4">Fem Kjappe</h1>
+      <h1 className="text-2xl font-bold text-center m2-4">
+        Fem Kjappe{quizDate ? ` - ${formatDate(quizDate)}` : ""}
+      </h1>
       {theme && (
         <p className="text-center text-gray-200 text-sm my-2">
           <span className="font-semibold">Tema:</span> {theme}
@@ -257,7 +296,6 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
         )}
       </form>
       {isSubmitted && <div className="mt-4">{/* Display results here */}</div>}
-
       {isSubmitted && averageCorrect !== null && (
         <div>
           <p>
@@ -275,6 +313,25 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
           Del ditt resultat!
         </button>
       )}
+
+      <div className="flex justify-between mt-4 text-xl">
+        {prevDate && (
+          <button
+            onClick={() => router.push(`/${prevDate}`)}
+            className=" text-white p-2 rounded hover:bg-gray-600"
+          >
+            ←<span className="text-sm"> Forrige</span>
+          </button>
+        )}
+        {nextDate && (
+          <button
+            onClick={() => router.push(`/${nextDate}`)}
+            className=" text-white p-2 rounded hover:bg-gray-600"
+          >
+            <span className="text-sm">Neste </span>→
+          </button>
+        )}
+      </div>
     </div>
   );
 };
