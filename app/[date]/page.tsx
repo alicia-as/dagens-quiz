@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import IndexPage from "../page"; // Adjust the path if necessary
+import IndexPage from "../components/IndexPage";
 
 interface DatePageProps {
   params: {
