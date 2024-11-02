@@ -31,7 +31,6 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
   const [averageCorrect, setAverageCorrect] = useState<number | null>(null);
   const [totalSubmissions, setTotalSubmissions] = useState<number | null>(null);
   const [warningMessage, setWarningMessage] = useState<string | null>(null);
-  const [availableDates, setAvailableDates] = useState<string[]>([]);
   const [prevDate, setPrevDate] = useState<string | null>(null);
   const [nextDate, setNextDate] = useState<string | null>(null);
 
@@ -62,7 +61,6 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     const fetchDates = async () => {
       const response = await fetch("/api/available-dates");
       const dates = await response.json();
-      setAvailableDates(dates);
 
       const quizDateForReal =
         quizDate ?? new Date().toISOString().split("T")[0].replace(/-/g, "");
@@ -96,15 +94,21 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
   };
 
   // Retrieve answers from local storage
-  const answersKey = new Date().toLocaleDateString() + "-answers";
   useEffect(() => {
+    // Use quizDate if provided, otherwise use today's date
+    const dateKey = quizDate
+      ? formatDate(quizDate).replace(/\./g, "-") // Convert to a format like YYYY-MM-DD
+      : new Date().toLocaleDateString(); // Ensures format is consistent (YYYY-MM-DD)
+
+    const answersKey = `${dateKey}-answers`;
     const answers = localStorage.getItem(answersKey);
+
     if (answers) {
       setUserAnswers(JSON.parse(answers));
       setIsSubmitted(true);
       fetchSummary(); // Fetch summary when answers are cached
     }
-  }, []);
+  }, [quizDate]);
 
   const handleSubmit = async () => {
     if (
@@ -117,10 +121,17 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
       return;
     }
 
+    // Use quizDate if provided, otherwise use today's date
+    const dateKey = quizDate
+      ? formatDate(quizDate).replace(/\./g, "-") // Convert to YYYY-MM-DD format
+      : new Date().toLocaleDateString(); // Ensures format is consistent (YYYY-MM-DD)
+
+    const answersKey = `${dateKey}-answers`;
+
     // Save answers to local storage
-    if (process.env.NODE_ENV !== "development") {
-      localStorage.setItem(answersKey, JSON.stringify(userAnswers));
-    }
+    // if (process.env.NODE_ENV !== "development") {
+    localStorage.setItem(answersKey, JSON.stringify(userAnswers));
+    // }
     setIsSubmitted(true);
 
     // Submit answers to the server
@@ -139,14 +150,11 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
 
       const result = await response.json();
       if (response.ok) {
-        // Handle success, e.g., display a message or redirect
         console.log("Submission successful", result);
       } else {
-        // Handle server errors or invalid responses
         console.error("Submission failed", result);
       }
     } catch (error) {
-      // Handle network errors
       console.error("Error submitting answers", error);
     }
 
@@ -159,7 +167,8 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     const year = date.slice(0, 4);
     const month = date.slice(4, 6);
     const day = date.slice(6, 8);
-    return `${day}.${month}.${year}`;
+    // Format it to locale date format
+    return `${day}/${month}/${year}`;
   };
 
   const isAliasCorrect = (index: number) => {
