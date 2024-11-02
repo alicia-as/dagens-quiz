@@ -16,7 +16,11 @@ interface Question {
   aliases?: string[]; // Optional, but useful for handling typos, etc.
 }
 
-const IndexPage: React.FC = () => {
+interface IndexPageProps {
+  quizDate?: string;
+}
+
+const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
   const [isLoading, setIsLoading] = useState(true);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [theme, setTheme] = useState<string | undefined>();
@@ -30,7 +34,8 @@ const IndexPage: React.FC = () => {
   useEffect(() => {
     // Fetch questions from your API
     const fetchQuestions = async () => {
-      const response = await fetch("/api/questions");
+      const dateQuery = quizDate ?? new Date().toISOString().split("T")[0];
+      const response = await fetch(`/api/questions?date=${dateQuery}`);
       if (!response.ok) {
         console.error("Failed to fetch questions");
         setIsLoading(false);
