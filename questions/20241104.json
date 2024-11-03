@@ -1,0 +1,29 @@
+{
+    "theme": "Brus 🥤",
+    "questions": [
+        {
+            "question": "I 1984 tok håret til Michael Jackson fyr under en reklameinnspilling. Hvilket selskap skulle det reklameres for?",
+            "answer": "Pepsi",
+            "aliases": [
+                "Pepsi Cola",
+                "PepsiCo"
+            ]
+        },
+        {
+            "question": "Hvilken leskedrikk fra Ringnes med smak av eple og drue har fått navn fra en dal i Vest-Europa?",
+            "answer": "Mozell"
+        },
+        {
+            "question": "Hvilket produkt fra The Coca-Cola Company forbindes med slagordet 'Obey your thirst'?",
+            "answer": "Sprite"
+        },
+        {
+            "question": "Hvilken mineralvannfabrikk, kjent for både pære- og ananas-smak, ble grunnlagt i Molde i 1929",
+            "answer": "Oscar Sylte"
+        },
+        {
+            "question": "Hvilken liten mineralfabrikk, som har sin julebrus i butikkene i disse dager, ble etablert på Lillestrøm i 1920 og har samme navn som en europeisk hovedstad?",
+            "answer": "Roma"
+        }
+    ]
+}
