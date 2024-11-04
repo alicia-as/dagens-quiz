@@ -1,0 +1,44 @@
+{
+    "theme": "Klesprodusenter",
+    "questions": [
+        {
+            "question": "Hvilken fargerik og omstridt italiensk klesprodusent har sitt hovedkontor like nord for Venezia?",
+            "answer": "Benetton",
+            "aliases": [
+                "United Colors of Benetton",
+                "Benetton Group"
+            ]
+        },
+        {
+            "question": "Hvilken jernbanestasjon på Bergensbanen har samme navn som en klesprodusent?",
+            "answer": "Dale",
+            "aliases": [
+                "Dale of Norway"
+            ]
+        },
+        {
+            "question": "Hvilken svensk klesprodusent, med vekt på fritidsklær, har tatt navn etter et truet pattedyr?",
+            "answer": "Fjällräven",
+            "aliases": [
+                "Fjallraven",
+                "Fjällraven AB",
+                "Fjallraven AB"
+            ]
+        },
+        {
+            "question": "Hvilken tysk klesprodusent har en fransk forfatters etternavn som fornavn og en amerikansk artists kallenavn som etternavn?",
+            "answer": "Hugo Boss (Victor Hugo og Bruce 'The Boss' Springsteen)",
+            "aliases": [
+                "Boss",
+                "BOSS",
+                "Hugo Boss AG",
+                "Hugo Boss",
+                "Hugo Ferdinand Boss"
+            ]
+        },
+        {
+            "question": "Hva het de til etternavn, brødrene Vasco, Aldo, Ugo, og Rodolf, som overtok farens motehus da han døde i 1953?",
+            "answer": "Gucci"
+        }
+    ]
+}
