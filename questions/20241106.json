@@ -1,0 +1,44 @@
+{
+    "theme": "Underverk",
+    "questions": [
+        {
+            "question": "I hvilket land ligger Nazcaørkenen, som er kjent for sine 1500 år gamle figurer som er best synlige fra luften?",
+            "answer": "Peru"
+        },
+        {
+            "question": "Hva heter det nesten 400 år gamle mausoleet som befinner seg i Agra, India?",
+            "answer": "Taj Mahal"
+        },
+        {
+            "question": "I hvilket land ligger slottet Neuschwanstein, som skal ha vært inspirasjon til slottene i Disneys verden?",
+            "answer": "Tyskland",
+            "aliases": [
+                "Bayern"
+            ]
+        },
+        {
+            "question": "Hvilken bygning på UNESCOs verdensarvliste er tegnet av den danske arkitekten Jørn Utzon og sto ferdig i 1973?",
+            "answer": "Operahuset i Sydney",
+            "aliases": [
+                "Sydney Opera House",
+                "Sydney Opera",
+                "Sydney Operaen",
+                "Sydney Operaen House",
+                "Operaeuset i Sydney",
+                "Operahuset i Sidney",
+                "Sydney Operahuset",
+                "Sydney Operahuset House",
+                "Sydney Operahuset Opera House"
+            ]
+        },
+        {
+            "question": "Hvilket forlatt underverk ble oppdaget av Hiram Bingham i 1911?",
+            "answer": "Machu Picchu",
+            "aliases": [
+                "Machu Pichu",
+                "Machu Picu",
+                "Machu Pichu"
+            ]
+        }
+    ]
+}
