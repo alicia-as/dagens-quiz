@@ -1,0 +1,37 @@
+{
+    "theme": "Sør-Amerika",
+    "questions": [
+        {
+            "question": "Hvilket folkerikt land grenser til både Stillehavet og Det karibiske hav?",
+            "answer": "Colombia"
+        },
+        {
+            "question": "Hvilken by, som var hovedstad fram til 1960, ble oppdaget første nyttårsdag 1502?",
+            "answer": "Rio de Janeiro (januarelven)",
+            "aliases": [
+                "Rio",
+                "Rio de Janeiro (januarelven)",
+                "Rio de Janeiro"
+            ]
+        },
+        {
+            "question": "Til hvilket land hører Kapp Horn, som ligger helt syd i Sør-Amerika?",
+            "answer": "Chile"
+        },
+        {
+            "question": "Hvilken slange er verdens tyngste og kan veie mer enn 100 kg?",
+            "answer": "Anakonda"
+        },
+        {
+            "question": "Hvilket norsk flyselskap ble stiftet i 1946 med ruter til «South America and Far East»?",
+            "answer": "Braathens S·A·F·E",
+            "aliases": [
+                "Braathens SAFE",
+                "Braathens S.A.F.E.",
+                "Braathens S.A.F.E",
+                "Braathens S.A.F.E. (South American and Far East Air Transport)",
+                "Braathens"
+            ]
+        }
+    ]
+}
