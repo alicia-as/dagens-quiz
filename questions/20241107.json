@@ -1,0 +1,39 @@
+{
+    "theme": "Et farget svar",
+    "questions": [
+        {
+            "question": "Hvilken farge har den nederlandske likøren Advocaat?",
+            "answer": "Gul ",
+            "aliases": [
+                "Gul farge",
+                "Gulaktig",
+                "Gulaktig farge"
+            ]
+        },
+        {
+            "question": "Hvilken farget kvinne, med et farget fornavn, nektet å gi fra seg setet på en buss i Alabama 1955?",
+            "answer": "Rosa Parks",
+            "aliases": [
+                "Rosa  "
+            ]
+        },
+        {
+            "question": "I hvilket sultandømme er Bandar Seri Begawan hovedstad? Landets navn starter på en mørk farge.",
+            "answer": "Brunei"
+        },
+        {
+            "question": "I hvilket softpunk-band fra California, med en farge i navnet, er Billie Joe Armstrong vokalist? ",
+            "answer": "Green Day"
+        },
+        {
+            "question": "I 1958 gikk et fly med Manchester United-spillere i bakken med tragisk utfall. Hva heter laget fra Beograd som United hadde spilt mot?",
+            "answer": "Røde Stjerne",
+            "aliases": [
+                "Crvena Zvezda",
+                "FK Crvena Zvezda",
+                "Red Star Belgrade",
+                "Red Star"
+            ]
+        }
+    ]
+}
