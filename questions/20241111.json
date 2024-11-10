@@ -1,0 +1,38 @@
+{
+    "theme": "Norsk iskrem",
+    "questions": [
+        {
+            "question": "Hvilken iskremprodusent påstår at den lager «Kremen av iskrem»?",
+            "answer": "Hennig Olsen"
+        },
+        {
+            "question": "Hvilket musikkprogram med Rune Larsen hadde samme navn som en saftis fra Diplom-Is?",
+            "answer": "Lollipop",
+            "aliases": [
+                "Lollipop (TV-program)",
+                "Lolli Pop"
+            ]
+        },
+        {
+            "question": "Hvilken iskremprodusent har tatt navn fra rovdyret Ursus maritimus?",
+            "answer": "Isbjørn Is",
+            "aliases": [
+                "Isbjørn"
+            ]
+        },
+        {
+            "question": "Hvilken iskremprodusent fikk nådeskuddet etter at bygningen ble totalskadet av Bandidos i 1997? Den hadde samme navn som byen der isen ble produsert.",
+            "answer": "Drammens Is",
+            "aliases": [
+                "Drammen Is"
+            ]
+        },
+        {
+            "question": "Hvilken pinne-is med sjokoladetrekk ble lansert i 1950 og fikk navn etter noen lettkledde kvinner?",
+            "answer": "Pin-Up",
+            "aliases": [
+                "Pin Up"
+            ]
+        }
+    ]
+}
