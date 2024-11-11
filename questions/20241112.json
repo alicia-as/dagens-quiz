@@ -1,0 +1,37 @@
+{
+    "theme": "Barne-Tv",
+    "questions": [
+        {
+            "question": "Hvilken populær figur skapt av NRK er en blanding av en orangutang og en elefant?",
+            "answer": "Fantorangen"
+        },
+        {
+            "question": "Hvilken populær figur skapt av NRK var bestevenn med dronning Sonja?",
+            "answer": "Titten Tei"
+        },
+        {
+            "question": "«Bedre med to reparatører enn ingen reparatører». Hvilken barne-tv-serie?",
+            "answer": "Pompel & Pilt",
+            "aliases": [
+                "Pompel og Pilt",
+                "Pompel pilt"
+            ]
+        },
+        {
+            "question": "Hvem var «Sjefen over alle sjefer» i barne-tv-serien «Fritt Fram» som gikk på NRK i perioden 1999 til 2001?",
+            "answer": "Asgeir Borgemoen",
+            "aliases": [
+                "Asgeir Borgemoen (Fritt Fram)",
+                "Asgeir"
+            ]
+        },
+        {
+            "question": "Hva slags vesener er Tinky Winky, Dipsy, Laa-Laa og Po?",
+            "answer": "Teletubbier",
+            "aliases": [
+                "Teletubbies",
+                "Tele tubbies"
+            ]
+        }
+    ]
+}
