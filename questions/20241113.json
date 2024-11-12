@@ -1,0 +1,49 @@
+{
+    "theme": "Australia",
+    "questions": [
+        {
+            "question": "Hva slags «strutselignende» fugl befinner seg i Australias riksvåpen sammen med en kenguru?",
+            "answer": "Emu",
+            "aliases": [
+                "Emu-fugl",
+                "en Emu",
+                "Emuen"
+            ]
+        },
+        {
+            "question": "Hva heter hovedstaden og den største byen i den australske delstaten Western Australia?",
+            "answer": "Perth",
+            "aliases": [
+                "Perth, Australia",
+                "Perth, Western Australia"
+            ]
+        },
+        {
+            "question": "Hva het TV-stjernen som var Australias mest berømte kenguru? ",
+            "answer": "Skippy, the Bush Kangaroo",
+            "aliases": [
+                "Skippy",
+                "Skippy the Bush Kangaroo",
+                "Skippy, the Bush Kangaroo (TV-serie)"
+            ]
+        },
+        {
+            "question": "Australias mest kjente fjell, Ayers Rock, har hatt et annet navn lenge før europeere kom til kontinentet. Med U-trolig mye bruk av én vokal, hvilket navn?",
+            "answer": "Uluru"
+        },
+        {
+            "question": "Hvilken bygning på UNESCOs verdensarvliste tok femten år å bygge, sto ferdig i 1973 og hadde Beethoven på repertoaret på åpningsdagen?",
+            "answer": "Operahuset i Sydney",
+            "aliases": [
+                "Sydney Opera House",
+                "Sydney Opera",
+                "Sydney Operaen",
+                "Operaen i Sydney",
+                "Operahuset i Sidney",
+                "Sydney Operahuset",
+                "Sydney Operahuset House",
+                "Sydney Operahuset Opera House"
+            ]
+        }
+    ]
+}
