@@ -1,0 +1,32 @@
+{
+    "theme": "I kjøkkenskapet",
+    "questions": [
+        {
+            "question": "Hvilket markedsledende pastavaremerke har et navn som kan få deg til å tro at det er noe helt annet i pakkene?",
+            "answer": "Sopps"
+        },
+        {
+            "question": "Hvilken liten by i Essex, England har gitt navn til det noen kaller jålesalt, som er en grovere utgave enn vanlig salt?",
+            "answer": "Maldon"
+        },
+        {
+            "question": "En ristype har fått navn etter samme plante som ga navn til revolusjonen i Tunisia. Hvilken ris?",
+            "answer": "Jasmin"
+        },
+        {
+            "question": "Hva slags pålegg har lang holdbarhet, men gir ikke bytterett, selv om du oppdager at det har en sterk bismak?",
+            "answer": "Honning"
+        },
+        {
+            "question": "Hva heter konkurrenten til Nesquik, som ble lansert i Sverige i 1960?",
+            "answer": "O’boy",
+            "aliases": [
+                "Oboy",
+                "Oboy-sjokolade",
+                "Oboy sjokolade",
+                "Oboy-sjokolademelk",
+                "Oboy sjokolademelk"
+            ]
+        }
+    ]
+}
