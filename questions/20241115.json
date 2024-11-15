@@ -23,11 +23,17 @@
         },
         {
             "question": "Hvilket vodkamerke har samme navn som et musikkstykke av Jean Sibelius? I tillegg har det opphavslandet i navnet!",
-            "answer": "Finlandia"
+            "answer": "Finlandia",
+            "aliases": [
+                "Finlandia vodka"
+            ]
         },
         {
             "question": "Hvilket svensk brennevinsmerke er blant verdens mest solgte vodkamerker, noe svenskene absolutt kan være stolte av?",
-            "answer": "Absolut"
+            "answer": "Absolut",
+            "aliases": [
+                "Absolut vodka"
+            ]
         },
         {
             "question": "Hvilken plante benyttes i produksjonen av tequila?",
