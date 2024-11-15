@@ -1,0 +1,41 @@
+{
+    "theme": "Brennevin",
+    "questions": [
+        {
+            "question": "Hvilket nederlandsk brennevin er tilsatt einebær, men har et navn som skulle tilsi at det kommer fra en sveitsisk by?",
+            "answer": "Genever",
+            "aliases": [
+                "Jenever",
+                "Geneve"
+            ]
+        },
+        {
+            "question": "Hvilket norskprodusert brennevin er langt fra kortreist?",
+            "answer": "Linieakevitt",
+            "aliases": [
+                "Linje-akevitt",
+                "Linje akvavit",
+                "Linje-akvavit",
+                "Linjeakvavit",
+                "Linje-akavit",
+                "Linje akavit"
+            ]
+        },
+        {
+            "question": "Hvilket vodkamerke har samme navn som et musikkstykke av Jean Sibelius? I tillegg har det opphavslandet i navnet!",
+            "answer": "Finlandia"
+        },
+        {
+            "question": "Hvilket svensk brennevinsmerke er blant verdens mest solgte vodkamerker, noe svenskene absolutt kan være stolte av?",
+            "answer": "Absolut"
+        },
+        {
+            "question": "Hvilken plante benyttes i produksjonen av tequila?",
+            "answer": "Agave",
+            "aliases": [
+                "Agave (blå)",
+                "Blå agave"
+            ]
+        }
+    ]
+}
