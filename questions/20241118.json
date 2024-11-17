@@ -1,0 +1,34 @@
+{
+    "theme": "Franske byer",
+    "questions": [
+        {
+            "question": "Hvilken stor ferieby i Provence er ganske flott, dersom du snakker engelsk?",
+            "answer": "Nice!",
+            "aliases": [
+                "Nice"
+            ]
+        },
+        {
+            "question": "Frankrikes fjerde største by har et navn som engelsktalende gamblere ikke liker lyden av, hvilket?",
+            "answer": "Toulouse (To lose)",
+            "aliases": [
+                "Toulouse"
+            ]
+        },
+        {
+            "question": "Hvilken fransk by har samme navn som han som skjøt en pil i Akilles' hæl?",
+            "answer": "Paris",
+            "aliases": [
+                "Paris, Frankrike"
+            ]
+        },
+        {
+            "question": "Hvilken by på grensen til Belgia er, på tross av navnet, et av de største urbane områdene i Frankrike?",
+            "answer": "Lille"
+        },
+        {
+            "question": "Hvilken by i Bourgogne har gitt navn til verdens beste sennep?",
+            "answer": "Dijon"
+        }
+    ]
+}
