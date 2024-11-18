@@ -1,0 +1,35 @@
+{
+    "theme": "På bærtur",
+    "questions": [
+        {
+            "question": "I utmark kan folk plukke så mye bær de vil her til lands. Noen restriksjoner gjelder likevel helt i nord. Hvilket omstridt bær er det snakk om der?",
+            "answer": "Multer",
+            "aliases": [
+                "Multebær"
+            ]
+        },
+        {
+            "question": "Hvilket bær har samme navn som noen elegante og danseglade fugler? Hint: Det er ikke spurver.",
+            "answer": "Tranebær",
+            "aliases": [
+                "Tranen"
+            ]
+        },
+        {
+            "question": "Hvilket bær har samme navn som en legendarisk norsk 800-meterløper og er en krysning av bringebær, bjørnebær og loganbær?",
+            "answer": "Boysenbær",
+            "aliases": [
+                "Boysen",
+                "Audun Boysen"
+            ]
+        },
+        {
+            "question": "Når en svenske sier «lingon», hva mener hun da?",
+            "answer": "Tyttebær"
+        },
+        {
+            "question": "Hvilket bær, som passer utmerket som vin, gelé og i iskrem, har det latinske navnet «Ribes nigrum»?",
+            "answer": "Solbær"
+        }
+    ]
+}
