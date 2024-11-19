@@ -1,0 +1,46 @@
+{
+    "theme": "Fly",
+    "questions": [
+        {
+            "question": "Russlands største flyprodusent har vært utsatt for en rekke ulykker. Hva heter selskapet?",
+            "answer": "Tupolev",
+            "aliases": [
+                "Tupolev Design Bureau",
+                "Tupolev Design Bureau JSC",
+                "Tupolev Design Bureau Joint Stock Company"
+            ]
+        },
+        {
+            "question": "Bombeflyet B-52 foretok sin første flytur i 1952 og er «still going strong». Hva står bokstaven «B» for?",
+            "answer": "Boeing",
+            "aliases": [
+                "Boeing B-52 Stratofortress",
+                "B-52 Stratofortress",
+                "The Boeing Company"
+            ]
+        },
+        {
+            "question": "Hvilken flyprodusent skal produsere jagerfly av typen F-35 til det norske forsvaret?",
+            "answer": "Lockheed Martin",
+            "aliases": [
+                "Lockheed Martin Corporation",
+                "Lockheed Martin Aeronautics Company"
+            ]
+        },
+        {
+            "question": "Oppkalt etter navnet på utviklingsprosjektet, hvilket kallenavn fikk F-35 da flytypen var på planleggingsstadiet?",
+            "answer": "Joint Strike Fighter",
+            "aliases": [
+                "JSF"
+            ]
+        },
+        {
+            "question": "Hvilken stor fransk by har aldri fått hjem gullet i det franske mesterskapet i fotball? Ikke så rart kanskje, med det navnet. Hovedkontoret til flyfabrikken Airbus ligger i byen.",
+            "answer": "Toulouse",
+            "aliases": [
+                "Toulouse, Frankrike",
+                "To lose"
+            ]
+        }
+    ]
+}
