@@ -1,0 +1,47 @@
+{
+    "theme": "En bokstavs forskjell",
+    "questions": [
+        {
+            "question": "Hvilken europeisk hovedstad krymper dersom du legger til bokstavene ”ER” på slutten av navnet, men blir til et pattedyr dersom du i stedet fjerner en bokstav?",
+            "answer": "Minsk (Minsker, Mink)",
+            "aliases": [
+                "Minsk"
+            ]
+        },
+        {
+            "question": "Hvilket ord, som både er et dyr og en høyaktuell aktivitet, blir til alle piloters mareritt om du bytter ut første bokstav?",
+            "answer": "Måke (Tåke)",
+            "aliases": [
+                "Måke",
+                "Måker"
+            ]
+        },
+        {
+            "question": "Skifter du siste bokstav i en bergensk skuespillers etternavn, får du et land. Dersom du i stedet fjerner den siste bokstaven, får du en planet. Hva heter skuespilleren?",
+            "answer": "Helge Jordal (Jordan, Jorda)",
+            "aliases": [
+                "Helge Jordal",
+                "Jordal"
+            ]
+        },
+        {
+            "question": "Hvilken internasjonal flyplass, som de fleste av oss har besøkt, blir til en norsk maler samt en norsk Høyre-politiker dersom du fjerner forbokstaven?",
+            "answer": "Kastrup (Nikolai Astrup x2)",
+            "aliases": [
+                "Kastrup",
+                "Kastrup lufthavn",
+                "København lufthavn",
+                "København lufthavn, Kastrup"
+            ]
+        },
+        {
+            "question": "Etternavnet til verdens rikeste mann blir til et pattedyr dersom du fjerner sist bokstav, eller til en plante dersom du i stedet bytter ut første bokstav. Navnet takk!",
+            "answer": "Musk (Mus, Busk)",
+            "aliases": [
+                "Musk",
+                "Elon Musk",
+                "Elon Reeve Musk"
+            ]
+        }
+    ]
+}
