@@ -1,0 +1,44 @@
+{
+    "theme": "Hovedsteder 3",
+    "questions": [
+        {
+            "question": "Hvilken 7-ganger vinnende Formel 1-verdensmester deler etternavn med hovedstaden på Bermuda?",
+            "answer": "Lewis Hamilton",
+            "aliases": [
+                "Hamilton"
+            ]
+        },
+        {
+            "question": "Hvilken nordafrikansk hovedstad har et navn som får betydningen ustyrlig, vill og desperat dersom du putter inn bokstaven ”i”?",
+            "answer": "Rabat/rabiat",
+            "aliases": [
+                "Rabat",
+                "Rabiat"
+            ]
+        },
+        {
+            "question": "Mexico og Guatemala har hovedsteder med samme navn som landet. Hvilket annet land på det amerikanske kontinentet (Nord- og Sør-Amerikas fastland) har en hovedstad med samme navn som landet?",
+            "answer": "Panama",
+            "aliases": [
+                "Panama",
+                "Panamá",
+                "Panama By",
+                "Panamá City"
+            ]
+        },
+        {
+            "question": "Hvilken afrikansk hovedstad er den mest fjerntliggende i forhold til de andre afrikanske hovedstedene?",
+            "answer": "Kairo (!)",
+            "aliases": [
+                "Kairo"
+            ]
+        },
+        {
+            "question": "Hvilken europeisk hovedstad blir til en bok dersom du legger til en bokstav bak navnet og til et land dersom du deretter trekker fra forbokstaven?",
+            "answer": "Roma (roman, Oman)",
+            "aliases": [
+                "Roma"
+            ]
+        }
+    ]
+}
