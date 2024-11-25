@@ -1,0 +1,42 @@
+{
+    "theme": "Litt (for mye) olje",
+    "questions": [
+        {
+            "question": "Hvilket gassfelt i Norskehavet ble påvist i 1997 og har fått navn etter skipet til Olav Tryggvason?",
+            "answer": "Ormen Lange",
+            "aliases": [
+                "Lange"
+            ]
+        },
+        {
+            "question": "Hva heter olje- og gassfeltet som i likhet med et sykehus i Tromsø har fått navn etter gudenes bolig innerst i Midtgard. Det ligger på Haltenbanken i Norskehavet, om lag 200 kilometer fra kysten av Trøndelag og 50 kilometer sør for Heidrun-feltet.",
+            "answer": "Åsgard",
+            "aliases": [
+                "Aasgard"
+            ]
+        },
+        {
+            "question": "Hva het boreriggen som eksploderte i Mexicogulfen den 20. april 2010?",
+            "answer": "Deepwater Horizon",
+            "aliases": [
+                "Deepwater",
+                "Horizon"
+            ]
+        },
+        {
+            "question": "På lille julaften for mange år siden fant Phillips Petroleum olje i det som i dag heter Ekofisk. Hvilket år skjedde dette? (+/- 1 år)",
+            "answer": "1969  ",
+            "aliases": [
+                "1968  ",
+                "1970  "
+            ]
+        },
+        {
+            "question": "Hvilket oljeselskap fra Saudi-Arabia er verdens største målt i produksjon og reserver?",
+            "answer": "Saudi Aramco",
+            "aliases": [
+                "Aramco"
+            ]
+        }
+    ]
+}
