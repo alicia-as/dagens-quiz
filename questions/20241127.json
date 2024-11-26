@@ -1,0 +1,44 @@
+{
+    "theme": "Litt (for mye) olje",
+    "questions": [
+        {
+            "question": "Hvilket urolig vestafrikansk land, med et forbudt produkt i navnet, er verdens største produsent av kakaobønner?",
+            "answer": "Elfenbenskysten",
+            "aliases": [
+                "Elfenbenskysten",
+                "Elfenbenskysten",
+                "Côte d'Ivoire"
+            ]
+        },
+        {
+            "question": "Hvilken kjent skuespiller har spilt store roller både i filme ”Sjokolade” (Chocolat) og i ”Charlie og sjokoladefabrikken”?",
+            "answer": "Johnny Depp",
+            "aliases": [
+                "Johnny Depp"
+            ]
+        },
+        {
+            "question": "'My momma always said, Life is like a box of chocolates. You never know what you're gonna get.' Fra hvilken 1994-film er sitatet hentet?",
+            "answer": "Forrest Gump",
+            "aliases": [
+                "Forrest Gump"
+            ]
+        },
+        {
+            "question": "Hvilken amerikansk sjokoladeprodusent ble etablert i 1911 og fikk samme navn som et himmellegeme og en gud?",
+            "answer": "Mars",
+            "aliases": [
+                "Mars"
+            ]
+        },
+        {
+            "question": "Hvilket stort område, som har samme navn som en sjokolade, blir av svenskene kalt ”Vintergatan”?",
+            "answer": "Milky Way",
+            "aliases": [
+                "Melkeveien",
+                "Milky Way",
+                "Vintergatan"
+            ]
+        }
+    ]
+}
