@@ -1,5 +1,5 @@
 {
-    "theme": "Litt (for mye) olje",
+    "theme": "Sjokolade 2",
     "questions": [
         {
             "question": "Hvilket urolig vestafrikansk land, med et forbudt produkt i navnet, er verdens største produsent av kakaobønner?",
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "question": "Hvilket stort område, som har samme navn som en sjokolade, blir av svenskene kalt ”Vintergatan”?",
+            "question": "Hvilket stort område, som har samme navn som en sjokolade på engelsk, blir av svenskene kalt ”Vintergatan”?",
             "answer": "Milky Way",
             "aliases": [
                 "Melkeveien",
