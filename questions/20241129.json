@@ -1,0 +1,47 @@
+{
+    "theme": "Film",
+    "questions": [
+        {
+            "question": "Hva het verdens første helaftens tegnefilm som kom på kinoene i 1937?",
+            "answer": "Snehvit og de syv dvergene",
+            "aliases": [
+                "Snehvit og de syv dvergene",
+                "Snehvit",
+                "Snow White and the Seven Dwarfs",
+                "Snow White",
+                "Snøhvit"
+            ]
+        },
+        {
+            "question": "Hvilken superhelt er blitt levendegjort på film av både Val Kilmer, Christian Bale, George Clooney og Michael Keaton?",
+            "answer": "Batman",
+            "aliases": [
+                "Batman"
+            ]
+        },
+        {
+            "question": "Hvilken film av Bille August er basert på en roman av Selma Lagerlöf og har en omstridt hovedstad som tittel?",
+            "answer": "Jerusalem",
+            "aliases": [
+                "Jerusalem"
+            ]
+        },
+        {
+            "question": "Den første boken i Millennium-trilogien ble filmatisert i 2009. Hva er tittelen på filme?",
+            "answer": "Menn som hater kvinner",
+            "aliases": [
+                "Menn som hater kvinner",
+                "Stieg Larsson",
+                "Män som hatar kvinnor",
+                "The Girl with the Dragon Tattoo"
+            ]
+        },
+        {
+            "question": "Med samme etternavn som en flyplass, hvem spiller rollen som Nina Skåtøy i filmen 'Gymnaslærer Pedersen' fra 2005?",
+            "answer": "Ane Dahl Torp",
+            "aliases": [
+                "Ane Dahl Torp"
+            ]
+        }
+    ]
+}
