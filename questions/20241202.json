@@ -1,0 +1,48 @@
+{
+    "theme": "Alias",
+    "questions": [
+        {
+            "question": "Han ble født i 1835 og het opprinnelig Samuel Longhorne Clemence, men er kjent under sitt pseudonym. Noen av hans figurer er like kjent som ham selv. Navnet takk!",
+            "answer": "Mark Twain",
+            "aliases": [
+                "Mark Twain",
+                "Samuel Clemence",
+                "Samuel Longhorne Clemence",
+                "Samuel Longhorne"
+            ]
+        },
+        {
+            "question": "Eric Arthur Blair ble bl.a. kjent for romanen 'Animal Farm'. Under hvilket navn er han bedre kjent?",
+            "answer": "George Orwell",
+            "aliases": [
+                "George Orwell",
+                "Orwell"
+            ]
+        },
+        {
+            "question": "Hvilken norsk forfatter, som blant annet skrev 'De Dødes Tjern', brukte pseudonymet Bernhard Borge?",
+            "answer": "(Jarl) André Bjerke",
+            "aliases": [
+                "(Jarl) André Bjerke",
+                "André Bjerke",
+                "Jarl Bjerke",
+                "Andre Bjerke"
+            ]
+        },
+        {
+            "question": "Hvilken verdenskjent artist og regnskogaktivist, som en gang var i politiet, heter egentlig Gordon Matthew Thomas Sumner?",
+            "answer": "Sting",
+            "aliases": [
+                "Sting"
+            ]
+        },
+        {
+            "question": "Han het Vladimir Iljitsj Uljanov, men er bedre kjent under et annet navn. Hva er det?",
+            "answer": "Lenin",
+            "aliases": [
+                "Lenin",
+                "Vladimir Lenin"
+            ]
+        }
+    ]
+}
