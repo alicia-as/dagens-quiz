@@ -1,0 +1,43 @@
+{
+    "theme": "Øl, øl og mere øl",
+    "questions": [
+        {
+            "question": "Hvilket særnorsk ord i bokstaveringsalfabetet (Alfa, Bravo, Charlie osv.) har samme navn som et ølmerke?",
+            "answer": "Ægir",
+            "aliases": [
+                "Ægir"
+            ]
+        },
+        {
+            "question": "I hvilken måned startet årets utgave av ølfestivalen i München?",
+            "answer": "September",
+            "aliases": [
+                "September"
+            ]
+        },
+        {
+            "question": "Med et navn som også er fargen på flasken, hva heter Tuborgs mest populære øl?",
+            "answer": "(Tuborg) Grøn",
+            "aliases": [
+                "Grøn",
+                "Tuborg Grønn",
+                "Grønn"
+            ]
+        },
+        {
+            "question": "Hvilket ølmerke fra Plzen (!!), Tsjekkia, ble introdusert i 1842 og er urkilden til verdens pilsner-varianter?",
+            "answer": "Pilsner Urquell",
+            "aliases": [
+                "Urquell"
+            ]
+        },
+        {
+            "question": "Hvilken spesiell ingrediens er det mye av i det hvitgule ølet som kalles Witbier?",
+            "answer": "Ølet har en stor andel av malt fra hvete.",
+            "aliases": [
+                "hvete",
+                "malt fra hvete"
+            ]
+        }
+    ]
+}
