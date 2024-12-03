@@ -1,0 +1,41 @@
+{
+    "theme": "Island",
+    "questions": [
+        {
+            "question": "Hva heter Islands internasjonale flyplass, som ble amerikansk-styrt NATO-base under den kalde krigen?",
+            "answer": "Keflavik",
+            "aliases": [
+                "Reykjavik, Keflavik",
+                "Keflavik, Reykjavik"
+            ]
+        },
+        {
+            "question": "Boris Spasskij var en av to sjakkspillerne som spilte om VM-tronen i Reykjavik i 1972. Hvem var den andre?",
+            "answer": "Bobby Fischer",
+            "aliases": [
+                "Fischer"
+            ]
+        },
+        {
+            "question": "Hva heter Islands parlament, som ble opprettet for mer enn 1000 år siden (930)?",
+            "answer": "Alltinget"
+        },
+        {
+            "question": "Hvilken drage i Astrid Lindgrens historie om brødrene Løvehjerte har samme navn som en vulkan på Island?",
+            "answer": "Katla",
+            "aliases": [
+                "Katla"
+            ]
+        },
+        {
+            "question": "Hva heter isbreen som kom på alles lepper i 2010 da vulkanen under spredte aske over «hele» Europa?",
+            "answer": "Eyjafjallajökull",
+            "aliases": [
+                "Eijafjallajökull",
+                "Eyjafjallajokull",
+                "Eyjafjellajøkull",
+                "Eyjafjellajokull"
+            ]
+        }
+    ]
+}
