@@ -1,0 +1,48 @@
+{
+    "theme": "Krypdyr",
+    "questions": [
+        {
+            "question": "I hvilket trendsettende norsk humorblad,x med et krypdyr som navn, kunne du bl.a. lese om Ørn, Bjørn, Jørn og Dølle Døck?",
+            "answer": "Pyton",
+            "aliases": [
+                "Pyton"
+            ]
+        },
+        {
+            "question": "Fra hvilket dyr har Galápagosøyene fått sitt navn?",
+            "answer": "Skilpadden",
+            "aliases": [
+                "Skilpadden",
+                "Skilpadda",
+                "Turlte"
+            ]
+        },
+        {
+            "question": "Hvilket ektepar, som vi ble kjent med i 1960, har et kjæledyr som heter Dino?",
+            "answer": "Wilma og Fred Flintstone",
+            "aliases": [
+                "Wilma og Fred Flintstone",
+                "Wilma og Fred",
+                "Flintstone",
+                "Flintstones"
+            ]
+        },
+        {
+            "question": "I hvilken novellesamling fra 1890-tallet er slangen Kaa en av flere sentrale figurer?",
+            "answer": "Jungelboken",
+            "aliases": [
+                "Jungelboken",
+                "The Junfler Book",
+                "Jungle Book"
+            ]
+        },
+        {
+            "question": "Hvilken rockelåt ble Elton Johns første Nr. 1-hit i USA i februar 1973?",
+            "answer": "Crocodile Rock",
+            "aliases": [
+                "Crocodile Rock",
+                "Crocodile"
+            ]
+        }
+    ]
+}
