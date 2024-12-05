@@ -1,0 +1,36 @@
+{
+    "theme": "Kortspill",
+    "questions": [
+        {
+            "question": "Med samme navn som en type bygning vi ikke har her til lands, i hvilket kortspill får man poeng når man «gjør» tabber?",
+            "answer": "Casino"
+        },
+        {
+            "question": "På hvilken plass kommer spilleren som blir Mattis i kortspillet med samme navn?",
+            "answer": "Sisteplass",
+            "aliases": [
+                "Sist",
+                "Siste",
+                "Taper",
+                "Taperen",
+                "Siste plass"
+            ]
+        },
+        {
+            "question": "Hvilken film fra 1978, med John Travolta og Olivia Newton John i hovedrollene, har «samme» navn som et kortspill?",
+            "answer": "Grease (Gris)",
+            "aliases": [
+                "Grease",
+                "Gris"
+            ]
+        },
+        {
+            "question": "Hvilket kortspill har gitt navn til en film fra 2004 der Aksel Hennie var regissør og hovedrolleinnehaver?",
+            "answer": "Uno"
+        },
+        {
+            "question": "I tillegg til kortspillet «President», hvilket annet kortspill har et navn som passer til alle USAs presidenter?",
+            "answer": "Amerikaner"
+        }
+    ]
+}
