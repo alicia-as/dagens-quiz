@@ -1,0 +1,44 @@
+{
+    "theme": "Trippel",
+    "questions": [
+        {
+            "question": "Ole, Dole og Doffen har hatt tilgang til all verdens informasjon lenge før internett ble oppfunnet. Hva heter deres vidunderlige bok?",
+            "answer": "Hakkespettboka",
+            "aliases": [
+                "Hakkespett boka",
+                "Hakkespettboken",
+                "Hakkespett boken"
+            ]
+        },
+        {
+            "question": "Alle de tre norske kongene etter 1905 har hatt samme valgspråk. Med samme navn som en TVNorge-serie, hvordan lyder det?",
+            "answer": "Alt for Norge",
+            "aliases": [
+                "Alt for Norge"
+            ]
+        },
+        {
+            "question": "Hva het forsvarsalliansen som ble inngått mellom Tyskland, Østerrike-Ungarn og Italia i 1882?",
+            "answer": "Trippelalliansen",
+            "aliases": [
+                "The Triple Alliance",
+                "Triple Alliance",
+                "Trippelalliansen"
+            ]
+        },
+        {
+            "question": "Så litt reklame: ”Trippel nytelse.” Hvilken sjokolade er det snakk om?",
+            "answer": "Troika"
+        },
+        {
+            "question": "Hva er verdensrekorder på tresteg for menn: 16,29 meter, 17,29 meter eller 18,29 meter?",
+            "answer": "18,29 meter  (Jonathan Edwards, 1995)",
+            "aliases": [
+                "18,29 meter  ",
+                "18,29  ",
+                "18.29  ",
+                "18.29 meter  "
+            ]
+        }
+    ]
+}
