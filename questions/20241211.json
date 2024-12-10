@@ -1,0 +1,39 @@
+{
+    "theme": "Si det med blomster!",
+    "questions": [
+        {
+            "question": "Hvilken sammenslutning er verdens største i sitt slag og består av mer enn 50 000 blomsterbutikker verden over?",
+            "answer": "Interflora",
+            "aliases": [
+                "Interf lora"
+            ]
+        },
+        {
+            "question": "Nordmannen Otto von Porat (1903 - 82) elsket å gi bort blomster. Hva slags type?",
+            "answer": "Blåveiser. Otto ble olympisk mester i boksing i 1924.",
+            "aliases": [
+                "Blåveiser",
+                "Blåveis"
+            ]
+        },
+        {
+            "question": "Hvilket sted i Ås kommune har mer enn 400 000 besøkende hvert år?",
+            "answer": "Tusenfryd",
+            "aliases": [
+                "Tusenfryd"
+            ]
+        },
+        {
+            "question": "Anemone nemorosa blomstrer tidlig på våren. Hva kaller vi den vakre blomsten på norsk?",
+            "answer": "Hvitveis"
+        },
+        {
+            "question": "Digitalis purpurea er en meget giftig blomst. Med et navn som består av et pattedyr + et 'instrument' - hva kaller vi den vakre planten på norsk?",
+            "answer": "Revebjelle",
+            "aliases": [
+                "Revebjelle",
+                "Revebjell"
+            ]
+        }
+    ]
+}
