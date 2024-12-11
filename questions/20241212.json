@@ -1,0 +1,44 @@
+{
+    "theme": "Skog og tre",
+    "questions": [
+        {
+            "question": "Hvilken musikalsk løvtresort, som tidligere var en kommune i Sogn & Fjordane, er også et merkantilt verb på nynorsk?",
+            "answer": "Selje",
+            "aliases": [
+                "Selje"
+            ]
+        },
+        {
+            "question": "Kystsequoiaen kan bli mer enn 100 meter høy og vokser i Oregon og California. Med en farge i navnet, hvilket annet navn har treet?",
+            "answer": "Redwood",
+            "aliases": [
+                "Kystmammuttre",
+                "Kystmammuttreet"
+            ]
+        },
+        {
+            "question": "Hva slags høyaktuell plante var den laget av, pilen som tok livet av Balder? 😘",
+            "answer": "Misteltein",
+            "aliases": [
+                "Mistelten",
+                "Misteltenen",
+                "Mistletoe"
+            ]
+        },
+        {
+            "question": "Hvem fløy over Nordsjøen som første mann i 1914, en bragd som ble overskygget av utbruddet av første verdenskrig? Etternavnet, som er Norges nest vanligste tresort, holder!",
+            "answer": "Tryggve Gran",
+            "aliases": [
+                "Trygve Gran",
+                "Gran"
+            ]
+        },
+        {
+            "question": "Datteren til Guðmundur Gunnarsson har blitt 59 år gammel. Med samme navn som Norges vanligste tresort, hva heter hun?",
+            "answer": "Björk",
+            "aliases": [
+                "Bjørk"
+            ]
+        }
+    ]
+}
