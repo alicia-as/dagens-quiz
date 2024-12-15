@@ -1,0 +1,45 @@
+{
+    "theme": "Fiktiva figurer från Sverige",
+    "questions": [
+        {
+            "question": "Albert Åberg har en bestevenn som bare han selv kan se. Hva heter han?",
+            "answer": "Skybert (Mållgan på svensk)",
+            "aliases": [
+                "Skybert",
+                "Mållgan"
+            ]
+        },
+        {
+            "question": "Nils Holgersson foretar en underbar resa genom Sverige. Hva heter hans næreste reisefølge?",
+            "answer": "Akka (fra Kebnekaise)",
+            "aliases": [
+                "Akka"
+            ]
+        },
+        {
+            "question": "Under hvilke navn er barnebokfigurene Pettson och Findus bedre kjent her til lands?",
+            "answer": "Gubben og katten",
+            "aliases": [
+                "Gubben og katten",
+                "Pettson og Findus"
+            ]
+        },
+        {
+            "question": "Hva heter skrythalsen som til stadighet kommer på besøk til Lillebror i en bygård i Stockholm?",
+            "answer": "Karlsson på taket",
+            "aliases": [
+                "Karlsson på taket",
+                "Karlsson"
+            ]
+        },
+        {
+            "question": "Om hvem handler den første boken som Astrid Lindgren ga ut i 1945?",
+            "answer": "Pippi Langstrømpe",
+            "aliases": [
+                "Pippi Langstrømpe",
+                "Pippi Långstrump",
+                "Pippi"
+            ]
+        }
+    ]
+}
