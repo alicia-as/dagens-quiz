@@ -1,0 +1,43 @@
+{
+    "theme": "Svaret begynner på 'T'",
+    "questions": [
+        {
+            "question": "Hva kaller vi skinnteltene (fra lakotaspråk) som urbefolkningen brukte på de nordamerikanske slettene?",
+            "answer": "Tipi",
+            "aliases": [
+                "Teepee"
+            ]
+        },
+        {
+            "question": "I Norge bruker man poteter når man lager lomper, mens i Mexico bruker de gjerne mais. Hva kaller de dem?",
+            "answer": "Tortilla",
+            "aliases": [
+                "Tortillas"
+            ]
+        },
+        {
+            "question": "Med et koselig fornavn, hva het presidenten som overtok etter at McKinley ble skutt i 1901?",
+            "answer": "Theodor «Teddy» Roosevelt",
+            "aliases": [
+                "Teddy Roosevelt",
+                "Theodore Roosevelt",
+                "Theodor Roosevelt",
+                "Teddy",
+                "Theodore",
+                "Roosevelt"
+            ]
+        },
+        {
+            "question": "Hvilken liten pinne som brukes i en stor sport, kan også være et klesplagg? Tar man vekk siste bokstav, blir det til en drikk!",
+            "answer": "Tee (Tee-shirt, te)",
+            "aliases": [
+                "Tee ",
+                "Te "
+            ]
+        },
+        {
+            "question": "Hva heter den lille byen i Lazio-distriktet i Italia som har samme navn som en fornøyelsespark?",
+            "answer": "Tivoli"
+        }
+    ]
+}
