@@ -1,0 +1,38 @@
+{
+    "theme": "Med 'x' i svaret 2",
+    "questions": [
+        {
+            "question": "Hvilket kosmetikkfirma ble etablert av Maksymilian Faktorowicz i 1909?",
+            "answer": "Max Factor"
+        },
+        {
+            "question": "Seher Aydar står på førsteplass for Rødts stortingsvalgliste i Oslo neste år. Hvem står på andreplass?",
+            "answer": "Bjørnar Moxnes",
+            "aliases": [
+                "Moxnes"
+            ]
+        },
+        {
+            "question": "Hvilket universitet skal ha blitt grunnlagt på slutten av 1000-tallet og er således det eldste engelskspråklige universitetet i verden?",
+            "answer": "Oxford",
+            "aliases": [
+                "Oxford University",
+                "Oxford-universitetet"
+            ]
+        },
+        {
+            "question": "Hvilken kjede av kiosker har et navn som kan få deg til å tenke på tallet «1009»?",
+            "answer": "MIX (romertallet MIX= 1009)",
+            "aliases": [
+                "Mix "
+            ]
+        },
+        {
+            "question": "Hvilken TV-kanal måtte betale $787 millioner i erstatning til stemmemaskinprodusenten Dominion etter valget i 2020?",
+            "answer": "Fox News",
+            "aliases": [
+                "Fox  "
+            ]
+        }
+    ]
+}
