@@ -1,0 +1,40 @@
+{
+    "theme": "Rike og berømte",
+    "questions": [
+        {
+            "question": "Hun spiller Arwen i «Ringenes herre» og arver sikkert litt penger fra sin rockete far. Navnet takk!",
+            "answer": "Liv Tyler",
+            "aliases": [
+                "Tyler"
+            ]
+        },
+        {
+            "question": "Hvilken skuespiller, som har spilt i «Kill Bill» og «Pulp Ficition», deler fornavn med kun 102 norske kvinner?",
+            "answer": "Uma Thurman",
+            "aliases": [
+                "Thurman"
+            ]
+        },
+        {
+            "question": "Hvilken sanger slo gjennom med gruppen The Supremes på 60-tallet, spilte rollen som Billie Holiday på 70-tallet og giftet seg med en nordmann på 80-tallet?",
+            "answer": "Diana Ross",
+            "aliases": [
+                "Ross"
+            ]
+        },
+        {
+            "question": "Hun spilte mot Jim Carrey i «Bruce Almighty» mens hun var gift med Brad Pitt. Navnet takk!",
+            "answer": "Jennifer Aniston",
+            "aliases": [
+                "Aniston"
+            ]
+        },
+        {
+            "question": "Hvilken skuespiller, som har spilt i «The Dark Knight» og «Inception», har en far som er kjent for å ha spilt i «The Godfather»?",
+            "answer": "Christian Bale",
+            "aliases": [
+                "Bale"
+            ]
+        }
+    ]
+}
