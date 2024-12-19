@@ -1,0 +1,40 @@
+{
+    "theme": "O, Jul med din glede 🎄",
+    "questions": [
+        {
+            "question": "Hvilken øy ble oppdaget 25. desember 1643 og fikk derfor sitt navn?",
+            "answer": "Christmas Island",
+            "aliases": [
+                "Juløya"
+            ]
+        },
+        {
+            "question": "Julesangen 'Stille Nacht, heilige Nacht' ble komponert i julen 1818 av Franz Gruber. Hva heter sangen på norsk?",
+            "answer": "Glade jul"
+        },
+        {
+            "question": "I hvilken tv-serie møter vi dronning Fjellrose, Erke, Ekko Ekko, Turte og Tvilling?",
+            "answer": "Jul i Blåfjell",
+            "aliases": [
+                "Blåfjell"
+            ]
+        },
+        {
+            "question": "Nissedal ligger i Telemark og har et kommunevåpen bestående av tre ...?",
+            "answer": "Nisseluer",
+            "aliases": [
+                "Luer",
+                "Nisselue"
+            ]
+        },
+        {
+            "question": "Pinnekjøtt, ribbe og torsk er favoritter på julekvelden i Norge. Hvilken rett topper listen i Danmark?",
+            "answer": "Andestek",
+            "aliases": [
+                "And ",
+                "Andebryst",
+                "Andebrystet"
+            ]
+        }
+    ]
+}
