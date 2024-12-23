@@ -7,12 +7,13 @@
         },
         {
             "question": "Lille pusekatt, hvor har du vært?",
-            "answer": "Jeg har vært hos moren min",
+            "answer": "Jeg har vært hos mammaen min",
             "aliases": [
                 "Hos moren min",
                 "Hos mamma",
                 "Hos mamma mi",
-                "Hos mor"
+                "Hos mor",
+                "Jeg har vært hos moren min"
             ]
         },
         {
@@ -23,7 +24,7 @@
             ]
         },
         {
-            "question": "Det minste landet i Mellom-Amerika er på størrelse med Nord-Trøndelag. Med en hovedstad som heter Belmopan et navn som kan få deg til å tenke på 'God jul' på spansk, hva heter det?",
+            "question": "Det minste landet i Mellom-Amerika er på størrelse med Nord-Trøndelag. Med en hovedstad som heter Belmopan og et navn som kan få deg til å tenke på 'God jul' på spansk, hva heter det?",
             "answer": "Belize (Feliz Navidad)",
             "aliases": [
                 "Belize "
