@@ -1,0 +1,43 @@
+{
+    "theme": "Baklengs (repeat)",
+    "questions": [
+        {
+            "question": "Hvilket ord, som oppsto etter en skandale i 1988, blir til en liten nisse dersom du leser det baklengs?",
+            "answer": "En mong (gnom)",
+            "aliases": [
+                "mong",
+                "gnom",
+                "en mong"
+            ]
+        },
+        {
+            "question": "Apropos, hvilken norsk musiker, hvis artistnavn er hans ekte navn baklengs, har nylig fått en renessanse hjulpet av Broiler og Beathoven?",
+            "answer": "Ravi (Ivar)",
+            "aliases": [
+                "ravi",
+                "ivar"
+            ]
+        },
+        {
+            "question": "Ifølge kjendisbladet Kick er hun verdens rikeste entertainer. Staver du fornavnet hennes baklengs, får du fornavnet til en av Marx Brothers. Navnet takk!",
+            "answer": "Oprah (Harpo) Winfrey",
+            "aliases": [
+                "oprah winfrey",
+                "oprah",
+                "harpo"
+            ]
+        },
+        {
+            "question": "2023s nest mest populære jentenavn, kun slått av Olivia, blir til en aktivitet forbeholdt kvinner dersom du leser det baklengs. Hvilket navn?",
+            "answer": "Emma (amme)",
+            "aliases": [
+                "emma",
+                "amme"
+            ]
+        },
+        {
+            "question": "Hvilket norsk ord, som de færreste liker, er det lengste du kan lese begge veier?",
+            "answer": "Regninger"
+        }
+    ]
+}
