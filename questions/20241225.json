@@ -1,0 +1,38 @@
+{
+    "theme": "Svarer starter på 'F' (repeat)",
+    "questions": [
+        {
+            "question": "Atomnr. 15 har bokstaven P. Hvilket grunnstoff er det? ",
+            "answer": "Fosfor",
+            "aliases": [
+                "Phosphorus"
+            ]
+        },
+        {
+            "question": "Finn Egil Holm er 1. nestleder i hvilket politisk parti?",
+            "answer": "Fremskrittspartiet",
+            "aliases": [
+                "FrP"
+            ]
+        },
+        {
+            "question": "Hvilken sport forbinder du med Felipe Massa, Ayrton Senna og Heikki Kovalainen?",
+            "answer": "Formel 1"
+        },
+        {
+            "question": "I nærheten av hvilken vakker by ligger fjellandsbyen Vinci?",
+            "answer": "Firenze",
+            "aliases": [
+                "Florence",
+                "Firense"
+            ]
+        },
+        {
+            "question": "Hva er meningen med livet, skal man tro Douglas Adams?",
+            "answer": "42",
+            "aliases": [
+                "Førtito"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "theme": "Interessante innsjøer (repeat)",
+    "questions": [
+        {
+            "question": "Hvilken kunstig innsjø i Egypt er 14 ganger større enn Mjøsa og oppkalt etter en Gamal president? Cristiano Ronaldo spiller for tiden for et lag med liknende navn.",
+            "answer": "Nassersjøen",
+            "aliases": [
+                "Nasser",
+                "Al-Nassr"
+            ]
+        },
+        {
+            "question": "Hvilken innsjø er 23 ganger større enn Mjøsa, selv om den ligger på 3800 meters høyde?",
+            "answer": "Titicaca"
+        },
+        {
+            "question": "Hva kaller vi furuved som er gjennomtrukket av harpiks? Norges femte største innsjø har samme navn.",
+            "answer": "Tyri (-fjorden)",
+            "aliases": [
+                "Tyri",
+                "Tyri-fjorden",
+                "Tyrifjorden"
+            ]
+        },
+        {
+            "question": "Den minste av de fem store innsjøene i Nord-Amerika har samme navn som en Canadisk provins. Hva heter innsjøen?",
+            "answer": "Ontario",
+            "aliases": [
+                "Lake Ontario",
+                "Ontario-sjøen"
+            ]
+        },
+        {
+            "question": "Hvilken verdenskjent turistby får drikkevannet sitt fra den kunstige innsjøen Lake Mead, som ligger i Arizona og Nevada?",
+            "answer": "Las Vegas"
+        }
+    ]
+}
