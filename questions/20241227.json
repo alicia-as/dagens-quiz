@@ -1,0 +1,39 @@
+{
+    "theme": "Katt 😼",
+    "questions": [
+        {
+            "question": "Katterasens navn stammer fra Isle of Man, og dens fremste kjennetegn er mangelen på hale. Hva heter rasen? ",
+            "answer": "Manx",
+            "aliases": [
+                "Manks"
+            ]
+        },
+        {
+            "question": "Hvilket land, som ikke lengre finnes, har gitt navn til en katterase og en spesiell type mennesker?",
+            "answer": "Siam",
+            "aliases": [
+                "Siamese",
+                "Thailand",
+                "Siameske tvillinger"
+            ]
+        },
+        {
+            "question": "En rekke paver, samt østerrikeren som hoppet fra verdensrommet har fornavn som også er et vanlig kattenavn. Hvilket?",
+            "answer": "Felix"
+        },
+        {
+            "question": "En rekke paver, samt en action-skuespiller har fornavn som er et vanlig kattenavn, det har også katten som ikke klarer å fange Pip. Hvilket navn?",
+            "answer": "Sylvester",
+            "aliases": [
+                "Sylvester Stallone"
+            ]
+        },
+        {
+            "question": "«Katta vår var gatens skrekk - ilter og sterk og frekk». Hvem sang dette tidlig på 60-tallet?",
+            "answer": "Wenche Myhre",
+            "aliases": [
+                "Myhre"
+            ]
+        }
+    ]
+}
