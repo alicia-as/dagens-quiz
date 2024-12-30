@@ -1,0 +1,37 @@
+{
+    "theme": "Store land (repeat)",
+    "questions": [
+        {
+            "question": "Hvilket stort land har grenser til Chile, Uruguay, Brasil, Paraguay og Bolivia?",
+            "answer": "Argentina"
+        },
+        {
+            "question": "Afrikas største land blir til sin egen hovedstad dersom du fjerner de to siste bokstavene. Hvilket land?",
+            "answer": "Algerie (Alger)",
+            "aliases": [
+                "Algerie",
+                "Algeria",
+                "Alger"
+            ]
+        },
+        {
+            "question": "Verdens syvende største land blir til en mellomstor amerikansk delstat om du legger til to bokstaver. Hvilket land?",
+            "answer": "India (Indiana)",
+            "aliases": [
+                "India",
+                "Indiana"
+            ]
+        },
+        {
+            "question": "Landet er omtrent 2 millioner kvadratkilometer stort, men grenser til et mye større land i nord, som igjen grenser til et større land i nord. Hvilket land?",
+            "answer": "Mexico",
+            "aliases": [
+                "Meksiko"
+            ]
+        },
+        {
+            "question": "Verdens 14. største land er også landet med flest muslimer. Hvilket land?",
+            "answer": "Indonesia"
+        }
+    ]
+}
