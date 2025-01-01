@@ -1,0 +1,46 @@
+{
+    "theme": "Samme navn",
+    "questions": [
+        {
+            "question": "Hvilken amerikansk komiker, som døde 100 år gammel i 2003, delte etternavn med «Årets scenekomiker i 2017» samt scenenavnet til komikeren Hans Heyerdahl?",
+            "answer": "Bob Hope (Christine Hope, Hasse Hope)",
+            "aliases": [
+                "Hope",
+                "Bob Hope",
+                "Christine Hope",
+                "Hasse Hope"
+            ]
+        },
+        {
+            "question": "En norsk komiker og helseministeren i 2000-01, samt et ord du også finner i en revolver. Kan også være et klesplagg om du er virkelig blakk. Hvilket ord?",
+            "answer": "Tønne",
+            "aliases": [
+                "Tore"
+            ]
+        },
+        {
+            "question": "Hvilken Batman-skuespiller heter Michael Douglas, men har tatt etternavn som stumfilmlegenden Buster?",
+            "answer": "Keaton",
+            "aliases": [
+                "Michael Keaton"
+            ]
+        },
+        {
+            "question": "Hvilken artist hadde samme navn som The Monkees-stjernen Davy Jones, og tok derfor navn etter en western-helt? Navnet er forøvrig også et kjent våpen.",
+            "answer": "David Bowie",
+            "aliases": [
+                "David Bowie",
+                "Bowie",
+                "Bowie-kniv"
+            ]
+        },
+        {
+            "question": "Hvilken norsk øygruppe på Helgeland har samme navn som en kino i Oslo? Legger man på en 'S' på slutten, er man plutselig på kasino.",
+            "answer": "Vega (Vegas)",
+            "aliases": [
+                "Vega",
+                "Vegas"
+            ]
+        }
+    ]
+}

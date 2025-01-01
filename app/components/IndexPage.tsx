@@ -5,6 +5,7 @@ import ScoreBoxes from "../ScoreBoxes";
 import levenshtein from "js-levenshtein";
 import { useRouter } from "next/navigation";
 import ClipboardModal from "../ClipboardModal";
+import Image from "next/image";
 
 const LEVENSHTEIN_THRESHOLD = 2; // Adjust this value as needed
 
@@ -231,18 +232,22 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
   };
 
   return (
-    <div className="max-w-md mx-auto mt-4 rounded-lg p-4 bg-slate-500">
+    <div className="max-w-md mx-auto mt-4 rounded-lg p-4 bg-slate-400 dark:bg-gray-600 text-gray-800 dark:text-gray-300">
       <ClipboardModal
         isOpen={isModalOpen}
         onClose={() => setIsModalOpen(false)}
       >
         <p>Resultatene er kopiert til din utklippstavle!</p>
       </ClipboardModal>
-      <h1 className="text-2xl font-bold text-center m2-4">
-        Fem Kjappe{quizDate ? ` - ${formatDate(quizDate)}` : ""}
-      </h1>
+      <div className="flex items-center justify-center mb-4">
+        <Image src="/logo.svg" alt="Fem Kjappe logo" width={40} height={100} />
+        {/* ITalic */}
+        <h1 className="text-3xl font-bold text-center m2-4  text-primary italic">
+          kjappe{quizDate ? ` - ${formatDate(quizDate)}` : ""}
+        </h1>
+      </div>
       {theme && (
-        <p className="text-center text-gray-200 text-sm my-2">
+        <p className="text-center text-gray-700 dark:text-gray-200 text-sm my-2">
           <span className="font-semibold">Tema:</span> {theme}
         </p>
       )}
@@ -301,7 +306,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
           <button
             onClick={handleSubmit}
             disabled={isSubmitted}
-            className="w-full bg-blue-500 text-white p-2 rounded-lg hover:bg-blue-600"
+            className="w-full bg-primary text-gray-300 p-2 rounded-lg hover:bg-opacity-80 "
           >
             Sjekk svarene
           </button>
@@ -320,7 +325,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
       {isSubmitted && (
         <button
           onClick={handleShare}
-          className="w-full bg-green-500 font-medium text-white p-2 rounded-lg hover:bg-green-600 mt-4"
+          className="w-full bg-green-400 dark:bg-green-600 font-medium text-white dark:text-gray-300 p-2 rounded-lg hover:bg-opacity-80 mt-4"
         >
           Del ditt resultat!
         </button>
@@ -330,7 +335,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
         {prevDate && (
           <button
             onClick={() => router.push(`/${prevDate}`)}
-            className=" text-white p-2 rounded hover:bg-gray-600"
+            className=" p-2 rounded hover:text-primary"
           >
             ←<span className="text-sm"> Forrige</span>
           </button>
@@ -338,7 +343,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
         {nextDate && (
           <button
             onClick={() => router.push(`/${nextDate}`)}
-            className=" text-white p-2 rounded hover:bg-gray-600"
+            className=" p-2 rounded hover:text-primary"
           >
             <span className="text-sm">Neste </span>→
           </button>
