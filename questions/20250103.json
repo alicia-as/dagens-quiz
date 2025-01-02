@@ -1,0 +1,34 @@
+{
+    "theme": "In Space",
+    "questions": [
+        {
+            "question": "Hvilken astronaut er avbildet i det klassiske bildet «Man on the Moon»?",
+            "answer": "Buzz Aldrin",
+            "aliases": [
+                "Aldrin"
+            ]
+        },
+        {
+            "question": "Juri Gagarin ble tidenes første menneske i bane rundt Jorden. Med et år som kan snus på hodet, når skjedde det?",
+            "answer": "1961  "
+        },
+        {
+            "question": "Hvilket nummer hadde Apollo-fartøyet som måtte vende tilbake til Jorden med uforrettet sak i april 1970?",
+            "answer": "Tretten",
+            "aliases": [
+                "13  "
+            ]
+        },
+        {
+            "question": "Hvilken av NASAs romferger fikk navn etter et mytisk land, også kjent fra en historie om brødrene Dal?",
+            "answer": "Atlantis"
+        },
+        {
+            "question": "Det høyeste fjellet i solsystemet er 21 300 m høyt og befinner seg på Mars. Hva heter det?",
+            "answer": "Olympus Mons",
+            "aliases": [
+                "Olympus"
+            ]
+        }
+    ]
+}
