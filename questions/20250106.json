@@ -1,0 +1,37 @@
+{
+    "theme": "Norske katastrofer",
+    "questions": [
+        {
+            "question": "Med Kristoffer Joner i hovedrollen, hva heter katastrofefilmen fra 2015 hvor vi møter geologen Kristian Eikjord?",
+            "answer": "Bølgen",
+            "aliases": [
+                "The Wave"
+            ]
+        },
+        {
+            "question": "Oppfølgeren til forrige film kom i 2018, og handler da om en annen naturkatastrofe, som ødelegger store deler av Oslo. Hva heter denne filmen?",
+            "answer": "Skjelvet",
+            "aliases": [
+                "The Quake"
+            ]
+        },
+        {
+            "question": "En relativt fersk katastrofeserie som i disse dager går på Netflix har samme navn som øya hvor handlingen utspiller seg. Hva heter serien?",
+            "answer": "La Palma",
+            "aliases": [
+                "Palma"
+            ]
+        },
+        {
+            "question": "Også med Kristoffer Joner i hovedrollen, hva heter flykatastrofefilmen fra 2011 som har et svært fredelig navn, spesielt om du kan latin?",
+            "answer": "Pax"
+        },
+        {
+            "question": "I 2021 kom en film hvor Kristoffer Joner for en gangs skyld ikke medvirket. Kristine Kujath Thorp spiller hovedrollen i denne filmen, som har samme navn som en 575 000 km² stor region. Hva heter filmen?",
+            "answer": "Nordsjøen",
+            "aliases": [
+                "The Burning Sea"
+            ]
+        }
+    ]
+}
