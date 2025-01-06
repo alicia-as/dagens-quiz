@@ -1,0 +1,40 @@
+{
+    "theme": "Bond, James Bond",
+    "questions": [
+        {
+            "question": "Hva heter dansken som spiller skurken Le Chiffre i «Casino Royale»?",
+            "answer": "Mads Mikkelsen",
+            "aliases": [
+                "Mikkelsen"
+            ]
+        },
+        {
+            "question": "Låten «Writings on the Wall» av Sam Smith vant Oscar for beste filmlåt. Fra hvilken actionfilm?",
+            "answer": "Spectre",
+            "aliases": [
+                "Specter"
+            ]
+        },
+        {
+            "question": "Hvilken drink skal i følge James Bond være 'shaken, not stirred'?",
+            "answer": "Vodka Martini",
+            "aliases": [
+                "Martini"
+            ]
+        },
+        {
+            "question": "Med et navn som får deg til å ville ha mer, hvem spilte hovedrollen som James Bond i filmen Octopussy fra 1983?",
+            "answer": "Roger Moore",
+            "aliases": [
+                "Moore"
+            ]
+        },
+        {
+            "question": "A-ha har laget tittellåten til en James Bond-film hvor Timothy Dalton spiller hovedrollen. Hvilken?",
+            "answer": "The Living Daylights",
+            "aliases": [
+                "Living Daylights"
+            ]
+        }
+    ]
+}
