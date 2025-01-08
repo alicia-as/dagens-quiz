@@ -1,0 +1,38 @@
+{
+    "theme": "Rockeband",
+    "questions": [
+        {
+            "question": "Hvilket rockeband, stiftet i California i 1983 og fremdeles sterkt tilstede, har et navn som kommer høyt opp på scovilleskalaen?",
+            "answer": "Red Hot Chili Peppers",
+            "aliases": [
+                "RHCP",
+                "Chili Peppers"
+            ]
+        },
+        {
+            "question": "Hvilken popgruppe gjorde suksess i 1980 med låta ”Another one Bites the Dust”?",
+            "answer": "Queen"
+        },
+        {
+            "question": "Hvilket norsk rockeband ble stiftet i 1992 og har tatt navn etter et ganske intenst øyeblikk?",
+            "answer": "Bigbang",
+            "aliases": [
+                "Big Bang"
+            ]
+        },
+        {
+            "question": "Hvilket skotsk rockeband, kjent for låter som ”Take Me Out” og ”Do You Want To”, ble dannet i 2002 og tok navn etter en uheldig hertug?",
+            "answer": "Franz Ferdinand",
+            "aliases": [
+                "Franz"
+            ]
+        },
+        {
+            "question": "Hvilket blytungt rockeband ble oppløst i 1980, da batteristen John Bonham døde av en overdose vodka?",
+            "answer": "Led Zeppelin",
+            "aliases": [
+                "Zeppelin"
+            ]
+        }
+    ]
+}
