@@ -1,0 +1,40 @@
+{
+    "theme": "Hoteller",
+    "questions": [
+        {
+            "question": "Hvilken by har hoteller med navnene «Sahara», «New York New York», «Treasure Island», «Paris» og «Monte Carlo»?",
+            "answer": "Las Vegas",
+            "aliases": [
+                "Vegas"
+            ]
+        },
+        {
+            "question": "Hvilken gård på Kløfta har gitt navn til en verdensomspennende hotellkjede og en av verdens mest kjente realitystjerner?",
+            "answer": "Hilton (Hotellkjeden Hilton og Paris Hilton)",
+            "aliases": [
+                "Paris Hilton",
+                "Hilton",
+                "Paris",
+                "Hilton Hotels"
+            ]
+        },
+        {
+            "question": "Petter Stordalens hotellkjede het tidligere Nordic Choice Hotels, men fikk et mer velsmakende navn i 2023. Hvilket?",
+            "answer": "Strawberry",
+            "aliases": [
+                "Strawberry Hotels"
+            ]
+        },
+        {
+            "question": "I hvilken norsk by ligger Britannia Hotell, som i 2005 hadde besøk av det Japanske keiserparet?",
+            "answer": "Trondheim"
+        },
+        {
+            "question": "Hva er navnet på hotellet i komiserien «Hotell i særklasse»?",
+            "answer": "Fawlty Towers",
+            "aliases": [
+                "Fawlty"
+            ]
+        }
+    ]
+}
