@@ -1,0 +1,42 @@
+{
+    "theme": "Bråtøffe Biler 🏎️",
+    "questions": [
+        {
+            "question": "Hvilket italiensk bilmerke, hvis navn består av en gresk bokstav og en storsjarmør, har et kors på venstre- og en slange på høyre side av den runde logoen?",
+            "answer": "Alfa Romeo",
+            "aliases": [
+                "Alfa"
+            ]
+        },
+        {
+            "question": "Hvilket fransk bilmerke, stiftet av en italiener i 1909, har stått som modell for gummigodteriet «Ahlgrens biler»? Passende nok blir bilmerket til et søtt pålegg om du bytter ut første bokstav!",
+            "answer": "Bugatti (Nugatti)",
+            "aliases": [
+                "Bugatti"
+            ]
+        },
+        {
+            "question": "Hvilket dyr er logo både til Ferrari og Porsche?",
+            "answer": "En (steilende) hest",
+            "aliases": [
+                "Hest",
+                "Horse",
+                "En hest"
+            ]
+        },
+        {
+            "question": "Hvilket mer enn 100 år gammelt bilmerke har halve navnet til et engelsk fotballag og halve navnet til nåværende kaptein på det norske fotballandslaget?",
+            "answer": "Aston Martin (Aston Villa + Martin Ødegaard)",
+            "aliases": [
+                "Aston Martin"
+            ]
+        },
+        {
+            "question": "Hvilket britisk bilmerke ville hatt navnet «Panthera onca» dersom den ble produsert i Vatikanstaten?",
+            "answer": "Jaguar (Panthera onca = Jaguar på latin)",
+            "aliases": [
+                "Jaguar"
+            ]
+        }
+    ]
+}
