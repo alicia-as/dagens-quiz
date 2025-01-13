@@ -1,0 +1,39 @@
+{
+    "theme": "Med mat i svaret 2",
+    "questions": [
+        {
+            "question": "Hva heter antagonisten i «Tilbake til Fremtiden» som etter hvert blir søkkrik på sportsveddeløp?",
+            "answer": "Biff Tannen",
+            "aliases": [
+                "Biff"
+            ]
+        },
+        {
+            "question": "Han har vært på landslaget i håndball, blitt kastet ut av «Skal vi Danse» og forsøkte nylig å bestige Mount Everest uten oksygen. Hvem er det snakk om?",
+            "answer": "Frank Løke",
+            "aliases": [
+                "Løke"
+            ]
+        },
+        {
+            "question": "Hvilket markedsledende pastavaremerke har et navn som kan få deg til å tro at det er noe helt annet i pakkene?",
+            "answer": "Sopps"
+        },
+        {
+            "question": "I hvilken Oscarvinnende film fra 1990 spiller Ray Liotta, Robert de Niro og Joe Pesci rollene som nære medarbeidere?",
+            "answer": "MafiaBRØDre",
+            "aliases": [
+                "Goodfellas",
+                "Goodfellas - mafiaens beste",
+                "Mafiabrødre"
+            ]
+        },
+        {
+            "question": "Hvilken låt av Jahn Teigen, som kom på andre plass i Melodi Grand Prix i 1988, hadde det russiske ordet for 'åpenhet' i tittelen?",
+            "answer": "Glasnost",
+            "aliases": [
+                "Glasnost (åpenhet)"
+            ]
+        }
+    ]
+}
