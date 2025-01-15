@@ -1,0 +1,35 @@
+{
+    "theme": "Italienske smaker 🇮🇹",
+    "questions": [
+        {
+            "question": "Hvilken deilig italiensk dessert dynket med kaffe har et navn som betyr «trekk meg opp»? ",
+            "answer": "Tiramisu",
+            "aliases": [
+                "Tiramisù"
+            ]
+        },
+        {
+            "question": "Med en liten norsk artist skjult i navnet, hva kalles pastaretten der to flate pasta legges over hverandre med fyll inni?",
+            "answer": "Ravioli (Ravi)",
+            "aliases": [
+                "Ravioli"
+            ]
+        },
+        {
+            "question": "Polenta er en italiensk rett som kan minne om en grøt. Hva er hovedingrediensen?",
+            "answer": "Maisgryn",
+            "aliases": [
+                "Mais",
+                "Maisgrynene"
+            ]
+        },
+        {
+            "question": "Hvilken type saus består gjerne av spinat, basilikum, hvitløk, pinjekjerner, olivenolje og parmesan blandet i en foodprosessor?",
+            "answer": "Pesto"
+        },
+        {
+            "question": "I hvilken by ble den første pizzaen laget, skal vi tro italienerne?",
+            "answer": "Napoli"
+        }
+    ]
+}
