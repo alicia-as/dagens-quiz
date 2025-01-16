@@ -1,0 +1,33 @@
+{
+    "theme": "Stjerner og planeter 🔭🪐",
+    "questions": [
+        {
+            "question": "Hvilke av solsystemets planeter er den syvende fra Solen?",
+            "answer": "Uranus"
+        },
+        {
+            "question": "Rundt hvilken planet snurrer gigantmånen Ganymede?",
+            "answer": "Jupiter"
+        },
+        {
+            "question": "Hvilket filmselskap har en logo som består av en gutt som sitter i nymånen og fisker?",
+            "answer": "DreamWorks"
+        },
+        {
+            "question": "Hvor mange måner har de fire innerste planetene i Solsystemet til sammen?",
+            "answer": "Tre, vår egen måne Luna og de to månene til Mars, Phobos og Deimos.",
+            "aliases": [
+                "3  ",
+                "tre ",
+                "Månen, Phobos og Deimos"
+            ]
+        },
+        {
+            "question": "Hvis du er født i dag, hvilket stjernetegn tilhører du da? På latin heter det Capricornus!",
+            "answer": "Steinbukken",
+            "aliases": [
+                "Steinbukken"
+            ]
+        }
+    ]
+}
