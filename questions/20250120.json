@@ -1,0 +1,37 @@
+{
+    "theme": "Hvilken øy",
+    "questions": [
+        {
+            "question": "På hvilken kjent og folkerik øy foregår handlingen i filmen «Ghostbusters»?",
+            "answer": "Manhattan"
+        },
+        {
+            "question": "På hvilken øy heter den største byen Visby?",
+            "answer": "Gotland"
+        },
+        {
+            "question": "På hvilken øye kan man besøke «The Statue of Liberty» i New York?",
+            "answer": "Liberty Island",
+            "aliases": [
+                "Liberty Island",
+                "Statue of Liberty Island",
+                "Statue of Liberty"
+            ]
+        },
+        {
+            "question": "Hvilken øy er den største i kongeriket Norge?",
+            "answer": "Spitsbergen",
+            "aliases": [
+                "Svalbard",
+                "Svalbardøyene"
+            ]
+        },
+        {
+            "question": "Hva heter Canadas største øy, som er større enn Sverige i areal og er den femte største øyen i verden?",
+            "answer": "Baffin Island",
+            "aliases": [
+                "Baffinøya"
+            ]
+        }
+    ]
+}
