@@ -1,0 +1,46 @@
+{
+    "theme": "Amerikanske presidenter 2",
+    "questions": [
+        {
+            "question": "Donald J. Trump ble atter en gang innsatt som president i går. Hva står J-en for?",
+            "answer": "John ",
+            "aliases": [
+                "Jenius"
+            ]
+        },
+        {
+            "question": "Hvilken amerikansk president ble i sin tid gjort narr av fordi han under en jakt nektet å skyte en bjørn?",
+            "answer": "Theodore Roosevelt",
+            "aliases": [
+                "Roosevelt",
+                "Teddy Roosevelt",
+                "Teddy"
+            ]
+        },
+        {
+            "question": "Hvilket fornavn: En moteskaper, en amerikansk president og tegnefiguren Tommys engelske navn?",
+            "answer": "Calvin (Klein, Coolidge)",
+            "aliases": [
+                "Calvin Klein",
+                "Calvin",
+                "Coolidge"
+            ]
+        },
+        {
+            "question": "Hvilket «rengjøringinstrument» var president i USA før Franklin D. Roosevelt?",
+            "answer": "Herbert Hoover",
+            "aliases": [
+                "Hoover",
+                "Støvsuger",
+                "Støvsugeren"
+            ]
+        },
+        {
+            "question": "I 1996 ble Bill Clinton gjenvalgt som president i USA. Med et helt bananas etternavn, hva het republikaneren som ble slått?",
+            "answer": "Bob Dole",
+            "aliases": [
+                "Dole"
+            ]
+        }
+    ]
+}
