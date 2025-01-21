@@ -1,0 +1,35 @@
+{
+    "theme": "Bowling 🎳",
+    "questions": [
+        {
+            "question": "Hvilket uttrykk (som er bra i begge tilfeller) brukes både i idrettene bowling og baseball?",
+            "answer": "Strike!",
+            "aliases": [
+                "Strike"
+            ]
+        },
+        {
+            "question": "Hvilken verdensrekord er nøyaktig like lang som en bowlingbane?",
+            "answer": "Tresteg. Begge er 60 fot (18,29 m). ",
+            "aliases": [
+                "Tresteg",
+                "Triple jump"
+            ]
+        },
+        {
+            "question": "Hvilket bowlinguttrykk, som betegner et uheldig utfall, er også navnet på et feriested i Adriaterhavet?",
+            "answer": "Split"
+        },
+        {
+            "question": "Hvor mange «Strikes» må du ha for å tangere verdensrekorden på 300 poeng i bowling?",
+            "answer": "12  ",
+            "aliases": [
+                "Tolv "
+            ]
+        },
+        {
+            "question": "Med samme navn som en finansiell app, hva kalles det dersom du får ned alle kjeglene i løpet av to forsøk i bowling?",
+            "answer": "Spare"
+        }
+    ]
+}
