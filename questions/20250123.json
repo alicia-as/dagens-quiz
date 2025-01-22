@@ -1,0 +1,41 @@
+{
+    "theme": "-ologi",
+    "questions": [
+        {
+            "question": "Hva studerer en mykolog?",
+            "answer": "Sopp",
+            "aliases": [
+                "Sopper"
+            ]
+        },
+        {
+            "question": "Hvilken norsk nobelprisvinner fra 1928 hadde en far som var arkeolog?",
+            "answer": "Sigrid Undset",
+            "aliases": [
+                "Sigrid Undset",
+                "Undset"
+            ]
+        },
+        {
+            "question": "Hva het kjærlighetens og fruktbarhetens gudinne i den gresk mytologi?",
+            "answer": "Afrodite",
+            "aliases": [
+                "Aphrodite"
+            ]
+        },
+        {
+            "question": "Innen hvilken vitenskap, som de fleste av oss er opptatte av i hverdagen, gjorde Vilhelm Bjerknes seg bemerket?",
+            "answer": "Meteorologi",
+            "aliases": [
+                "Meteorolog"
+            ]
+        },
+        {
+            "question": "Andrologi er vitenskapen som befatter seg med mannens fysiske tilstand. Hva heter den tilsvarende vitenskapen om kvinner?",
+            "answer": "Gynekologi",
+            "aliases": [
+                "Gynekolog"
+            ]
+        }
+    ]
+}
