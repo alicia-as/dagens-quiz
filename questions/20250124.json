@@ -1,0 +1,39 @@
+{
+    "theme": "Sørlandet",
+    "questions": [
+        {
+            "question": "I hvilken sørlandsby, som blir til et yrke dersom du legger til en bokstav foran, arrangeres den årlige Trebåtfestivalen?",
+            "answer": "Risør (Frisør)",
+            "aliases": [
+                "Risør"
+            ]
+        },
+        {
+            "question": "Utenfor sentrum av hvilken sørlandsby ligger den tre km lange sandstranden Hamresanden?",
+            "answer": "Kristiansand"
+        },
+        {
+            "question": "Skalldyrfestivalen er Sørlandets største matfestival ifølge arrangøren. Den er hvert fall landets sydligste. I hvilken by, som blir til et forhatt ukentlig rituale dersom du legger bytter ut siste bokstav?",
+            "answer": "Mandal (Mandag)",
+            "aliases": [
+                "Mandal"
+            ]
+        },
+        {
+            "question": "6. januar i år brant det i fabrikklokalene til en kjent bedrift i Kristiansand. Hvilket produkt er disse mest kjent for?",
+            "answer": "Sørlandschips",
+            "aliases": [
+                "Den Lille Chipsfabrikken",
+                "Chipsfabrikken"
+            ]
+        },
+        {
+            "question": "Hvilken by i Agder er, på tross av at den har syv ganger så mange innbyggere, en 'mindre' versjon av Suldals største tettsted?",
+            "answer": "Lillesand (Sand er kommunesenteret i Suldal)",
+            "aliases": [
+                "Lillesand",
+                "Sand"
+            ]
+        }
+    ]
+}
