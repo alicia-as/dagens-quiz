@@ -1,0 +1,52 @@
+{
+    "theme": "Pepper",
+    "questions": [
+        {
+            "question": "Hva heter skalaen man bruker for å måle styken på chili?",
+            "answer": "Scoville",
+            "aliases": [
+                "Scoville-skalaen",
+                "Scovilleskalaen"
+            ]
+        },
+        {
+            "question": "Hvilken låt av Red Hot Chili Peppers er også betegnelsen for en rituell australsk spasertur?",
+            "answer": "Walkabout",
+            "aliases": [
+                "Walk About"
+            ]
+        },
+        {
+            "question": "Hvilket nå så vanlig matvareprodukt, som kommer i mange fargevarianter, blir av britene kalt 'bell-pepper', på grunn av den klokkeformede fasongen?",
+            "answer": "Paprika"
+        },
+        {
+            "question": "Vasco da Gama var den første som med sitt mannskap dro sjøveien dit pepper’n gror. I hvilket århundre nådde han India?",
+            "answer": "Det 15. århundre (1498)",
+            "aliases": [
+                "15. århundre ",
+                "15. århundret ",
+                "1498  ",
+                "1400-tallet",
+                "Det femtende århundre ",
+                "Det femtende århundret ",
+                "Det 15. århundret ",
+                "Det 15. århundre ",
+                "Det femtende ",
+                "Femtende ",
+                "Femtende århundre",
+                "Det 15. ",
+                "Det femtende "
+            ]
+        },
+        {
+            "question": "Hvilken plante, som er i slekt med pepperrot, vokser i Japan og brukes til bl.a. sushi?",
+            "answer": "Wasabi",
+            "aliases": [
+                "Wasabiplante",
+                "Wasabi-plante",
+                "Wasabirot"
+            ]
+        }
+    ]
+}
