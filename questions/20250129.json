@@ -1,0 +1,45 @@
+{
+    "theme": "Stilige fugler 🦅",
+    "questions": [
+        {
+            "question": "Hvilken «fugl» er delstatshovedstad i Arizona?",
+            "answer": "Phoenix",
+            "aliases": [
+                "Føniks",
+                "Føniks by"
+            ]
+        },
+        {
+            "question": "Hvilken norsk bedrift med over 50 milliarder i omsetning har samme navn som en fugl som bare lever i New Zealand?",
+            "answer": "Kiwi",
+            "aliases": [
+                "Kivi"
+            ]
+        },
+        {
+            "question": "Hvilken sjelden fugl av en bergenser er den yngste rockeartisten som har blitt portrettert på et norsk frimerke?",
+            "answer": "Sondre Lerche",
+            "aliases": [
+                "Sondre Lerke",
+                "Lerke",
+                "Lerche"
+            ]
+        },
+        {
+            "question": "I hvilken idrett opererer man med ørner og albatrosser?",
+            "answer": "Golf. Eagle er to slag under banens par. Albatross er tre under. ",
+            "aliases": [
+                "Golf",
+                "Golfspill",
+                "Golfspilling"
+            ]
+        },
+        {
+            "question": "Hvilken utskjelt fugl, som man ikke vil blit kalt, har det vitenskapelige navnet «cuculus canorus»?",
+            "answer": "Gjøken",
+            "aliases": [
+                "Gjøk"
+            ]
+        }
+    ]
+}
