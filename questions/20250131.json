@@ -1,0 +1,35 @@
+{
+    "theme": "Hovedsteder på 'B'",
+    "questions": [
+        {
+            "question": "Hvilken hovedstad, som er verdens mest lavtliggende på minus 28 meter, kan også skriver som 'V'?",
+            "answer": "Baku ('V' kommer bak 'U')",
+            "aliases": [
+                "Baku"
+            ]
+        },
+        {
+            "question": "I hvilken hovedstad foregår handlingen i tegneserien om Iznogood, som «vil være kalif i stedet for kalifen»?",
+            "answer": "Bagdad",
+            "aliases": [
+                "Baghdad"
+            ]
+        },
+        {
+            "question": "Donau renner gjennom fire hovedsteder: Wien, Bratislava, Budapest og ...?",
+            "answer": "Beograd"
+        },
+        {
+            "question": "I dag heter byen Istanbul, men den har også vært kjent som Konstantinopel, Miklagard og ...?",
+            "answer": "Bysants",
+            "aliases": [
+                "Byzantium",
+                "Byszantion"
+            ]
+        },
+        {
+            "question": "Hvilken by heter egentlig Krung Thep Mahanakhon Amon Rattanakosin Mahinthara Ayuthaya Mahadilok Phop Noppharat Ratchathani Burirom Udomratchaniwet Mahasathan Amon Piman Awatan Sathit Sakkathattiya Witsanukam Prasit?",
+            "answer": "Bangkok"
+        }
+    ]
+}
