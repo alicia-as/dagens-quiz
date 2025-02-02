@@ -1,0 +1,47 @@
+{
+    "theme": "Farge i navnet",
+    "questions": [
+        {
+            "question": "Hva heter havområdet som ligger mellom Kolahalvøya og Arkangelsk?",
+            "answer": "Kvitsjøen",
+            "aliases": [
+                "Hvitsjøen",
+                "Hvithavet",
+                "White Sea"
+            ]
+        },
+        {
+            "question": "Hva heter området i Trondheim, som opprinnelig ble regnet som en fattigere del av Lademoen, noe navnet antyder?",
+            "answer": "Svartlamon",
+            "aliases": [
+                "Svart-Lademoen",
+                "Svartlamon"
+            ]
+        },
+        {
+            "question": "Hva heter landsbyen der Postman Pat kjører rundt med sin svarte og hvite katt?",
+            "answer": "Greendale (Grøndal på norsk)",
+            "aliases": [
+                "Grøndal",
+                "Greendale"
+            ]
+        },
+        {
+            "question": "Den blå Nil har sitt utløp i Tanasjøen, 1788 moh. I hvilket folkerikt land uten kyst?",
+            "answer": "Etiopia"
+        },
+        {
+            "question": "I 1958 gikk et fly med Manchester United-spillere i bakken med tragisk utfall. Hvilket 'stjernespekket' lag fra Beograd hadde United spilt mot?",
+            "answer": "Røde Stjerne",
+            "aliases": [
+                "Crvena Zvezda",
+                "Crvena zvezda",
+                "Røde stjerne",
+                "Red Star",
+                "Red Star Belgrade",
+                "Red Star Belgrad",
+                "Røse Stjerne Beograd"
+            ]
+        }
+    ]
+}
