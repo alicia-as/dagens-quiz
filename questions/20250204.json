@@ -34,8 +34,9 @@
         },
         {
             "question": "Hvilket fotballag, som hadde John Arne Riise i stallen fram til tusenårsskiftet, kom til finalen i Mesterligaen i 2004, der de tapte mot FC Porto?",
-            "answer": "AS Monaco",
+            "answer": "AS Monaco. Riise vant forøvrig Mesterligaen med Liverpool i 2005.",
             "aliases": [
+                "AS Monaco",
                 "Monaco",
                 "AS Monaco FC",
                 "Monaco FC"
