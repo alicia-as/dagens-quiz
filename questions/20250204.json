@@ -1,0 +1,45 @@
+{
+    "theme": "John",
+    "questions": [
+        {
+            "question": "Hvem spilte mot John Travolta i filmen «Grease»?",
+            "answer": "Olivia Newton-John",
+            "aliases": [
+                "Olivia Newton John",
+                "Newton-John"
+            ]
+        },
+        {
+            "question": "Hvilken person, som var med å stifte plateselskapet Apple, døde selv i ”The Big Apple”?",
+            "answer": "John Lennon",
+            "aliases": [
+                "Lennon"
+            ]
+        },
+        {
+            "question": "Hvem slo gjennom som filmskuespiller i rollen som Tony Manero i 1977?",
+            "answer": "John Travolta",
+            "aliases": [
+                "Travolta"
+            ]
+        },
+        {
+            "question": "Hvilken klassisk rockelåt av Chuck Berry blir fremført av Marty McFly i «Tilbake til Fremtiden I»?",
+            "answer": "Johnny B. Goode",
+            "aliases": [
+                "Johnny B Goode",
+                "Johnny Be Goode",
+                "Johnny Be Good"
+            ]
+        },
+        {
+            "question": "Hvilket fotballag, som hadde John Arne Riise i stallen fram til tusenårsskiftet, kom til finalen i Mesterligaen i 2004, der de tapte mot FC Porto?",
+            "answer": "AS Monaco",
+            "aliases": [
+                "Monaco",
+                "AS Monaco FC",
+                "Monaco FC"
+            ]
+        }
+    ]
+}
