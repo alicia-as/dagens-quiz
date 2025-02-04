@@ -1,0 +1,40 @@
+{
+    "theme": "Svaret begynner på 'J'",
+    "questions": [
+        {
+            "question": "På verdens mest befolkede øy bor det 137 millioner mennesker. Med samme navn som et programmeringsspråk, hva heter øya?",
+            "answer": "Java"
+        },
+        {
+            "question": "På øya fra spørsmål 1 ligger også landets hovedstad. Hva heter hovedstaden?",
+            "answer": "Jakarta"
+        },
+        {
+            "question": "Hvem spiller rollen som Jim Carreys kjæreste i filmen «Bruce Almighty» fra 2003?",
+            "answer": "Jennifer Aniston",
+            "aliases": [
+                "Aniston",
+                "Jen Aniston",
+                "Jennifer"
+            ]
+        },
+        {
+            "question": "USAs 39. president var en velstående mann før han ble president, på grunn av peanøtter. Hva het mannen, som nylig døde, 100 år gammel?",
+            "answer": "Jimmy Carter",
+            "aliases": [
+                "Carter",
+                "James Carter",
+                "James Earl Carter Jr.",
+                "James Earl Carter"
+            ]
+        },
+        {
+            "question": "Han spiller skurk i «No Country for Old Men» og «Skyfall», men kjekkasen fra Kanariøyene trives også i rollen som førsteelsker. Navnet takk!",
+            "answer": "Javier Bardem",
+            "aliases": [
+                "Bardem",
+                "Javier"
+            ]
+        }
+    ]
+}
