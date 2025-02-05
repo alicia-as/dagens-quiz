@@ -1,0 +1,47 @@
+{
+    "theme": "Autos",
+    "questions": [
+        {
+            "question": "Mitsubishi har en modell med samme navn som 'oppfinneren' av revolveren. Hva heter den?",
+            "answer": "Colt (Samuel Colt)",
+            "aliases": [
+                "Mitsubishi Colt",
+                "Colt"
+            ]
+        },
+        {
+            "question": "Hvilket bilmerke har en modell med samme navn som et standard papirark?",
+            "answer": "Audi A4",
+            "aliases": [
+                "A4  ",
+                "Audi"
+            ]
+        },
+        {
+            "question": "Denne halvville hesterasen fantes tidligere i California og Mexico. Et bilmerke har tatt navnet etter rasen?",
+            "answer": "Ford Mustang",
+            "aliases": [
+                "Mustang",
+                "Ford"
+            ]
+        },
+        {
+            "question": "Et bilmodell, et klesplagg, en tidligere olympisk øvelse der du ikke kan bruke venstrehånden. Hvilket ord?",
+            "answer": "Volkswagen",
+            "aliases": [
+                "Polo",
+                "Volkswagen Polo",
+                "VW Polo"
+            ]
+        },
+        {
+            "question": "Fra samme produsent som svaret over, hvilken bilmodell har samme navn som en vind som blåser fra subtropiske områder mot ekvator?",
+            "answer": "Volkswagen Passat",
+            "aliases": [
+                "Passat",
+                "VW Passat",
+                "Passat-vinden"
+            ]
+        }
+    ]
+}
