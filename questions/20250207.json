@@ -1,0 +1,34 @@
+{
+    "theme": "Español",
+    "questions": [
+        {
+            "question": "Hvilken deilig drink har et navn som betyr noe sånt som «hakket ananas» på spansk?",
+            "answer": "Piña colada",
+            "aliases": [
+                "Pina colada"
+            ]
+        },
+        {
+            "question": "På et lokalt språk heter den Rapa Nui, på spansk heter den Isla de Pascua, men hva kaller vi øya på norsk?",
+            "answer": "Påskeøya",
+            "aliases": [
+                "Påskeøyen"
+            ]
+        },
+        {
+            "question": "De fleste kan telle til tre på spansk: uno, dos, tres. Men hvordan sier man ti?",
+            "answer": "Diez"
+        },
+        {
+            "question": "Det heter Le Cri på fransk, El grito på spansk, Huuto på finsk og L'urlo på italiensk. Hvilket verdenskjent kunstverk?",
+            "answer": "Skrik"
+        },
+        {
+            "question": "Når en spanjol har lyst på en tortilla, hva er det han vil ha?",
+            "answer": "Omelett",
+            "aliases": [
+                "Spansk omelett"
+            ]
+        }
+    ]
+}
