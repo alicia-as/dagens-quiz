@@ -1,0 +1,46 @@
+{
+    "theme": "Kvinner i Bibelen",
+    "questions": [
+        {
+            "question": "Faren til Lea og Rakel var en seigmann. Hva het han?",
+            "answer": "Laban",
+            "aliases": [
+                "Laban (seigmann)"
+            ]
+        },
+        {
+            "question": "Hun var visstnok 90 år da hun fikk Isak. Med samme navn som mange av dagens småjenter, hva het hun?",
+            "answer": "Sara",
+            "aliases": [
+                "Sarah"
+            ]
+        },
+        {
+            "question": "Av alle bøkene i Bibelen er kun to tilegnet kvinner. Nevn en av dem!",
+            "answer": "Ester, Rut",
+            "aliases": [
+                "Rut",
+                "Ester og Rut",
+                "Rut og Ester",
+                "Ester",
+                "Rut og Ester"
+            ]
+        },
+        {
+            "question": "Sør-Afrikas største sangfugl døde i 2008. Hun hadde samme navn som storesøsteren til Moses og Aron. Fornavnet takk!",
+            "answer": "Miriam",
+            "aliases": [
+                "Miriam (Makeba)",
+                "Makeba"
+            ]
+        },
+        {
+            "question": "Sandra sang om henne for 40 år siden. Da han Jesus sto opp fra de døde, var hun den første han hilste på. Navnet takk!",
+            "answer": "Maria Magdalena",
+            "aliases": [
+                "Magdalena",
+                "Maria Magdalena (Sandra)",
+            ]
+        }
+    ]
+}
