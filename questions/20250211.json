@@ -1,0 +1,45 @@
+{
+    "theme": "Gjemt i navnet",
+    "questions": [
+        {
+            "question": "Hvilket musikkinstrument ligger dårlig skjult i navnet til Norges største boligbyggelag?",
+            "answer": "Obo (Obos)",
+            "aliases": [
+                "Obo",
+                "Oboe"
+            ]
+        },
+        {
+            "question": "Finnmarks største kommune målt i folketall har gjemt seg i navnet til et EU-land. Hva heter kommunen?",
+            "answer": "Alta (Malta)",
+            "aliases": [
+                "Alta",
+                "Malta"
+            ]
+        },
+        {
+            "question": "Hvilket bilmerke så dagens lys første gang i 1947, ti år etter at fabrikken med samme navn ble etablert? Bilmerket har gjemt seg i navnet på en av Norges mest kjente forfattere (1953-)",
+            "answer": "Saab (Lars Saabye Christensen)",
+            "aliases": [
+                "Saab",
+                "Lars Saabye Christensen"
+            ]
+        },
+        {
+            "question": "I hvilket asiatisk land med mye ørken bruker man «togrog» som betalingsmiddel? En kommune i Buskerud har gjemt seg i navnet.",
+            "answer": "Mongolia (Gol)",
+            "aliases": [
+                "Mongolia",
+                "Gol"
+            ]
+        },
+        {
+            "question": "Hvilket grunnstoff har gjemt seg i navnet til den nest ytterste planeten i solsystemet vårt?",
+            "answer": "Uran (Uranus)",
+            "aliases": [
+                "Uran",
+                "Uranus"
+            ]
+        }
+    ]
+}
