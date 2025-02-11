@@ -1,0 +1,36 @@
+{
+    "theme": "Kjente filmreplikker",
+    "questions": [
+        {
+            "question": "«Do I feel lucky? Well, do ya, punk?» Fra hvilken thriller fra 1971 kommer denne replikken?",
+            "answer": "Dirty Harry"
+        },
+        {
+            "question": "I hvilken film fra 1994 hører vi replikken «My Mama always said, 'Life was like a box of chocolates; you never know what you're gonna get'»?",
+            "answer": "Forrest Gump"
+        },
+        {
+            "question": "I hvilken film, oppkalt etter meget negativt helsepersonell, fra 1962 hører vi replikken «...Bond. James Bond» for første gang?",
+            "answer": "Dr. No",
+            "aliases": [
+                "Dr No",
+                "Doctor No"
+            ]
+        },
+        {
+            "question": "I hvilken film fra 1996, med Will Smith i hovedrollen, ble replikken «Oh my God, there's nothing left» oversatt på norsk til «Herregud, det er ingenting til venstre»?",
+            "answer": "Independence Day",
+            "aliases": [
+                "Independence Day (1996)"
+            ]
+        },
+        {
+            "question": "Karakteren Travis Bickle er kjent for replikken «You talkin' to me?» I hvilken film fra 1976?",
+            "answer": "Taxi Driver",
+            "aliases": [
+                "Taxi Driver (1976)",
+                "Taxi-sjåføren"
+            ]
+        }
+    ]
+}
