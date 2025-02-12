@@ -1,0 +1,35 @@
+{
+    "theme": "Svaret starter på 'C'",
+    "questions": [
+        {
+            "question": "I 1988 vant Sveits med en artist som siden er blitt en av verdens mest populære, og som forøvrig sang under OL i Paris i 2024. Husker du hva hun heter? ",
+            "answer": "Céline Dion",
+            "aliases": [
+                "Celine Dion",
+                "Celine"
+            ]
+        },
+        {
+            "question": "I hvilken lagidrett ble Thomas Ulsrud verdensmester i 2014?",
+            "answer": "Curling"
+        },
+        {
+            "question": "I hvilket langstrakt land finner vi vinregionene Casablanca og Aconcagua?",
+            "answer": "Chile"
+        },
+        {
+            "question": "Rick's Café, har de fleste hørt om, men i hvilken film, med samme navn som en stor afrikansk by, fra 1942 ble den berømt?",
+            "answer": "Casablanca",
+            "aliases": [
+                "Casa Blanca"
+            ]
+        },
+        {
+            "question": "Hvem fikk Oscar for beste mannlige hovedrolle i 2010 for rollen som kong George VI i filmen «Kongens tale»?",
+            "answer": "Colin Firth",
+            "aliases": [
+                "Colin"
+            ]
+        }
+    ]
+}
