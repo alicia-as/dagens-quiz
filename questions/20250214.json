@@ -1,0 +1,40 @@
+{
+    "theme": "Kjærlighet 💕",
+    "questions": [
+        {
+            "question": "Hvilken romantisk filmkomedie hadde blant andre Colin Firth, Hugh Grant, Keira Knightley, Emma Thompson, Billy Bob Thornton og Liam Neeson på rollelista?",
+            "answer": "Love Actually"
+        },
+        {
+            "question": "Hva heter øya i Sør-Trøndelag som har navn etter fruktbarhets- og kjærlighetsgudinnen i norrøn mytologi?",
+            "answer": "Frøya",
+            "aliases": [
+                "Frøya (øya)"
+            ]
+        },
+        {
+            "question": "Hvilket kystløst land har den egyptiske kjærlighetsgudinnen Isis gjemt i sitt navn?",
+            "answer": "Kirgisistan",
+            "aliases": [
+                "Kyrgyzstan",
+                "Kirgisistan",
+                "Kyrgyzsistan"
+            ]
+        },
+        {
+            "question": "Hvilken latinsk kjærlighetsgud blir til et feriemål ved Middelhavet dersom du leser navnet baklengs?",
+            "answer": "Amor (Roma)",
+            "aliases": [
+                "Amor",
+                "Roma"
+            ]
+        },
+        {
+            "question": "Hvilket produkt, som man får kjøpt i dagligvarebutikken, kan inneholde inspirerende kjærlighetsmeldinger som «Kyss meg og «Jeg elsker deg»?",
+            "answer": "Love Hearts",
+            "aliases": [
+                "Love Hearts (godteri)"
+            ]
+        }
+    ]
+}
