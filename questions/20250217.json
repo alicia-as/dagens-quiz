@@ -1,0 +1,46 @@
+{
+    "theme": "Havner",
+    "questions": [
+        {
+            "question": "Hvilken europeisk by med skadedyr i navnet, som ble ødelagt av Luftwaffe i mai 1940, hadde verdens travleste havn i siste halvdel av 1900-tallet?",
+            "answer": "Rotterdam"
+        },
+        {
+            "question": "Hva heter den største arbeidsplassen i Ullensaker kommune?",
+            "answer": "Oslo Lufthavn Gardermoen",
+            "aliases": [
+                "Gardermoen",
+                "Oslo Lufthavn",
+                "Oslo Lufthavn Gardermoen (OSL)",
+                "Gardermoen (OSL)",
+                "Oslo Lufthavn (OSL)",
+                "OSL",
+                "Oslo Airport",
+                "Oslo Airport Gardermoen"
+            ]
+        },
+        {
+            "question": "I årene 1854 til 1865 tok Canada imot 44.100 norske utvandrere, mens bare 520 reiste til New York. Hvilken havneby i Canada var anløpshavn?",
+            "answer": "Quebec",
+            "aliases": [
+                "Québec",
+                "Quebec City",
+                "Québec City"
+            ]
+        },
+        {
+            "question": "Hva heter Russlands største havneby ved Stillehavet?",
+            "answer": "Vladivostok",
+            "aliases": [
+                "Владивосток"
+            ]
+        },
+        {
+            "question": "Byen het tidligere Danzig, og er i dag Polens største havneby og et yndet(?) reisemål. Hva heter byen?",
+            "answer": "Gdańsk",
+            "aliases": [
+                "Gdansk"
+            ]
+        }
+    ]
+}
