@@ -1,0 +1,25 @@
+{
+    "theme": "Tredje største by",
+    "questions": [
+        {
+            "question": "Irlands tredje største by etter Dublin og Belfast har et navn som er mye brukt på flasker. Hva heter byen?",
+            "answer": "Cork"
+        },
+        {
+            "question": "Frankrikes tredje største by kan enkelt forveksles med et rovdyr, og er også landets gastronomiske sentrum. Hva heter den?",
+            "answer": "Lyon"
+        },
+        {
+            "question": "Noen kaller Skottlands tredje største by for Europas oljehovedstad. Hva heter byen?",
+            "answer": "Aberdeen"
+        },
+        {
+            "question": "Hva heter elven i Australia, med samme navn som landets tredje største by, som gikk kraftig over sine bredder på nyåret 2011?",
+            "answer": "Brisbane"
+        },
+        {
+            "question": "I hvilket EU-land er Varna den tredje største byen? Landet har 7 millioner innbyggere og har en under tredjedel av Norges areal.",
+            "answer": "Bulgaria"
+        }
+    ]
+}
