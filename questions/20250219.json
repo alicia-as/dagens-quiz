@@ -1,0 +1,41 @@
+{
+    "theme": "Dødelige sykdomer",
+    "questions": [
+        {
+            "question": "Hvilken dødelig sykdom, som blant annet tok livet av George Orwell, har også gått under betegnelsen «tæring» på folkemunne?",
+            "answer": "Tuberkulose",
+            "aliases": [
+                "Tuberculosis"
+            ]
+        },
+        {
+            "question": "Hvilken sykdom betyr på italiensk dårlig luft?",
+            "answer": "Malaria (mal aria)",
+            "aliases": [
+                "Malaria"
+            ]
+        },
+        {
+            "question": "Sykdommen med den latinske betegnelsen variola er meget farlig. Selv om folk av og til ønsker at du skal få den (ved hjelp av ganning) er sjansen i dag lik null, selv om «alle» har hatt en mildere variant. Hva heter sykdommen?",
+            "answer": "Kopper (Pokker ta deg!)",
+            "aliases": [
+                "Kopper"
+            ]
+        },
+        {
+            "question": "Med et navn som gjemmer seg i de fleste svenske selskap, hva kalles det livsfarlige viruset som første gang ble påvist i Den demokratiske republikken Kongo i 1976?",
+            "answer": "Ebola (AktiEBOLAg)",
+            "aliases": [
+                "Ebola-viruset",
+                "Ebola"
+            ]
+        },
+        {
+            "question": "Med et navn som ofte brukes i forbindelse med dilemmaer, hvilken sykdom blir forårsaket av bakterien vibrio cholerae?",
+            "answer": "Kolera (Pest eller kolera)",
+            "aliases": [
+                "Kolera"
+            ]
+        }
+    ]
+}
