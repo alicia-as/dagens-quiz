@@ -1,0 +1,50 @@
+{
+    "theme": "Olympiske leker",
+    "questions": [
+        {
+            "question": "Vinter-OL i 2026 skal arrangeres i to byer i samme land. Den ene byen heter Cortina d'Ampezzo, hva heter den andre byen, som er en smule større?",
+            "answer": "Milano",
+            "aliases": [
+                "Milano (Italia)",
+                "Milan"
+            ]
+        },
+        {
+            "question": "Richard Nixon innleder «Ping-Pong-diplomatiet. NRKs prøvebilde kommer i farger etter protester fra enkelte politiske partier. De olympiske leker blir husket for «Svart September». Hvilket år?",
+            "answer": "1972  "
+        },
+        {
+            "question": "Arrangøren for lekene i 1984 vender i 2028 tilbake for å arrangere Sommer-OL for tredje gang. Hvilken by?",
+            "answer": "Los Angeles",
+            "aliases": [
+                "Los Angeles (USA)",
+                "LA"
+            ]
+        },
+        {
+            "question": "I 2010 var Vancouver vert for Vinter-OL, og Norge tok 9 gull. I hvilken canadisk provins ligger byen?",
+            "answer": "British Columbia",
+            "aliases": [
+                "British Columbia (Canada)",
+                "BC"
+            ]
+        },
+        {
+            "question": "Norges flaggbærer i sommer-OL i 1964 er fremdeles en av landets mest profilerte personer. I en alder av 87 (snart 88!) er han fremdeles ikke lei jobben som han har hatt i snart 34 år. Navnet takk!",
+            "answer": "Harald V",
+            "aliases": [
+                "Kong Harald",
+                "Kong Harald V",
+                "Kong Harald 5",
+                "Kong Harald 5.",
+                "Harald 5",
+                "Harald Rex",
+                "Harald V (Norge)",
+                "Kong Harald V (Norge)",
+                "Kong Harald 5 (Norge)",
+                "Kong Harald 5. (Norge)",
+                "Harald 5 (Norge)"
+            ]
+        }
+    ]
+}
