@@ -6,6 +6,8 @@ import levenshtein from "js-levenshtein";
 import { useRouter, useSearchParams } from "next/navigation";
 import ClipboardModal from "../ClipboardModal";
 import Image from "next/image";
+import WeeklySummary from "./WeeklySummary";
+import { isFriday } from "../utils";
 
 const LEVENSHTEIN_THRESHOLD = 2; // Adjust this value as needed
 
@@ -136,6 +138,11 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     // Save answers to local storage
     // if (process.env.NODE_ENV !== "development") {
     localStorage.setItem(answersKey, JSON.stringify(userAnswers));
+
+    // Store correct/incorrect classification
+    const correctKey = `${dateKey}-correct`;
+    const correctArray = questions.map((_, index) => isCorrect(index));
+    localStorage.setItem(correctKey, JSON.stringify(correctArray));
     // }
     setIsSubmitted(true);
 
@@ -326,6 +333,10 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
           </p>
           <ScoreBoxes average={averageCorrect} />
         </div>
+      )}
+
+      {isSubmitted && isFriday(new Date()) && (
+        <WeeklySummary apiUrl="/api/weeklySummary" />
       )}
       {isSubmitted && (
         <button
