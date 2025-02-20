@@ -36,7 +36,8 @@ const WeeklySummary: React.FC<WeeklySummaryProps> = ({ apiUrl }) => {
     const fetchWeeklySummary = async () => {
       try {
         const response = await fetch(apiUrl);
-        const data = await response.json();
+        const data: { dailyAverageStats: Record<string, number> } =
+          await response.json();
 
         const dailyUserStats = getUserDailyCorrect(); // Get user results from localStorage
         const chartData = Object.entries(data.dailyAverageStats).map(
@@ -65,7 +66,7 @@ const WeeklySummary: React.FC<WeeklySummaryProps> = ({ apiUrl }) => {
         // Calculate server weekly average (average of daily averages)
         const serverAvg =
           Object.values(data.dailyAverageStats).reduce(
-            (sum, val) => sum + val,
+            (sum: number, val: number) => sum + val,
             0
           ) / Object.values(data.dailyAverageStats).length;
         setWeeklyAverage(serverAvg);
