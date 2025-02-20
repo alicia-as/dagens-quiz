@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 
 import ScoreBoxes from "../ScoreBoxes";
 import levenshtein from "js-levenshtein";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import ClipboardModal from "../ClipboardModal";
 import Image from "next/image";
 
@@ -37,6 +37,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
   const [nextDate, setNextDate] = useState<string | null>(null);
 
   const router = useRouter();
+  const searchParams = useSearchParams();
 
   useEffect(() => {
     // Fetch questions from your API
@@ -197,28 +198,32 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
   };
 
   const handleShare = () => {
-    // Check answers and generate result string
+    // Determine the date to include in the URL
+    const today = new Date().toISOString().split("T")[0];
+    const dateFromURL = searchParams?.get("date");
+
+    const quizDateToUse = quizDate || dateFromURL || today; // Use quizDate prop, then URL param, else today
+
+    // Generate result string
     const resultString = questions
-      .map((question, index) => {
-        return isCorrect(index) ? "🟩" : "🟥"; // Replace '🟥' with other emojis as needed
-      })
+      .map((_, index) => (isCorrect(index) ? "🟩" : "🟥"))
       .join("");
+
+    // Construct URL with date
+    const shareableURL = `https://www.femkjappe.no${
+      quizDateToUse !== today ? `?date=${quizDateToUse}` : ""
+    }`;
 
     // Copy result string and link to clipboard
     navigator.clipboard
       .writeText(
-        resultString +
-          "\nSpill fem kjappe på: https://www.femkjappe.no." +
-          (theme ? ` Dagens tema: ${theme}` : "")
+        `${resultString}\nSpill fem kjappe på: ${shareableURL}${
+          theme ? ` Dagens tema: ${theme}` : ""
+        }`
       )
       .then(
-        () => {
-          // Show confirmation message
-          setIsModalOpen(true);
-        },
-        (err) => {
-          console.error("Could not copy text: ", err);
-        }
+        () => setIsModalOpen(true),
+        (err) => console.error("Could not copy text: ", err)
       );
   };
 
