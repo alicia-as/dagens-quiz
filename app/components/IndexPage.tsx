@@ -199,8 +199,8 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
 
   const handleShare = () => {
     // Determine the date to include in the URL
-    const today = new Date().toISOString().split("T")[0]; // Format: YYYY-MM-DD
-    const dateFromURL = searchParams.get("date"); // <-- Get the "date" query parameter
+    const today = new Date().toISOString().split("T")[0];
+    const dateFromURL = searchParams?.get("date");
 
     const quizDateToUse = quizDate || dateFromURL || today; // Use quizDate prop, then URL param, else today
 
