@@ -1,0 +1,46 @@
+{
+    "theme": "Svaret starter på 'K'",
+    "questions": [
+        {
+            "question": "Til hvilket sjøområde grenser både Turkmenistan og Kasakhstan?",
+            "answer": "Kaspihavet",
+            "aliases": [
+                "Kaspiske hav",
+                "Det kaspiske hav",
+                "Kaspihavet (hav)",
+                "Caspihavet",
+                "Det caspiske hav"
+            ]
+        },
+        {
+            "question": "Hvilket av verdens syv underverk ble fullstendig ødelagt av et jordskjelv i 226 f.Kr.?",
+            "answer": "Kolossen på Rhodos",
+            "aliases": [
+                "Rhodos-kolossen",
+                "Rhodoskolossen",
+                "Kolossen",
+                "Colossus of Rhodes"
+            ]
+        },
+        {
+            "question": "Afrikas høyeste fjell er et populært turistmål, og har en høyde på 5 895 meter over havet. Hva heter fjellet?",
+            "answer": "Kilimanjaro"
+        },
+        {
+            "question": "I hvilken by finner vi supporterklubben «Menigheden»?",
+            "answer": "Kristiansand (Start)",
+            "aliases": [
+                "Start",
+                "Kristiansand"
+            ]
+        },
+        {
+            "question": "Hvilken senere statsminister var statsråd i den tre uker lange Lyng-regjeringen i 1963?",
+            "answer": "Kåre Willoch",
+            "aliases": [
+                "Kåre",
+                "Willoch"
+            ]
+        }
+    ]
+}
