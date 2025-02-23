@@ -1,0 +1,63 @@
+{
+    "theme": "Født i dag (24. februar)",
+    "questions": [
+        {
+            "question": "Vår tidligere statsminister Erna Solberg har bursdag i dag. Hvor gammel blir hun? (+/- 2 år)",
+            "answer": "Hun blir 64 år",
+            "aliases": [
+                "64  ",
+                "63  ",
+                "65  ",
+                "62  ",
+                "66  ",
+                "64 år  ",
+                "63 år  ",
+                "65 år  ",
+                "62 år  ",
+                "66 år  "
+            ]
+        },
+        {
+            "question": "En profilert norsk komiker er også jubilant i dag - han fyller 50 år. Han er best kjent for to programmer, hvorav det ene har tatt sitt navn fra en inngangshall og det andre fra en eksotisk frukt. Navnet takk!",
+            "answer": "Steinar Sagen (Radioresepsjonen, Papaya)",
+            "aliases": [
+                "Steinar Sagen",
+                "Sagen",
+                "Radioresepsjonen",
+                "Papaya"
+            ]
+        },
+        {
+            "question": "Han var med på å grunnlegge et av verdens største selskaper, og ville fylt 70 år i dag. Han døde i 2011. Hvem snakker vi om?",
+            "answer": "Steve Jobs",
+            "aliases": [
+                "Jobs",
+                "Steve"
+            ]
+        },
+        {
+            "question": "Sid Meier fyller 69 år i dag. Hvilket spillserie, som nylig kom ut med det 7. spillet, er han mest kjent for?",
+            "answer": "Civilization",
+            "aliases": [
+                "Civ",
+                "Civilization-serien",
+                "Civ 5",
+                "Civ 6",
+                "Civ 7",
+                "Sid Meier's Civilization",
+                "Sid Meier's Civilization-serien",
+                "Sid Meier's Civ",
+                "Sid Meier's Civ-serien"
+            ]
+        },
+        {
+            "question": "En styrtrik amerikaner har også bursdag i dag, og fyller 48 år - nemlig Floyd Mayweather Jr. I hvilken sport har han markert seg?",
+            "answer": "Boksing",
+            "aliases": [
+                "Boks",
+                "Boksing (sport)",
+                "Boksing (idrett)"
+            ]
+        }
+    ]
+}
