@@ -1,0 +1,47 @@
+{
+    "theme": "Klær 👖",
+    "questions": [
+        {
+            "question": "Hvilket amerikansk selskap, stiftet i 1977, markedsfører bikinier, nattkjoler og undertøy og har hatt de fleste toppmodellene i sin englekatalog?",
+            "answer": "Victoria's Secret",
+            "aliases": [
+                "Victorias Secret",
+                "Victorias Secrets"
+            ]
+        },
+        {
+            "question": "Hvilket australsk klesmerke har samme artige navn som et isolert elveleie?",
+            "answer": "Billabong",
+            "aliases": [
+                "Billybong",
+                "Billy bong"
+            ]
+        },
+        {
+            "question": "Hvilket britisk skomerke kalles også «Docs»?",
+            "answer": "Dr. Martens",
+            "aliases": [
+                "Dr Martens",
+                "Doctor Martens",
+                "Doctor Martins",
+                "Dr Martins"
+            ]
+        },
+        {
+            "question": "Hvilket skomerke har fått navn etter nymfen i gresk mytologi som elsket sin egen stemme?",
+            "answer": "Ecco",
+            "aliases": [
+                "Ekko",
+                "Eco"
+            ]
+        },
+        {
+            "question": "Hvilket italiensk klesmerke har et nakent par som logo, og har samme navn som en gresk bokstav?",
+            "answer": "Kappa",
+            "aliases": [
+                "Capa",
+                "Kapa"
+            ]
+        }
+    ]
+}
