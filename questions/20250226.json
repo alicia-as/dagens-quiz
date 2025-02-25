@@ -1,0 +1,44 @@
+{
+    "theme": "Vin & Druer 🍷🍇",
+    "questions": [
+        {
+            "question": "Hvilken mørk druesort, noe navnet antyder, benyttes i de fleste røde Burgund-viner?",
+            "answer": "Pinot Noir"
+        },
+        {
+            "question": "Fra hvilket land kommer vin fra Piemonte?",
+            "answer": "Italia",
+            "aliases": [
+                "Italy"
+            ]
+        },
+        {
+            "question": "Hvilken styrtrik familie med tysk/jødisk bakgrunn har gitt navn til en av verdens dyreste rødviner?",
+            "answer": "Rothschild (Château Lafite Rothschild)",
+            "aliases": [
+                "Rotschild",
+                "Rotshild"
+            ]
+        },
+        {
+            "question": "Den sørligste delen av Burgund i Frankrike har gitt navn til rødvinen som selges i store mengder når den slippes den tredje torsdagen i november. Hva heter den?",
+            "answer": "Beaujolais Nouveau",
+            "aliases": [
+                "Beaujolais",
+                "Beaujoleau",
+                "Besjolet",
+                "Beaujolais Noveau",
+                "Beaujolais Noveaux",
+                "Beaujolas"
+            ]
+        },
+        {
+            "question": "Hvilken tysk vindrue fikk sitt navn nedskrevet allerede på 1500-tallet og regnes blant de ypperste druene til hvitvinsproduksjon?",
+            "answer": "Riesling",
+            "aliases": [
+                "Risling",
+                "Rislin"
+            ]
+        }
+    ]
+}
