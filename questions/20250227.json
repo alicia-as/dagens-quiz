@@ -1,0 +1,38 @@
+{
+    "theme": "Andre verdenskrig",
+    "questions": [
+        {
+            "question": "Hva het den tyske ørkenreven som måtte gi tapt i slaget ved El Alamein i november 1942?",
+            "answer": "Erwin Rommel",
+            "aliases": [
+                "Rommel",
+                "Erwin",
+                "Generalfeltmarskalk Erwin Rommel",
+                "Generalfeltmarskalk Rommel"
+            ]
+        },
+        {
+            "question": "Agnes Kittelsen spiller rollen som Tikken Lindebrække. I hvilken biografisk film fra 2008?",
+            "answer": "Max Manus",
+            "aliases": [
+                "Maks Manus"
+            ]
+        },
+        {
+            "question": "I hvilken liten fransk by holdt Philippe Pétains tyskvennlige regjering til under andre verdenskrig?",
+            "answer": "Vichy",
+            "aliases": [
+                "Vichy-regimet",
+                "Vichy-regjeringen"
+            ]
+        },
+        {
+            "question": "USA ble med i krigen etter angrepet på Pearl Harbor. Hvilket år skjedde det?",
+            "answer": "1941  "
+        },
+        {
+            "question": "To atombomber førte til andre verdenskrigs slutt. Hvilken måned i 1945 ble bombene sluppet?",
+            "answer": "August"
+        }
+    ]
+}
