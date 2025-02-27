@@ -1,0 +1,44 @@
+{
+    "theme": "Svaret begynner på 'F'",
+    "questions": [
+        {
+            "question": "For hvilken internasjonal organisasjon med noe frynsete rykte er Giovanni Vincenzo Infantino president?",
+            "answer": "FIFA",
+            "aliases": [
+                "Federation Internationale de Football Association",
+                "Fotballforbundet",
+                "Fotballforbundet (FIFA)"
+            ]
+        },
+        {
+            "question": "Med et pusete fornavn, hva heter østerrikeren som satte verdensrekord i fallskjermhopp fra stor høyde i 2012, en rekord som ble slått i 2014?",
+            "answer": "Felix Baumgartner",
+            "aliases": [
+                "Baumgartner",
+                "Felix"
+            ]
+        },
+        {
+            "question": "Gitt at vi skal fram til en hovedstad og eneste opplysningen du får er bokstaven V i alfabetet. Svaret er da Baku siden 'V' kommer bak 'U' i alfabetet. Så til spørsmålet: Vi skal fram til en norsk by og eneste opplysningen du får er bokstaven 'C'. Hvilken by er det snakk om?",
+            "answer": "Førde (før D)",
+            "aliases": [
+                "Førde"
+            ]
+        },
+        {
+            "question": "Det første hotellet i Las Vegas fikk navn etter en vakker fugl. Hvilken?",
+            "answer": "Flamingo",
+            "aliases": [
+                "Flamingo Hotel",
+                "Flamingo-hotellet"
+            ]
+        },
+        {
+            "question": "Ski-VM foregår i disse dager i Trondheim. Hva heter den svenske byen som har arrangert ski-VM fire ganger (og skal arrangere for femte gang i 2027)?",
+            "answer": "Falun",
+            "aliases": [
+                "Falun (Sverige)"
+            ]
+        }
+    ]
+}
