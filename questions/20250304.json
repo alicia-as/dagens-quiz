@@ -1,0 +1,44 @@
+{
+    "theme": "Diktatorer",
+    "questions": [
+        {
+            "question": "Det var ikke mange som gråt da den revolusjonære Saloth Sar døde i 1998, nær 70 år gammel. Under hvilket navn ble han bedre kjent?",
+            "answer": "Pol Pot",
+            "aliases": [
+                "Polpot",
+                "Pål Pott",
+                "Pål Pot"
+            ]
+        },
+        {
+            "question": "Hva het den italienske diktatoren Mussolini til fornavn?",
+            "answer": "Benito",
+            "aliases": [
+                "Benito Mussolini"
+            ]
+        },
+        {
+            "question": "Hvilken grusom afrikansk diktator med palindromisk fornavn døde i eksil i 2003 i Jeddah, Saudi-Arabia?",
+            "answer": "Idi Amin",
+            "aliases": [
+                "Idi"
+            ]
+        },
+        {
+            "question": "Britene Sacha Baron Cohen og Charlie Chaplin har laget hver sin film med samme tittel. Hvilken?",
+            "answer": "Diktatoren",
+            "aliases": [
+                "The Dictator",
+                "The Great Dictator"
+            ]
+        },
+        {
+            "question": "«En enkels død er en tragedie, tusen døde er statistikk.» Hvilken diktator, født i Georgia, sa dette?",
+            "answer": "Josef Stalin",
+            "aliases": [
+                "Stalin",
+                "Josef"
+            ]
+        }
+    ]
+}
