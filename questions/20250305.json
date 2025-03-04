@@ -1,0 +1,47 @@
+{
+    "theme": "Brettspill",
+    "questions": [
+        {
+            "question": "I hvilket snart 70 år gammelt brettspill har Sør-Amerika kun fire land? ",
+            "answer": "Risk (Argentina, Brasil, Peru og Venezuela)",
+            "aliases": [
+                "Risk"
+            ]
+        },
+        {
+            "question": "Backgammon er et av verdens eldste brettspill. Hvor mange brikker starter hver spiller med?",
+            "answer": "15 (30 totalt)",
+            "aliases": [
+                "15  ",
+                "Femten",
+                "30  ",
+                "Tretti"
+            ]
+        },
+        {
+            "question": "Hvilken bokstav er den som gir flest poeng i den norske versjonen av brettspillet Scrabble?",
+            "answer": "'C', som gir 10 poeng",
+            "aliases": [
+                "C  ",
+                "'C' "
+            ]
+        },
+        {
+            "question": "Hvilket skuespill av William Shakespeare, der hovedpersonen dreper sin kone, er også navnet på et brettspill som alltid ønsker deg velkommen til å spille?",
+            "answer": "Othello (hello!)",
+            "aliases": [
+                "Othello",
+                "Hello"
+            ]
+        },
+        {
+            "question": "I hvilket spill, der man bruker et sjakkbrett, har hver spiller tolv runde og flate brikker som kun kan gå på skrå? Når engelskmenn taper dette spillet, sier de ofte spillets navn i frustrasjon!",
+            "answer": "Dam (Damn!)",
+            "aliases": [
+                "Draughts",
+                "Checkers",
+                "Dam"
+            ]
+        }
+    ]
+}
