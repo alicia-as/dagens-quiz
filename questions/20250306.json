@@ -1,0 +1,47 @@
+{
+    "theme": "Flagg 🇳🇴",
+    "questions": [
+        {
+            "question": "Flagget til Vatikanstaten har samme redskap avbildet som kommunevåpenet til Drammen. Hvilket redskap?",
+            "answer": "Nøkkel",
+            "aliases": [
+                "Nøkler"
+            ]
+        },
+        {
+            "question": "Hvilket europeisk flagg er to deler grønt og tre deler rødt i bredden, belagt med riksvåpenet imellom?",
+            "answer": "Portugals flagg",
+            "aliases": [
+                "Portugal",
+                "Flagg Portugal",
+                "Portugals flagg",
+                "Flagget til Portugal",
+                "Flagg til Portugal"
+            ]
+        },
+        {
+            "question": "Hvilken fugl er (selvsagt) avbildet i Ecuadors flagg? Hvis du får denne fuglen på golfbanen er du en av svært få i verdenshistorien!",
+            "answer": "Kondor",
+            "aliases": [
+                "Andes-kondor",
+                "Kondor",
+                "Andeskondor"
+            ]
+        },
+        {
+            "question": "Indias høyeste fjell, Kanchenjunga (8586 moh.), grenser til et annet land der det er det nest høyeste fjellet. Hva heter det lille landet, med det rare flagget?",
+            "answer": "Nepal"
+        },
+        {
+            "question": "Hvilket land har siden 1979 teksten «Gud er stor» innskrevet 22 ganger i flagget?",
+            "answer": "Iran",
+            "aliases": [
+                "Iran",
+                "Flagg Iran",
+                "Irans flagg",
+                "Flagget til Iran",
+                "Flagg til Iran"
+            ]
+        }
+    ]
+}
