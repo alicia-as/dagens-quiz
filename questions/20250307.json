@@ -1,0 +1,41 @@
+{
+    "theme": "Sjokolade",
+    "questions": [
+        {
+            "question": "Hva het sjokoladeprodusenten med et storbylignende navn, som fusjonerte med Nidar i 1980?",
+            "answer": "Bergene",
+            "aliases": [
+                "Bergene",
+                "Bergene sjokoladefabrikk",
+                "Bergene sjokolade"
+            ]
+        },
+        {
+            "question": "Storbritannias minste oversjøiske territorium, Pitcarin Island, er en øy med rundt 50 innbyggere og beliggende midt i Stillehavet. Hvilken nedsunket farkost ved øya har gitt navn til en sjokolade?",
+            "answer": "Bounty"
+        },
+        {
+            "question": "Med et fremmedord, hva kalles en sjokolade som er blandet med opphakkede nøtter og brunet sukker?",
+            "answer": "Nougat",
+            "aliases": [
+                "Nougat",
+                "Nougatsjokolade"
+            ]
+        },
+        {
+            "question": "Hva kalles sleden (fra russisk) som dras av tre hester og har samme navn som en sjokolade fra Nidar?",
+            "answer": "Troika",
+            "aliases": [
+                "Troika",
+                "Troikasjokolade"
+            ]
+        },
+        {
+            "question": "Hva kalles den tynne mintsjokoladen, som kun kan spises på kveldstid, produseres av sveitsiske Nestlé?",
+            "answer": "After Eight",
+            "aliases": [
+                "After 8"
+            ]
+        }
+    ]
+}
