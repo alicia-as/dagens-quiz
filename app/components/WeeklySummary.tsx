@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from "react";
+import { formatDateToYYYYMMDD, tryDateFormats } from "../utils";
+
 import {
   BarChart,
   Bar,
@@ -40,12 +42,14 @@ const WeeklySummary: React.FC<WeeklySummaryProps> = ({ apiUrl }) => {
           await response.json();
 
         const dailyUserStats = getUserDailyCorrect(); // Get user results from localStorage
+
         const chartData = Object.entries(data.dailyAverageStats).map(
-          ([date, average], index) => {
-            const localDate = formatDateToLocal(date); // Convert server date to match localStorage
+          ([dateKey, average], index) => {
+            const [year, month, day] = dateKey.split("-");
+            const formattedDateKey = `${year}${month}${day}`;
             return {
               day: WEEK_DAYS[index],
-              userCorrect: dailyUserStats[localDate] ?? 0,
+              userCorrect: dailyUserStats[formattedDateKey] ?? 0,
               averageCorrect: average ?? 0,
             };
           }
@@ -89,37 +93,30 @@ const WeeklySummary: React.FC<WeeklySummaryProps> = ({ apiUrl }) => {
     const dailyUserStats: Record<string, number> = {};
     const today = new Date();
 
-    // Go back 7 days to include weekends
     for (let i = 6; i >= 0; i--) {
       const date = new Date(today);
       date.setDate(today.getDate() - i);
 
-      const formattedDate = `${date.getDate().toString().padStart(2, "0")}/${(
-        date.getMonth() + 1
-      )
-        .toString()
-        .padStart(2, "0")}/${date.getFullYear()}`;
+      const possibleFormats = tryDateFormats(date);
+      let found = false;
+      let correctCount = 0;
 
-      const key = `${formattedDate}-correct`;
-      const correctArray = localStorage.getItem(key);
-
-      if (correctArray) {
-        const parsed = JSON.parse(correctArray) as boolean[];
-        dailyUserStats[formattedDate] = parsed.filter(
-          (isCorrect) => isCorrect
-        ).length;
-      } else {
-        dailyUserStats[formattedDate] = 0;
+      for (const formattedDate of possibleFormats) {
+        const key = `${formattedDate}-correct`;
+        const correctArray = localStorage.getItem(key);
+        if (correctArray) {
+          const parsed = JSON.parse(correctArray) as boolean[];
+          correctCount = parsed.filter((isCorrect) => isCorrect).length;
+          found = true;
+          break;
+        }
       }
+
+      const dateKey = formatDateToYYYYMMDD(date);
+      dailyUserStats[dateKey] = found ? correctCount : 0;
     }
 
     return dailyUserStats;
-  };
-
-  const formatDateToLocal = (date: string) => {
-    if (!date) return "";
-    const [year, month, day] = date.split("-");
-    return `${day}/${month}/${year}`; // Convert YYYY-MM-DD to DD/MM/YYYY
   };
 
   const calculateStreak = (dailyUserStats: Record<string, number>) => {
