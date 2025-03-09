@@ -1,0 +1,39 @@
+{
+    "theme": "Feriøyer i Middelhavet",
+    "questions": [
+        {
+            "question": "I hvilken fransk region heter hovedstaden Ajaccio?",
+            "answer": "Korsika",
+            "aliases": [
+                "Corsica"
+            ]
+        },
+        {
+            "question": "Hva heter ferieøya som ligger syd for Napolibukten, og som har gitt navn til en bilmodell og en bitteliten posejuice?",
+            "answer": "Capri (-Sun)",
+            "aliases": [
+                "Capri Sonne",
+                "Capri",
+                "Capri-Sun"
+            ]
+        },
+        {
+            "question": "Tennisspilleren Rafael Nadal er født på en ferieøy i middelhavet som har fått sitt navn fordi den er stor. Hvilken øy?",
+            "answer": "Mallorca",
+            "aliases": [
+                "Majorca"
+            ]
+        },
+        {
+            "question": "Hvilken partyøy i middelhavet har samme navn som et av verdens mest brukte operativsystemer?",
+            "answer": "Ios (iOS)",
+            "aliases": [
+                "Ios"
+            ]
+        },
+        {
+            "question": "Dersom du tar flyet til Larnaca, hvilken ferieøy er du havnet på da?",
+            "answer": "Kypros"
+        }
+    ]
+}
