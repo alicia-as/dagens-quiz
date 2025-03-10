@@ -1,0 +1,43 @@
+{
+    "theme": "Champions League",
+    "questions": [
+        {
+            "question": "Hvilken europeisk fotballklubb, som tapte finalen i Champions League i 2004, ligger utenfor EU, men spiller likevel alle sine bortekamper i EU?",
+            "answer": "Monaco",
+            "aliases": [
+                "AS Monaco",
+                "Monaco"
+            ]
+        },
+        {
+            "question": "Den franske klubben som i kveld møter Liverpool på bortebane har til gode å vinne Champions League, selv om de har hatt mange stjernespillere. Hvilken klubb er dette?",
+            "answer": "Paris Saint-Germain",
+            "aliases": [
+                "PSG"
+            ]
+        },
+        {
+            "question": "Fjorårets Champions League-vinner har også vunnet mesterskapet flest ganger. Hvilken klubb er det snakk om?",
+            "answer": "Real Madrid",
+            "aliases": [
+                "Real Madrid CF",
+                "Real Madrid"
+            ]
+        },
+        {
+            "question": "Årets finale spilles i en by som arrangerte Sommer-OL i 1972, som også ble kjent for et terrorangrep. Hvilken by?",
+            "answer": "München",
+            "aliases": [
+                "Munich"
+            ]
+        },
+        {
+            "question": "Av nederlandske lag er det tre Champions League-vinnere. To av disse er Feyenoord og PSV Eindhoven. Med et navn som kan gjøre kjøkkenet rent, hvem har vunnet hele fire ganger?",
+            "answer": "Ajax",
+            "aliases": [
+                "AFC Ajax",
+                "Ajax"
+            ]
+        }
+    ]
+}
