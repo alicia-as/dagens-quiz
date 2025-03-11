@@ -1,0 +1,40 @@
+{
+    "theme": "Neste i rekken...",
+    "questions": [
+        {
+            "question": "Alfa, Beta, Gamma, Delta, ... Hva er neste bokstav i den greske alfabetet?",
+            "answer": "Epsilon",
+            "aliases": [
+                "ε  ",
+                "Epsilon"
+            ]
+        },
+        {
+            "question": "Alfa, Bravo, Charlie, Delta, ... Hva er neste bokstav i det internasjonale fonetiske alfabetet?",
+            "answer": "Echo",
+            "aliases": [
+                "Ekko"
+            ]
+        },
+        {
+            "question": "1, 1, 2, 3, 5, 8, 13, ... Hva er neste tall i denne tallrekken?",
+            "answer": "21. Dette kalles Fibonacci-tallrekken, hvor hvert tall er summen av de to foregående tallene.",
+            "aliases": [
+                "21  ",
+                "21.  "
+            ]
+        },
+        {
+            "question": "Connery, Lazenby, Moore, Dalton, Brosnan, ... Hvilken skuespiller er neste i rekken?",
+            "answer": "Daniel Craig - de har alle spilt James Bond i en rekke filmer.",
+            "aliases": [
+                "Daniel Craig",
+                "Craig"
+            ]
+        },
+        {
+            "question": "Do, Re, Mi, Fa, Sol, ... Hva er neste tone i en diatonisk skala?",
+            "answer": "La  "
+        }
+    ]
+}
