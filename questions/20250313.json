@@ -1,0 +1,46 @@
+{
+    "theme": "Griseprat 🐷",
+    "questions": [
+        {
+            "question": "Hvilken norsk konsertscene har samme navn som et slott og står passende nok under beskyttelse av Hans Majestet Den Gyldne Gris?",
+            "answer": "Chateu Neuf (Nøff)",
+            "aliases": [
+                "Chateau Neuf",
+                "Chateau Nøff"
+            ]
+        },
+        {
+            "question": "Hvilken keiser deler navn med sjefsgrisen i George Orwells roman «Animal Farm»?",
+            "answer": "Napoleon",
+            "aliases": [
+                "Napoleon Bonaparte"
+            ]
+        },
+        {
+            "question": "Hvilken luring av en musiker og «grisete» sanger har samme fornavn som et av lagene i OBOS-ligaen?",
+            "answer": "Odd Nordstoga (Grisen står og hyler)",
+            "aliases": [
+                "Odd Nordstoga",
+                "Odd ",
+                "Odds BK",
+                "Odds Ballklubb",
+                "Odd Grenland"
+            ]
+        },
+        {
+            "question": "Under hvilket navn er området «Bahía de Cochinos» på Cuba bedre kjent på norsk?",
+            "answer": "Grisebukten",
+            "aliases": [
+                "Grisebukta"
+            ]
+        },
+        {
+            "question": "Hvilken dans som oppsto i Böhmen på 1830-tallet har gitt navn til en jordbærsort og noen søte små griser?",
+            "answer": "Polka",
+            "aliases": [
+                "Polka-dans",
+                "Polkadans"
+            ]
+        }
+    ]
+}
