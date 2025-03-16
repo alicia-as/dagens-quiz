@@ -1,0 +1,42 @@
+{
+    "theme": "Tomater 🍅",
+    "questions": [
+        {
+            "question": "Hva kalles vegetarsuppen fra Andalucía, med tomat som en viktig ingrediens, som serveres kald?",
+            "answer": "Gazpacho",
+            "aliases": [
+                "Gazpacho-suppe"
+            ]
+        },
+        {
+            "question": "Hvilken kjærlighetsgudinne i norrøn mytologi har ansvar for epler som gir evig ungdom, men forbindes likevel med tomater?",
+            "answer": "Idun (kechup)",
+            "aliases": [
+                "Idun",
+                "Idunn"
+            ]
+        },
+        {
+            "question": "Hvilken deilig saus blir til choronsaus dersom du tilsetter tomatpuré?",
+            "answer": "Béarnaise",
+            "aliases": [
+                "Béarnaisesaus",
+                "Béarnaise-saus"
+            ]
+        },
+        {
+            "question": "Hvem sto for det krevende arbeidet med «Campbell's Tomato Juice Box» i 1964?",
+            "answer": "Andy Warhol",
+            "aliases": [
+                "Warhol"
+            ]
+        },
+        {
+            "question": "Hva heter jentegruppa fra Spania som består av døtrene til Juan Munoz, som går under kallenavnet El Tomate?",
+            "answer": "Las Ketchup",
+            "aliases": [
+                "Las Ketchups"
+            ]
+        }
+    ]
+}
