@@ -1,0 +1,43 @@
+{
+    "theme": "Idrettsutøvere med eget klesmerke",
+    "questions": [
+        {
+            "question": "Mange menn har han på seg hver dag - hvem ble kåret til tidenes beste svenske idrettsutøver i 2000?",
+            "answer": "Bjørn Borg"
+        },
+        {
+            "question": "Vilde Falck-Ytter er nok ikke så kjent som sin bedre halvdel, men i likhet med sin mann har hun en betydelig formue. Hva heter ektemanne, som har lånt sitt etternavn til et klesmerke man enkelt kan få øye på i Oslomarka?",
+            "answer": "Bjørn Dæhlie",
+            "aliases": [
+                "Dæhlie"
+            ]
+        },
+        {
+            "question": "Hva het briten som vant Wimbledon tre ganger på 30-tallet og som startet sitt eget klesmerke på 50-tallet hvor logoen er en laurbærkrans?",
+            "answer": "Fred Perry",
+            "aliases": [
+                "Perry"
+            ]
+        },
+        {
+            "question": "Hva het franskmannen som vant Wimbledon tre ganger på 20-tallet og som lanserte sitt eget klesmerke i 1929, denne gangen med et rovdyr i logoen?",
+            "answer": "René Lacoste",
+            "aliases": [
+                "Lacoste"
+            ]
+        },
+        {
+            "question": "Petter Northug har heller ikke klart å motstå fristelsen til å lansere sitt eget klesmerke. I tillegg til sokker, hva er hovedproduktet til Northug?",
+            "answer": "Briller (Skibriller, solbriller, hverdagsbriller)",
+            "aliases": [
+                "Solbriller",
+                "Skibriller",
+                "Hverdagsbriller",
+                "Briller",
+                "Sunglasses",
+                "Goggles",
+                "Eyewear"
+            ]
+        }
+    ]
+}
