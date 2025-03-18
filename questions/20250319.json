@@ -1,0 +1,39 @@
+{
+    "theme": "Skandale!",
+    "questions": [
+        {
+            "question": "Hvilket selskap, som ble kåret til «USAs mest innovative selskap» seks år på rad, gikk konkurs i 2001 etter at det ble avdekket svindel i hundremilliarder-klassen?",
+            "answer": "Enron"
+        },
+        {
+            "question": "I 2007 startet en finansskandale i Norge, som involverte et meglerhus og en rekke kommuner. Med et navn vi alle går på hver dag, het meglerhuset?",
+            "answer": "Terra Securities",
+            "aliases": [
+                "Terra",
+                "Terra Finans",
+                "Terra Securities ASA",
+                "Terra-saken",
+                "Terra-skandalen"
+            ]
+        },
+        {
+            "question": "Med et relativt ambisiøst navn for hvilke nyheter de dekket, hvilken skandalebefengt engelsk avis ble lagt ned i 2012?",
+            "answer": "News of the World",
+            "aliases": [
+                "The News of the World",
+                "NotW"
+            ]
+        },
+        {
+            "question": "Hvilket irsk band har samme navn som spionflyet som skapte internasjonal skandale i 1960?",
+            "answer": "U2  ",
+            "aliases": [
+                "U-2 "
+            ]
+        },
+        {
+            "question": "Hvilken pornofilm fra 1972 hadde en tittel som senere ble kallenavn på den hemmelige FBI-agenten som foret Washington Post med opplysninger i den såkalte Watergate-skandalen?",
+            "answer": "Deep Throat"
+        }
+    ]
+}
