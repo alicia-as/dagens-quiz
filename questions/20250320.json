@@ -1,0 +1,37 @@
+{
+    "theme": "Byer på 'F'",
+    "questions": [
+        {
+            "question": "I nærheten av hvilken vakker by ligger fjellandsbyen Vinci?",
+            "answer": "Firenze",
+            "aliases": [
+                "Florence"
+            ]
+        },
+        {
+            "question": "Så et plankespørsmål: Hvilken jernbanestasjon i Østfold ligger 94,26 km fra Oslo S?",
+            "answer": "Fredrikstad",
+            "aliases": [
+                "Fredrikstad stasjon"
+            ]
+        },
+        {
+            "question": "I hvilken tysk by holder Den europeiske sentralbanken til?",
+            "answer": "Frankfurt am Main",
+            "aliases": [
+                "Frankfurt"
+            ]
+        },
+        {
+            "question": "I hvilken prisbelønt Cohen-film fra 1996, med samme navn som Nord-Dakotas største by, spiller William Macy rollen som den stressede bilselgeren Jerry Lundegaard?",
+            "answer": "Fargo"
+        },
+        {
+            "question": "Sierra Leones hovedstad deler på mange måter navn med Gabons hovedstad, Libreville. Hva heter byen?",
+            "answer": "Freetown. Libreville betyr 'fri by' på fransk, mens Freetown betyr 'fri by' på engelsk.",
+            "aliases": [
+                "Freetown"
+            ]
+        }
+    ]
+}
