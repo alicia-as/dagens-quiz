@@ -1,0 +1,37 @@
+{
+    "theme": "Sigaretter 🚬",
+    "questions": [
+        {
+            "question": "Hvilket sigarettmerke, som var tidlig ute med filter, har samme navn som et engelsk grevskap og Supermann?",
+            "answer": "Kent",
+            "aliases": [
+                "Clark Kent"
+            ]
+        },
+        {
+            "question": "Hvilket sigarettmerke med flaksent navn fikk sin nåværende design i 1942, av samme kar som designet Coca-Cola-logoen?",
+            "answer": "Lucky Strike",
+            "aliases": [
+                "Lucky"
+            ]
+        },
+        {
+            "question": "Et av verdens mest populære sigarettmerker har tatt navn etter et utholdende pattedyr. Hva heter det?",
+            "answer": "Camel"
+        },
+        {
+            "question": "Hvilket sigarettmerke ble lansert i 1899 og fikk navn etter en berømt gate i London? I Norge blir navnet uttalt helt feil.",
+            "answer": "Pall Mall",
+            "aliases": [
+                "Pål Mål"
+            ]
+        },
+        {
+            "question": "Hvilken statsleder og nobelprisvinner ga navn til Kong Olav V's favorittsigarett (uten filter)?",
+            "answer": "Teddy Roosevelt",
+            "aliases": [
+                "Teddy"
+            ]
+        }
+    ]
+}
