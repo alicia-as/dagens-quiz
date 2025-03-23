@@ -1,0 +1,40 @@
+{
+    "theme": "Tall",
+    "questions": [
+        {
+            "question": "Hva heter den delen av fordøyelsessystemet som ligger direkte etter magesekken?",
+            "answer": "Tolvfingertarmen",
+            "aliases": [
+                "Duodenum"
+            ]
+        },
+        {
+            "question": "Hvilken britisk mynt, som har gitt navn til et hodeplagg, var lovlig betalingsmiddel fram til 1980, og tilsvarte en halv shilling?",
+            "answer": "Six Pence",
+            "aliases": [
+                "Sixpence"
+            ]
+        },
+        {
+            "question": "Hvem har spilt hovedroller i «Det femte element», «Den sjette sansen» og «Twelve Monkeys»?",
+            "answer": "Bruce Willis",
+            "aliases": [
+                "Willis"
+            ]
+        },
+        {
+            "question": "Så gammel ble prinsesse Diana. George Clooney er så gammel dersom du leser partallet baklengs.",
+            "answer": "36 år  ",
+            "aliases": [
+                "36  "
+            ]
+        },
+        {
+            "question": "Så gammel ble Elvis. James Dean ble så gammel dersom du leser partallet baklengs.",
+            "answer": "42 år  ",
+            "aliases": [
+                "42  "
+            ]
+        }
+    ]
+}
