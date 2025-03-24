@@ -1,0 +1,44 @@
+{
+    "theme": "1800-tallet",
+    "questions": [
+        {
+            "question": "Hvilken snarvei ble bygget under ledelse av Ferdinand de Lesseps og sto ferdig i 1869?",
+            "answer": "Suezkanalen",
+            "aliases": [
+                "Suez"
+            ]
+        },
+        {
+            "question": "Hvilken bergenser feiret sin 66 års fødselsdag på toppen av Kheopspyramiden i 1876?",
+            "answer": "Ole Bull",
+            "aliases": [
+                "Ole Bornemann Bull",
+                "Bull"
+            ]
+        },
+        {
+            "question": "Hvilken religiøs bevegelse ble stiftet av Joseph Smith i 1830 og har pent kledde misjonærer utplassert i Norge den dag i dag?",
+            "answer": "Jesu Kristi kirke av siste dagers hellige",
+            "aliases": [
+                "mormonerne",
+                "mormonene",
+                "mormonkirken",
+                "mormon"
+            ]
+        },
+        {
+            "question": "Hvilken norsk nobelprisvinner ble født den 4. august 1859 og døde samtidig som Hjallis tok OL-gull i 1952?",
+            "answer": "Knut Hamsun",
+            "aliases": [
+                "Knud Pedersen"
+            ]
+        },
+        {
+            "question": "Hvilken europeisk monark steg opp på tronen i 1837, havnet på frimerke, som den første i historien og beholdt makten fram til 1901?",
+            "answer": "Dronning Victoria",
+            "aliases": [
+                "Victoria"
+            ]
+        }
+    ]
+}
