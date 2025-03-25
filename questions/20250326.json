@@ -1,0 +1,45 @@
+{
+    "theme": "Tegneserier 🖍️",
+    "questions": [
+        {
+            "question": "Hvilken tegneserie, som de fleste av oss spiser hver dag, ble skapt av Børge Lund i 2007?",
+            "answer": "Lunch",
+            "aliases": [
+                "Lønsj"
+            ]
+        },
+        {
+            "question": "Norsk Tipping ble etablert samme år som Donald Duck & Co kom i butikkhyllene, og St. Moritz og London arrangerte OL. Hvilket år skjedde det? (+/- 2 år)",
+            "answer": "1948  ",
+            "aliases": [
+                "1946  ",
+                "1947  ",
+                "1948  ",
+                "1949  ",
+                "1950  "
+            ]
+        },
+        {
+            "question": "Hvilken tegneserie av Grethe Nestor og Norunn Blichfeldt Schjerven ble vist i Dagbladet fra 2006 til 2012? Serien hadde «samme» tittel som en roman av Jostein Gaarder fra 1991. ",
+            "answer": "Zofies verden",
+            "aliases": [
+                "Sofies verden"
+            ]
+        },
+        {
+            "question": "Hvilken likblek norsk tegneseriefigur debuterte i «Larsons gale verden» i 1997 og heter Montoya til etternavn?",
+            "answer": "Nemi",
+            "aliases": [
+                "Nemi Montoya"
+            ]
+        },
+        {
+            "question": "Hva heter den stokk dumme hunden i tegneserien Lucky Luke, som deler navn med Pokemon-figur #0019?",
+            "answer": "Rattata",
+            "aliases": [
+                "Rattata",
+                "Rantanplan"
+            ]
+        }
+    ]
+}
