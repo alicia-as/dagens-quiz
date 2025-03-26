@@ -1,0 +1,51 @@
+{
+    "theme": "Når én flyplass ikke holder",
+    "questions": [
+        {
+            "question": "Hvilken flyplass var den største i Paris før Charles de Gaulle internasjonale lufthavn sto ferdig i 1974?",
+            "answer": "Orly",
+            "aliases": [
+                "Orly internasjonale lufthavn",
+                "Orly Airport"
+            ]
+        },
+        {
+            "question": "LaGuardia lufthavn er oppkalt etter en tidligere borgermester, i hvilken amerikansk storby?",
+            "answer": "New York",
+            "aliases": [
+                "New York City",
+                "NYC"
+            ]
+        },
+        {
+            "question": "London har mange flyplasser, hvor Heathrow er den største, fulgt av Gatwick. Hvilken flyplass er den mest travle?",
+            "answer": "London Stansted",
+            "aliases": [
+                "Stansted",
+                "Stansted Airport"
+            ]
+        },
+        {
+            "question": "Moskva har tre store flyplasser. Nevn én av dem!",
+            "answer": "Sheremetyevo, Domodedovo eller Vnukovo",
+            "aliases": [
+                "Sheremetyevo",
+                "Domodedovo",
+                "Vnukovo",
+                "Sheremetyevo internasjonale lufthavn",
+                "Domodedovo internasjonale lufthavn",
+                "Vnukovo internasjonale lufthavn",
+                "Sheremetyevo Airport",
+                "Domodedovo Airport",
+                "Vnukovo Airport"
+            ]
+        },
+        {
+            "question": "Ved hvilken storby finner vi flyplassene Orio al Serio, Linate og Malpensa?",
+            "answer": "Milano",
+            "aliases": [
+                "Milan"
+            ]
+        }
+    ]
+}
