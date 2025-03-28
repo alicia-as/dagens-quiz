@@ -1,0 +1,34 @@
+{
+  "theme": "Steder som ikke finnes (repeat)",
+  "questions": [
+    {
+      "question": "Hva het det gullrike landet som de spanske conquistadorene lette etter, men aldri fant? Et billigmerke på butikken har samme navn.",
+      "answer": "El Dorado",
+      "aliases": [
+        "Eldorado"
+      ]
+    },
+    {
+      "question": "Et sted i Himalaya som ikke er funnet er også tittelen på en musikal med Olivia Newton John I hovedrollen. Hva heter stedet: Shangri-La, Atlantis eller Xanadu?",
+      "answer": "Xanadu"
+    },
+    {
+      "question": "Hva heter stedet i «Ringenes herre» som for det meste er bosatt av hobbiter?",
+      "answer": "Hobsyssel",
+      "aliases": [
+        "Hobbiton"
+      ]
+    },
+    {
+      "question": "Hvilken øy, som nok ikke har eksistert, er beskrevet av bl.a. Platon og brødrene Dal?",
+      "answer": "Atlantis"
+    },
+    {
+      "question": "Hva heter fengselet som er med i tittelen i den tredje boken om Harry Potter?",
+      "answer": "Azkaban",
+      "aliases": [
+        "Azkaban-fengselet"
+      ]
+    }
+  ]
+}
