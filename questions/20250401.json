@@ -1,0 +1,53 @@
+{
+  "theme": "Hvilken sang - her følger 5 sangtekster. Finn ut hvilke sanger tekstene er hentet fra",
+  "questions": [
+    {
+      "question": "«You think you lost your love, when I saw her yesterday.»",
+      "answer": "She Loves You - The Beatles",
+      "aliases": [
+        "She Loves You",
+        "She Loves You - The Beatles",
+        "The Beatles - She Loves You"
+      ]
+    },
+    {
+      "question": "«Is this the real life? Is this just fantasy?»",
+      "answer": "Bohemian Rhapsody - Queen",
+      "aliases": [
+        "Bohemian Rhapsody",
+        "Queen - Bohemian Rhapsody",
+        "Queen"
+      ]
+    },
+    {
+      "question": "«I work all day I work all night, to pay the bills I have to pay.»",
+      "answer": "Money, Money, Money - ABBA",
+      "aliases": [
+        "Money, Money, Money",
+        "ABBA - Money, Money, Money",
+        "ABBA",
+        "Money Money Money",
+        "Money Money Money - ABBA"
+      ]
+    },
+    {
+      "question": "«Så tok æ mot tell mæ og hylte æ vil ha dæ.»",
+      "answer": "Ti tusen tommeltotta - Halvdan Sivertsen",
+      "aliases": [
+        "Ti tusen tommeltotta",
+        "Halvdan Sivertsen - Ti tusen tommeltotta",
+        "Halvdan Sivertsen",
+        "Ti tusen tommeltotta - Halvdan Sivertsen"
+      ]
+    },
+    {
+      "question": "«It's close to midnight and something evil's lurking in the dark.»",
+      "answer": "Thriller - Michael Jackson",
+      "aliases": [
+        "Thriller",
+        "Michael Jackson - Thriller",
+        "Michael Jackson"
+      ]
+    }
+  ]
+}

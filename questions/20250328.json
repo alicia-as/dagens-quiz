@@ -1,47 +1,46 @@
 {
-  "theme": "Bil, båt, tog og fly (repeat)",
+  "theme": "Oscar-vinnende filmer (repeat)",
   "questions": [
     {
-      "question": "Med en forkortelse, hva heter offentlige jernbanen i Tyskland?",
-      "answer": "DB",
+      "question": "Vi må tilbake til 2002 for å finne en Oscarvinner som har en by som tittel og intet annet. Hvilken film?",
+      "answer": "Chicago",
       "aliases": [
-        "Deutsche Bahn"
+        "Chicago (2002)"
       ]
     },
     {
-      "question": "Hva ble det kalt, damplokomotivet som gikk mellom Oslo og Trondheim i gamle dager?",
-      "answer": "Dovregubben",
+      "question": "Hvilken tegneseriefigur har samme navn som en Oscar-vinner fra 1976?",
+      "answer": "Rocky"
+    },
+    {
+      "question": "Filmen som vant Oscar for beste film i 2023 har samme navn som etternavnet til en viss Julius. Hvilken film?",
+      "answer": "Oppenheimer (Julius Robert Oppenheimer)",
       "aliases": [
-        "Dovrebanen"
+        "Oppenheimer"
       ]
     },
     {
-      "question": "Hva slags framkomstmiddel er Christian Radich?",
-      "answer": "Seilskip",
+      "question": "Det er et lite og uhyggelig vesen, men også en ikke-amerikansk Oscar-vinner fra 2019. Hva er navnet?",
+      "answer": "Parasite",
       "aliases": [
-        "Et seilskip",
-        "Seilskute",
-        "Seilbåt",
-        "En seilbåt",
-        "En seilskute"
+        "Parasitt"
       ]
     },
     {
-      "question": "Dersom du skal reise til Bergen med fly, hvor lander du da?",
-      "answer": "Flesland",
+      "question": "Hvilken film fra 1974 var den første oppfølgerfilmen som vant Oscar for beste film?",
+      "answer": "The Godfather Part II",
       "aliases": [
-        "på Flesland",
-        "på Bergen lufthavn Flesland",
-        "på Flesland flyplass"
-      ]
-    },
-    {
-      "question": "Hvilket bilmerke blir brukt som tidsmaskin i filmen «Tilbake til fremtiden»?",
-      "answer": "DeLorean",
-      "aliases": [
-        "DeLorean DMC-12",
-        "DeLorean DMC 12",
-        "DeLorean DMC12"
+        "The Godfather Part 2",
+        "Gudfaren del II",
+        "Gudfaren del 2",
+        "Gudfaren 2",
+        "The Godfather",
+        "Gudfaren",
+        "Godfather 2",
+        "Godfather Part II",
+        "Godfather Part 2",
+        "Godfather",
+        "Gudfaren del II (1974)"
       ]
     }
   ]
