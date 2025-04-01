@@ -1,0 +1,48 @@
+{
+  "theme": "Krig!",
+  "questions": [
+    {
+      "question": "Hvilken krig, utkjempet 1853-1856 mellom Russland og Frankrike + England, har fått et navn som er høyaktuelt i påsken?",
+      "answer": "Krimkrigen",
+      "aliases": [
+        "Krim",
+        "The Crimean War",
+        "Crimean War",
+        "Krimkrigen"
+      ]
+    },
+    {
+      "question": "Den amerikanske borgerkrigen sluttet 9. april, men hvilket år? ",
+      "answer": "1865  "
+    },
+    {
+      "question": "Tegneseriefiguren Billy vervet seg i hæren i 1951. Til hvilken krig? ",
+      "answer": "Koreakrigen",
+      "aliases": [
+        "Korea",
+        "Koreakrigen",
+        "Korea-krigen",
+        "The Korean War",
+        "Korean War"
+      ]
+    },
+    {
+      "question": "Og nå sport: Hva blir den kalt, den korte krigen som ble utkjempet mellom El Salvador og Honduras i 1969?",
+      "answer": "Fotballkrigen",
+      "aliases": [
+        "Fotballkrigen",
+        "Fotball-krigen",
+        "Football War"
+      ]
+    },
+    {
+      "question": "Og nå litt mer sport: Hvilken krig ble utkjempet i 1991 mellom Irak og en koalisjon av 34 land ledet av USA?",
+      "answer": "Golfkrigen",
+      "aliases": [
+        "Golfkrigen",
+        "Golf-krigen",
+        "Gulf War"
+      ]
+    }
+  ]
+}
