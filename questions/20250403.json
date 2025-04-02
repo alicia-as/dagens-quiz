@@ -1,0 +1,43 @@
+{
+  "theme": "Land med dyr i navnet",
+  "questions": [
+    {
+      "question": "Hvilket land i midtøsten, som i 1990 ble invadert av sitt naboland, har dyret som på latin heter 'Bos taurus' i navnet sitt",
+      "answer": "KUwait"
+    },
+    {
+      "question": "Det andre nabolandet (det som ikke invaderte) til svaret på forrige spørsmål har også et dyr i starten på sitt navn. Dette dyret heter derimot 'Ovis aries' på latin. Hvilket land er det snakk om?",
+      "answer": "SAUdi-Arabia",
+      "aliases": [
+        "Saudi-Arabia",
+        "Saudi Arabia"
+      ]
+    },
+    {
+      "question": "'And' er et dyr som går igjen i mange lands navn, f.eks 'ANDdorra' og 'TysklAND'. Kun to land har skjult 'and'en sin inne i navnet. Hvilke to afrikanske land?",
+      "answer": "UgANDa og RwANDa",
+      "aliases": [
+        "Uganda og Rwanda",
+        "Rwanda og Uganda",
+        "Rwanda & Uganda",
+        "Uganda & Rwanda",
+        "Uganda, Rwanda",
+        "Rwanda, Uganda"
+      ]
+    },
+    {
+      "question": "Hvilket vestafrikansk land har tatt navn etter navnet på de muslimske innbyggerne i Nordvest-Afrika i middelalderen, og har derfor også et insekt i navnet?",
+      "answer": "MAURitania (Maurerne)",
+      "aliases": [
+        "Mauritania"
+      ]
+    },
+    {
+      "question": "Flyselskapet Sabena gikk konkurs i 2001. I hvilket lite europeisk land, med et kongedyr i navnet, hadde det sin hovedbase?",
+      "answer": "BELGia",
+      "aliases": [
+        "Belgia"
+      ]
+    }
+  ]
+}
