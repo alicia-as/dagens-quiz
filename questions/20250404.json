@@ -1,0 +1,48 @@
+{
+  "theme": "Michael",
+  "questions": [
+    {
+      "question": "Michael O’Leary er en omstridt mann. Hva heter selskapet der han er sjef?",
+      "answer": "Ryanair",
+      "aliases": [
+        "Ryanair Holdings plc",
+        "Ryanair DAC"
+      ]
+    },
+    {
+      "question": "Michael Schumacher vant syv verdensmesterskap i Formel 1, de første to for laget Benneton. Hvilket lag vant han de fem siste for?",
+      "answer": "Ferrari"
+    },
+    {
+      "question": "Hva heter stjernen fra Tilbake til fremtiden som i 1991 fikk diagnosen Parkinsons?",
+      "answer": "Michael J. Fox",
+      "aliases": [
+        "Michael Andrew Fox",
+        "Michael Andrew J. Fox",
+        "Michael J Fox",
+        "J Fox",
+        "M. J. Fox",
+        "M. J. A. Fox"
+      ]
+    },
+    {
+      "question": "Hva het artisten som fikk alvorlige brannskader i hodet under innspilling av en Pepsi-reklame i 1984?",
+      "answer": "Michael Jackson",
+      "aliases": [
+        "Michael Joe Jackson",
+        "Michael Joe"
+      ]
+    },
+    {
+      "question": "Han fikk tidlig diagnosen ADHD, er født i krepsen, men burde absolutt vært født i Fiskene. Hva er navnet på denne fantastiske idrettsutøveren, som er tidenes mestvinnende olymper?",
+      "answer": "Michael Phelps",
+      "aliases": [
+        "Michael Fred Phelps II",
+        "Michael Fred Phelps",
+        "Michael Fred",
+        "Michael Fred Phelps II",
+        "Phelps"
+      ]
+    }
+  ]
+}
