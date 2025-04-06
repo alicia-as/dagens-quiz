@@ -1,0 +1,49 @@
+{
+  "theme": "Store byggverk",
+  "questions": [
+    {
+      "question": "Hvilken trafikkåre som sto ferdig i forrige århundre skal ha kostet 20 000 anleggsarbeidere livet?",
+      "answer": "Panama-kanalen",
+      "aliases": [
+        "Panama Canal",
+        "Panamakanalen"
+      ]
+    },
+    {
+      "question": "Den største enkeltkonstruksjonen siden Keopspyramiden sto ferdig i 1936 og skapte reservoaret Lake Mead. Hva heter demningen?",
+      "answer": "Hooverdemningen",
+      "aliases": [
+        "Hoover Dam",
+        "Hoover Dammen",
+        "Hoover Dammen"
+      ]
+    },
+    {
+      "question": "I hvilket land sto de 403 m høye tvillingtårnene Petronas Towers ferdige i 1998?",
+      "answer": "Malaysia",
+      "aliases": [
+        "Kuala Lumpur"
+      ]
+    },
+    {
+      "question": "Hvilket byggverk, som kanskje ville hett Stellantis Tower dersom det var bygget i dag, var med sine 319 m verdens høyeste menneskeskapte byggverk da det sto ferdig i 1930?",
+      "answer": "Chrysler-bygningen",
+      "aliases": [
+        "Chrysler Building",
+        "Chryslerbygningen",
+        "Chrysler"
+      ]
+    },
+    {
+      "question": "Hva er det største byggverket som står på verdensarvlisten til UNESCO?",
+      "answer": "Den kinesiske mur",
+      "aliases": [
+        "Kinesiske mur",
+        "Den kinesiske muren",
+        "Den kinesiske muren (Great Wall of China)",
+        "Great Wall of China",
+        "Great Wall"
+      ]
+    }
+  ]
+}
