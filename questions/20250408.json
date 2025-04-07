@@ -1,0 +1,37 @@
+{
+  "theme": "TV-serier",
+  "questions": [
+    {
+      "question": "Hva heter skuespilleren som spiller den rare Phoebe Buffay i TV-serien ”Friends”? ",
+      "answer": "Lisa Kudrow",
+      "aliases": [
+        "Kudrow"
+      ]
+    },
+    {
+      "question": "I hvilken by med lite hyggelig navn, som også har vært tittelen på en TV-serie, ligger Wild Bill Hickok og Calamity Jane begravet?",
+      "answer": "Deadwood"
+    },
+    {
+      "question": "TV-serien «Under the Dome», som hadde norsk premiere på TV2 i 2013 er basert på en roman med samme klaustrofobiske tittel. Hva heter den verdenskjente forfatteren?",
+      "answer": "Stephen King"
+    },
+    {
+      "question": "I hvilken tv-serie med mange helter møter vi forskeren Mohinder Suresh?",
+      "answer": "Heroes"
+    },
+    {
+      "question": "I 2000 slo Bryan Cranston gjennom som skuespiller i en tv-serie der han spiller den snille, men noe mislykkede familiefaren Hal. Siden 2008 har han hatt hovedrollen som Walter White i en ganske så røff tv-serie. Hva heter de to seriene?",
+      "answer": "Malcolm in the Middle og Breaking Bad",
+      "aliases": [
+        "Malcolm i midten og Breaking Bad",
+        "Malcolm i midten, Breaking Bad",
+        "Malcolm in the Middle, Breaking Bad",
+        "Breaking Bad, Malcolm in the Middle",
+        "Breaking Bad, Malcolm i midten",
+        "breaking bad og Malcolm in the middle",
+        "breaking bad og Malcolm i midten"
+      ]
+    }
+  ]
+}
