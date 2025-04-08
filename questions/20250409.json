@@ -1,0 +1,45 @@
+{
+  "theme": "Bilmodeller",
+  "questions": [
+    {
+      "question": "Hvilken bilmodell har samme navn som en vind som blåser fra subtropiske områder mot ekvator?",
+      "answer": "Volkswagen Passat",
+      "aliases": [
+        "Passat",
+        "Volkswagen Passat Variant"
+      ]
+    },
+    {
+      "question": "Med en bilmodell i navnet, hvilket afrikansk land har et navn som betyr «Løvefjellene»?",
+      "answer": "Sierra Leone",
+      "aliases": [
+        "Sierra"
+      ]
+    },
+    {
+      "question": "Hvilken av NRKs radiokanaler har samme musikalske navn som en bilmodell fra Honda?",
+      "answer": "Jazz",
+      "aliases": [
+        "NRK Jazz",
+        "Honda Jazz"
+      ]
+    },
+    {
+      "question": "En bilmodell fra Fiat, som ble produsert mellom 1983 og 1995, vant prisen «Årets Bil i Europa» i 1984. Hvilket enkelt kortspill har samme navn som bilmodellen?",
+      "answer": "Uno",
+      "aliases": [
+        "Fiat Uno"
+      ]
+    },
+    {
+      "question": "Hvilken bilmodell ble først utgitt av en amerikansk produsent i 1908, og inspirerte en bilmodell som først ble utgitt 104 år senere? Bilmodellene har identiske navn, dersom man bytter ut siste bokstav!",
+      "answer": "Model T (Ford) og Model S (Tesla)",
+      "aliases": [
+        "Model T",
+        "Ford Model T",
+        "Tesla Model S",
+        "Model S"
+      ]
+    }
+  ]
+}
