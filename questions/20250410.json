@@ -1,0 +1,28 @@
+{
+  "theme": "Svaret begynner på 'Z'",
+  "questions": [
+    {
+      "question": "Hva heter treningsdansen basert på latinmusikk fra Colombia som var mektig populær på tidlig 2000-tall?",
+      "answer": "Zumba"
+    },
+    {
+      "question": "Hvilken blå vindrue, opprinnelig fra Kroatia, har et navn som begynner på bokstaven «Z»?",
+      "answer": "Zinfandel"
+    },
+    {
+      "question": "Hva heter den tidligere uavhengige øygruppen som ligger nord for Dar es Salaam i Tanzania?",
+      "answer": "Zanzibar"
+    },
+    {
+      "question": "Don Quijote red stolt på sin hest. Den het Rosinante. Fantomet sin hest heter Hero. Men hvem sin hest er Tornado?",
+      "answer": "Zorro"
+    },
+    {
+      "question": "«Jag kom till Paris som en kung och lämnar som en legendar.» Hvilken beskjeden svenske har uttalt dette?",
+      "answer": "Zlatan Ibrahimović",
+      "aliases": [
+        "Zlatan"
+      ]
+    }
+  ]
+}
