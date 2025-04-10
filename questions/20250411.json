@@ -1,0 +1,29 @@
+{
+  "theme": "Amerikanske delstater",
+  "questions": [
+    {
+      "question": "Hvilken hit med Bee Gees fra 1967 har en amerikansk delstat som tittel?",
+      "answer": "Massachusetts"
+    },
+    {
+      "question": "Philadelphia er en av USAs største byer. I hvilken delstat ligger byen?",
+      "answer": "Pennsylvania"
+    },
+    {
+      "question": "Hovedstaden i den amerikanske delstaten Maine har samme navn som en kjent golfbane, en skandinavisk dikter og nesten samme navn som en av årets måneder. Navnet takk!",
+      "answer": "Augusta",
+      "aliases": [
+        "Augusta National Golf Club",
+        "Augusta National"
+      ]
+    },
+    {
+      "question": "Hvilken amerikansk delstat, hvis hovedstad er Baton Rouge, kalles også «The Pelican State»?",
+      "answer": "Louisiana"
+    },
+    {
+      "question": "Hvilken delstat, som grenser til Wisconsin, Iowa, Sør-Dakota og Nord-Dakota og med innbyggere som Bob Dylan og Kim Basinger, var USAs nordligste før Alaska ble innlemmet i 1959?",
+      "answer": "Minnesota"
+    }
+  ]
+}
