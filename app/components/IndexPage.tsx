@@ -14,6 +14,7 @@ const LEVENSHTEIN_THRESHOLD = 2; // Adjust this value as needed
 interface Data {
   questions: Question[];
   theme?: string;
+  announcement?: string; // Optional, but useful for handling typos, etc.
 }
 interface Question {
   question: string;
@@ -29,6 +30,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
   const [isLoading, setIsLoading] = useState(true);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [theme, setTheme] = useState<string | undefined>();
+  const [announcement, setAnnouncement] = useState<string | undefined>();
   const [userAnswers, setUserAnswers] = useState<string[]>([]);
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -54,7 +56,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
       const data = await response.json();
       setQuestions(data.questions || data);
       setTheme(data.theme);
-      // setUserAnswers(new Array(data.questions.length).fill("")); // Initialize with empty strings
+      setAnnouncement(data.announcement);
       setIsLoading(false);
     };
 
@@ -262,6 +264,11 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
         <p className="text-center text-gray-700 dark:text-gray-200 text-sm my-2">
           <span className="font-semibold">Tema:</span> {theme}
         </p>
+      )}
+      {announcement && (
+        <div className="my-4 px-4 py-2 text-center text-sm text-gray-800 dark:text-gray-200 bg-gray-100 dark:bg-gray-800 rounded flex items-center justify-center gap-2 border-2 border-dashed border-gray-400 dark:border-gray-500">
+          {announcement}
+        </div>
       )}
       <form
         onSubmit={(e) => {

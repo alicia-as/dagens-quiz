@@ -1,0 +1,46 @@
+{
+  "theme": "Påskenøtter 1 - bokstavelig talt",
+  "announcement": "Femkjappe vil ha spørsmål hver dag hele påsken. Nyt påskeferien med en kjapp quiz hver eneste dag!",
+  "questions": [
+    {
+      "question": "Hvilken nøtt, som egentlig er en frukt, inneholder masse melk?",
+      "answer": "Kokosnøtt",
+      "aliases": [
+        "Kokos",
+        "Kokosnøtter"
+      ]
+    },
+    {
+      "question": "Hvilken nøtt kommer opprinnelig fra Krydderøyene, mens navnet kan få en til å tro at de kommer fra den arabiske halvøy?",
+      "answer": "Muskat (hovedstaden i Oman)",
+      "aliases": [
+        "Muskatnøtt",
+        "Muskatnøtter",
+        "Muskat"
+      ]
+    },
+    {
+      "question": "Det er julekveld. Drosselmeyer sitter i dukkeverkstedet og arbeider med gavene han skal ha med seg til julefest hos Stahlbaum. Han er særlig fornøyd med en dukke. Hvilken ballett er denne handlingen hentet fra?",
+      "answer": "Nøtteknekkeren",
+      "aliases": [
+        "Nøtteknekkeren (ballett)",
+        "Nøtteknekkeren (ballett av Tsjajkovskij)",
+        "Nøtteknekkeren og musekongen",
+        "Nussknacker",
+        "The nut cracker"
+      ]
+    },
+    {
+      "question": "Hva kalles turen som tar turistene med til Flåmsbana, Aurlandsfjorden, Nærøyfjorden og Stalheimskleiva?",
+      "answer": "Norge i et nøtteskall / Norway in a nutshell",
+      "aliases": [
+        "Norway in a nutshell",
+        "Norge i et nøtteskall"
+      ]
+    },
+    {
+      "question": "Hvilket lite dyr i en kjent norsk sang har et navn som også var kallenavnet på Roald Øyens sønn?",
+      "answer": "Nøtteliten"
+    }
+  ]
+}
