@@ -1,0 +1,47 @@
+{
+  "theme": "Påskenøtter 3 - Amerikanske presidenter",
+  "announcement": "Femkjappe vil ha spørsmål hver dag hele påsken. Nyt påskeferien med en kjapp quiz hver eneste dag!",
+  "questions": [
+    {
+      "question": "Hvilken kjent tegneseriefigur dukket først opp i en tegnefilm i 1934, og deler fornavn med en tidligere amerikansk president?",
+      "answer": "Donald Duck (Donald Trump - selv om han har klart å bli president igjen!)",
+      "aliases": [
+        "Donald Duck",
+        "Donald",
+        "Donald Trump"
+      ]
+    },
+    {
+      "question": "I første halvdel av 1900-tallet hadde USA tre presidenter som alle hadde alliterasjon i navnet: Woodrow Wilson, Calvin Coolidge og ...?",
+      "answer": "Herbert Hoover",
+      "aliases": [
+        "Herbert Hoover",
+        "Hoover"
+      ]
+    },
+    {
+      "question": "Amerikas fjerde president hadde samme etternavn som delstatshovedstaden i Michigan. Med et erketypisk president-fornavn, hva het han?",
+      "answer": "James Madison",
+      "aliases": [
+        "James Madison",
+        "Madison"
+      ]
+    },
+    {
+      "question": "Hvilken amerikansk president er den eneste som har båret naziuniform - i alle fall offentlig?",
+      "answer": "Rondald Reagan, som var skuespiller.",
+      "aliases": [
+        "Ronald Reagan",
+        "Reagan"
+      ]
+    },
+    {
+      "question": "Hvilken skuespiller, som blant annet spilte i Blade Runner, har et navn satt sammen av to amerikanske presidenters etternavn?",
+      "answer": "Harrison Ford - John Harrison og Gerald Ford.",
+      "aliases": [
+        "Harrison Ford",
+        "Ford"
+      ]
+    }
+  ]
+}
