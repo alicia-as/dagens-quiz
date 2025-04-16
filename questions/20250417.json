@@ -1,0 +1,43 @@
+{
+  "theme": "Påskenøtter 4 - Bytt ut en bokstav",
+  "announcement": "Femkjappe vil ha spørsmål hver dag hele påsken. Nyt påskeferien med en kjapp quiz hver eneste dag!",
+  "questions": [
+    {
+      "question": "Hvilken tysk by har et navn som blir til en skikkelig bakrus dersom du bytter ut en av bokstavene og setter inn en ”G” i stedet?",
+      "answer": "Hannover (hangover)",
+      "aliases": [
+        "Hannover"
+      ]
+    },
+    {
+      "question": "Hvilken festning, best kjent som fengsel, blir til et middel mot halsonde dersom du bytter ut den første bokstaven?",
+      "answer": "Bastillen (pastillen)",
+      "aliases": [
+        "Bastillen",
+        "Bastille"
+      ]
+    },
+    {
+      "question": "Hvilken av verdens hovedsteder blir til en kortlek for én dersom du bytter ut en bokstav?",
+      "answer": "Kabul (kabal)",
+      "aliases": [
+        "Kabul"
+      ]
+    },
+    {
+      "question": "Hvilket asiatisk land har et navn som blir til en «tilstand av fullstendig forvirring og mangel på orden» dersom du bytter ut forbokstaven?",
+      "answer": "Laos (kaos)",
+      "aliases": [
+        "Laos"
+      ]
+    },
+    {
+      "question": "Hvilket yrke, som de fleste av oss interagerer med på jevnlig basiss, blir til et klesplagg som nesten alle interagerer med på daglig basis dersom du bytter ut første bokstaven?",
+      "answer": "Kokk (sokk)",
+      "aliases": [
+        "Kokk",
+        "Kokker"
+      ]
+    }
+  ]
+}
