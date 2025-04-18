@@ -1,0 +1,43 @@
+{
+  "theme": "Påskenøtter 6 - Egg",
+  "announcement": "Femkjappe vil ha spørsmål hver dag hele påsken. Nyt påskeferien med en kjapp quiz hver eneste dag!",
+  "questions": [
+    {
+      "question": "Tyskerne har humoristisk nok oppkalt en matrett navn etter Joseph Alois Ratzinger (f. 1927). Retten består bl.a. av posjerte egg. Hva heter retten?",
+      "answer": "Eggs Benedict XVI",
+      "aliases": [
+        "Eggs Benedict",
+        "Benedict"
+      ]
+    },
+    {
+      "question": "Når en pepperkakebaker baker pepperbakerkaker trenger han en kilo margarin og en kilo med farin. Hvor mange eggeplommer skal være med?",
+      "answer": "Åtte eggeplommer",
+      "aliases": [
+        "8  ",
+        "8 egg  ",
+        "Åtte  ",
+        "Åtte egg  "
+      ]
+    },
+    {
+      "question": "Hvem ga i 2005 ut jubileumsplata 30-30, med en sang fra hvert år i hans karriere?",
+      "answer": "Jan Eggum",
+      "aliases": [
+        "Eggum"
+      ]
+    },
+    {
+      "question": "Hvilken primitiv pattedyrorden legger egg, lever i New Guinea og Australia, og ikke på do som navnet skulle tilsi?",
+      "answer": "Kloakkdyr",
+      "aliases": [
+        "Kloakkdyret",
+        "Monotremata"
+      ]
+    },
+    {
+      "question": "Hvilken kjent trønder skjuler seg bak anagrammet «en gal nesering»?",
+      "answer": "Nils Arne Eggen"
+    }
+  ]
+}
