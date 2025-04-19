@@ -1,0 +1,42 @@
+{
+  "theme": "Påskenøtter 6 - På kors ✝️",
+  "announcement": "Femkjappe vil ha spørsmål hver dag hele påsken. Nyt påskeferien med en kjapp quiz hver eneste dag!",
+  "questions": [
+    {
+      "question": "Hva heter araberlandenes svar på Røde Kors?",
+      "answer": "Røde Halvmåne",
+      "aliases": [
+        "Røde Halvmåne",
+        "Halvmåne"
+      ]
+    },
+    {
+      "question": "Med et navn som er anagram til 'Is-Beirut' - hvem var keiser i Roma da Jesus døde på korset?",
+      "answer": "Tiberius",
+      "aliases": [
+        "Keiser Tiberius",
+        "Tiberius"
+      ]
+    },
+    {
+      "question": "Hva heter den ubebodde øya som ligger omtrent midt mellom Korsika og det italienske fastlandet som er blitt kjent etter en roman fra 1844 (og påfølgende filmer)?",
+      "answer": "Monte Cristo"
+    },
+    {
+      "question": "Hakekorset er borte for godt, men hvilket tilsvarende symbol blir brukt i det tyske forsvaret i dag?",
+      "answer": "Jernkorset",
+      "aliases": [
+        "Iron Cross",
+        "Jernkors"
+      ]
+    },
+    {
+      "question": "Hvilken nordmann mottok kommandørkorset av «Order of the British Empire» i 1929, men ble frakjent ordenen i 1944?",
+      "answer": "Vidkun Quisling",
+      "aliases": [
+        "Quisling",
+        "Vidkun Quisling"
+      ]
+    }
+  ]
+}
