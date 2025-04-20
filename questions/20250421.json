@@ -1,0 +1,42 @@
+{
+  "theme": "Påskenøtter 7 - Kyllinger og harer 🐤🐰",
+  "announcement": "Femkjappe vil ha spørsmål hver dag hele påsken. Nyt påskeferien med en kjapp quiz hver eneste dag!",
+  "questions": [
+    {
+      "question": "Hva heter den mest kjente Pokémon-figuren, som muligens er en asiatisk pipehare?",
+      "answer": "Pikachu"
+    },
+    {
+      "question": "Hvem lå syk da Bård Tufte Johansen gjorde sitt berømte kyllingstunt i 2002?",
+      "answer": "Statsminister Thorbjørn Jagland",
+      "aliases": [
+        "Thorbjørn Jagland",
+        "Jagland"
+      ]
+    },
+    {
+      "question": "Hvilken religiøs bevegelse med et påskeaktuelt navn ble etablert av inderen A.C. Bhaktivedanta Swami Prabhupada i 1966?",
+      "answer": "Hare Krishna-bevegelsen",
+      "aliases": [
+        "Hare Krishna",
+        "Krishna-bevegelsen"
+      ]
+    },
+    {
+      "question": "En av TOROs kyllinggryter har fått navn fra en liten, men tett befolket øy. Hva heter den?",
+      "answer": "Bali",
+      "aliases": [
+        "Bali kyllinggryte",
+        "Bali kylling"
+      ]
+    },
+    {
+      "question": "I hvilket land har mange latt den langørede bilbyen erstatte påskeharen som symbol, kanskje fordi folk har fått nok av alt som kan minne om harer?",
+      "answer": "Australia, som riktignok er plaget av kaniner.",
+      "aliases": [
+        "Australia",
+        "Australien"
+      ]
+    }
+  ]
+}
