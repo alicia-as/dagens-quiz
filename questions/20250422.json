@@ -1,0 +1,37 @@
+{
+  "theme": "Svaret slutter på 'x'",
+  "questions": [
+    {
+      "question": "I hvilken film fra 1975 møter vi bl.a. oljesjeiken Ben Redic Fy Fazan?",
+      "answer": "Flåklypa Grand Prix",
+      "aliases": [
+        "Flåklypa Grand Prix",
+        "Flåklypa"
+      ]
+    },
+    {
+      "question": "Hva het rovdyrøglen som levde for mer enn 60 millioner år siden og som man lenge trodde var det største rovdyret som har vandret på Jordens overflate?",
+      "answer": "Tyrannosaurus rex",
+      "aliases": [
+        "Tyranosaurus rex",
+        "T-rex"
+      ]
+    },
+    {
+      "question": "Hvem påstod at «Religion er opium for folket»?",
+      "answer": "Karl Marx",
+      "aliases": [
+        "Marx",
+        "Karl Marx"
+      ]
+    },
+    {
+      "question": "Hennes kjennetegn er oliven, korn og et septer, og hun er den romerske gudinnen for fred. En norsk katastrofefilm har også samme navn. Hva heter hun?",
+      "answer": "Pax "
+    },
+    {
+      "question": "Hva ble den kalt, unionen mellom tre små land fra 1948 som ble opptakten til dagen EU?",
+      "answer": "Benelux"
+    }
+  ]
+}
