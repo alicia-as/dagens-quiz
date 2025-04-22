@@ -1,0 +1,34 @@
+{
+  "theme": "Oldtidsbyer",
+  "questions": [
+    {
+      "question": "I hvilket av dagens afrikanske land, som er halvparten så stort som Norge, lå oldtidsbyen Kartago?",
+      "answer": "Tunisia"
+    },
+    {
+      "question": "Hvilken oldtidsby i Jordan har samme navn som kjæresten til Stomperud? Det er også et anagram av et av Trumps favorittskjellsord, oversatt til norsk!",
+      "answer": "Petra (Taper!)",
+      "aliases": [
+        "Petra"
+      ]
+    },
+    {
+      "question": "I hvilket nåværende land lå oldtidsbyen Memfis, som utvilsomt har inspirert dagens Memphis i navnevalget?",
+      "answer": "Egypt"
+    },
+    {
+      "question": "Hvilken sentral oldtidsby i det nordvestre Lilleasia, som i dag heter İznik og ligger i  Tyrkia, hadde et navn som blir til et konsern grunnlagt i Småland i 1943 dersom du tar vekk første bokstaven i navnet?",
+      "answer": "Nikea (Nike)",
+      "aliases": [
+        "Nikea"
+      ]
+    },
+    {
+      "question": "Alexander den store døde i 323 f.Kr. I hvilken oldtidsby med flotte hager og palmetrær skjedde det?",
+      "answer": "Babylon",
+      "aliases": [
+        "Babylonia"
+      ]
+    }
+  ]
+}
