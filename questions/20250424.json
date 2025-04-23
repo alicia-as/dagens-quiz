@@ -1,0 +1,28 @@
+{
+  "theme": "Klokker",
+  "questions": [
+    {
+      "question": "Et av verdens mest kjente eksklusive klokkemerker ble etablert i London i 1905 og senere flyttet til Sveits. Hva heter det?",
+      "answer": "Rolex"
+    },
+    {
+      "question": "Hvilket fransk klokkemerke, med et navn som begynner på «L», ble stiftet i 1832 og har et vingepar som logo?",
+      "answer": "Longines"
+    },
+    {
+      "question": "Hvilket sveitsisk klokkemerke har fått deler av sitt navn etter uttrykket «Techniques d'Avant Garde» som betyr «teknikker i forkant»?",
+      "answer": "TAG Heuer"
+    },
+    {
+      "question": "Hva heter den siste bokstaven i det greske alfabetet, som også er navnet på et sveitsisk klokkemerke?",
+      "answer": "Omega"
+    },
+    {
+      "question": "Hvilket billig sveitsisk klokkemerke ble grunnlagt i 1983 og har et navn som er satt sammen av de engelske ordene for «andre vakt»?",
+      "answer": "Swatch (Second Watch)",
+      "aliases": [
+        "Swatch"
+      ]
+    }
+  ]
+}
