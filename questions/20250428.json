@@ -1,0 +1,39 @@
+{
+  "theme": "Svaret starter på 'Ø'",
+  "questions": [
+    {
+      "question": "Hvem har sagt at: ”Du kan'ke stikke kjepper i romjula”?",
+      "answer": "Øystein Sunde",
+      "aliases": [
+        "Øystein"
+      ]
+    },
+    {
+      "question": "Hvilket innsekt er tittel på novellen av Ingvar Ambjørnsen som Marius Holst har filmatisert?",
+      "answer": "Øyenstikker",
+      "aliases": [
+        "Øyenstikker",
+        "Øyenstikkere"
+      ]
+    },
+    {
+      "question": "Hvilket land kommer sist på den norske alfabetiske listen over FNs medlemsland, kun slått av Østerrike?",
+      "answer": "Øst-Timor",
+      "aliases": [
+        "Timor-Leste"
+      ]
+    },
+    {
+      "question": "Hvilken kar med fiendtlig holdning til Petter Smart dukket opp i historien «The Evil Inventor» i 1966?",
+      "answer": "Ørnulf Ørn",
+      "aliases": [
+        "Ørnulf Ørn",
+        "Ørnulf"
+      ]
+    },
+    {
+      "question": "Hvor havner du dersom du triller 9 i åpningskastet i det klassiske norske Monopolspillet?",
+      "answer": "Øvre Slottsgate"
+    }
+  ]
+}
