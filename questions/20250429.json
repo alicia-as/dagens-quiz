@@ -1,0 +1,30 @@
+{
+  "theme": "Nasjonalretter",
+  "questions": [
+    {
+      "question": "Hvilken gratinert rett fra det greske og tyrkiske kjøkken består av aubergine, tomat, lam og hvitløk?",
+      "answer": "Moussaka"
+    },
+    {
+      "question": "Tomat er en vesentlig ingrediens i en spansk nasjonalrett (fra Andalucia) som serveres kald. Hva heter den?",
+      "answer": "Gazpacho"
+    },
+    {
+      "question": "I hvilket land spiser man nasjonalretten gulasj?",
+      "answer": "Ungarn"
+    },
+    {
+      "question": "Hva heter Skottlands nasjonalrett, som består av kjøtt blandet med grønnsaker kokt i en dyremage?",
+      "answer": "Haggis"
+    },
+    {
+      "question": "Det tidligere Inkarikets hovedstad har i dag 300 000 innbyggere og ligger tusen meter høyere over havet enn toppen av Galdhøpiggen. Hva heter byen, et navn som kan forveksles med nasjonalretten i Marokko?",
+      "answer": "Cuzco (Couscous)",
+      "aliases": [
+        "Cuzco",
+        "Cusco",
+        "Couscous"
+      ]
+    }
+  ]
+}
