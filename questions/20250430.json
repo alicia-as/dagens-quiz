@@ -1,0 +1,51 @@
+{
+  "theme": "Klassiske reklamer",
+  "questions": [
+    {
+      "question": "En av tidenes reklamefilmer har tittelen «Doffen har daua». Hvilket selskap var det reklame for?",
+      "answer": "Rema 1000",
+      "aliases": [
+        "Rema",
+        "Det enkleste er ofte det beste"
+      ]
+    },
+    {
+      "question": "I reklamefilmen til hvilket produkt møter vi bandet «The Black Snakes» som sparker en av sine medlemmer fordi han ikke er korrekt kledd?",
+      "answer": "Omo (color)",
+      "aliases": [
+        "Omo",
+        "Omo Color",
+        "Omo Color vaskepulver"
+      ]
+    },
+    {
+      "question": "«Samma det vel, hund er hund.» Hvilket produkt handler reklamefilmen om?",
+      "answer": "Jarlsberg",
+      "aliases": [
+        "Jarlsbergost",
+        "Jarlsberg-ost"
+      ]
+    },
+    {
+      "question": "«Sover du? -Nei, jeg skrur!» Hvilket produkt handler reklamefilmen om?",
+      "answer": "Lotto",
+      "aliases": [
+        "Lotto",
+        "Lottokupong",
+        "Norsk Tipping",
+        "Lottomillionærer",
+        "Lottovinner"
+      ]
+    },
+    {
+      "question": "Hvilket produkt handler reklamefilmen «Full pakke» om?",
+      "answer": "Pizza Grandiosa",
+      "aliases": [
+        "Full pakke",
+        "Grandiosa",
+        "Grandiosa pizza",
+        "Grandiosa-pizza"
+      ]
+    }
+  ]
+}
