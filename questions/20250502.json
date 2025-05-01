@@ -1,0 +1,37 @@
+{
+  "theme": "Helt sjef!",
+  "questions": [
+    {
+      "question": "I hvilket frukt-selskap er Tim Cook sjef?",
+      "answer": "Apple",
+      "aliases": [
+        "Apple Inc.",
+        "Apple Computer, Inc.",
+        "Apple Computer"
+      ]
+    },
+    {
+      "question": "På hvilket universitet så «TheFacebook» dagens lys i 2004?",
+      "answer": "Harvard"
+    },
+    {
+      "question": "Hvilken sjef startet sitt selskap sammen med Paul Allen på 70-tallet?",
+      "answer": "Bill Gates",
+      "aliases": [
+        "William Henry Gates III"
+      ]
+    },
+    {
+      "question": "En av verdens rikeste menn styrer sin formue gjennom Berkshire Hathaway. Med et etternavn som man får vann i munnen av, hva heter 94-åringen?",
+      "answer": "Warren Buffett",
+      "aliases": [
+        "Warren Edward Buffett",
+        "Buffett"
+      ]
+    },
+    {
+      "question": "Hvilken tidligere sjef for DNB har et gammelt skrifttegn til fornavn og en travbane til etternavn?",
+      "answer": "Rune Bjerke"
+    }
+  ]
+}
