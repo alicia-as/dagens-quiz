@@ -1,0 +1,32 @@
+{
+  "theme": "Italiensk",
+  "questions": [
+    {
+      "question": "I hvilken idrett, som er høyaktuell denne uken i nettopp Italia, dannes ofte en grupetto for at man skal klare tidslimiten?",
+      "answer": "Sykling",
+      "aliases": [
+        "Landeveisritt",
+        "Sykkelritt"
+      ]
+    },
+    {
+      "question": "Hvilket italiensk ord, som betyr toårig, brukes særlig i forbindelse med kunstutstillinger?",
+      "answer": "Biennale"
+    },
+    {
+      "question": "Hva slags militære sykehus har muligens fått navn etter en seig kar fra Det nye testamente?",
+      "answer": "Lasarett",
+      "aliases": [
+        "Lasarus"
+      ]
+    },
+    {
+      "question": "Hvilket italiensk ord, som betyr «guddommelig», brukes gjerne om ekstra gode sangerinner?",
+      "answer": "Diva"
+    },
+    {
+      "question": "Hvilket italiensk uttrykk, ofte brukt i koketidssammenheng, betyr noe sånt som «til tannen»?",
+      "answer": "Al dente"
+    }
+  ]
+}
