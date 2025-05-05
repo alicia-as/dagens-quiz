@@ -1,0 +1,25 @@
+{
+  "theme": "Lek med Sør-Amerikanske land",
+  "questions": [
+    {
+      "question": "Hvilket land deler navn med 35 630 norske menn dersom du fjerner landets siste bokstav?",
+      "answer": "Peru"
+    },
+    {
+      "question": "Hvilket land deler navn med 5 252 norske kvinner dersom du fjerner landets første bokstav? Navnet var det tredje mest populære i 2024",
+      "answer": "Bolivia"
+    },
+    {
+      "question": "Hvilket land deler navn med sjefen for Fawlty Towers dersom du fjerner landets andre bokstav?",
+      "answer": "Brasil"
+    },
+    {
+      "question": "Hvilket land deler navn med 5 383 norske kvinner hvis du kun leser landets fire siste bokstaver?",
+      "answer": "Argentina"
+    },
+    {
+      "question": "Dersom du splitter dette landets navn i to, bli første halvdel en alminnelig fyr og andre halvdel et palindromisk kvinnenavn som 1 805 norske kvinner har, hva heter landet?",
+      "answer": "Guyana"
+    }
+  ]
+}
