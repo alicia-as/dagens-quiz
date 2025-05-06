@@ -1,0 +1,39 @@
+{
+  "theme": "Norske kjeder",
+  "questions": [
+    {
+      "question": "Hvilken kjede som har spesialisert seg på hageprodukter åpnet i Skedsmo i 1986, og har i dag mer enn 100 butikker?",
+      "answer": "Plantasjen",
+      "aliases": [
+        "Plantasjen AS"
+      ]
+    },
+    {
+      "question": "Hvilken pizzakjede med et andete (eller sauete) navn, ble etablert i 1986, nedlagt i 2017, gjenopplivet i 2021 og består i dag av kun ca.15 restauranter?",
+      "answer": "Dolly Dimple's",
+      "aliases": [
+        "Dolly Dimple's Pizza",
+        "Dolly Dimple"
+      ]
+    },
+    {
+      "question": "Hvilken restaurantkjede har en bowlerhatt i sin logo?",
+      "answer": "Egon",
+      "aliases": [
+        "Egon Restaurant"
+      ]
+    },
+    {
+      "question": "Hvilken farge har bilene i transportselskapet «Bring»?",
+      "answer": "Grønn",
+      "aliases": [
+        "Grønnfarge",
+        "Lysegrønn"
+      ]
+    },
+    {
+      "question": "Hvilken lavpriskjede med omtrent 300 butikker i Norge har samme navn som en av Holbergs figurer? Fjerner du første bokstav, blir det ille!",
+      "answer": "Nille"
+    }
+  ]
+}
