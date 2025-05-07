@@ -1,0 +1,40 @@
+{
+  "theme": "Paris 🥖",
+  "questions": [
+    {
+      "question": "I hvilken amerikansk delstat ligger byen Paris, som er med i tittelen i Wim Wenders' film fra 1984?",
+      "answer": "Texas"
+    },
+    {
+      "question": "Hvilken mytologisk person ble drept av pilen til Paris, ifølge gresk mytologi?",
+      "answer": "Akilles",
+      "aliases": [
+        "Achilles"
+      ]
+    },
+    {
+      "question": "Hva heter det gamle slottet i Paris, som i dag er museum og bl.a. huser «Mona Lisa»?",
+      "answer": "Louvre",
+      "aliases": [
+        "Louvre Museum",
+        "Musée du Louvre"
+      ]
+    },
+    {
+      "question": "Hvilken gård på Kløfta har gitt navn til en hotellkjede og en av verdens mest kjente realitystjerner?",
+      "answer": "Hilton (Paris Hilton)",
+      "aliases": [
+        "Hilton",
+        "Paris Hilton"
+      ]
+    },
+    {
+      "question": "Med et navn på fire bokstaver, hvilken flyplass var hovedflyplass i Paris før Charles de Gaulle internasjonale lufthavn ble bygget?",
+      "answer": "Orly",
+      "aliases": [
+        "Paris Orly Airport",
+        "Orly Airport"
+      ]
+    }
+  ]
+}
