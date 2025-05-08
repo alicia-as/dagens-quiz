@@ -1,0 +1,33 @@
+{
+  "theme": "Greske guder",
+  "questions": [
+    {
+      "question": "Hvilken gresk gud har bl.a. gitt navn til et romprogram og ei platesjappe i Bergen?",
+      "answer": "Apollon"
+    },
+    {
+      "question": "Hvilken gresk gud har bl.a. gitt navn til en gruppe som selger økologiske matvarer og en slags boble i det ytre verdensrom?",
+      "answer": "Helios (-sfæren)",
+      "aliases": [
+        "Helios",
+        "Helios-sfæren"
+      ]
+    },
+    {
+      "question": "Hvilken roman av Hamsun, som man på spansk kan spise, har tatt navn etter den greske skogsguden?",
+      "answer": "Pan"
+    },
+    {
+      "question": "Hvilken planet kunne hatt navnet Poseidon dersom den i likhet med Uranus var oppkalt etter en gresk gud i stedet for dens romerske motstykke?",
+      "answer": "Neptun"
+    },
+    {
+      "question": "Hva heter Danmarks største- og mest kjente skoprodusent, som deler navn med en fjellnymfe fra gresk mytologi?",
+      "answer": "ECCO",
+      "aliases": [
+        "Echo",
+        "Ekko"
+      ]
+    }
+  ]
+}
