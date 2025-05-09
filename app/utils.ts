@@ -14,17 +14,30 @@ export const formatDateToYYYYMMDD = (date: Date): string => {
   return `${year}${month}${day}`;
 };
 
-// For backwards compatibility
 export const tryDateFormats = (date: Date): string[] => {
-  const day = date.getDate().toString().padStart(2, "0");
-  const month = (date.getMonth() + 1).toString().padStart(2, "0");
   const year = date.getFullYear();
-  return [
-    `${year}${month}${day}`, // YYYYMMDD (new format)
-    `${year}-${month}-${day}`, // ISO
-    `${day}/${month}/${year}`, // Norwegian (DD/MM/YYYY)
-    `${month}/${day}/${year}`, // US (MM/DD/YYYY)
-    `${day}.${month}.${year}`, // Norwegian with dots (DD.MM.YYYY)
-    `${date.getDate()}.${date.getMonth() + 1}.${date.getFullYear()}`, // Unpadded D.M.YYYY
-  ];
+  const shortYear = year.toString().slice(2);
+  const day = date.getDate();
+  const month = date.getMonth() + 1;
+
+  const dayVariants = [day.toString(), day.toString().padStart(2, "0")];
+  const monthVariants = [month.toString(), month.toString().padStart(2, "0")];
+
+  const formats: string[] = [];
+
+  for (const d of dayVariants) {
+    for (const m of monthVariants) {
+      formats.push(
+        `${year}${m}${d}`, // YYYYMMDD
+        `${year}-${m}-${d}`, // ISO
+        `${d}/${m}/${year}`, // Norwegian
+        `${d}.${m}.${year}`, // Norwegian with dots
+        `${m}/${d}/${year}`, // US
+        `${d}.${m}.${year}`, // D.M.YYYY (repeated for clarity)
+        `${d}.${m}.${shortYear}` // D.M.YY
+      );
+    }
+  }
+
+  return Array.from(new Set(formats)); // remove duplicates
 };
