@@ -14,13 +14,6 @@ export const formatDateToYYYYMMDD = (date: Date): string => {
   return `${year}${month}${day}`;
 };
 
-export const parseYYYYMMDD = (dateStr: string): Date => {
-  const year = parseInt(dateStr.slice(0, 4));
-  const month = parseInt(dateStr.slice(4, 6)) - 1;
-  const day = parseInt(dateStr.slice(6, 8));
-  return new Date(year, month, day);
-};
-
 // For backwards compatibility
 export const tryDateFormats = (date: Date): string[] => {
   const day = date.getDate().toString().padStart(2, "0");
@@ -31,5 +24,7 @@ export const tryDateFormats = (date: Date): string[] => {
     `${year}-${month}-${day}`, // ISO
     `${day}/${month}/${year}`, // Norwegian (DD/MM/YYYY)
     `${month}/${day}/${year}`, // US (MM/DD/YYYY)
+    `${day}.${month}.${year}`, // Norwegian with dots (DD.MM.YYYY)
+    `${date.getDate()}.${date.getMonth() + 1}.${date.getFullYear()}`, // Unpadded D.M.YYYY
   ];
 };
