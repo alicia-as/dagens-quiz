@@ -7,7 +7,12 @@ import { useRouter, useSearchParams } from "next/navigation";
 import ClipboardModal from "../ClipboardModal";
 import Image from "next/image";
 import WeeklySummary from "./WeeklySummary";
-import { isFriday } from "../utils";
+import {
+  formatDateToYYYYMMDD,
+  isFriday,
+  parseYYYYMMDD,
+  tryDateFormats,
+} from "../utils";
 
 const LEVENSHTEIN_THRESHOLD = 2; // Adjust this value as needed
 
@@ -104,16 +109,26 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
 
   // Retrieve answers from local storage
   useEffect(() => {
-    // Use quizDate if provided, otherwise use today's date
-    const dateKey = quizDate
-      ? formatDate(quizDate).replace(/\./g, "-") // Convert to a format like YYYY-MM-DD
-      : new Date().toLocaleDateString(); // Ensures format is consistent (YYYY-MM-DD)
+    console.log("Quiz date:", quizDate);
+    const date = parseYYYYMMDD(
+      quizDate ?? new Date().toISOString().split("T")[0]
+    );
+    const possibleDateKeys = tryDateFormats(date);
 
-    const answersKey = `${dateKey}-answers`;
-    const answers = localStorage.getItem(answersKey);
+    let foundAnswers = null;
 
-    if (answers) {
-      setUserAnswers(JSON.parse(answers));
+    for (const key of possibleDateKeys) {
+      const stored = localStorage.getItem(`${key}-answers`);
+      console.log("Trying to get answers from local storage", key, stored);
+      if (stored) {
+        foundAnswers = stored;
+
+        break;
+      }
+    }
+
+    if (foundAnswers) {
+      setUserAnswers(JSON.parse(foundAnswers));
       setIsSubmitted(true);
       fetchSummary(); // Fetch summary when answers are cached
     }
@@ -131,9 +146,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     }
 
     // Use quizDate if provided, otherwise use today's date
-    const dateKey = quizDate
-      ? formatDate(quizDate).replace(/\./g, "-") // Convert to YYYY-MM-DD format
-      : new Date().toLocaleDateString(); // Ensures format is consistent (YYYY-MM-DD)
+    const dateKey = quizDate ?? formatDateToYYYYMMDD(new Date());
 
     const answersKey = `${dateKey}-answers`;
 
@@ -208,10 +221,10 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
 
   const handleShare = () => {
     // Determine the date to include in the URL
-    const today = new Date().toISOString().split("T")[0];
+    const today = formatDateToYYYYMMDD(new Date());
     const dateFromURL = searchParams?.get("date");
 
-    const quizDateToUse = quizDate || dateFromURL || today; // Use quizDate prop, then URL param, else today
+    const quizDateToUse = quizDate ?? dateFromURL ?? today; // Use quizDate prop, then URL param, else today
 
     // Generate result string
     const resultString = questions
