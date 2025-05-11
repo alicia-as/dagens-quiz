@@ -1,0 +1,33 @@
+{
+  "theme": "Svaret slutter på 'z'",
+  "announcement": "Ukentlig oppsummering skal nå fungere for alle. Beklager bryet!",
+  "questions": [
+    {
+      "question": "Hva kalles landbrukskollektivene som det finnes ca. 250 av i Israel?",
+      "answer": "Kibbutz"
+    },
+    {
+      "question": "Hva het den amerikanske svømmeren som tok ni OL-gull, syv av dem i 1972?",
+      "answer": "Mark Spitz",
+      "aliases": [
+        "Spitz"
+      ]
+    },
+    {
+      "question": "Hvilket egentlig ganske fredelig navn var blant kallenavnene som de allierte ga sine tyske fiender under andre verdenskrig?",
+      "answer": "Fritz"
+    },
+    {
+      "question": "Hva slags hodeplagg med dusk har samme navn som en by i Marokko?",
+      "answer": "Fez"
+    },
+    {
+      "question": "Hvilken bilmodell fra Honda skiftet til sitt nåværende navn da det opprinnelige navnet ikke passet i det norske språk?",
+      "answer": "Jazz. Den het opprinnelig Honda Fitta.",
+      "aliases": [
+        "Honda Jazz",
+        "Jazz"
+      ]
+    }
+  ]
+}
