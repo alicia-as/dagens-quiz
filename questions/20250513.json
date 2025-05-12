@@ -1,0 +1,37 @@
+{
+  "theme": "Statuer",
+  "questions": [
+    {
+      "question": "Hvilken Disney-figur har samme navn som en statue av Vigeland?",
+      "answer": "Sinnataggen"
+    },
+    {
+      "question": "Frihetsstatuen i New York rager 96 meter over bakken (med sokkel). Den ble skjenket til USA i 1886. Hva heter giverlandet?",
+      "answer": "Frankrike, i forbindelse med hundreårsjubileet for den amerikanske uavhengighetskrigen",
+      "aliases": [
+        "Frankrike"
+      ]
+    },
+    {
+      "question": "Hvilket vaskemiddel har et navn som kan gi assosiasjoner til en av verdens mest berømte statuer (funnet i 1820)?",
+      "answer": "Milo",
+      "aliases": [
+        "Venus fra Milo"
+      ]
+    },
+    {
+      "question": "Michelangelos David er en hele 5 meter høy statue utskåret i marmor. I hvilken by kan du se originalen?",
+      "answer": "Firenze",
+      "aliases": [
+        "Florence"
+      ]
+    },
+    {
+      "question": "Hun står utenfor Bislett og er blant de få kvinnene som er hedret med statue i Oslo. Hver september kan man løpe et løp i hennes ære på én mil. Navnet takk!",
+      "answer": "Grete Waitz",
+      "aliases": [
+        "Waitz"
+      ]
+    }
+  ]
+}
