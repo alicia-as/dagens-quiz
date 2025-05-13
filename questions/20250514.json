@@ -1,0 +1,52 @@
+{
+  "theme": "Sydpolen",
+  "questions": [
+    {
+      "question": "Den 14. desember ankom Roald Amundsen og hans menn Sydpolen. Hvilket år (+/- 3)?",
+      "answer": "1911  ",
+      "aliases": [
+        "1908  ",
+        "1909  ",
+        "1910  ",
+        "1912  ",
+        "1913  ",
+        "1914  "
+      ]
+    },
+    {
+      "question": "Med to relevante rivaler i navnet - hva heter den amerikanske forskningsstasjonen som i dag ligger midt på Sydpolen?",
+      "answer": "Amundsen-Scott (South Pole Station)",
+      "aliases": [
+        "South Pole Station",
+        "Amundsen Scott",
+        "Amundsen Scott South Pole Station",
+        "Amundsen Scott Station"
+      ]
+    },
+    {
+      "question": "Den største forskningsstasjonen på Antarktis er også amerikansk, og kan forveksles med Macgyver's rival - hva heter den?",
+      "answer": "McMurdo Station",
+      "aliases": [
+        "McMurdo",
+        "McMurdo Station",
+        "McMurdo Research Station"
+      ]
+    },
+    {
+      "question": "Robert F. Scott, Amundsen's store rival, hadde en fugl til mellomnavn. Hvilken fugl?",
+      "answer": "Falcon",
+      "aliases": [
+        "Falcon Scott",
+        "Falkon",
+        "Falk"
+      ]
+    },
+    {
+      "question": "Hva het briten som bare var 180 km unna Sydpolen to år før Amundsen nådde målet?",
+      "answer": "Ernest Shackleton",
+      "aliases": [
+        "Shackleton"
+      ]
+    }
+  ]
+}
