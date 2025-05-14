@@ -1,0 +1,45 @@
+{
+  "theme": "Grunnstoffer",
+  "questions": [
+    {
+      "question": "Hvilket grunnstoff binder Margareth Thatcher, Clark Kent og Josef Stalin sammen?",
+      "answer": "Jern. Jernkvinnen og 2 x Stålmannen",
+      "aliases": [
+        "Iron",
+        "Iron Lady",
+        "Jern",
+        "Fe",
+        "Stålmannen"
+      ]
+    },
+    {
+      "question": "Hvilket grunnstoff med atomnummer 9 blir puttet i kjeften på både barn og voksne på tross av at det er giftig?",
+      "answer": "Fluor",
+      "aliases": [
+        "Fluorine"
+      ]
+    },
+    {
+      "question": "Hvilken by har ikke fått et grunnstoff oppkalt etter seg; Oslo, Stockholm eller København?",
+      "answer": "Oslo",
+      "aliases": [
+        "Stockholm",
+        "København"
+      ]
+    },
+    {
+      "question": "Med samme navn som et guddommelig grunnstoff, hva heter den nest største månen i solsystemet, etter Ganymedes?",
+      "answer": "Titan",
+      "aliases": [
+        "Titan"
+      ]
+    },
+    {
+      "question": "Hvilket grunnstoff har det latinske navnet «Hydrargyrum», derav det kjemiske symbolet «Hg»?",
+      "answer": "Kvikksølv",
+      "aliases": [
+        "Mercury"
+      ]
+    }
+  ]
+}
