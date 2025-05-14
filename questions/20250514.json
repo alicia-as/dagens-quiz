@@ -2,7 +2,7 @@
   "theme": "Sydpolen",
   "questions": [
     {
-      "question": "Den 14. desember ankom Roald Amundsen og hans menn Sydpolen. Hvilket år (+/- 3)?",
+      "question": "Den 14. desember ankom Roald Amundsen og hans menn Sydpolen. Hvilket år, som blir til et nødnummer om du fjerner første bokstav? (+/- 3)?",
       "answer": "1911  ",
       "aliases": [
         "1908  ",
@@ -14,10 +14,11 @@
       ]
     },
     {
-      "question": "Med to relevante rivaler i navnet - hva heter den amerikanske forskningsstasjonen som i dag ligger midt på Sydpolen?",
+      "question": "Med to rivalerende polfarere i navnet - hva heter den amerikanske forskningsstasjonen som i dag ligger midt på Sydpolen?",
       "answer": "Amundsen-Scott (South Pole Station)",
       "aliases": [
         "South Pole Station",
+        "Scott Amundsen",
         "Amundsen Scott",
         "Amundsen Scott South Pole Station",
         "Amundsen Scott Station"
@@ -33,7 +34,7 @@
       ]
     },
     {
-      "question": "Robert F. Scott, Amundsen's store rival, hadde en fugl til mellomnavn. Hvilken fugl?",
+      "question": "Robert F. Scott, Amundsen's store rival, hadde en fugl til mellomnavn. Denne fuglen har også gitt navnet til nåtidens mest brukte rakett. Hvilken fugl?",
       "answer": "Falcon",
       "aliases": [
         "Falcon Scott",
@@ -42,7 +43,7 @@
       ]
     },
     {
-      "question": "Hva het briten som bare var 180 km unna Sydpolen to år før Amundsen nådde målet?",
+      "question": "Med samme fornavn som Hemingway, hva het iren som bare var 180 km unna Sydpolen to år før Amundsen nådde målet?",
       "answer": "Ernest Shackleton",
       "aliases": [
         "Shackleton"
