@@ -21,11 +21,7 @@
     },
     {
       "question": "Hvilken by har ikke fått et grunnstoff oppkalt etter seg; Oslo, Stockholm eller København?",
-      "answer": "Oslo",
-      "aliases": [
-        "Stockholm",
-        "København"
-      ]
+      "answer": "Oslo"
     },
     {
       "question": "Med samme navn som et guddommelig grunnstoff, hva heter den nest største månen i solsystemet, etter Ganymedes?",
