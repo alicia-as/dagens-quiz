@@ -1,0 +1,42 @@
+{
+  "theme": "Lek med navn i Asia",
+  "questions": [
+    {
+      "question": "Hvilken øystat deler navn med 32 norske kvinner og en svært kjent svensk Hollywoodfrue dersom du kun leser landets fire siste bokstaver?",
+      "answer": "Sri Lanka",
+      "aliases": [
+        "Anne Anka",
+        "Anka"
+      ]
+    },
+    {
+      "question": "Hvilket folkerikt land deler navn med 3 445 norske kvinner dersom du fjerner landets første bokstav?",
+      "answer": "Kina",
+      "aliases": [
+        "Ina"
+      ]
+    },
+    {
+      "question": "Hvilket land, som både har vært spansk og amerikansk koloni, deler navn 5 366 menn og er det 13. mest populære navnet i 2024, dersom du kun leser de første fem bokstavene?",
+      "answer": "Filippinene",
+      "aliases": [
+        "Philippinene",
+        "Filippinene"
+      ]
+    },
+    {
+      "question": "Hvilken liten, men rik stat på Borneo, deler navn med det nest mest populære guttenavnet i 1969 og 1973 dersom du fjerner første og siste bokstav?",
+      "answer": "Brunei",
+      "aliases": [
+        "Rune"
+      ]
+    },
+    {
+      "question": "Hvilket høytliggende land med pussig flagg deler navn med 21 norske menn og é ultrakjent amerikaner dersom du fjerner den midterste bokstaven?",
+      "answer": "Nepal",
+      "aliases": [
+        "Neal"
+      ]
+    }
+  ]
+}
