@@ -1,0 +1,47 @@
+{
+  "theme": "Fjern én bokstav",
+  "questions": [
+    {
+      "question": "Norges 9. rikeste mann i 2024 har et fornavn som blir til nettopp det han her, dersom du fjerner en 'E'. Navnet takk!",
+      "answer": "Stein Erik Hagen (Steinrik!)",
+      "aliases": [
+        "Steinrik",
+        "Stein Erik",
+        "Stein Erik Hagen",
+        "Steinrik Hagen"
+      ]
+    },
+    {
+      "question": "Hvilket nordafrikansk land blir til et flyselskap og en halvøy dersom du fjerner den første bokstaven landets navn?",
+      "answer": "Liberia (Iberia)",
+      "aliases": [
+        "Iberia",
+        "Liberia"
+      ]
+    },
+    {
+      "question": "Hvilket feriemål i Middelhavet blir til en kommune i Finnmark dersom du fjerner den første bokstaven?",
+      "answer": "Malta (Alta)",
+      "aliases": [
+        "Alta",
+        "Malta"
+      ]
+    },
+    {
+      "question": "Hvilken meget kjent fotballspiller blir til en selvstyr øy i Østersjøen dersom du fjerner den første bokstaven (og legger bittelitt godvilje til)?",
+      "answer": "Haaland (Åland)",
+      "aliases": [
+        "Åland",
+        "Haaland"
+      ]
+    },
+    {
+      "question": "Hvilken kommune i Nordland blir til en himmelretning dersom du fjerner den første bokstaven?",
+      "answer": "Røst (øst)",
+      "aliases": [
+        "øst",
+        "Røst"
+      ]
+    }
+  ]
+}
