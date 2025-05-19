@@ -1,0 +1,36 @@
+{
+  "theme": "Biler 🚘",
+  "questions": [
+    {
+      "question": "Hvilket prestisjeuniversitet i England blir til et amerikansk bilmerke dersom du fjerner et trekkdyr fra navnet?",
+      "answer": "Oxford (Ford)",
+      "aliases": [
+        "Ford",
+        "Oxford"
+      ]
+    },
+    {
+      "question": "Hvilket spansk bilmerke som de færreste av oss eier, har et navn som de fleste av oss har forholdt oss til i forbindelse med et annet transportmiddel?",
+      "answer": "SEAT (Seat på fly)",
+      "aliases": [
+        "Seat",
+        "SEAT"
+      ]
+    },
+    {
+      "question": "Hvilket italiensk bilmerke har samme navn som en gresk bokstav pluss en Shakespeare-figur?",
+      "answer": "Alfa Romeo"
+    },
+    {
+      "question": "Hvilket sovjetisk bilmerke solgte i millionopplag også i vestlige land på 1980- og 90-tallet?",
+      "answer": "Lada"
+    },
+    {
+      "question": "Franskmannen som grunnla bilbyen Detroit har fått et bilmerke oppkalt etter seg. Hvilket bilmerke, som fra neste år av er å se i Formel 1?",
+      "answer": "Cadillac",
+      "aliases": [
+        "Cadillac"
+      ]
+    }
+  ]
+}
