@@ -1,0 +1,41 @@
+{
+  "theme": "I norske skoger",
+  "questions": [
+    {
+      "question": "Hva i all verden type vesen er en monark, som det finnes mange av om sommeren, både i skog og mark?",
+      "answer": "En sommerfugl",
+      "aliases": [
+        "Sommerfugl",
+        "butterfly"
+      ]
+    },
+    {
+      "question": "Hvilket hjortedyr, som tidligere var avbildet på femøringen, har det vitenskapelige navnet Alces alces?",
+      "answer": "Elgen",
+      "aliases": [
+        "Elg"
+      ]
+    },
+    {
+      "question": "Hvilken sjeik fra Flåklypa Grand Prix har en skogsfugl til etternavn?",
+      "answer": "Ben Redic Fy Fazan",
+      "aliases": [
+        "Fasan",
+        "Ben Redic",
+        "Fy Fazan"
+      ]
+    },
+    {
+      "question": "«Lynx lynx» lever i norske skoger, men halen er ikke mye å skryte av. Hva kalles rovdyret på norsk?",
+      "answer": "Gaupe"
+    },
+    {
+      "question": "Hvilken insekt-eter (Erinaceus europaeus) som liker å stikke seg ut, tar seg gjerne en slange til middag dersom sjansen byr seg?",
+      "answer": "Pinnsvinet",
+      "aliases": [
+        "Pinnsvin",
+        "Piggsvin"
+      ]
+    }
+  ]
+}
