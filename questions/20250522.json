@@ -1,0 +1,33 @@
+{
+  "theme": "Flagg 🇳🇴🇺🇸🇵🇼",
+  "questions": [
+    {
+      "question": "Hvilken farge er som regel med i islamske staters flagg?",
+      "answer": "Grønn"
+    },
+    {
+      "question": "Hvilken europeisk stat med få bilulykker har nøklene til himmelriket i sitt flagg?",
+      "answer": "Vatikanstaten"
+    },
+    {
+      "question": "Hvor mange stjerner er det i USAs flagg?",
+      "answer": "50 stjerner",
+      "aliases": [
+        "50",
+        "50 stjerner"
+      ]
+    },
+    {
+      "question": "Hvilket land, som har blitt verdensmester i fotball hele tre ganger, har en sol i midten av sitt hvite og lyseblå flagg?",
+      "answer": "Argentina"
+    },
+    {
+      "question": "Hvilket land er det eneste i verden med et flagg som er kun rødt og svart?",
+      "answer": "Albania",
+      "aliases": [
+        "Albansk",
+        "Albanian"
+      ]
+    }
+  ]
+}
