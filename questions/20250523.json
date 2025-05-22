@@ -1,0 +1,41 @@
+{
+  "theme": "Svaret starter på 'The '",
+  "questions": [
+    {
+      "question": "Hvilket malerisk band er det som spiller tittelmelodien til Friends?",
+      "answer": "The Rembrandts",
+      "aliases": [
+        "Rembrandts"
+      ]
+    },
+    {
+      "question": "Hva er navnet på filmen fra 2004, med Jake Gyllenhaal i hovedrollen, der den nordlige halvkule fryser til is?",
+      "answer": "The Day After Tomorrow",
+      "aliases": [
+        "Day After Tomorrow"
+      ]
+    },
+    {
+      "question": "I hvilken drøyt 35 år gammel animasjonsserie går antihelten ofte på Moes Bar?",
+      "answer": "The Simpsons",
+      "aliases": [
+        "Simpsons"
+      ]
+    },
+    {
+      "question": "Kallenavnet til staten New York har du hørt mange ganger. Tenk deg om så husker du det!",
+      "answer": "The Empire State",
+      "aliases": [
+        "Empire State"
+      ]
+    },
+    {
+      "question": "Hvilken britisk avis innførte en ny skrifttype i 1931, en skrifttype som er blitt blant de mest populære i verden?",
+      "answer": "The Times (Times New Roman)",
+      "aliases": [
+        "Times",
+        "Times New Roman"
+      ]
+    }
+  ]
+}
