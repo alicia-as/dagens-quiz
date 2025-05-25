@@ -1,0 +1,46 @@
+{
+  "theme": "Gambling 🎰",
+  "questions": [
+    {
+      "question": "Verdens største gambling-by ligger 60 km fra Hongkong. Hva heter den?",
+      "answer": "Macau",
+      "aliases": [
+        "Makau",
+        "Macao"
+      ]
+    },
+    {
+      "question": "I 1954 ble all gamblingvirksomhet i delstaten Idaho forbudt. Kasino-haiene flyttet virksomheten over delstatsgrensen og fortsatte sin virksomhet i byen med det treffende navnet Jackpot. I hvilken delstat?",
+      "answer": "Nevada"
+    },
+    {
+      "question": "Hvilke tyggegummier har samme navn som to lovlige pengespill. Kan du nevne begge?",
+      "answer": "Extra og V6",
+      "aliases": [
+        "Extra, V6",
+        "Extra og V6",
+        "Extra, V6 tyggegummi",
+        "V6 og Extra",
+        "V6, Extra",
+        "V6 & Extra",
+        "Extra & V6"
+      ]
+    },
+    {
+      "question": "Hva er det høyeste tallet på hjulet i pengespillet «Roulette»?",
+      "answer": "36  "
+    },
+    {
+      "question": "30 nordmenn har disse to navnene som dobbeltnavn. Selv om de er rake motsetninger, finner du dem ved siden av hverandre på verdens kasinoer. Hvilke to navn?",
+      "answer": "Odd og Even",
+      "aliases": [
+        "Odd, Even",
+        "Odd & Even",
+        "Even, Odd",
+        "Even & Odd",
+        "Even og Odd",
+        "Odd og Even"
+      ]
+    }
+  ]
+}
