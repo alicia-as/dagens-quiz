@@ -1,0 +1,43 @@
+{
+  "theme": "Inspirerte navn",
+  "questions": [
+    {
+      "question": "Hvilken artist, som har solgt mer enn 40 millioner album, har tatt sitt navn fordi hun har en lei tendens til å rødme?",
+      "answer": "Pink"
+    },
+    {
+      "question": "Hvilken roman fra 1726, skrevet av Jonathan Swift, har noen skapninger som har gitt selskapet Yahoo sitt navn?",
+      "answer": "Gullivers reiser",
+      "aliases": [
+        "Gullivers reiser",
+        "Gulliver's Travels",
+        "Gulliver"
+      ]
+    },
+    {
+      "question": "En av mannskapet i romanen «Moby Dick» har gitt navn til et multinasjonalt selskap som dufter godt. Hva heter selskapet, som også har slått rot i Norge?",
+      "answer": "Starbucks",
+      "aliases": [
+        "Starbucks",
+        "starbucks"
+      ]
+    },
+    {
+      "question": "Med et navn som betyr «HøyUtsikt»: Hvilken søkemotor kom på markedet i 1995, og ble etter hvert konket ut av Google?",
+      "answer": "AltaVista",
+      "aliases": [
+        "AltaVista",
+        "altavista",
+        "Alta Vista"
+      ]
+    },
+    {
+      "question": "En av verdens største koffertprodusenter har hentet navnet sitt fra en sterk kar i Bibelen. Hva heter produsenten?",
+      "answer": "Samsonite",
+      "aliases": [
+        "Samsonite",
+        "samsonite"
+      ]
+    }
+  ]
+}
