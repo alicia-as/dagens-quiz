@@ -1,0 +1,44 @@
+{
+  "theme": "Europeiske hovedsteder 🇪🇺",
+  "questions": [
+    {
+      "question": "Hvilken europeisk hovedstad er oppkalt etter det greske ordet for visdom? Det er også et jentenavn som innehas av 4923 nordmenn.",
+      "answer": "Sofia, Bulgaria",
+      "aliases": [
+        "Sofia",
+        "Sofia, Bulgaria"
+      ]
+    },
+    {
+      "question": "Et lite tettsted i Stockholms län, en by i Texas og en europeisk hovedstad og verdensby har alle tatt navn etter en gresk gud. Hvilken?",
+      "answer": "Paris"
+    },
+    {
+      "question": "I hvilken europeisk hovedstad med ~drikkbart navn ligger det fantastisk flotte slottet Schönbrunn?",
+      "answer": "Wien",
+      "aliases": [
+        "Wien",
+        "Wien, Østerrike",
+        "Vienna"
+      ]
+    },
+    {
+      "question": "Hvilken europeisk hovedstad blir til et uønsket pattedyr i norsk fauna dersom du fjerner en «S»?",
+      "answer": "Minsk, som blir mink",
+      "aliases": [
+        "Minsk",
+        "Minsk, Hviterussland",
+        "Minsk, Belarus"
+      ]
+    },
+    {
+      "question": "Hvilken populær norsk leskedrikk blir til en europeisk hovedstad dersom du stokker om bokstavene?",
+      "answer": "Solo, som blir til Oslo",
+      "aliases": [
+        "Solo",
+        "Solo, Norge",
+        "Oslo"
+      ]
+    }
+  ]
+}
