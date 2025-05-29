@@ -1,0 +1,42 @@
+{
+  "theme": "Svaret begynner på 'Y'!",
+  "questions": [
+    {
+      "question": "Hvilket populært nettsted bruker slagordet «Broadcast Yourself»?",
+      "answer": "YouTube"
+    },
+    {
+      "question": "Ved hvilket universitet, som skulle bli nøkkelen til deres karriere, studerte Bill Clinton og Hillary Rodham da de traff hverandre?",
+      "answer": "Yale",
+      "aliases": [
+        "Yale University",
+        "Yale, USA"
+      ]
+    },
+    {
+      "question": "Hva heter nasjonalparken beliggende i delstatene Idaho, Montana og Wyoming som kom på verdensarvlisten i 1978?",
+      "answer": "Yellowstone",
+      "aliases": [
+        "Yellowstone National Park",
+        "Yellowstone, USA"
+      ]
+    },
+    {
+      "question": "Norges KFUM er tilknyttet en stor internasjonal organisasjon. Hvilken?",
+      "answer": "YMCA",
+      "aliases": [
+        "YMCA, Young Men's Christian Association",
+        "Young Men's Christian Association"
+      ]
+    },
+    {
+      "question": "Hva er det tyrkiske ordet for «gjæret melk»?",
+      "answer": "Yoghurt",
+      "aliases": [
+        "Yogurt",
+        "Yoghourt",
+        "Yogurt, yoghurt"
+      ]
+    }
+  ]
+}
