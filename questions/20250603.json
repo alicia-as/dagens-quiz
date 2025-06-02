@@ -1,0 +1,43 @@
+{
+  "theme": "Spansk mat 🧀",
+  "announcement": "Quizmaster er denne uken på ferie i Spania. Kanskje bærer ukens spørsmål preg av dette!",
+  "questions": [
+    {
+      "question": "Hva kalles den famøse spanske versjonen av omelett, som kan få deg til å tenke på en helt annen tyoe mat?",
+      "answer": "Tortilla",
+      "aliases": [
+        "Tortilla, Spania",
+        "Spansk tortilla",
+        "Tortilla española"
+      ]
+    },
+    {
+      "question": "Hvilket krydder er det som gir risen i spanjolenes nasjonalrett, paella, den gyldengule fargen?",
+      "answer": "Safran",
+      "aliases": [
+        "Safran, Spania",
+        "Saffran"
+      ]
+    },
+    {
+      "question": "Hva kalles den kalde spanske suppen med opprinnelse i Andalucia?",
+      "answer": "Gazpacho",
+      "aliases": [
+        "Gazpacho, Spania",
+        "Spansk gazpacho"
+      ]
+    },
+    {
+      "question": "Hva er det mer internasjonalt kjente navnet på matretten pintxos, som serveres i det nordlige Spania?",
+      "answer": "Tapas"
+    },
+    {
+      "question": "Hvilket spansk bakverk består av fritert deig basert på hvetemel eller potet, og serveres vanligvis med varm sjokoladesaus?",
+      "answer": "Churros",
+      "aliases": [
+        "Churros, Spania",
+        "Spanske churros"
+      ]
+    }
+  ]
+}
