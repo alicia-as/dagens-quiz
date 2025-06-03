@@ -1,0 +1,45 @@
+{
+  "theme": "Spansktalende musikk og sånt 🎶",
+  "announcement": "Quizmaster er denne uken på ferie i Spania. Kanskje bærer ukens spørsmål preg av dette!",
+  "questions": [
+    {
+      "question": "Sangen, som heter 'Aserejé' på spansk, var en stor hit på tidlig 2000-tall. Hva er den mer kjente engelske tittelen på sangen?",
+      "answer": "The Ketchup Song",
+      "aliases": [
+        "The Ketchup Song, Spania",
+        "Ketchup-sangen",
+        "Ketchup Song",
+        "Las Ketchup"
+      ]
+    },
+    {
+      "question": "Med et kirkelig etternavn, hvilke to spanjoler, far og sønn, har begge herjet på hitlistene verden over? Etternavnet holder!",
+      "answer": "Julio og Enrique Iglesias",
+      "aliases": [
+        "Julio Iglesias",
+        "Enrique Iglesias",
+        "Iglesias, Julio og Enrique",
+        "Iglesias, Julio",
+        "Iglesias, Enrique",
+        "Iglesias"
+      ]
+    },
+    {
+      "question": "Fra hvilket land kommer artisten Shakira?",
+      "answer": "Colombia"
+    },
+    {
+      "question": "Hvilken sang fra 2017, skal i følge ryktene har blitt overhørt av Justing Bieber på en nattklubb, noe som gjorde at den ble nyinnspilt med Bieber som gjesteartist?",
+      "answer": "Despacito",
+      "aliases": [
+        "Despacito, Spania",
+        "Luis Fonsi og Daddy Yankee",
+        "Luis Fonsi, Daddy Yankee"
+      ]
+    },
+    {
+      "question": "Det puertoricanske popfenomenet Enrique Martín Morales hadde slagere som 'Livin the vida loca' og har solgt mer enn 70 millioner album, men under hvilket navn?",
+      "answer": "Ricky Martin"
+    }
+  ]
+}
