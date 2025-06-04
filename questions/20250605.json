@@ -1,0 +1,33 @@
+{
+  "theme": "¿Hablas español?",
+  "announcement": "Quizmaster er denne uken på ferie i Spania. Kanskje bærer ukens spørsmål preg av dette!",
+  "questions": [
+    {
+      "question": "Hvilket norsk band med Sivert Høyem i spissen, har et navn som betyr 'timen før soloppgang' på spansk?",
+      "answer": "Madrugada"
+    },
+    {
+      "question": "Hvilken deilig drink har et navn som betyr noe sånt som «hakket ananas» på spansk?",
+      "answer": "Piña colada",
+      "aliases": [
+        "Pina colada"
+      ]
+    },
+    {
+      "question": "På et lokalt språk heter den Rapa Nui, på spansk heter den Isla de Pascua, men hva kaller vi øya på norsk?",
+      "answer": "Påskeøya"
+    },
+    {
+      "question": "På nordkysten av Venezuela kan du se over til en øy i et annet land. Øyen, som har et navn som på spansk betyr treenighet, er den største i øylandet. Hva heter den?",
+      "answer": "Trinidad (og Tobago)",
+      "aliases": [
+        "Trinidad",
+        "Trinidad og Tobago"
+      ]
+    },
+    {
+      "question": "Hvilken tegneseriefigur skapt av Johnston McCulley i 1919 og flere ganger filmatisert har et navn som på spansk betyr ”rev”?",
+      "answer": "Zorro"
+    }
+  ]
+}
