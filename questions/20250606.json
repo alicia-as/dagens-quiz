@@ -1,0 +1,40 @@
+{
+  "theme": "På vei hjem fra Spania 🇪🇸",
+  "announcement": "Quizmaster er denne uken på ferie i Spania. Kanskje bærer ukens spørsmål preg av dette!",
+  "questions": [
+    {
+      "question": "Hva er maksimalt antall liter man kan ta hjem lovlig fra utlandet til Norge uten å overgå kvoten?",
+      "answer": "3 liter  ",
+      "aliases": [
+        "3L  ",
+        "3  ",
+        "3 l "
+      ]
+    },
+    {
+      "question": "I hvilket fylke ligger Oslo lufthavn Gardermoen?",
+      "answer": "Akershus"
+    },
+    {
+      "question": "Spanias nest mest trafikkerte flyplass heter Josep Tarradellas. I hvilken meget besøkt by ligger den?",
+      "answer": "Barcelona"
+    },
+    {
+      "question": "Hvor lang tid tar det å fly direkte fra Gran Canaria til Oslo: 4 timer, 6 timer eller 8 timer?",
+      "answer": "6 timer  ",
+      "aliases": [
+        "6 t  ",
+        "6  "
+      ]
+    },
+    {
+      "question": "Spania slo Frankrike i UEFA Nations League-semifinalen i går. Hvor mange mål ble det totalt?",
+      "answer": "9 (5-4)",
+      "aliases": [
+        "9 mål  ",
+        "9  ",
+        "5-4  "
+      ]
+    }
+  ]
+}
