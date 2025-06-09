@@ -1,0 +1,44 @@
+{
+  "theme": "Innlandsstater",
+  "questions": [
+    {
+      "question": "Den mest folkerike innlandsstaten i verden (uten kystlinje) har nærmere 130 millioner innbyggere. Hva heter det tidligere monarkiet, bl.a kjent for god kaffe?",
+      "answer": "Etiopia",
+      "aliases": [
+        "Ethiopia",
+        "Etiopien"
+      ]
+    },
+    {
+      "question": "Usbekistan er et av to land i verden som er landlåst, dvs. at det ikke grenser til hav og heller ikke har naboland som grenser til hav. Hva heter det europeiske landet med denne geografiske særegenheten?",
+      "answer": "Liechtenstein, som grenser til Sveits og Østerrike",
+      "aliases": [
+        "Liechtenstein",
+        "Lichtenstein"
+      ]
+    },
+    {
+      "question": "I Sør-Amerika er det kun to innlandsstater. Den ene er Paraguay, hva heter den andre?",
+      "answer": "Bolivia",
+      "aliases": [
+        "Bolivia",
+        "Bolivien"
+      ]
+    },
+    {
+      "question": "Verdenst største innlandsstat i areal er Kasakhstan, men den grenser tross alt til Kaspihavet. Hva heter den nest største innlandsstaten i verden, som ikke ligger så langt unna?",
+      "answer": "Mongolia"
+    },
+    {
+      "question": "Verdenst to minste innlandsstater grenser begge til samme land. Hvilket land er det snakk om (som de grenser til)?",
+      "answer": "Italia (San Marino og Vatikanstaten)",
+      "aliases": [
+        "Italia",
+        "San Marino og Vatikanstaten",
+        "Vatikanstaten og San Marino",
+        "San Marino/Vatikanstaten",
+        "Vatikanstaten/San Marino"
+      ]
+    }
+  ]
+}
