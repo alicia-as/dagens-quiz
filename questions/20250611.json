@@ -1,0 +1,45 @@
+{
+  "theme": "På andre språk",
+  "questions": [
+    {
+      "question": "I Sverige heter han Kalle Anka, men hva heter Donald Duck i Danmark?",
+      "answer": "Anders And",
+      "aliases": [
+        "Anders And"
+      ]
+    },
+    {
+      "question": "I Sverige heter de Jönssonligan, men hva heter de i Norge?",
+      "answer": "Olsenbanden",
+      "aliases": [
+        "Olsenbanden"
+      ]
+    },
+    {
+      "question": "På norsk hadde den tittelen «James Bond i Japan», men hva er den engelske tittelen på James Bond-filmen fra 1967?",
+      "answer": "You Only Live Twice",
+      "aliases": [
+        "You Only Live Twice"
+      ]
+    },
+    {
+      "question": "Det heter «Kóngur, drottning, hrókur, riddari og loks biskup» på islandsk. Kan du oversette til norsk?",
+      "answer": "Konge, dronning, tårn, springer og løper (sjakk)",
+      "aliases": [
+        "Konge, dronning, tårn, springer og løper",
+        "Konge, dronning, tårn, hest og bonde",
+        "Konge, dronning, tårn, hest og løper",
+        "Konge, dronning, tårn, springer og bonde"
+      ]
+    },
+    {
+      "question": "Hvilken idrett med mange øvelser sysler «Fédération internationale de natation» (FINA) med?",
+      "answer": "Svømming",
+      "aliases": [
+        "Svømming",
+        "Stuping",
+        "Vannpolo"
+      ]
+    }
+  ]
+}
