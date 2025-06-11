@@ -1,0 +1,37 @@
+{
+  "theme": "Barbering",
+  "questions": [
+    {
+      "question": "Hvilken produsent av barbermaskiner har samme navn som selskapet som fant olje i Nordsjøen i 1969?",
+      "answer": "Phillips",
+      "aliases": [
+        "Philips"
+      ]
+    },
+    {
+      "question": "Hvilken produsent av barbermaskiner har samme navn som mannen bak V1, V2 og Saturn-rakettene?",
+      "answer": "(Wernher von) Braun",
+      "aliases": [
+        "Braun"
+      ]
+    },
+    {
+      "question": "Både våpen, skrivemaskiner og barbermaskiner bærer samme navn. Hvilket?",
+      "answer": "Remington",
+      "aliases": [
+        "Remington"
+      ]
+    },
+    {
+      "question": "Hvilket fransk selskap med kort navn ble stiftet i 1945 med produksjon av kulepenner? Siden 1975 har de også produsert barberhøvler.",
+      "answer": "BIC",
+      "aliases": [
+        "BIC"
+      ]
+    },
+    {
+      "question": "Hvilken barberhøvel er ifølge slagordet «The best a man can get»?",
+      "answer": "Gillette"
+    }
+  ]
+}
