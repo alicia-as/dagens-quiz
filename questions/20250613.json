@@ -1,0 +1,42 @@
+{
+  "theme": "Frukt og grønt",
+  "questions": [
+    {
+      "question": "Hvilket nord-afrikansk land har gitt oss klementiner til jul siden 1960-tallet?",
+      "answer": "Marokko",
+      "aliases": [
+        "Maroc"
+      ]
+    },
+    {
+      "question": "I hvilken måned selges det flest gresskar i USA?",
+      "answer": "Oktober (Halloween)",
+      "aliases": [
+        "Oktober",
+        "Halloween"
+      ]
+    },
+    {
+      "question": "Hvilken hovedstad i Sør-Amerika har samme navn som en sitrusfrukt, dersom du snakker spansk?",
+      "answer": "Lima",
+      "aliases": [
+        "Lime"
+      ]
+    },
+    {
+      "question": "Hvilken skala ble utviklet i 1912 for å angi smaksstyrken på pepperfrukter?",
+      "answer": "Scovilleskalaen",
+      "aliases": [
+        "Scoville",
+        "Scovilleskala"
+      ]
+    },
+    {
+      "question": "Hvilken grønnsak (Cynara cardunculus) har et norsk navn som minner om en «morsom overraskelse»?",
+      "answer": "Artisjokk",
+      "aliases": [
+        "Artiskokk"
+      ]
+    }
+  ]
+}
