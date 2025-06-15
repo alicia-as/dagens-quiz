@@ -1,0 +1,37 @@
+{
+  "theme": "Land med spesielle navn",
+  "questions": [
+    {
+      "question": "Med hovedstad N'Djamena, hvilket land har kun én vokal i navnet?",
+      "answer": "Tsjad",
+      "aliases": [
+        "Chad"
+      ]
+    },
+    {
+      "question": "Qatar er det eneste landet med navn som begynner på «Q». Hvilket annet land er alene om sin forbokstav?",
+      "answer": "Oman",
+      "aliases": []
+    },
+    {
+      "question": "Hvilket afrikansk land har en kvinnelig irsk artist gjemt i navnet?",
+      "answer": "Kenya",
+      "aliases": [
+        "Enya"
+      ]
+    },
+    {
+      "question": "Den eldste datteren til Obama har gjemt seg i navnet til et afrikansk land. Hva heter landet?",
+      "answer": "Somalia og Malia",
+      "aliases": [
+        "Somalia",
+        "Malia"
+      ]
+    },
+    {
+      "question": "Hvilket land benytter bokstaven «U» hele tre ganger i navnet sitt?",
+      "answer": "Uruguay",
+      "aliases": []
+    }
+  ]
+}
