@@ -1,0 +1,40 @@
+{
+  "theme": "Grønn 🟢",
+  "questions": [
+    {
+      "question": "Med et kortspill i begynnelsen av tittelen, i hvilken Bond-film spiller Eva Green rollen som Vesper Lynd?",
+      "answer": "Casino Royale",
+      "aliases": [
+        "Casino",
+        "Royale"
+      ]
+    },
+    {
+      "question": "Mike Myers og Asgeir Borgemoen har gitt stemme til samme figur i flere filmer. Han er filmselskapet Dreamworks største suksess. Hva heter den grønne karen?",
+      "answer": "Shrek",
+      "aliases": []
+    },
+    {
+      "question": "I hvilken film fra 1999 spiller Tom Hanks rollen som sjef på «Death Row»?",
+      "answer": "Den grønne mil",
+      "aliases": [
+        "De grønne miler",
+        "The Green Mile",
+        "Green Mile"
+      ]
+    },
+    {
+      "question": "Hvilken verdensomspennende organisasjon oppsto i Canada som en protest mot amerikanske kjernevåpenforsøk i 1971?",
+      "answer": "Greenpeace"
+    },
+    {
+      "question": "Hvilken av bokstavene i «Google» er grønn?",
+      "answer": "'L'",
+      "aliases": [
+        "L  ",
+        "l  ",
+        "L-en  "
+      ]
+    }
+  ]
+}
