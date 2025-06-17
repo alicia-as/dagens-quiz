@@ -1,0 +1,39 @@
+{
+  "theme": "Brettspill ♔",
+  "questions": [
+    {
+      "question": "En bilmodell fra Fiat, som ble produsert mellom 1983 og 1995, vant prisen «Årets Bil i Europa» i 1984. Hvilket enkelt kortspill har samme navn som bilmodellen?",
+      "answer": "Uno",
+      "aliases": [
+        "Fiat Uno"
+      ]
+    },
+    {
+      "question": "Etter suksessen med Chess, som jo var basert på et brettspill, lanserte Idar Vollvik et nytt mobilselskap i 2009, også inspirert av et brettspill. Hva het det nye selskapet?",
+      "answer": "Ludo",
+      "aliases": [
+        "Ludo Mobil",
+        "Ludo Mobil AS"
+      ]
+    },
+    {
+      "question": "Hvilket klassisk brettspill som spilles på et sjakkbrett, blir til en eldre jente dersom du legger til én bokstav?",
+      "answer": "Dam(e)",
+      "aliases": [
+        "Dame"
+      ]
+    },
+    {
+      "question": "I hvilket eventyrlig brettspill foregår hele konkurransen på et kart av Afrika?",
+      "answer": "Den forsvunne diamant",
+      "aliases": [
+        "Den forsvunne diamant (Afrika)",
+        "Afrikan Tahti"
+      ]
+    },
+    {
+      "question": "Hvilken by i det sydlige Frankrike, kjent for sin middelalderbebyggelse, har gitt navn til et populært brettspill?",
+      "answer": "Carcassonne"
+    }
+  ]
+}
