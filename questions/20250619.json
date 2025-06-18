@@ -1,0 +1,57 @@
+{
+  "theme": "Oscar-vinnere",
+  "questions": [
+    {
+      "question": "I filmen Perfect Stranger spiller Bruce Willis mot en tidligere Oscar-vinner med bærlig navn. Hva heter hun?",
+      "answer": "Halle Berry",
+      "aliases": [
+        "Halle Marie Berry",
+        "Berry",
+        "Marie Halle Berry"
+      ]
+    },
+    {
+      "question": "Hvilken dobbel Oscar-vinner spilte hovedrollen i filmen The Devil Wears Prada?",
+      "answer": "Meryl Streep",
+      "aliases": [
+        "Streep"
+      ]
+    },
+    {
+      "question": "I 1991 og 1992 hadde filmene som vant Oscar for beste film et dyr med i den engelske tittelen. Disse dyrene passer ikke så godt sammen. Hvilke to dyr?",
+      "answer": "Ulv og sau. Dances with Wolves og The Silence of the Lambs",
+      "aliases": [
+        "Ulv og sau",
+        "Ulv og sauer",
+        "Sau og ulv",
+        "Sau og ulver",
+        "Sauer, ulver",
+        "Sauer, ulv",
+        "Lammer og ulver",
+        "Lam og ulv",
+        "Lam, ulver",
+        "Lam, ulv",
+        "Lam, sauer",
+        "Lam, sau",
+        "Lam, sau",
+        "Lam, sauer",
+        "Lam og ulv",
+        "Ulv og lam",
+        "Ulver og lam"
+      ]
+    },
+    {
+      "question": "Hvilken Disney-produksjon med spiselig navn vant Oscar for beste animerte spillefilm under prisutdelingen i 2008?",
+      "answer": "Ratatouille"
+    },
+    {
+      "question": "Hun vant Oscar for beste kvinnelige hovedrolle for sin innsats  i filmen «Funny Girl», men er mer kjent for sin vakre stemme og en særegen 'effekt'. Navnet takk!",
+      "answer": "Barbra Streisand",
+      "aliases": [
+        "Barbra Joan Streisand",
+        "Streisand",
+        "Streisand-effekten"
+      ]
+    }
+  ]
+}
