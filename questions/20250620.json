@@ -1,0 +1,39 @@
+{
+  "theme": "Svaret starter på 'F'",
+  "questions": [
+    {
+      "question": "Hva het myntenheten i Luxembourg før de gikk over til euro?",
+      "answer": "Franc",
+      "aliases": [
+        "Luxembourg franc"
+      ]
+    },
+    {
+      "question": "Hvilket svært giftig grunnstoff med atomnummer 9 har ført til bedre helse i den vestlige verden de siste 40 år?",
+      "answer": "Fluor",
+      "aliases": [
+        "F  "
+      ]
+    },
+    {
+      "question": "Hva kalles den islamske juridiske betenkningen som bl.a Salman Rushdie ble offer for i 1989?",
+      "answer": "Fatwa"
+    },
+    {
+      "question": "Hvem ble arrestert den 26. juli 1953 etter et mislykket kupp mot diktatoren Battista?",
+      "answer": "Fidel Castro",
+      "aliases": [
+        "Fidel Alejandro Castro Ruz",
+        "Castro",
+        "Fidel"
+      ]
+    },
+    {
+      "question": "Hva heter det amerikanske magasinet som hvert år rangerer verdens rikeste mennesker?",
+      "answer": "Forbes",
+      "aliases": [
+        "Forbes Magazine"
+      ]
+    }
+  ]
+}
