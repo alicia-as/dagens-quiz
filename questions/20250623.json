@@ -1,0 +1,40 @@
+{
+  "theme": "På skiva",
+  "questions": [
+    {
+      "question": "Hvilket fløyelsmykt pålegg deler navn med USAs sjette største by?",
+      "answer": "Philadelphia",
+      "aliases": [
+        "Philly"
+      ]
+    },
+    {
+      "question": "Øygruppen som utgjør Borneo, Sulawesi, Java og Sumatra har samme navn som et klissete pålegg. Hvilket?",
+      "answer": "Sunda",
+      "aliases": [
+        "Sunda-øyene",
+        "Sundaøyene"
+      ]
+    },
+    {
+      "question": "Hvilket populært pålegg har vært produsert på Hamar siden 1949 og har fått sitt navn derfra?",
+      "answer": "HaPå (Hamarpålegg)",
+      "aliases": [
+        "Hamarpålegg",
+        "HaPå"
+      ]
+    },
+    {
+      "question": "Hvilket pålegg, som er «populært» i jula, har samme navn som en mineralvannprodusent i Molde?",
+      "answer": "Sylte (Oskar)",
+      "aliases": [
+        "Sylte",
+        "Oskar Sylte"
+      ]
+    },
+    {
+      "question": "Hvilke av påleggene som du kan kjøpe i dagligvarehandelen har, på tross av sin sterke bismak, lengst holdbarhet?",
+      "answer": "Honning"
+    }
+  ]
+}
