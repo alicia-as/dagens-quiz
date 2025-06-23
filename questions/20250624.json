@@ -1,0 +1,29 @@
+{
+  "theme": "Svaret begynner på 'D'",
+  "questions": [
+    {
+      "question": "Med både et fornavn og et etternavn som begynner på 'D', hvem spilte hovedrollen som Hank Moody i TV-serien Californication?",
+      "answer": "David Duchovny",
+      "aliases": [
+        "Duchovny",
+        "David"
+      ]
+    },
+    {
+      "question": "Hva heter Andeby på originalspråket?",
+      "answer": "Duckburg"
+    },
+    {
+      "question": "Apropos forrige spørsmål, en av de største turistattraksjonene i Tennessee har tatt navn etter en av de største artistene i USA. Hva heter stedet?",
+      "answer": "Dollywood"
+    },
+    {
+      "question": "Hvilket selskap med historie tilbake til 1851 har samme navn som en figur i Andeby og er kanskje mest kjent for sin produksjon av ananas og bananer?",
+      "answer": "Dole"
+    },
+    {
+      "question": "Hva er den latinsskke bettegneslen for ordblindhet?",
+      "answer": "Dysleksi"
+    }
+  ]
+}
