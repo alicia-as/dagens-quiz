@@ -1,0 +1,32 @@
+{
+  "theme": "Amerikanske delstater på 'M'",
+  "questions": [
+    {
+      "question": "Hvilken av de amerikanske delstatene på østkysten, der hovedstaden heter Augusta, ligger lengst nord?",
+      "answer": "Maine"
+    },
+    {
+      "question": "Med hovedstad Helena og en kjent Hannah med samme navn, hva heter USAs fjerde største delstat?",
+      "answer": "Montana"
+    },
+    {
+      "question": "Annapolis er hovedstad i en amerikansk delstat som også har et jentenavn i seg. Hva heter den?",
+      "answer": "Maryland"
+    },
+    {
+      "question": "På hvilken elv, med samme navn som en delstat, foregår handlingen i boken «Huckleberry Finn»",
+      "answer": "Mississippi",
+      "aliases": [
+        "Mississippi-elven"
+      ]
+    },
+    {
+      "question": "Hvilken av de store sjøene i Nord-Amerika har samme navn som en av USAs delstater?",
+      "answer": "Michigan",
+      "aliases": [
+        "Lake Michigan",
+        "Michigan-sjøen"
+      ]
+    }
+  ]
+}
