@@ -1,0 +1,38 @@
+{
+  "theme": "Harry Potter's verden",
+  "questions": [
+    {
+      "question": "Hva heter forfatteren som har skapt Harry Potter-universet?",
+      "answer": "J. K. Rowling",
+      "aliases": [
+        "Joanne Rowling",
+        "Joanne Rowling K. Rowling",
+        "J.K. Rowling"
+      ]
+    },
+    {
+      "question": "Hvem spiller rollen som Hermine Grang (Hermione Granger)?",
+      "answer": "Emma Watson"
+    },
+    {
+      "question": "Robert Pattinson spilte rollen som Fredrik Djervell (Cedric Diggory). Så slo han gjennom som Edward Cullen. I hvilken film-serie?",
+      "answer": "The Twilight Saga",
+      "aliases": [
+        "Twilight"
+      ]
+    },
+    {
+      "question": "Hva er tittelen på den første av filmene om Harry Potter fra 2001?",
+      "answer": "Harry Potter og de vises stein",
+      "aliases": [
+        "Harry Potter and the Philosopher's Stone",
+        "De vises stein",
+        "Harry Potter and the Sorcerer's Stone"
+      ]
+    },
+    {
+      "question": "Fra hvilket fengsel rømmer Sirius Svaart i filmen fra 2004?",
+      "answer": "Azkaban"
+    }
+  ]
+}
