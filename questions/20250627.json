@@ -1,0 +1,40 @@
+{
+  "theme": "Flott Fugl 🦅🦢🦉",
+  "questions": [
+    {
+      "question": "Hva heter fuglearten med et vingespenn på fire meter som hekker høyt oppe i Andesfjellene? Alle golfspillere har hørt om den, men nesten ingen har fått den selv!",
+      "answer": "Kondor",
+      "aliases": [
+        "Andeskondor",
+        "Vandrefalk"
+      ]
+    },
+    {
+      "question": "Hvilken fugleart, som blant annet preger baksiden av £10-seddelen, er verdens minste?",
+      "answer": "Kolibri",
+      "aliases": [
+        "Hummingbird"
+      ]
+    },
+    {
+      "question": "Hvem er mor til gjøkungene i sangen «Jeg gikk en tur på stien»?",
+      "answer": "Fru Spurv",
+      "aliases": [
+        "Spurvemor",
+        "Spurven"
+      ]
+    },
+    {
+      "question": "Hvilken film av selskapet Rovio med internasjonal suksess i 2016 hadde selvfølgelig premiere i Finland før den hadde premiere i USA?",
+      "answer": "Angry Birds"
+    },
+    {
+      "question": "Hvilken by i Wales kan få deg til å tenke på et meget berømt musikkverk av Pjotr Illitsj Tsjajkovskij?",
+      "answer": "Swansea (Svanesjøen)",
+      "aliases": [
+        "Swansea",
+        "Swansea (Svanesjøen)"
+      ]
+    }
+  ]
+}
