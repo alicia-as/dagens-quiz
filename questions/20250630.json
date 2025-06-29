@@ -1,0 +1,38 @@
+{
+  "theme": "Katt 😺",
+  "questions": [
+    {
+      "question": "Hvilket kattedyr har et navn på engelsk som også er betegnelsen for modne kvinner som liker yngre menn?",
+      "answer": "Cougar / Puma",
+      "aliases": [
+        "Cougar",
+        "Puma",
+        "Mountain Lion"
+      ]
+    },
+    {
+      "question": "Hvilket britisk bilmerke, etablert i 1922, het opprinnelig Swallow Sidecar (SS), men skiftet av forståelige grunner til et mer kattemykt navn etter andre verdenskrig?",
+      "answer": "Jaguar"
+    },
+    {
+      "question": "Hvilket navn, som har vært brukt av flere paver, er også et vanlig navn på katter og brukes i enkelte land som navn på nyttårsaften?",
+      "answer": "Sylvester"
+    },
+    {
+      "question": "Hva heter teateret i Klingenberggata i Oslo, som har tatt sitt navn fra kattefamilien?",
+      "answer": "Chat Noir (Svart katt)",
+      "aliases": [
+        "Chat Noir",
+        "Svart katt"
+      ]
+    },
+    {
+      "question": "Han døde for 64 år siden, men hva het fysikeren, som på tross av at han fikk nobelprisen, i dag er mest kjent for sin katt",
+      "answer": "Erwin Schrödinger",
+      "aliases": [
+        "Schrödinger",
+        "Erwin"
+      ]
+    }
+  ]
+}
