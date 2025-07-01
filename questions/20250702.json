@@ -1,0 +1,34 @@
+{
+  "theme": "Ordtak",
+  "questions": [
+    {
+      "question": "Du skal få den første bokstaven i hvert ord og så skal du finne ut hvilket ordtak som skjuler seg bak bokstavene i følgende ordtak: UMODDHI.",
+      "answer": "Uten mat og drikke duger helten ikke",
+      "aliases": [
+        "Uten mat og drikke duger ikke helten"
+      ]
+    },
+    {
+      "question": "Hvilken italiensk by kan du se og så dø ifølge ordtaket?",
+      "answer": "Napoli"
+    },
+    {
+      "question": "Hvilket ordtak, som handler om slektningers likhet kan ha blitt oppfunnet av Isaac Newton etter at han fikk en gjenstand i hodet?",
+      "answer": "Eplet faller ikke langt fra stammen"
+    },
+    {
+      "question": "Spellemannprisen for 2010 ble delt ut i mars 2011. Hvilken rapgruppe, med et latinsk ordtak som navn, ble årets spellemenn? De har siden forkortet navnet sitt.",
+      "answer": "Karpe Diem",
+      "aliases": [
+        "Karpe"
+      ]
+    },
+    {
+      "question": "Du skal få den første bokstaven i hvert ord og så skal du finne ut hvilket ordtak som skjuler seg bak bokstavene i følgende ordtak: NKEBDMPB.",
+      "answer": "Når katten er borte danser musene på bordet",
+      "aliases": [
+        "Når katten er borte danser musene"
+      ]
+    }
+  ]
+}
