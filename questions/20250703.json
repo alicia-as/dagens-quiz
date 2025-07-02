@@ -1,0 +1,39 @@
+{
+  "theme": "Svaret starter på 'U'",
+  "questions": [
+    {
+      "question": "Hvilket europeisk land har blått og gult flagg, selv om de har hatt en oransje revolusjon?",
+      "answer": "Ukraina",
+      "aliases": [
+        "Ukraine"
+      ]
+    },
+    {
+      "question": "Under hvilket navn er United Nations Children's Fund bedre kjent?",
+      "answer": "UNICEF",
+      "aliases": [
+        "Unicef"
+      ]
+    },
+    {
+      "question": "Hvem spilte hovedrollen som The Bride i Kill Bill 2 fra 2004?",
+      "answer": "Uma Thurman",
+      "aliases": [
+        "Uma "
+      ]
+    },
+    {
+      "question": "Ukraina, Ungarn og Uruguay, USA og Usbekistan er 5 av 6 land som starter med 'U'. Hva er det siste landet?",
+      "answer": "Uganda"
+    },
+    {
+      "question": "Da han var ung het han Hiram, men han tok det latinske navnet for Odyssevs da han ble yrkesmilitær. Hvilken general fra den amerikanske borgerkrigen og senere president i USA snakker vi om?",
+      "answer": "Ulysses S. Grant",
+      "aliases": [
+        "Ulysses Grant",
+        "Grant",
+        "Ulysses"
+      ]
+    }
+  ]
+}
