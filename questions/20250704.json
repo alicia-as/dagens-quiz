@@ -1,0 +1,42 @@
+{
+  "theme": "Enda mer øl!",
+  "questions": [
+    {
+      "question": "I hvilken by ble bryggeriet Heineken etablert i 1863?",
+      "answer": "Amsterdam"
+    },
+    {
+      "question": "Hva slags dyr har ølmerket Frydenlund i sin logo?",
+      "answer": "Hest (med kjerre)",
+      "aliases": [
+        "Hest",
+        "Hest med kjerre"
+      ]
+    },
+    {
+      "question": "Hvilket bryggeri var først ute med mørketidsøl?",
+      "answer": "Macks Ølbryggeri",
+      "aliases": [
+        "Macks",
+        "Macks Ølbryggeri",
+        "Mack"
+      ]
+    },
+    {
+      "question": "Hvilket særnorsk ord i bokstaveringsalfabetet (Alfa, Bravo, Charlie osv.) har samme navn som et ølmerke?",
+      "answer": "Ægir",
+      "aliases": [
+        "Ægir"
+      ]
+    },
+    {
+      "question": "Hvilket bryggeri fra Stavanger-området kan også skrives som 2π?",
+      "answer": "Tau (τ)",
+      "aliases": [
+        "τ  ",
+        "Tau",
+        "Tau (τ)"
+      ]
+    }
+  ]
+}
