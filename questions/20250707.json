@@ -1,0 +1,44 @@
+{
+  "theme": "Fem luringer",
+  "questions": [
+    {
+      "question": "Hvilken makaber tittel har den amerikanske tv-serien som handler om en familie som driver begravelsesbyrå? En av hovedrolleinnehaverne, Michael C. Hall, ble senere kjent som Dexter.",
+      "answer": "Six Feet Under"
+    },
+    {
+      "question": "Askeladden møtte engang en kar som hadde femten vintre inne i seg. Hvor mange somre hadde han i kroppen?",
+      "answer": "Syv",
+      "aliases": [
+        "7  ",
+        "sju",
+        "7 somre"
+      ]
+    },
+    {
+      "question": "Hvor mange dager er det i en uke, skal vi tro Beatles-sangen fra 1964?",
+      "answer": "8  ",
+      "aliases": [
+        "8 dager",
+        "8 dager i uka"
+      ]
+    },
+    {
+      "question": "Hvor mange piler har du kastet dersom du avslutter en omgang 501 på den mest effektive måten?",
+      "answer": "9  ",
+      "aliases": [
+        "9 piler",
+        "9 piler p 501"
+      ]
+    },
+    {
+      "question": "I hvilken film fra 1979 var Bo Derek drømmekvinne?",
+      "answer": "Drømmekvinnen Ti",
+      "aliases": [
+        "Drømmekvinnen Ti",
+        "Ti  ",
+        "Ten ",
+        "10  "
+      ]
+    }
+  ]
+}
