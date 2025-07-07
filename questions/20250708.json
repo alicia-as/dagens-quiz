@@ -1,0 +1,43 @@
+{
+  "theme": "Fem luringer til",
+  "questions": [
+    {
+      "question": "I hvilken film fra 2001 spiller George Clooney samme karakter som Frank Sinatra gjorde i 1960?",
+      "answer": "Oceans Eleven",
+      "aliases": [
+        "Oceans Eleven",
+        "Eleven  ",
+        "11  "
+      ]
+    },
+    {
+      "question": "Hvor mange ganger må du kaste bowlingkula dersom du ønskerå tangere verdensrekorden på 300?",
+      "answer": "12  ",
+      "aliases": [
+        "12 piler",
+        "12 piler p 300"
+      ]
+    },
+    {
+      "question": "Hva heter togstasjonen i Gudbrandsdalen som har gitt navn til togulykken som inntraff like ved i 1975?",
+      "answer": "Tretten",
+      "aliases": [
+        "13  "
+      ]
+    },
+    {
+      "question": "Når en fransk kvinne sier «quatorze», hva mener hun da?",
+      "answer": "Fjorten",
+      "aliases": [
+        "14  "
+      ]
+    },
+    {
+      "question": "Hvor gammel var Anne Frank da hun døde like før krigens slutt i 1945?",
+      "answer": "Femten",
+      "aliases": [
+        "15  "
+      ]
+    }
+  ]
+}
