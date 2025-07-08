@@ -1,0 +1,46 @@
+{
+  "theme": "På børsen i New York",
+  "questions": [
+    {
+      "question": "Hvilket selskap ble grunnlagt i 1902 som Minnesota Mining and Manufacturing Company, men har i dag et av verdens korteste navn?",
+      "answer": "3M ",
+      "aliases": [
+        "3M Company",
+        "MMM"
+      ]
+    },
+    {
+      "question": "Hvilken teknologibedrift ble grunnlagt i 1911 som Computing Tabulating Recording Corporation, men har i dag et langt kortere navn?",
+      "answer": "IBM",
+      "aliases": [
+        "IBM Inc",
+        "International Business Machines"
+      ]
+    },
+    {
+      "question": "Hvilken legemiddelprodusent har et navn som kan fkk deg tilå tenke på noe man bør gjøre på do?",
+      "answer": "Pfizer",
+      "aliases": [
+        "Pfizer",
+        "Pfizer Laboratories"
+      ]
+    },
+    {
+      "question": "Hvilket medieselskap ble stiftet i 1923, og bærer navnet til Oscar-grossisten som stiftet det?",
+      "answer": "Disney",
+      "aliases": [
+        "Walt Disney",
+        "Disney Inc",
+        "Walt Disney Studios"
+      ]
+    },
+    {
+      "question": "Hvilket selskap, hvis hovedprodukt mange har på føttene, deler navn med en gresk seiersgudinne og 27 norske kvinner?",
+      "answer": "Nike",
+      "aliases": [
+        "Nike",
+        "Nike, Inc."
+      ]
+    }
+  ]
+}
