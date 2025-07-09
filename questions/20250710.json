@@ -1,0 +1,41 @@
+{
+  "theme": "Sjørøverviser",
+  "questions": [
+    {
+      "question": "Jeg er en sjørøver-kaptein av den gode gamle sorten, hei fadderi fadderullan dei. Hva heter jeg?",
+      "answer": "Sorte Bill"
+    },
+    {
+      "question": "Hvilken forfatter, med et etternavn som kan bli rasistisk om du stokker om bokstavene, har skrevet bøker som egner seg for barn? Han har også skrevet sjørøvervisa om meg?",
+      "answer": "Thorbjørn Egner"
+    },
+    {
+      "question": "Skuta har et damenavn og er very well bekrutta, hei fadderi fadderullan dei. Med samme navn som en ku i Donald, hva heter skuta?",
+      "answer": "Klara"
+    },
+    {
+      "question": "Vi røver til skuta er stappende full av saltmat og søtmat og penger og gull. Kan du nevne navnet på en av de andre på skuta?",
+      "answer": "Jack og gamle Billi, Petter Flint og Røde Willi",
+      "aliases": [
+        "Jack",
+        "Billi",
+        "Petter Flint",
+        "Røde Willi",
+        "game Billi",
+        "Billi og Jack",
+        "Billi og Petter Flint",
+        "Billi og Røde Willi",
+        "Petter",
+        "Flint",
+        "Willi"
+      ]
+    },
+    {
+      "question": "Jeg ble født 400 år før Panamakanalen åpnet, så hvilket år ble jeg født?",
+      "answer": "Femten hundre og fjorten",
+      "aliases": [
+        "1514 "
+      ]
+    }
+  ]
+}
