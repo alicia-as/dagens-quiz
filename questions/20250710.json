@@ -3,7 +3,12 @@
   "questions": [
     {
       "question": "Jeg er en sjørøver-kaptein av den gode gamle sorten, hei fadderi fadderullan dei. Hva heter jeg?",
-      "answer": "Sorte Bill"
+      "answer": "Sorte Bill",
+      "aliases": [
+        "Kaptein Sortebill",
+        "Sortebill",
+        "Kaptein Sorte Bill"
+      ]
     },
     {
       "question": "Hvilken forfatter, med et etternavn som kan bli rasistisk om du stokker om bokstavene, har skrevet bøker som egner seg for barn? Han har også skrevet sjørøvervisa om meg?",
