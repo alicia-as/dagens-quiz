@@ -1,0 +1,45 @@
+{
+  "theme": "Med et klesplagg i svaret (repeat)",
+  "announcement": "Denne uken tar quizmaster ferie. Spørsmålene er derfor såkalte repeats. God sommer!",
+  "questions": [
+    {
+      "question": "Java er med sine rundt 140 millioner innbyggere verdens mest folkerike øy. Hva heter den største byen på øya, som også skjuler et høyaktuelt utendørsplagg om man legger godviljen til?",
+      "answer": "Jakka-rta",
+      "aliases": [
+        "Jakarta",
+        "Jakka-rta"
+      ]
+    },
+    {
+      "question": "Hva var kallenavnet til gangsteren Al Capone, et navn han fikk etter uoverenstemmelser i en bar? I kallenavnet gjemmer det seg nok et høyaktuelt utendørsplagg!",
+      "answer": "Scarface (Skjerf)",
+      "aliases": [
+        "Scarface"
+      ]
+    },
+    {
+      "question": "Hun ble født i sovjetrepublikken Georgia i 1984 og slo gjennom med låten «The Closest Thing to Crazy» i 2004. Med nok et høyaktuelt plagg i navnet, hva heter hun?",
+      "answer": "Katie Melua (Lue)",
+      "aliases": [
+        "Katie Melua"
+      ]
+    },
+    {
+      "question": "Hvilket klesplagg har samme navn som det kjemiske symbolet til grunnstoffet med atomnummer 107, som for øvrig er oppkalt etter en danske?",
+      "answer": "BH (Bohrium)",
+      "aliases": [
+        "BH..",
+        "Brystholder"
+      ]
+    },
+    {
+      "question": "Hvilket klesplagg har fått sitt navn etter de amerikanske atomprøvesprengingene i Stillehavet?",
+      "answer": "Bikini (Atollen)",
+      "aliases": [
+        "Bikiniatollen",
+        "Bikini",
+        "Bikinien"
+      ]
+    }
+  ]
+}

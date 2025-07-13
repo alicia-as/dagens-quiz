@@ -1,0 +1,49 @@
+{
+  "theme": "Mars (repeat)",
+  "announcement": "Denne uken tar quizmaster ferie. Spørsmålene er derfor såkalte repeats. God sommer!",
+  "questions": [
+    {
+      "question": "Hva heter de to månene som kretser rundt planeten Mars?",
+      "answer": "Phobos og Deimos",
+      "aliases": [
+        "Phobos & Deimos",
+        "Deimos og Phobos",
+        "Deimos & Phobos",
+        "phobos, deimos",
+        "deimos, phobos"
+      ]
+    },
+    {
+      "question": "I hvilken by fikk den franske nasjonalsangen sitt gjennombrudd, noe som har gitt melodien sitt kallenavn?",
+      "answer": "Marseille (Marseillaisen)",
+      "aliases": [
+        "Marseillaisen",
+        "Marseille"
+      ]
+    },
+    {
+      "question": "Hvilket dyr finner man på engelsk navn i hele fire land i verden?",
+      "answer": "Marsvinet (Guinea pig)",
+      "aliases": [
+        "Guinea pig",
+        "Marsvin",
+        "Marsvinet",
+        "Guinea"
+      ]
+    },
+    {
+      "question": "Hvilken komponist og pianist, som regnes blant de største, døde i mars 1827?",
+      "answer": "Ludwig van Beethoven",
+      "aliases": [
+        "Beethoven",
+        "Ludvig van Beethoven",
+        "Ludvig Beethoven",
+        "Ludwig Beethoven"
+      ]
+    },
+    {
+      "question": "Hvilket grevskap med deilig navn ble kjøpt av feltmarskalk Gustav Wilhelm von Wedel i 1683?",
+      "answer": "Jarlsberg"
+    }
+  ]
+}

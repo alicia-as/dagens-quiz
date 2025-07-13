@@ -1,0 +1,54 @@
+{
+  "theme": "Triksing med siste bokstav (repeat)",
+  "announcement": "Denne uken tar quizmaster ferie. Spørsmålene er derfor såkalte repeats. God sommer!",
+  "questions": [
+    {
+      "question": "Hvilket land har et navn som blir til landets erkefiende dersom du bytter ut den siste bokstaven?",
+      "answer": "Både Irak og Iran",
+      "aliases": [
+        "Irak",
+        "Iran",
+        "Irak og Iran",
+        "Iran og Irak",
+        "Irak eller Iran",
+        "Iran eller Irak",
+        "Irak, Iran",
+        "Iran, Irak",
+        "Iran/Irak",
+        "Irak/Iran"
+      ]
+    },
+    {
+      "question": "Hvilken plante blir til en kjærlighetsgud dersom du flytter den siste bokstaven fremst i ordet?",
+      "answer": "Rose -> Eros",
+      "aliases": [
+        "Rose",
+        "Eros"
+      ]
+    },
+    {
+      "question": "Hva heter hovedstaden i Delaware, USA, som har et navn som bringer tankene hen på Vera Lynns mest berømte sang fra 1942? Tar du vekk siste bokstaven får du en såpe.",
+      "answer": "Dover",
+      "aliases": [
+        "Dove"
+      ]
+    },
+    {
+      "question": "Hvilket verb i infinitiv begynner og slutter på samme konsonant, ikke bare det, den nest siste bokstaven er den samme?",
+      "answer": "Å sloss",
+      "aliases": [
+        "Slåss",
+        "Sloss",
+        "Å slåss"
+      ]
+    },
+    {
+      "question": "Hvilken stor kanadisk by ligger ved Ontariosjøen? Legger du sammen de to første- og de to siste bokstavene i navnet får du fire.",
+      "answer": "Toronto",
+      "aliases": [
+        "Tor",
+        "Ronto"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "theme": "Trekantet 🔺 (repeat)",
+  "announcement": "Denne uken tar quizmaster ferie. Spørsmålene er derfor såkalte repeats. God sommer!",
+  "questions": [
+    {
+      "question": "Hvilket av antikkens syv underverker er det eneste som eksisterer i dag?",
+      "answer": "Kheopspyramiden",
+      "aliases": [
+        "Kheops-pyramiden",
+        "Kheops",
+        "Pyramiden",
+        "Pyramiden i Giza",
+        "Pyramiden i Giza (Kheopspyramiden)",
+        "Pyramidene"
+      ]
+    },
+    {
+      "question": "Hvilket land i Europa har et flagg som bl.a. inneholder åtte blå trekanter?",
+      "answer": "Storbritannia",
+      "aliases": [
+        "Great Britain",
+        "Stor britannia"
+      ]
+    },
+    {
+      "question": "Hva kaller vi læren om måling av trekanter?",
+      "answer": "Trigonometri",
+      "aliases": [
+        "Geometri"
+      ]
+    },
+    {
+      "question": "Apropos forrige spørsmål: hypotenusen er den lengste siden i en rettvinklet trekant. Med samme navn som et rør man injiserer væske med, hva heter de korteste sidene?",
+      "answer": "Kateter",
+      "aliases": [
+        "Katetene",
+        "Katet"
+      ]
+    },
+    {
+      "question": "Sjakkbrettet har 64 ruter. Hvor mange triangler/felter har et backgammonbrett?",
+      "answer": "24  ",
+      "aliases": [
+        "Tjuefire"
+      ]
+    }
+  ]
+}
