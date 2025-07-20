@@ -1,0 +1,43 @@
+{
+  "theme": "Hovedsteder i Afrika (repeat)",
+  "announcement": "Også denne uken tar quizmaster ferie. Spørsmålene er derfor såkalte repeats. God sommer!",
+  "questions": [
+    {
+      "question": "En av Afrikas største hovedsteder har et navn som kan få deg til å tenke på en stille plass ved havnen. Hva heter den?",
+      "answer": "Kairo",
+      "aliases": [
+        "Cairo"
+      ]
+    },
+    {
+      "question": "Hvilken afrikansk hovedstad har samme navn som en libanesisk by, begge avledet av det greske ordet for «tre byer»?",
+      "answer": "Tripoli",
+      "aliases": [
+        "Tripoli, Libya"
+      ]
+    },
+    {
+      "question": "Antananarivo er hovedstaden i et land som er verdens fjerde største øy. Hvilket land?",
+      "answer": "Madagaskar",
+      "aliases": [
+        "Madagascar"
+      ]
+    },
+    {
+      "question": "Cape Town og Bloemfontein er to av tre hovedsteder i et Sør-Afrika. Hva heter den tredje, som kan få deg til å tenke på et rovdyr dersom du er svært dyslektisk?",
+      "answer": "Pretoria (predatoria)",
+      "aliases": [
+        "Pretoria"
+      ]
+    },
+    {
+      "question": "Hva heter Liberias hovedstad, som er oppkalt etter USAs femte president? Den kunne forøvrig også vært oppkalt etter det norske bandet som sto bak hiten «Cheerio»!",
+      "answer": "Monrovia (James Monroe, Monroes)",
+      "aliases": [
+        "Monrovia",
+        "Monroes",
+        "Monroe"
+      ]
+    }
+  ]
+}

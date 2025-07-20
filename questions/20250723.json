@@ -1,0 +1,35 @@
+{
+  "theme": "Hovedsteder i Asia (repeat)",
+  "announcement": "Også denne uken tar quizmaster ferie. Spørsmålene er derfor såkalte repeats. God sommer!",
+  "questions": [
+    {
+      "question": "Hvilken hovedstad, som er blant verdens største i folketall, ligger på øya Java?",
+      "answer": "Jakarta"
+    },
+    {
+      "question": "Hvilket 'stan'-land har en hovedstad som blir til et solokortspill hvis du bytter ut én bokstav?",
+      "answer": "Afghanistan, med hovedstaden Kabul (kabal)",
+      "aliases": [
+        "Afghanistan",
+        "Kabul",
+        "Kabul (Afghanistan)",
+        "Kabal"
+      ]
+    },
+    {
+      "question": "Hva heter hovedstaden i Saudi Arabia?",
+      "answer": "Riyadh"
+    },
+    {
+      "question": "Azeribaijans hovedstad har et navn som også kan skrives som 'V'. Hva heter byen?",
+      "answer": "Baku (bak 'u')",
+      "aliases": [
+        "Baku"
+      ]
+    },
+    {
+      "question": "Hvilket land har et areal som er en tredjedel av Sveriges areal, har 170 millioner innbyggere og en hovedstad som heter Dhaka?",
+      "answer": "Bangladesh"
+    }
+  ]
+}

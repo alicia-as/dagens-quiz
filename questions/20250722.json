@@ -1,0 +1,47 @@
+{
+  "theme": "Fjern en bokstav! (repeat)",
+  "announcement": "Også denne uken tar quizmaster ferie. Spørsmålene er derfor såkalte repeats. God sommer!",
+  "questions": [
+    {
+      "question": "Hvilket optisk instrument blir til en belgfrukt dersom du fjerner en 'k' i midten?",
+      "answer": "Kikkert (Kikert)",
+      "aliases": [
+        "Kikkert",
+        "Kikkerter"
+      ]
+    },
+    {
+      "question": "Hvilken nasjonalpark, beliggende i fjellområdene nord i Hedmark og Oppland, blir til en såpe dersom du fjerner en konsonant?",
+      "answer": "Dovre (Dove)",
+      "aliases": [
+        "Dovre",
+        "Dovrefjell",
+        "Dovre nasjonalpark"
+      ]
+    },
+    {
+      "question": "Hvilken japansk kampsport, hvor utøverne forsøker å hugge hverandre med bambussverd, betyr 'Sverdets vei'? Tar du bort en bokstav, får du et av Norsk Tippings spill.",
+      "answer": "Kendo (Keno)",
+      "aliases": [
+        "Kendo",
+        "Keno"
+      ]
+    },
+    {
+      "question": "Hva heter Sør-Afrikas største havneby, som har mer enn 3 millioner innbyggere? Tar du vekk første bokstav i navnet blir det en skikkelig by. Putter du deretter inn en ny bokstav får du et hodeplagg. ",
+      "answer": "Durban (Urban, Turban)",
+      "aliases": [
+        "Durban",
+        "Urban"
+      ]
+    },
+    {
+      "question": "Hvilken elv står for 80 % av vanntilførselen til Kaspihavet? Tar du vekk forbokstaven får du et jentenavn som i visse sammenhenger ofte blir ropt opp!",
+      "answer": "Volga (Olga)",
+      "aliases": [
+        "Volga",
+        "Olga"
+      ]
+    }
+  ]
+}
