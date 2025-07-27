@@ -1,0 +1,44 @@
+{
+  "theme": "Elver 💦",
+  "announcement": "Velkommen tilbake fra sommerferie!",
+  "questions": [
+    {
+      "question": "Hvilken elv som betyr 'den himmelske elv' regnes av hinduene for den helligste av alle elver?",
+      "answer": "Ganges",
+      "aliases": [
+        "Gangeselven",
+        "Ganges-elven",
+        "Gangeselva",
+        "Ganges-elva"
+      ]
+    },
+    {
+      "question": "Hvilken mystisk elv var det Julius Cæsar krysset etter sine berømte ord «Alea iacta est»?",
+      "answer": "Rubicon"
+    },
+    {
+      "question": "Hvilken afrikansk elv, med et palindromsk navn som også er et vaskemiddel, har sitt utløp i Turkanasjøen i Riftdalen?",
+      "answer": "Omo ",
+      "aliases": [
+        "Omoelven",
+        "Omo-elven",
+        "Omoelva",
+        "Omo-elva"
+      ]
+    },
+    {
+      "question": "Hvilken elv i Oppland har samme navn som en gedigen vulkan i Middelhavet?",
+      "answer": "Etna"
+    },
+    {
+      "question": "Ved hvilken elv ligger byen Kinshasa?",
+      "answer": "Kongo",
+      "aliases": [
+        "Kongoelven",
+        "Kongo-elven",
+        "Kongoelva",
+        "Kongo-elva"
+      ]
+    }
+  ]
+}
