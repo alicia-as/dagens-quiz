@@ -1,0 +1,31 @@
+{
+  "theme": "Planeter og himellegemer 🪐",
+  "questions": [
+    {
+      "question": "Hvilken planet har fire måner som er kjent som «de galileiske måner»? ",
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Hva het den tyske astronomen som fremsatte de tre lover for planetenes bevegelser tidlig på 1600-tallet?",
+      "answer": "Johannes Kepler",
+      "aliases": [
+        "Kepler"
+      ]
+    },
+    {
+      "question": "Hvilket radioaktivt grunnstoff ble oppdaget i 1940 og ble oppkalt etter en planet som igjen var oppkalt etter underverdenens gud i romersk mytologi?",
+      "answer": "Pluto (som fremdeles var planet i 1940)",
+      "aliases": [
+        "Pluto"
+      ]
+    },
+    {
+      "question": "Pluto mistet status som planet i 2006. Hvilken planet regner vi derfor nå som den ytterste i vårt solsystem?",
+      "answer": "Neptun"
+    },
+    {
+      "question": "Hvilken planet befinner seg gjennomsnittlig 108 millioner kilometer fra Solen?",
+      "answer": "Venus"
+    }
+  ]
+}
