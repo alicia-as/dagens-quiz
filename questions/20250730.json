@@ -1,0 +1,46 @@
+{
+  "theme": "Iskrem",
+  "questions": [
+    {
+      "question": "Hvilken iskrem kan i år feire 72 års jubileum og hadde i en periode «helt riktig» navn, noe inflasjonen har endret på?",
+      "answer": "Kroneis",
+      "aliases": [
+        "Krone-is",
+        "Krone is"
+      ]
+    },
+    {
+      "question": "Hva heter iskremfabrikken som påstår at de lager «Kremen av iskrem»?",
+      "answer": "Hennig-Olsen",
+      "aliases": [
+        "Hennig Olsen",
+        "Henning Olsen"
+      ]
+    },
+    {
+      "question": "Hva heter iskremprodusenten som ble etablert av hippiene Ben Cohen og Jerry Greenfield i 1977?",
+      "answer": "Ben & Jerry's",
+      "aliases": [
+        "Ben & Jerry's",
+        "Ben & Jerry"
+      ]
+    },
+    {
+      "question": "Hvilken Diplom-is, som har vært på markedet siden 1950, har en bikinikledd dame på ispapiret?",
+      "answer": "PinUp",
+      "aliases": [
+        "Pin-up"
+      ]
+    },
+    {
+      "question": "Hvilken is med colasmak ble skapt av Paal Hennig-Olsen og Terje Formoe?",
+      "answer": "Kaptein Sabeltann-is",
+      "aliases": [
+        "Kaptein Sabeltann",
+        "Kaptein Sabeltann is",
+        "Sabeltann",
+        "Sabeltann is"
+      ]
+    }
+  ]
+}
