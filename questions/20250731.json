@@ -1,0 +1,31 @@
+{
+  "theme": "Byer med betydning",
+  "questions": [
+    {
+      "question": "Hvilket yndet feriemål ved Adriaterhavet er også noe man kan oppleve i bowling om man er uheldig?",
+      "answer": "Split"
+    },
+    {
+      "question": "Sør-Afrikas sjette største by har et navn som på norsk betyr 'blomsterkilden'. Hvilken by tenker vi på?",
+      "answer": "Bloemfontein"
+    },
+    {
+      "question": "Hvilken tysk by har et navn som også er et verb de fleste av oss gjør hver dag (på tysk)?",
+      "answer": "Essen (Å spise)",
+      "aliases": [
+        "Essen"
+      ]
+    },
+    {
+      "question": "Hvilken øst-europeisk hovedstad har et navn som også er imperativ av det motsatte av å øke?",
+      "answer": "Minsk, Belarus",
+      "aliases": [
+        "Minsk"
+      ]
+    },
+    {
+      "question": "Russlands femtende største by har med sine fire bokstaver et kort navn som de fleste militære ser frem til. Hva heter byen?",
+      "answer": "Perm"
+    }
+  ]
+}
