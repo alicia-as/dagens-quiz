@@ -1,0 +1,36 @@
+{
+  "theme": "August",
+  "announcement": "Velkommen til ny måned! 🥳",
+  "questions": [
+    {
+      "question": "Augusta er hovedstad i USAs østligste delstat (av de sammenhengende 48). Hva heter den?",
+      "answer": "Maine"
+    },
+    {
+      "question": "Hvem var keiser i Roma på tiden da Jesus ble født ifølge evangeliet?",
+      "answer": "Augustus",
+      "aliases": [
+        "Augustus Cæsar",
+        "Keiser Augustus"
+      ]
+    },
+    {
+      "question": "Hvilken kjent person ble født 4. august 1961 i Honolulu på Hawaii?",
+      "answer": "Barack Obama",
+      "aliases": [
+        "Obama"
+      ]
+    },
+    {
+      "question": "Med fornavn Augusto, hvem hersket i Chile fra 11. september 1973?",
+      "answer": "Augosto Pinochet",
+      "aliases": [
+        "Pinochet"
+      ]
+    },
+    {
+      "question": "Hvilken ubåt, med samme navn som en by, gikk til bunns i Barentshavet i august 2000?",
+      "answer": "Kursk"
+    }
+  ]
+}
