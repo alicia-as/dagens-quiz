@@ -1,0 +1,39 @@
+{
+  "theme": "Svaret begynner på 'Q'",
+  "questions": [
+    {
+      "question": "En av verdens høyest beliggende hovedsteder ligger bare 25 km sør for ekvator. Hva heter den?",
+      "answer": "Quito, Ecuador",
+      "aliases": [
+        "Quito"
+      ]
+    },
+    {
+      "question": "Australias nordøstlige stat kunne fått navnet Cooksland, men fikk i stedet sitt navn for å ære en annen. Hva heter delstaten?",
+      "answer": "Queensland"
+    },
+    {
+      "question": "I årene 1854 til 1865 tok Canada imot 44.100 norske utvandrere, mens bare 520 reiste til New York. Hvilken havneby i Canada var anløpshavn?",
+      "answer": "Quebec City",
+      "aliases": [
+        "Quebec",
+        "Quebec By"
+      ]
+    },
+    {
+      "question": "Hva heter det humoristiske quiz-showet på BBC der Stephen Fry er programleder?",
+      "answer": "QI (Quite Interesting)",
+      "aliases": [
+        "QI ",
+        "Quite Interesting"
+      ]
+    },
+    {
+      "question": "Hvilket flyselskap, stiftet i 1920, blir kalt «The Flying Kangaroo» og har ikke hatt en eneste dødsulykke med noen av sine jetfly?",
+      "answer": "Qantas",
+      "aliases": [
+        "Qantas Airways"
+      ]
+    }
+  ]
+}
