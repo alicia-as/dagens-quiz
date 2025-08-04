@@ -1,0 +1,40 @@
+{
+  "theme": "Felles fornavn",
+  "questions": [
+    {
+      "question": "Den ene var musiker med nr. 1 hits over hele verden, den andre fikk bank da Cassius Clay ble verdensmester i boksing. Hvilket felles fornavn hadde de to?",
+      "answer": "Sonny (Liston og Bono)",
+      "aliases": [
+        "Sonny"
+      ]
+    },
+    {
+      "question": "Tennisspilleren Stefan Edberg tapte Wimbledon-finalen mot en i 1989. Sjakkspilleren Bobby Fischer vant over en annen i 1972. En tredje skrev om en doktor i Sovjetunionen. Hvilket felles fornavn snakker vi om?",
+      "answer": "Boris (Becker, Spasskij og Pasternak)",
+      "aliases": [
+        "Boris"
+      ]
+    },
+    {
+      "question": "Oppfinnerne av morsealfabet og Colt-revolveren hadde samme fornavn. Hvilket?",
+      "answer": "Samuel (Morse og Colt)",
+      "aliases": [
+        "Samuel"
+      ]
+    },
+    {
+      "question": "En fransk motedesigner, en sørafrikansk kirurg og en norsk statsminister hadde alle samme fornavn. Hvilket?",
+      "answer": "Christian (Dior, Barnard, Michelsen)",
+      "aliases": [
+        "Christian"
+      ]
+    },
+    {
+      "question": "En tysk luftskipskonstruktør, en portugisisk oppdager, en tysk bilkonstruktør, en norsk maler og en filippinsk president hadde alle samme fornavn. Hvilket?",
+      "answer": "Ferdinand (Zeppelin, Magellan, Porsche, Finne og Marcos)",
+      "aliases": [
+        "Ferdinand"
+      ]
+    }
+  ]
+}
