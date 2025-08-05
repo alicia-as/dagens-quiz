@@ -1,0 +1,37 @@
+{
+  "theme": "Lilla 🟣🟣🟣🟣🟣",
+  "questions": [
+    {
+      "question": "Hvilket merkelig værfenomen er tittelen på Prince sitt album fra 1984?",
+      "answer": "Purple Rain"
+    },
+    {
+      "question": "Hva heter den flekkete hesten til Pippi Langstrømpe?",
+      "answer": "Lilla Gubben",
+      "aliases": [
+        "Lilla Gubbe"
+      ]
+    },
+    {
+      "question": "I hvilket legendarisk hardrockband har Ian Gillan vært vokalist i en mannsalder?",
+      "answer": "Deep Purple"
+    },
+    {
+      "question": "Den kjente regissøren som regisserte filmen «Kairos røde rose» (The Purple Rose of Cairo) i 1985 står også bak mer kjente titler som «Midnight in Paris» og «Annie Hall». Hvem er det snakk om?",
+      "answer": "Woody Allen",
+      "aliases": [
+        "Woody",
+        "Woody Allen",
+        "Allen"
+      ]
+    },
+    {
+      "question": "Hvilken artist, som er med i den infamøse 27-klubben, sto bak sangen «Purple Haze»?",
+      "answer": "Jimi Hendrix",
+      "aliases": [
+        "Jimi",
+        "Hendrix"
+      ]
+    }
+  ]
+}
