@@ -1,0 +1,43 @@
+{
+  "theme": "Fjern to bokstaver",
+  "questions": [
+    {
+      "question": "Hvilket afrikansk land blir til en av Obamas døtre dersom du fjerner de to første bokstavene?",
+      "answer": "Somalia, som blir til Malia",
+      "aliases": [
+        "Somalia",
+        "Malia"
+      ]
+    },
+    {
+      "question": "Hvilken verdenskjent person, som vi fremdeles venter på, blir til en verdenskjent fotballspiller dersom du fjerner de to siste bokstavene?",
+      "answer": "Messias, som blir til Messi",
+      "aliases": [
+        "Messias",
+        "Messi"
+      ]
+    },
+    {
+      "question": "Hvis man fjerner de to siste bokstavene i navnet på et land i verden, får man navnet på et tilgrensende land. Hvilket land?",
+      "answer": "Nigeria",
+      "aliases": [
+        "Niger"
+      ]
+    },
+    {
+      "question": "En av Europas største byer blir til en av verdens mest spiste kornslag om du fjerner de to første bokstavene. Hva heter byen?",
+      "answer": "Paris",
+      "aliases": [
+        "Pari",
+        "Ris"
+      ]
+    },
+    {
+      "question": "Hvilken asiatisk hovedstad blir til en psykisk lidelse dersom du fjerner de to siste bokstavene?",
+      "answer": "Manila",
+      "aliases": [
+        "Mani"
+      ]
+    }
+  ]
+}
