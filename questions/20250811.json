@@ -1,0 +1,32 @@
+{
+  "theme": "På andre tanker",
+  "questions": [
+    {
+      "question": "Hvilken bitteliten kommune i det vestlige Finnmark, både i folketall og i navn, kan få deg til å tenke på et uønsket, men akk så levende vesen?",
+      "answer": "Loppa kommune",
+      "aliases": [
+        "Loppa"
+      ]
+    },
+    {
+      "question": "Troposfæren er den laveste delen av jordens atmosfære. Hva kalles den delen som ligger over troposfæren (der temperaturen stiger) og som kan få deg til å tenke på en bestemt sjokolade?",
+      "answer": "Stratosfæren",
+      "aliases": [
+        "Stratosfære",
+        "Stratos"
+      ]
+    },
+    {
+      "question": "Hovedstaden i den franske regionen Bourgogne har et navn som kan få deg til å tenke på sennep. Hva heter den?",
+      "answer": "Dijon"
+    },
+    {
+      "question": "Naboregionen til Bourgogne i nord har et navn som ikke bare kan, men garantert får deg til å tenke på en drikke. Hva heter regionen?",
+      "answer": "Champagne"
+    },
+    {
+      "question": "De første skuddene i den amerikanske borgerkrigen falt i en by i Sør-Carolina som også kan få deg til å tenke på en dans. Hvilken by?",
+      "answer": "Charleston"
+    }
+  ]
+}
