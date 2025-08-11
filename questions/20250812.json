@@ -1,0 +1,35 @@
+{
+  "theme": "Samma vakal i svarat",
+  "questions": [
+    {
+      "question": "USAs tredje største urbefolkningsgruppe, ojibwa, har gitt navn til ”Den store elven”. Hva heter den?",
+      "answer": "Mississippi",
+      "aliases": [
+        "Loppa"
+      ]
+    },
+    {
+      "question": "Hva er aboriginerenes navn på landemerket Ayers Rock?",
+      "answer": "Uluru"
+    },
+    {
+      "question": "Hvilken øystat i Stillehavet som ble selvstendig i 1970 er et av få land som har firebokstavers navn på både land og hovedstad?",
+      "answer": "Fiji (Suva)",
+      "aliases": [
+        "Fiji"
+      ]
+    },
+    {
+      "question": "Den største byen i «The Cotton State» heter Birmingham. Delstaten har et navn der man i tillegg til konsonantene benytter samme vokal fire ganger. Hva heter staten?",
+      "answer": "Alabama"
+    },
+    {
+      "question": "Åtte FN-land har hovedsteder som begynner og slutter på samme vokal. For syv av dem gjelder det bokstaven «A». Hvilket annet land skal med på listen? ",
+      "answer": "Norge (Oslo)",
+      "aliases": [
+        "Norge",
+        "Oslo"
+      ]
+    }
+  ]
+}
