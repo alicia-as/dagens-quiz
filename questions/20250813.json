@@ -1,0 +1,35 @@
+{
+  "theme": "Norske byer",
+  "questions": [
+    {
+      "question": "Hvilken norsk by, som opplever en stor økning i antall turister om sommeren, har på tross av at den er en av Norges minste, sin egen trikk?",
+      "answer": "Kardemommeby",
+      "aliases": [
+        "Kardemomme by"
+      ]
+    },
+    {
+      "question": "Hovedstaden i Aserbajdsjan heter Baku og kan skrives med bokstaven «V» (bak u i alfabetet). Hvilken norsk by har «samme» egenskap, og kan skrives med kun én av alfabetets bokstaver?",
+      "answer": "Førde, som kan skrives med bokstaven C (før d i alfabetet)",
+      "aliases": [
+        "Førde",
+        "C  "
+      ]
+    },
+    {
+      "question": "I 1902 ble Ofotbanen åpnet, et samarbeid mellom NSB og SJ. Hvilken norsk by er endestasjon?",
+      "answer": "Narvik"
+    },
+    {
+      "question": "I hvilken norsk by ligger den tidligere kommunen Tiller (innlemmet i 1964)?",
+      "answer": "Trondheim"
+    },
+    {
+      "question": "Hva heter supermodellen, med etternavn lik en norsk by, som ble oppdaget som 14-åring og etter hvert er blitt mer kjent for sitt rusproblem?",
+      "answer": "Kate Moss",
+      "aliases": [
+        "Moss"
+      ]
+    }
+  ]
+}
