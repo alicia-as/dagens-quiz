@@ -1,0 +1,38 @@
+{
+  "theme": "Rusmidler",
+  "questions": [
+    {
+      "question": "Hvilket stoff ble tatt bort fra Coca-Cola-formelen i 1903?",
+      "answer": "Kokain"
+    },
+    {
+      "question": "Det nest mest populære jentenavnet i 2024 er også slang for et rusmiddel. Hvilken navn?",
+      "answer": "Emma, som er slang for MDMA",
+      "aliases": [
+        "Emma",
+        "Emma, MDMA",
+        "MDMA"
+      ]
+    },
+    {
+      "question": "Agaveplanten blir brukt i produksjonen av et  kjent rusmiddel. Hvilket?",
+      "answer": "Tequila"
+    },
+    {
+      "question": "Karl Marx skrev at religion var «den undertrykte skapnings sukk.» Hvilket rusmiddel sammenlignet han religionen med?",
+      "answer": "Opium (for folket)",
+      "aliases": [
+        "opium"
+      ]
+    },
+    {
+      "question": "En sjargong for et rusmiddel, etternavnet til en kambodsjansk politiker og et tidligere akronym for Politiets sikkerhetstjeneste har samme betegnelse. Hvilken?",
+      "answer": "Pot (Marihuana, Pol Pot og Politiets overvåkingstjeneste). ",
+      "aliases": [
+        "Pot",
+        "Marihuana",
+        "Hasj"
+      ]
+    }
+  ]
+}
