@@ -1,0 +1,40 @@
+{
+  "theme": "Tsjekkt med Tjekkia 🇨🇿",
+  "questions": [
+    {
+      "question": "Hvilket tsjekkisk bilmerke ble grunnlagt i 1925 og fører i våre dager modeller som Enyaq, Octavia og Kodiaq?",
+      "answer": "Skoda"
+    },
+    {
+      "question": "I Tsjekkia ligger to landskaper, Böhmen og Mähren, som tidligere tilhørte hvilket land?",
+      "answer": "Østerrike-Ungarn",
+      "aliases": [
+        "Østerrike",
+        "Ungarn"
+      ]
+    },
+    {
+      "question": "Hvilken delstat i det østlige Tyskland grenser til både Polen og Tsjekkia og har «samme» navn som et redskap?",
+      "answer": "Sachsen",
+      "aliases": [
+        "Sachsen-Anhalt",
+        "Sachsen Anhalt",
+        "Saksen"
+      ]
+    },
+    {
+      "question": "Hva heter den tsjekkiske julefilmen fra 1973 som vi alle har sett?",
+      "answer": "Tre nøtter til Askepott",
+      "aliases": [
+        "Askepott"
+      ]
+    },
+    {
+      "question": "Hvilket tsjekkisk ølmerke har samme navn som USAs mest solgte ølmerke?",
+      "answer": "Budweiser",
+      "aliases": [
+        "Bud "
+      ]
+    }
+  ]
+}
