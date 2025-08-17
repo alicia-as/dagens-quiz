@@ -1,0 +1,31 @@
+{
+  "theme": "Bra med Brasil 🇧🇷",
+  "questions": [
+    {
+      "question": "Hvilken sentralt beliggende brasiliansk by er med i Unescos verdensarvliste?",
+      "answer": "Brasilia"
+    },
+    {
+      "question": "Den største byen i Amazonas-området i Brasil heter Belém, og det heter også andre brasilianske byer. Hvilken by er de oppkalt etter?",
+      "answer": "Betlehem"
+    },
+    {
+      "question": "En elv i Brasil og en by i Ohio har samme navn som en øy i Atlanterhavet og en hetvin. Hvilket navn?",
+      "answer": "Madeira"
+    },
+    {
+      "question": "Med samme navn som en brasiliansk musikksjanger, hva heter kundebladet som søppelsekspaet BIR AS deler ut til mange husstander i Bergen?",
+      "answer": "Bossanova",
+      "aliases": [
+        "Bossa Nova"
+      ]
+    },
+    {
+      "question": "Hva heter den brasilianske fotballspilleren som skrev en utkjøpsklausul på 222 millioner euro da han kom til Barcelona i 2013?",
+      "answer": "Neymar",
+      "aliases": [
+        "Neymar Jr"
+      ]
+    }
+  ]
+}
