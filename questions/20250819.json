@@ -1,0 +1,49 @@
+{
+  "theme": "Et verb",
+  "questions": [
+    {
+      "question": "Hvilken kommune i Innlandet har samme navn som et ildsted på fire bokstaver? Ordet kan også være et verb som er aktuelt før eksamen. ",
+      "answer": "Grue",
+      "aliases": [
+        "Grue kommune",
+        "Å grue"
+      ]
+    },
+    {
+      "question": "Hvilken kjempestor by i Kina er også et verb i sjømannsterminologi?",
+      "answer": "Shanghai (å shanghaie - å bedre)",
+      "aliases": [
+        "Shanghai",
+        "Å shanghaie"
+      ]
+    },
+    {
+      "question": "av forrige århundres mest fremtredende personer i Norge, en sentral håndballspiller (f. 1980), en norsk sexolog og forfatteren av bøkene om Simon og Kaia. Hvilket verb er vi på jakt etter?",
+      "answer": "Gro (Harlem Brundtland, Hammerseng, Isachsen, Dahle)",
+      "aliases": [
+        "Gro",
+        "Å gro"
+      ]
+    },
+    {
+      "question": "Hvilken fisk har et navn som også er et verb som betyr å forbinde metaller?",
+      "answer": "Lodde",
+      "aliases": [
+        "Lodde",
+        "Lodda",
+        "Loddene",
+        "Loddas",
+        "Lodder",
+        "Å lodde"
+      ]
+    },
+    {
+      "question": "Et verb som er en mishagsytring, en del av et olympisk våpen og et etternavn. Hvilket ord?",
+      "answer": "Bue",
+      "aliases": [
+        "Bue",
+        "Å bue"
+      ]
+    }
+  ]
+}
