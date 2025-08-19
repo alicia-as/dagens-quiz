@@ -1,0 +1,48 @@
+{
+  "theme": "Hund 🐶",
+  "questions": [
+    {
+      "question": "Hva slags hunderase var den legendariske Lassie?",
+      "answer": "Collie",
+      "aliases": [
+        "Colliehund",
+        "Collie-hund",
+        "Collie hund",
+        "Colliehunden",
+        "Colly"
+      ]
+    },
+    {
+      "question": "Hva slags hunderase var hunden som søstrene Obama fikk da de flyttet inn i Det hvite hus?",
+      "answer": "Portugisisk vannhund",
+      "aliases": [
+        "Portugisisk vannhund",
+        "Vannhund"
+      ]
+    },
+    {
+      "question": "En av Norges mest populære hunderaser har fått sitt navn fra det engelske ordet for å «hente». Hvilken rase?",
+      "answer": "Retriever",
+      "aliases": [
+        "Retriever",
+        "Retrieverhund"
+      ]
+    },
+    {
+      "question": "Frankrikes nasjonalhund er blant verdens mest populære hunderaser og finnes i mange størrelser og farger. Hva kaller vi hunderasen?",
+      "answer": "Puddel",
+      "aliases": [
+        "Puddel",
+        "Puddelhund"
+      ]
+    },
+    {
+      "question": "Hva er det tyske ordet for «grevling» som også er betegnelsen på en hunderase?",
+      "answer": "Dachs",
+      "aliases": [
+        "Dachs",
+        "Dachs hund"
+      ]
+    }
+  ]
+}
