@@ -1,0 +1,46 @@
+{
+  "theme": "Med 'sol' i svaret 🌞",
+  "questions": [
+    {
+      "question": "Hvilken populær leskedrikk blir til en europeisk hovedstad dersom du stokker om bokstavene?",
+      "answer": "Solo, som blir til Oslo",
+      "aliases": [
+        "Solo",
+        "Solo, Norge",
+        "Oslo"
+      ]
+    },
+    {
+      "question": "Flyplasser har gjerne et tillegg i navnet som for eksempel Bergen Lufthavn, Flesland. Hva heter i så fall Stavanger Lufthavn? ",
+      "answer": "Sola",
+      "aliases": [
+        "Sola",
+        "Sola, Norge",
+        "Stavanger Lufthavn Sola"
+      ]
+    },
+    {
+      "question": "Hvem ble vinner av den norske Melodi Grand Prix-finalen 2010 med «My Heart Is Yours»?",
+      "answer": "Didrik Solli-Tangen",
+      "aliases": [
+        "Solli-Tangen",
+        "Didrik Solli-Tangen"
+      ]
+    },
+    {
+      "question": "Bjørnstjerne Bjørnson ga ut sin første roman i 1857. Hva heter bondefortellingen?",
+      "answer": "Synnøve Solbakken",
+      "aliases": [
+        "Solbakken"
+      ]
+    },
+    {
+      "question": "Hvilket spansk oljeselskap som blant annet pumper olje i Nordsjøen, har også sine egne bensinstasjoner man kan treffe på i utlandet? ",
+      "answer": "Repsol",
+      "aliases": [
+        "Repsol",
+        "Repsol S.A."
+      ]
+    }
+  ]
+}
