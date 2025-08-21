@@ -9,11 +9,13 @@
         "Collie-hund",
         "Collie hund",
         "Colliehunden",
-        "Colly"
+        "Colly",
+        "Border-Collier",
+        "Border Collier"
       ]
     },
     {
-      "question": "Hva slags hunderase var hunden som søstrene Obama fikk da de flyttet inn i Det hvite hus?",
+      "question": "Hva slags hunderase, som ifølge navnet ikke burde gå tørst,  var hunden som søstrene Obama fikk da de flyttet inn i Det hvite hus?",
       "answer": "Portugisisk vannhund",
       "aliases": [
         "Portugisisk vannhund",
@@ -25,7 +27,8 @@
       "answer": "Retriever",
       "aliases": [
         "Retriever",
-        "Retrieverhund"
+        "Retrieverhund",
+        "Golden Retriever"
       ]
     },
     {
