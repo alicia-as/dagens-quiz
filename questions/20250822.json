@@ -1,0 +1,44 @@
+{
+  "theme": "Svaret begynner på 'L'",
+  "questions": [
+    {
+      "question": "Russeren Alexander Litvinenko døde av polonium-forgiftning i 2006. I hvilken by?",
+      "answer": "London",
+      "aliases": [
+        "London",
+        "London, Storbritannia"
+      ]
+    },
+    {
+      "question": "Carson City er hovedstad i Nevada, men er ikke den største byen i delstaten, for hva heter den?",
+      "answer": "Las Vegas",
+      "aliases": [
+        "Las Vegas",
+        "Las Vegas, Nevada"
+      ]
+    },
+    {
+      "question": "I hvilken film fra 2003 blir Storbritannias statsminister (Hugh Grant) hodestups forelsket i en av sine ansatte?",
+      "answer": "Love Actually",
+      "aliases": [
+        "Love Actually",
+        "Love Actually, Storbritannia"
+      ]
+    },
+    {
+      "question": "Hennes mor kommer fra Sri Lanka. Selv har hun vært med på det meste av reality-show. Hva heter glamour-modellen som blant annet har vært med i «Kjendis-Farmen» og «Team Aylar»?",
+      "answer": "Linni Meister",
+      "aliases": [
+        "Linni"
+      ]
+    },
+    {
+      "question": "Hvilket firma, oppkalt etter noen driftige brødre, gikk dundrende konkurs i 2008, med en samlet gjeld på ufattelige 6132 milliarder dollar?",
+      "answer": "Lehman Brothers",
+      "aliases": [
+        "Lehman Brothers",
+        "Lehman Brothers Holdings Inc."
+      ]
+    }
+  ]
+}
