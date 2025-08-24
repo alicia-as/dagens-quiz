@@ -1,0 +1,45 @@
+{
+  "theme": "Små hovedsteder",
+  "questions": [
+    {
+      "question": "I hvilken liten og nordlig hovedstad møttes Ronald Reagan og Mikhail Gorbatsjov for å diskutere nedrustning i 1986?",
+      "answer": "Reykjavik",
+      "aliases": [
+        "Reykjavik",
+        "Reykjavik, Island"
+      ]
+    },
+    {
+      "question": "Victoria er hovedstaden i en liten øystat utenfor Afrika. Hva heter den?",
+      "answer": "Seychellene",
+      "aliases": [
+        "Seychellene",
+        "Seychellene, øystat"
+      ]
+    },
+    {
+      "question": "Av bittesmå hovedsteder (<50 000 innbyggere) i Europa er det to som har et navn som begynner på 'V'. Kan du nevne én av dem?",
+      "answer": "Valletta (Malta), Vaduz (Liechtenstein)",
+      "aliases": [
+        "Valletta",
+        "Valletta, Malta",
+        "Vaduz",
+        "Vaduz, Liechtenstein",
+        "Vaduz, Valletta",
+        "Valletta, Vaduz"
+      ]
+    },
+    {
+      "question": "Den lille hovedstaden på Kapp Verde har et navn som blir til Tsjekkias hovedstad dersom du bytter ut midterste bokstav. Hva heter den?",
+      "answer": "Praia  "
+    },
+    {
+      "question": "Palikir er den bittelille hovedstaden i en øystat hvor navnet virkelig fremhever hvor lite alt der er. Hva heter øystaten?",
+      "answer": "Micronesia",
+      "aliases": [
+        "Micronesia",
+        "Micronesia, øystat"
+      ]
+    }
+  ]
+}
