@@ -1,0 +1,38 @@
+{
+  "theme": "Mytiske byer",
+  "questions": [
+    {
+      "question": "Hvilken by fra litteraturen viste seg å ha eksistert i virkeligheten da den tyske arkeologen Heinrich Schliemann fant ruinene av byen i 1870?",
+      "answer": "Troja",
+      "aliases": [
+        "Troy"
+      ]
+    },
+    {
+      "question": "Hvilken av NASAs romferger fikk navn etter et mytisk land, også kjent fra en historie om brødrene Dal?",
+      "answer": "Atlantis",
+      "aliases": [
+        "Atlant-is"
+      ]
+    },
+    {
+      "question": "Hva heter festlokalet der grisen Særimne blir spist opp hver dag, for så å være like hel og klar til nytt etegilde neste dag?",
+      "answer": "Valhalla",
+      "aliases": [
+        "Valhalla"
+      ]
+    },
+    {
+      "question": "Med et drikkfeldig dyr i navnet, hva het den britiske sagnkongen Arthurs borg?",
+      "answer": "Camelot"
+    },
+    {
+      "question": "Hva het det gullrike landet som de spanske conquistadorene lette etter, men aldri fant? I Norge lever navnet i beste velgående i butikken.",
+      "answer": "El Dorado (Eldorado)",
+      "aliases": [
+        "Eldorado",
+        "El Dorado"
+      ]
+    }
+  ]
+}
