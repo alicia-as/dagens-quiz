@@ -1,0 +1,47 @@
+{
+  "theme": "Berømte duoer",
+  "questions": [
+    {
+      "question": "Hvilken verdensberømt duo, som blant annet hadde en gammel mørk venn, kalte seg «Tom & Jerry» i begynnelsen av karrieren?",
+      "answer": "Simon & Garfunkel",
+      "aliases": [
+        "Simon and Garfunkel"
+      ]
+    },
+    {
+      "question": "Med samme etternavn som en imponerende IBM-maskin, hva heter makkeren til Sherlock Holmes?",
+      "answer": "Dr. Watson",
+      "aliases": [
+        "John H. Watson",
+        "Watson",
+        "Doktor Watson",
+        "Dr Watson"
+      ]
+    },
+    {
+      "question": "Hva heter den kraftige bestevennen til Asterix, som blir til en kjempestein om du bytter på de to siste bokstavene?",
+      "answer": "Obelix",
+      "aliases": [
+        "Obélix",
+        "Obelix"
+      ]
+    },
+    {
+      "question": "Hvilken popduo står bak hitten 'I Got You Babe' (1965)? Den ene av dem er 'dyr' på fransk.",
+      "answer": "Sonny and Cher",
+      "aliases": [
+        "Sonny & Cher",
+        "Sonny and Cher"
+      ]
+    },
+    {
+      "question": "Hvilken duo, som ikke har en fisk i navnet, ga ut albumet «Heisann Montebello» i 2016?",
+      "answer": "Karpe (Diem)",
+      "aliases": [
+        "Karpe (Diem)",
+        "Karpe Diem",
+        "Karpe"
+      ]
+    }
+  ]
+}
