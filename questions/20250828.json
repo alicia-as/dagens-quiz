@@ -1,0 +1,42 @@
+{
+  "theme": "Det starter med et tall",
+  "questions": [
+    {
+      "question": "'Is it getting better? Or do you feel the same? Will it make it easier on you now? You got someone to blame. You say...' Kan du synge de to neste ordene på denne kjente låten?",
+      "answer": "One love"
+    },
+    {
+      "question": "Russell Crowe og Glenn Ford har begge spilt rollen som westernskurken Ben Wade. I filmen er det om å gjøre å rekke et tog til Yuma. Når går toget ifølge tittelen?",
+      "answer": "3:10",
+      "aliases": [
+        "3:10 to Yuma",
+        "3 - 10",
+        "3-10"
+      ]
+    },
+    {
+      "question": "I hvilken meget vakker italiensk by ligger Medici-familiens bibliotek?",
+      "answer": "Firenze",
+      "aliases": [
+        "Florence",
+        "Firenze"
+      ]
+    },
+    {
+      "question": "Hvilket land grenser til Costa Rica i sør og Honduras i nord?",
+      "answer": "Nicaragua",
+      "aliases": [
+        "Nicaragua"
+      ]
+    },
+    {
+      "question": "Hva heter kapellet i Roma der Michelangelo malte innsiden av taket?",
+      "answer": "Sixtinske kapell",
+      "aliases": [
+        "Det sixtinske kapell",
+        "Sixtinske kapell",
+        "Sixtinske"
+      ]
+    }
+  ]
+}
