@@ -1,0 +1,39 @@
+{
+  "theme": "Snop (repeat)",
+  "questions": [
+    {
+      "question": "Hvilke sveitsiske halspastiller består av tretten forskjellige urter, skal vi tro produsenten? Bytter man ut en vokal blir det til en salat!",
+      "answer": "Ricola (Ruc(c)ola)",
+      "aliases": [
+        "Ricola"
+      ]
+    },
+    {
+      "question": "Hvilken halspastill ble lansert i Sverige allerede i 1909, og har en «A» stemplet i midten?",
+      "answer": "Läkerol",
+      "aliases": [
+        "Läkerol"
+      ]
+    },
+    {
+      "question": "Hvilken merkevare, ofte inneholdende 14 drops, kalles «The Freshmaker» av produsenten, noe som passer bra dersom du putter den i en Cola-flaske?",
+      "answer": "Mentos",
+      "aliases": [
+        "Menthos"
+      ]
+    },
+    {
+      "question": "Hvilket godteri, som også er et fryktelig irriterende vesen på sommeren, produseres av Nidar og har smaker av lakris, salmiakk og peppermynte?",
+      "answer": "Knott"
+    },
+    {
+      "question": "Da det ble 18-års grense for noen år siden, føk salget i været. Hvilken søtsak, som var lite populær blant velmenende helsebyråkrater, dreier det seg om?",
+      "answer": "Lakrispipe",
+      "aliases": [
+        "Lakrispipe",
+        "Skipper's Pipe",
+        "Skipperpipe"
+      ]
+    }
+  ]
+}
