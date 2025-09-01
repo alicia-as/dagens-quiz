@@ -1,0 +1,40 @@
+{
+  "theme": "Latin",
+  "questions": [
+    {
+      "question": "Kan du si 'Jeg kom, jeg så, jeg vant' på latin?!",
+      "answer": "Veni, vidi, vici",
+      "aliases": [
+        "Veni vidi vici"
+      ]
+    },
+    {
+      "question": "Kan du den latinske betegnelsen for virkningsløse medikamenter, eller narremedisin?",
+      "answer": "Placebo",
+      "aliases": [
+        "Placebo-medikamenter",
+        "Placebo-medisin"
+      ]
+    },
+    {
+      "question": "Hva er den latinske betegnelsen på jordens lengdegrader?",
+      "answer": "Meridianer",
+      "aliases": [
+        "Meridiane",
+        "Meridianus"
+      ]
+    },
+    {
+      "question": "Hvilket europeisk land heter Confoederatio Helvetica på latin?",
+      "answer": "Sveits"
+    },
+    {
+      "question": "Hvilken plante er også er et fornavn i ubestemt form, en farge i bestemt form og heter det samme på latin som på norsk?",
+      "answer": "Rose",
+      "aliases": [
+        "Rosae",
+        "Rosa"
+      ]
+    }
+  ]
+}
