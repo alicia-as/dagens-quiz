@@ -1,0 +1,34 @@
+{
+  "theme": "Med en tresort i svaret",
+  "questions": [
+    {
+      "question": "Hva heter den sentrale rollefiguren i TV-suksessen «Twin Peaks» som blir funnet død allerede i første episode?",
+      "answer": "Laura PALMEr",
+      "aliases": [
+        "Palmer"
+      ]
+    },
+    {
+      "question": "Hva het spekkhuggeren fra Free Willy-filmene som av alle steder rømte til norskekysten og døde der i 2003?",
+      "answer": "kEIKo"
+    },
+    {
+      "question": "Hva heter broen i Istanbul som går over stredet den er oppkalt etter?",
+      "answer": "bOSPorus",
+      "aliases": [
+        "Bosporus"
+      ]
+    },
+    {
+      "question": "Hva slags rovdyr har den latinske betegnelsen panthera leo?",
+      "answer": "LØVen"
+    },
+    {
+      "question": "Hvilken Café i Oslo ble åpnet i 1874, og hadde daglige besøk av Henrik Ibsen på 1890-tallet?",
+      "answer": "GRANd cafe",
+      "aliases": [
+        "Grand cafe"
+      ]
+    }
+  ]
+}
