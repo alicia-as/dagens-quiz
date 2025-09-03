@@ -1,0 +1,35 @@
+{
+  "theme": "Hvilken bokstav?",
+  "questions": [
+    {
+      "question": "Hvilken sjokolade som kom på markedet i 1957, har blitt markedsført som «Filmsjokoladen»?",
+      "answer": "M. ",
+      "aliases": [
+        "M  "
+      ]
+    },
+    {
+      "question": "Hvilken bokstav i det fonetiske alfabetet er også navnet på et asiatisk land?",
+      "answer": "I (India)",
+      "aliases": [
+        "I  ",
+        "India"
+      ]
+    },
+    {
+      "question": "Hvilken bokstav i morsealfabetet representeres med tre prikker?",
+      "answer": "Bokstaven «S» (S. O. S. blir …---…). ",
+      "aliases": [
+        "S  "
+      ]
+    },
+    {
+      "question": "Hvilken bokstav er verdt kun et poeng i den polske versjonen av «Scrabble», men er ikke engang med i den norske versjonen?",
+      "answer": "Z. "
+    },
+    {
+      "question": "Hvilken bokstav, som derimot er med i norsk Scrabble, gir høyest verdi (10 poeng)?",
+      "answer": "C. "
+    }
+  ]
+}
