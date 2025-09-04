@@ -1,0 +1,44 @@
+{
+  "theme": "Star Wars",
+  "questions": [
+    {
+      "question": "Med en frisk brus som etternavn, hva het rollefiguren til Harrison Ford i filmen «Star Wars» fra 1977?",
+      "answer": "Han Solo",
+      "aliases": [
+        "Solo"
+      ]
+    },
+    {
+      "question": "Hvilken tilsynelatende øldrikkende Sir spilte rollen som Obewan Kenobi i Star Wars?",
+      "answer": "Sir Alec Guinness",
+      "aliases": [
+        "Alec Guinness",
+        "Guinness",
+        "Sir Guinness"
+      ]
+    },
+    {
+      "question": "Hva heter rollefiguren til Carrie Fisher i Star Wars?",
+      "answer": "Prinsesse Leia",
+      "aliases": [
+        "Leia",
+        "Leia Organa",
+        "Prinsesse Leia Organa"
+      ]
+    },
+    {
+      "question": "Hvilken amerikansk president sto bak «Strategic Defense Initiative», bedre kjent som «Star Wars»?",
+      "answer": "Ronald Reagan",
+      "aliases": [
+        "Reagan"
+      ]
+    },
+    {
+      "question": "Hvilken tidligere forlagssjef, journalist og forfatter har spilt statist i «Star Wars» og var programleder i den første norske utgaven av «Big Brother»?",
+      "answer": "Arve Juritzen",
+      "aliases": [
+        "Juritzen"
+      ]
+    }
+  ]
+}
