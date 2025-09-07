@@ -1,0 +1,41 @@
+{
+  "theme": "Ikke akkurat 007",
+  "questions": [
+    {
+      "question": "I hvilken film fra 2008 spiller Amanda Seyfried rollen som Sophie, og Pierce Brosnan rollen som Sam?",
+      "answer": "Mamma Mia!",
+      "aliases": [
+        "Mamma Mia!"
+      ]
+    },
+    {
+      "question": "Sean Connery rakk å bli 90 år før han døde i 2020. I hvilken film fra 1989 spiller han rollen som professor Henry Jones?",
+      "answer": "Indiana Jones (and the Last Crusade)",
+      "aliases": [
+        "Indiana Jones",
+        "Indiana Jones and the Last Crusade"
+      ]
+    },
+    {
+      "question": "Hvilken nå 79 år gammel og avdanket 007, har stemmen til Mr. Pricklepants i «Toy Story 3»?",
+      "answer": "Timothy Dalton",
+      "aliases": [
+        "Timothy Dalton"
+      ]
+    },
+    {
+      "question": "Hvilken 007 spiller rollen som Michael Blomquiz i filmen «The Girl with the Dragon Tattoo» fra 2011?",
+      "answer": "Daniel Craig",
+      "aliases": [
+        "Craig"
+      ]
+    },
+    {
+      "question": "Tony Curtis spilte rollen som Danny Wilde i tv-serien «Gullguttene» (The Persuaders) tidlig på 70-tallet. Hvilken britisk skuespiller, senere kjent som 007, var hans aristokratiske motspiller Lord Brett Sinclair?",
+      "answer": "Roger Moore",
+      "aliases": [
+        "Roger Moore"
+      ]
+    }
+  ]
+}
