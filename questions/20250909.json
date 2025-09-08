@@ -1,0 +1,41 @@
+{
+  "theme": "Sport og spill",
+  "questions": [
+    {
+      "question": "Hva kalles biljardspillet som spilles på et bord som er 6x12 fot stort?",
+      "answer": "Snooker",
+      "aliases": [
+        "Snooker"
+      ]
+    },
+    {
+      "question": "Hvilken farge har kule nr. tre i biljard?",
+      "answer": "Rød",
+      "aliases": [
+        "Rød"
+      ]
+    },
+    {
+      "question": "Hvilket spill fra India kalles også fattigmanns biljard?",
+      "answer": "Kurong",
+      "aliases": [
+        "Kurong"
+      ]
+    },
+    {
+      "question": "Hvor mange er i vannet under kvinnenes lagkonkurranse i synkronsvømming i OL?",
+      "answer": "Åtte",
+      "aliases": [
+        "Åtte",
+        "8  "
+      ]
+    },
+    {
+      "question": "I år var første gang VM i denne spesielle stupeøvelsen ble avholdt utenfor Norge, nærmere bestemt i Tobago. Hva heter denne spesielle stupeøvelsen?",
+      "answer": "Dødsing",
+      "aliases": [
+        "Dødsing"
+      ]
+    }
+  ]
+}
