@@ -1,0 +1,36 @@
+{
+  "theme": "Valget 2025",
+  "questions": [
+    {
+      "question": "Hvilket parti ble det tredje største i Stortinget etter valget på mandag?",
+      "answer": "Høyre"
+    },
+    {
+      "question": "Hvor mange mandater er det totalt på Stortinget?",
+      "answer": "169  "
+    },
+    {
+      "question": "KrF sin relativt nye partileder klarte å få dem over sperregrensen. Men hva heter han?",
+      "answer": "Dag Inge Ulstein",
+      "aliases": [
+        "Dag Ulstein",
+        "Ulstein"
+      ]
+    },
+    {
+      "question": "Og apropos å få partiet sitt over sperregrensen, hvilket parti er Arild Hermstad leder for?",
+      "answer": "MDG ",
+      "aliases": [
+        "Miljøpartiet",
+        "Miljøpartiet De Grønne"
+      ]
+    },
+    {
+      "question": "Det ble også satt en nyt rekord - Frøya Skjold Sjursæther fra MDG blir den yngste stortingspresidenten noensinne. Hvor gammel er hun?",
+      "answer": "19 år  ",
+      "aliases": [
+        "19  "
+      ]
+    }
+  ]
+}
