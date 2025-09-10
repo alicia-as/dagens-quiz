@@ -1,0 +1,38 @@
+{
+  "theme": "Barne-TV",
+  "questions": [
+    {
+      "question": "Hva heter den bittelille lillebroren til Fantorangen, hvis programmer er mer tuftet på de minste barna?",
+      "answer": "Fantus"
+    },
+    {
+      "question": "Den østtyske dukkefiguren Sandmann, som ble skapt i 1959, viste seg også i «Jul i Skomakergata». Hva het han da?",
+      "answer": "Jon Blund"
+    },
+    {
+      "question": "Hvilken kjent figur fra barne-tv og barnebøker har «funnet opp» pluttifikasjonstabellen?",
+      "answer": "Pippi Langstrømpe",
+      "aliases": [
+        "Pippi Langstrømpe",
+        "Pippi"
+      ]
+    },
+    {
+      "question": "Hvor foregår handlingen i den japanske tegnefilm-serien «Tanoshii Mūmin Ikka»?",
+      "answer": "I Mummidalen",
+      "aliases": [
+        "I Mummidalen",
+        "Mummidalen",
+        "Mummitrollet"
+      ]
+    },
+    {
+      "question": "I hvilken tv-serie møter vi bl.a. Edward, Gordon og Henry?",
+      "answer": "Thomas Toget",
+      "aliases": [
+        "Thomas Toget",
+        "Thomas the Tank Engine"
+      ]
+    }
+  ]
+}
