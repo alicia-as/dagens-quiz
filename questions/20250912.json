@@ -1,0 +1,31 @@
+{
+  "theme": "Lurespørsmål (repeat)",
+  "questions": [
+    {
+      "question": "Hvilket ord kan være et fiskeredskap med tungt søkke, men også noe du ikke skal gjøre i en konkurranse, eller i denne quizzen, forsåvidt?",
+      "answer": "Jukse"
+    },
+    {
+      "question": "Det kan være en ferdselsåre, en viktig del av et skip, et kallenavn på mannlige venner, eller noe som koster masse penger å få i munnen. Hvilket ord er vi på jakt etter?",
+      "answer": "Bro "
+    },
+    {
+      "question": "Det er et uunnværlig utstyr i en olympisk øvelse til sjøs. Det er også navnet på en innendørs olympisk øvelse. I en annen olympisk øvelse er det noe du må unngå for å vinne. Det er også slang for noe man ikke skal røyke. Hvilket ord?",
+      "answer": "Bom "
+    },
+    {
+      "question": "Arne Otto Lorang Andersen døde under en forestilling på Tøyen i Oslo i 1995. Hva var hans artistnavn?",
+      "answer": "Arnardo"
+    },
+    {
+      "question": "Hvilken nåværende president, som tidligere var statsminister, har et navn som kan legges bakerst i navnet til en mystisk skikkelse fra samme land som døde i 1916?",
+      "answer": "Vladimir rasPUTIN",
+      "aliases": [
+        "Vladimir Putin",
+        "Putin",
+        "Vladimir Rasputin",
+        "Rasputin"
+      ]
+    }
+  ]
+}
