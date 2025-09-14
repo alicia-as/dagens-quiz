@@ -1,0 +1,44 @@
+{
+  "theme": "Med en flere betydninger",
+  "questions": [
+    {
+      "question": "Hva heter verdens lengste krypdyr, som også kan betegne noe som ikke smaker godt?",
+      "answer": "Pyton",
+      "aliases": [
+        "Pyton-slange",
+        "Python",
+        "Pytonslangen"
+      ]
+    },
+    {
+      "question": "Ricardo Izecson dos Santos Leite ble av FIFA kåret til årets fotballspiller 2007. Han er bedre kjent under sitt artistnavn, som kan spises på norsk. Hvilket?",
+      "answer": "Kaka",
+      "aliases": [
+        "Kaka",
+        "Kaká"
+      ]
+    },
+    {
+      "question": "Hvilken sjokolade har et navn som også kan være en type fjell eller et kunstverk?",
+      "answer": "Monolit",
+      "aliases": [
+        "Monolit",
+        "Monolitt"
+      ]
+    },
+    {
+      "question": "Hvilken geologisk periode, som varte fra ca. 208 til 140 millioner år siden, har et navn som også kan være deler av et (kvinnelig) pattedyr?",
+      "answer": "Jura",
+      "aliases": [
+        "Jura-perioden"
+      ]
+    },
+    {
+      "question": "En tysk lastebilprodusent har samme navn som en europeisk øy. Hvilket ord, som også kan være en del av en hest?",
+      "answer": "MAN ",
+      "aliases": [
+        "Isle of Man"
+      ]
+    }
+  ]
+}
