@@ -1,0 +1,40 @@
+{
+  "theme": "Svaret begynner på 'B'",
+  "questions": [
+    {
+      "question": "Hva heter den snakkende hunden i animasjonsserien «Family Guy»?",
+      "answer": "Brian",
+      "aliases": [
+        "Brian Griffin"
+      ]
+    },
+    {
+      "question": "Hva heter den amerikanske science fiction-filmen fra 1982, regissert av Ridley ”Alien” Scott, som hadde Harrison Ford, Daryl Hannah og Rutger Hauer i rollene?",
+      "answer": "Blade Runner",
+      "aliases": [
+        "Blade Runner",
+        "Blade Runner 1982"
+      ]
+    },
+    {
+      "question": "Med et navn som ikke ser så bra ut - hvor i Oslo har Meteorologisk institutt sitt hovedkontor?",
+      "answer": "Blindern",
+      "aliases": [
+        "Blindern",
+        "Blindern, Oslo"
+      ]
+    },
+    {
+      "question": "Kommunesenteret i Ringsaker har muligens tatt navn etter en av tre brødre som ikke er brødre. Hva er navnet på stedet?",
+      "answer": "Brumunddal"
+    },
+    {
+      "question": "Minoritetsfraksjonen i det sovjetiske arbeiderpartiet på 20-tallet ble kalt mensjeviker. Hva ble majoriteten kalt?",
+      "answer": "Bolsjeviker",
+      "aliases": [
+        "bolsjevikene",
+        "bolsjevikar"
+      ]
+    }
+  ]
+}
