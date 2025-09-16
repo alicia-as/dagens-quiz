@@ -1,0 +1,47 @@
+{
+  "theme": "Folk med farge i navnet",
+  "questions": [
+    {
+      "question": "Hva heter eksen til Rihanna som fikk verden mot seg da han banket opp sin daværende kjæreste?",
+      "answer": "Chris Brown",
+      "aliases": [
+        "Brown"
+      ]
+    },
+    {
+      "question": "Hvilken av «Friends»-gjengen har jobbet hos Central Perk, Bloomingdale’s og Ralph Lauren?",
+      "answer": "Rachel Green / Jennifer Aniston",
+      "aliases": [
+        "Rachel Green",
+        "Jennifer Aniston",
+        "Rachel",
+        "Green"
+      ]
+    },
+    {
+      "question": "Hvilken kjent skuespiller, som døde 89 år gammel i går, sto bak «Sundance-festivalen»?",
+      "answer": "Robert Redford",
+      "aliases": [
+        "Redford"
+      ]
+    },
+    {
+      "question": "Den ene sang «This is a man's world», den andre var statsminister. Etternavnene er identiske med et Ivy League-universitet i Providence, Rhode Island. Hvilket navn?",
+      "answer": "Brown (James, Gordon, University)",
+      "aliases": [
+        "Brown",
+        "James Brown",
+        "Gordon",
+        "University"
+      ]
+    },
+    {
+      "question": "Hvilken skuespiller og artist har medvirket både i filmer som «Tropic Thunder» og vært vokalist i bandet «Tenacious D»?",
+      "answer": "Jack Black",
+      "aliases": [
+        "Jack Black",
+        "Black"
+      ]
+    }
+  ]
+}
