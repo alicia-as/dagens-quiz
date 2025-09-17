@@ -1,0 +1,41 @@
+{
+  "theme": "Under havets overflate",
+  "questions": [
+    {
+      "question": "Hvilken glovarm ørken i California ligger ned til 86 meter under havets overflate?",
+      "answer": "Death Valley",
+      "aliases": [
+        "Death Valley"
+      ]
+    },
+    {
+      "question": "Det laveste punktet på Jordens overflate ligger 410 meter under vanlig havnivå. Hva heter stedet, som ikke akkurat høres innbydende ut?",
+      "answer": "Dødehavet",
+      "aliases": [
+        "Dødehavet",
+        "Dead Sea"
+      ]
+    },
+    {
+      "question": "Verdens mest lavtliggende hovedstad ligger ved verdens største innsjø, og arrangerer årlig et Formel 1-løp. Hva heter byen?",
+      "answer": "Baku, Aserbajdsjan",
+      "aliases": [
+        "Baku"
+      ]
+    },
+    {
+      "question": "Nederlands hovedflyplass er verdens lavest liggende internasjonale flyplass, beliggende 3 m under havoverflaten. Hva heter den?",
+      "answer": "Schiphol",
+      "aliases": [
+        "Schiphol"
+      ]
+    },
+    {
+      "question": "Byen er tradisjonelt sett regnet som verdens eldste, og ligger 250 meter under havoverflaten. Det arabiske navnet på byen er Ariha. Hvilken by snakker vi om?",
+      "answer": "Jeriko",
+      "aliases": [
+        "Jericho"
+      ]
+    }
+  ]
+}
