@@ -1,0 +1,45 @@
+{
+  "theme": "Med 'x' i svaret (repeat)",
+  "questions": [
+    {
+      "question": "I hvilket land ligger Californiabukta?",
+      "answer": "Mexico"
+    },
+    {
+      "question": "Hvilket firma, hvis navn er blitt synonymt med å kopiere, lanserte fotokopieringsmaskinen?",
+      "answer": "Xerox"
+    },
+    {
+      "question": "I hvilket land ligger den nå så kjente byen Schengen?",
+      "answer": "Luxembourg",
+      "aliases": [
+        "Luxemburg",
+        "Lux",
+        "Luxenbourg",
+        "Luxenborg",
+        "Luxemborg"
+      ]
+    },
+    {
+      "question": "Hvilken norsk forfatter (1849-1906), hvis navn også er kjent for en tragedie, skrev om Tørres Snørtevold?",
+      "answer": "Alexander Kielland",
+      "aliases": [
+        "Kielland",
+        "Alexander Lange Kielland",
+        "Alexander L. Kielland",
+        "Alexander Kielland Lange",
+        "Alexander L. Lange"
+      ]
+    },
+    {
+      "question": "Hvilken bergart er det viktigste råstoffet for fremstilling av aluminium?",
+      "answer": "Bauxitt",
+      "aliases": [
+        "Bauxite",
+        "Boksitt",
+        "Bauxit",
+        "Bauksitt"
+      ]
+    }
+  ]
+}
