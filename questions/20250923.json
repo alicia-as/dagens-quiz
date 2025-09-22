@@ -1,0 +1,39 @@
+{
+  "theme": "Anagram",
+  "questions": [
+    {
+      "question": "Hvilken tidligere stortingspolitiker og minister, som senere ble realitydeltaker og pubeier, skjuler seg bak anagrammet ”Begrens drap”?",
+      "answer": "Per Sandberg"
+    },
+    {
+      "question": "Hvilket afrikansk land har et navn som blir til et pålegg med slagord «det gylne pålegget» dersom du stokker om på bokstavene",
+      "answer": "Sudan (Sunda)",
+      "aliases": [
+        "Sudan",
+        "Sunda"
+      ]
+    },
+    {
+      "question": "Hvilken kommune langt mot nord, hvor en del har tilbragt sin førstegangstjeneste, har et navn som blir til «selvmål» dersom du stokker om på bokstavene?",
+      "answer": "Målselv",
+      "aliases": [
+        "Målselv kommune"
+      ]
+    },
+    {
+      "question": "Hvilket fattig afrikansk land har et navn som blir til et helt vanlig norsk jentenavn dersom du stokker om på de to første bokstavene?",
+      "answer": "Niger (Inger)",
+      "aliases": [
+        "Niger",
+        "Inger"
+      ]
+    },
+    {
+      "question": "En av verdens største bedrifter, som har vært i mye hard vær de siste årene, har et navn som blir til «Big One» dersom du stokker om på bokstavene. Hva heter selskapet?",
+      "answer": "Boeing",
+      "aliases": [
+        "The Boeing Company"
+      ]
+    }
+  ]
+}
