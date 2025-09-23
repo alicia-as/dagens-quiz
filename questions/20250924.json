@@ -1,0 +1,32 @@
+{
+  "theme": "Delstatshovedsteder i USA",
+  "questions": [
+    {
+      "question": "Delstatshovedstaden i New Mexico har et spansk navn som opprinnelig betød «Den kongelige by av St. Frans av Assisis hellige tro» Hva heter den nå?",
+      "answer": "Santa Fe"
+    },
+    {
+      "question": "Hvilken amerikansk delstatshovedstad har et navn som også er med i tittelen på en av bøkene om Harry Potter?",
+      "answer": "Phoenix (Harry Potter and the Order of the Phoenix). ",
+      "aliases": [
+        "Phoenix",
+        "Føniks"
+      ]
+    },
+    {
+      "question": "Delstatshovedstaden i Nebraska er oppkalt etter USAs 16. president. Hva heter den?",
+      "answer": "Lincoln"
+    },
+    {
+      "question": "En av USAs 50 delstatshovedsteder har fått navn etter Den skjønne Helena i gresk mytologi. I hvilken delstat ligger den?",
+      "answer": "Montana"
+    },
+    {
+      "question": "Hvilken tysk film med hendelse fra 1936 har en tittel som også er navnet på delstatshovedstaden i Washington?",
+      "answer": "Olympia",
+      "aliases": [
+        "Olympia, Washington"
+      ]
+    }
+  ]
+}
