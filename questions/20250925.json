@@ -1,0 +1,40 @@
+{
+  "theme": "Fiktive skurker",
+  "questions": [
+    {
+      "question": "Med et navn som starter med et beitedyr, hva heter hovedantagonisten i Ringenes Herre?",
+      "answer": "Sauron"
+    },
+    {
+      "question": "Hvilken skurk, som man kan finne både i Gotham City og i nye kortstokker, har blant annet blitt portrettert av Joaquin Phoenix?",
+      "answer": "Jokeren",
+      "aliases": [
+        "The Joker",
+        "Joker"
+      ]
+    },
+    {
+      "question": "Hvilken rollefigur, spilt av Hugo Weaving, dukket opp i en av 2000-tallets mest populære triologier og har visstnok mange venner her i Norge?",
+      "answer": "Agent Smith (Smiths venner)",
+      "aliases": [
+        "Agent Smith",
+        "Smith"
+      ]
+    },
+    {
+      "question": "Han spiller skurk i «No Country for Old Men» og «Skyfall», men kjekkasen fra Kanariøyene trives også i rollen som førsteelsker. Navnet takk!",
+      "answer": "Javier Bardem",
+      "aliases": [
+        "Bardem"
+      ]
+    },
+    {
+      "question": "Hvilket amerikansk helseteknologifirma som viste seg å være en bløff, blir til en superskurk i Marvels univers dersom du fjerner to bokstaver?",
+      "answer": "Theranos (Thanos)",
+      "aliases": [
+        "Theranos",
+        "Thanos"
+      ]
+    }
+  ]
+}
