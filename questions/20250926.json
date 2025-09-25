@@ -1,0 +1,39 @@
+{
+  "theme": "Land på størrelse med Norge",
+  "questions": [
+    {
+      "question": "Hvilket afrikansk land, ørlite grann mindre enn Fastlands-Norge, blir av islendingene kalt Fílabeinsströndin?",
+      "answer": "Elfenbenskysten",
+      "aliases": [
+        "Côte d'Ivoire"
+      ]
+    },
+    {
+      "question": "Tar man med Svalbard, blir Norge en del større. Rett under oss på areal-lista ligger da et land med mangle ganger flere innbyggere, som var på tapende side i andre verdenskrig. Hvilket?",
+      "answer": "Japan"
+    },
+    {
+      "question": "Rett under der igjen ligger nok et land som tapte andre verdenskrig. Med litt færre innbyggere enn forrige svar, hva heter det?",
+      "answer": "Tyskland",
+      "aliases": [
+        "Germany"
+      ]
+    },
+    {
+      "question": "Hvilket asiatisk land med et areal på nøyaktig 300 000 km² og nærmere 116 millioner innbyggere er oppkatt etter en europeisk konge?",
+      "answer": "Filippinene. Landet ble oppkalt etter spanske kong Filip II (1527 - 1598)",
+      "aliases": [
+        "Filippinene",
+        "Philippines"
+      ]
+    },
+    {
+      "question": "Hvilket afrikansk land, litt større enn Norge, skiftet navn i 1980 og havnet med det bakerst i den alfabetiske oversikten (den engelske) over FN-land?",
+      "answer": "Zimbabwe, som tidligere het Rhodesia",
+      "aliases": [
+        "Zimbabwe",
+        "Rhodesia"
+      ]
+    }
+  ]
+}
