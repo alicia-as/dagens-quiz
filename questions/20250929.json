@@ -1,0 +1,31 @@
+{
+  "theme": "Svaret starter på 'Y'",
+  "questions": [
+    {
+      "question": "Hvilken annen, religiøs betegnelse brukes mest om oktoberkrigen, som ble utkjempet mellom Israel på den ene siden og Egypt og Syria på den andre i 1973?",
+      "answer": "Yom Kippur-krigen",
+      "aliases": [
+        "Yom Kippur"
+      ]
+    },
+    {
+      "question": "Hvilket spill, som er populært i julen og påsken, ble oppfunnet av kanadisk par i deres luksusbåt i 1954?",
+      "answer": "Yatzy"
+    },
+    {
+      "question": "Hva er navnet på asken som er verdenstreet i norrøn mytologi? Det er forøvrig også navnet på en oljeplattform under konstruksjon av AkerBP.",
+      "answer": "Yggdrasil"
+    },
+    {
+      "question": "Hvilken stor elv i USA har samme navn som verdens eldste nasjonalpark (1872)?",
+      "answer": "Yellowstone",
+      "aliases": [
+        "Yellowstone"
+      ]
+    },
+    {
+      "question": "Hva heter Alaskas største elv som har sitt utløp i Beering-stredet?",
+      "answer": "Yukon"
+    }
+  ]
+}
