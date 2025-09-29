@@ -1,0 +1,38 @@
+{
+  "theme": "Øyer der få bor",
+  "questions": [
+    {
+      "question": "På hvilken øy finner vi kongeriket Norges vestligste punkt?",
+      "answer": "Jan Mayen"
+    },
+    {
+      "question": "Nettilling Lake er med sine 5542 kvadratkilometer verdens største innsjø beliggende på en øy. Hva heter den kandaiske øya den ligger på, som selv er verdens femte største?",
+      "answer": "Baffin Island",
+      "aliases": [
+        "Baffin"
+      ]
+    },
+    {
+      "question": "Hva kaller vi den verdenskjente øya som på spansk heter Isla de Pascua og på det lokale språket heter Rapa Nui?",
+      "answer": "Påskeøya",
+      "aliases": [
+        "Easter Island"
+      ]
+    },
+    {
+      "question": "Hvilken liten øy i det sørlige Afrika, som deler navn med tidligere nederlands fotballspiller, er med på UNESCOs liste over verdens kultur- og naturarvsteder?",
+      "answer": "Robben Island",
+      "aliases": [
+        "Robben"
+      ]
+    },
+    {
+      "question": "Pitcairnøyernes innbyggertall teller for tiden 35, de fleste direkte nedstammet fra noen svært kjente mytterister. Hvilket mytteri fra 1789 er det snakk om?",
+      "answer": "Mytteriet på Bounty",
+      "aliases": [
+        "Bounty",
+        "Mutiny on the Bounty"
+      ]
+    }
+  ]
+}
