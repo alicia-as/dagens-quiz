@@ -1,0 +1,45 @@
+{
+  "theme": "Klassiske romaner",
+  "questions": [
+    {
+      "question": "I hvilken roman av Umberto Eco, som ble en film med Sean Connery i hovedrollen, er handlingen lagt til et kloster i Italia i 1327?",
+      "answer": "Rosenens navn",
+      "aliases": [
+        "The Name of the Rose",
+        "Rosenens navn",
+        "I rosenens navn"
+      ]
+    },
+    {
+      "question": "Hvilken klassisk roman starter med følgende setning: Noen måtte ha baktalt Josef K, for en morgen ble han arrestert uten å ha gjort noe galt?»",
+      "answer": "Prosessen av Franz Kafka",
+      "aliases": [
+        "Prosessen",
+        "Kafka",
+        "Prosessen av Kafka",
+        "Kafkas prosessen"
+      ]
+    },
+    {
+      "question": "«Ute i fjorden rettet jeg meg opp en gang, våt av feber og matthet, så inn mot land og sa farvel for denne gang til byen, til Kristiania hvor vinduerne lyste så blankt fra alle hjem». Hvilken roman?",
+      "answer": "Sult av Knut Hamsun",
+      "aliases": [
+        "Sult",
+        "Knut Hamsun",
+        "Sult av Knut Hamsun"
+      ]
+    },
+    {
+      "question": "Hvilken klassisk roman om hvalfangere starter med følgende setning: «Kall meg Ismael»?",
+      "answer": "Moby Dick",
+      "aliases": [
+        "Moby Dick",
+        "Moby Dick av Herman Melville"
+      ]
+    },
+    {
+      "question": "En politisk biografi fra 2014, hvor hovedpersonen fortsatt er høyst aktuell, har samme tittel som en klassisk norsk roman av Jens Bjørneboe fra 1955. Hva heter boken?",
+      "answer": "Jonas"
+    }
+  ]
+}
