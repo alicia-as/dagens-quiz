@@ -1,0 +1,40 @@
+{
+  "theme": "Steiner",
+  "questions": [
+    {
+      "question": "I Bergen er den blå steinen blitt en turistattraksjon. Hvilken by kan skryte av sin svarte stein, som er en enda større attraksjon?",
+      "answer": "Mekka",
+      "aliases": [
+        "Mekka",
+        "Mecca"
+      ]
+    },
+    {
+      "question": "Tidligere kalte de seg Radiorespesjonen, men podkasten går nå under navnet Papaya. De heter Tore, Bjarte og ...?",
+      "answer": "Steinar",
+      "aliases": [
+        "Steinar Sagen"
+      ]
+    },
+    {
+      "question": "Hvilken norsk trubadur har i en av sine viser uttalt at: «Du kan’ke stikke kjepper i romjula»?",
+      "answer": "Øystein Sunde",
+      "aliases": [
+        "Øystein",
+        "Øystein Sunde"
+      ]
+    },
+    {
+      "question": "Han ble i underverdenen satt til å velte en diger stein opp en skråning. Hver gang han kom til topps, rullet steinen ned igjen, og han måtte begynne på nytt. Hva het stakkaren?",
+      "answer": "Sisyfos"
+    },
+    {
+      "question": "Hvilken meget tung stein har atomnummer 74 og kjemisk symbol W?",
+      "answer": "Wolfram, også kalt tungsten",
+      "aliases": [
+        "Wolfram",
+        "Tungsten"
+      ]
+    }
+  ]
+}
