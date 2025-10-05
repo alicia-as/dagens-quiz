@@ -1,0 +1,45 @@
+{
+  "theme": "Nobelprisvinnere",
+  "questions": [
+    {
+      "question": "Hvilken norsk forfatter vant Nobelprisen i litteratur i 2023, og ble dermed den første norske vinneren siden Sigrid Undset?",
+      "answer": "Jon Fosse",
+      "aliases": [
+        "Jon Fosse",
+        "Fosse"
+      ]
+    },
+    {
+      "question": "Hvem vant noe overraskende Nobels fredspris i 2009, bare ni måneder etter at han hadde startet jobben sin?",
+      "answer": "Barack Obama",
+      "aliases": [
+        "Obama",
+        "Barack Obama"
+      ]
+    },
+    {
+      "question": "Hvilken forsker vant nobelprisen i fysikk i 1903 og i kjemi åtte år senere for sin strålende forskning?",
+      "answer": "Marie Curie",
+      "aliases": [
+        "Marie Curie",
+        "Curie"
+      ]
+    },
+    {
+      "question": "Nordmannen Odd Hassel mottok Nobelprisen i 1969. I hvilken kategori?",
+      "answer": "Kjemi",
+      "aliases": [
+        "For kjemi",
+        "kjemisk"
+      ]
+    },
+    {
+      "question": "Hvilken tysk-amerikansk nobelprisvinner ble født på pi-dagen (3,14 = 14. mars) i 1879?",
+      "answer": "Albert Einstein",
+      "aliases": [
+        "Einstein",
+        "Albert"
+      ]
+    }
+  ]
+}
