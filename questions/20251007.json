@@ -1,0 +1,41 @@
+{
+  "theme": "Drinker",
+  "questions": [
+    {
+      "question": "Hvilken drink, som bør inneholde whiskey og vermouth, har et navn som også er tittelen på en Woody Allen-film fra 1979?",
+      "answer": "Manhattan",
+      "aliases": [
+        "Manhattan"
+      ]
+    },
+    {
+      "question": "Hvilken drink er oppkatt etter en statsleder (1516-58) som ikke likte at folk protesterte?",
+      "answer": "Bloody Mary",
+      "aliases": [
+        "Bloody Mary"
+      ]
+    },
+    {
+      "question": "Hvilken drink bestående av limesaft, Cointreau, vodka og melis har tatt navn etter en god del avdøde piloter?",
+      "answer": "Kamikaze",
+      "aliases": [
+        "Kamikaze"
+      ]
+    },
+    {
+      "question": "Hva skal det være mest av i en Cuba Libre?",
+      "answer": "Coca Cola",
+      "aliases": [
+        "Coca Cola",
+        "Cola"
+      ]
+    },
+    {
+      "question": "Hvilken drink bestående av bl.a. tequila, Cointreau og sitronsaft, har muligens fått navn etter en meksikansk skjønnhet, selv om navnet kan få deg til å tenke på en italiensk dame?",
+      "answer": "Margarita",
+      "aliases": [
+        "Margarita"
+      ]
+    }
+  ]
+}
