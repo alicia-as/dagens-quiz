@@ -1,0 +1,44 @@
+{
+  "theme": "Tre smarte, pluss et par til",
+  "questions": [
+    {
+      "question": "Hvilket mattegeni ble født på Finnøy i Ryfylke i 1802 og døde i 1829, før han hadde fylt 27 år?",
+      "answer": "Niels Henrik Abel",
+      "aliases": [
+        "Niels Abel",
+        "Abel"
+      ]
+    },
+    {
+      "question": "Albert Einstein døde i Princeton, New Jersey i 1955. I hvilket land ble han født i 1879?",
+      "answer": "Tyskland",
+      "aliases": [
+        "Tyskland"
+      ]
+    },
+    {
+      "question": "Hva heter briten som ga ut boken «A Brief History of Time» i 1988, en bok som tar for seg både «Big Bang» og sorte hull?",
+      "answer": "Stephen Hawking",
+      "aliases": [
+        "Hawking"
+      ]
+    },
+    {
+      "question": "Hva heter den ikke helt smarte tjeneren til Edmund Blackadder i tv-serien om «Sorte Orm»?",
+      "answer": "Baldrick",
+      "aliases": [
+        "Baldrick"
+      ]
+    },
+    {
+      "question": "Lloyd Christmas er en skarping som dukket opp på lerretet i 1994. I hvilken film?",
+      "answer": "Dum og dummere",
+      "aliases": [
+        "Dum og dummere",
+        "Dumb and Dumber",
+        "Dumb and dumberer",
+        "Dum & Dummere"
+      ]
+    }
+  ]
+}
