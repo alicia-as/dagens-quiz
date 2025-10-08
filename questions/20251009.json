@@ -1,0 +1,44 @@
+{
+  "theme": "Øyer i krig",
+  "questions": [
+    {
+      "question": "Briter og argentinere kjempet om Falklandsøyene i 1982. Hva er det spanske navnet på øygruppen?",
+      "answer": "Islas Malvinas",
+      "aliases": [
+        "Islas Malvinas",
+        "Malvinas"
+      ]
+    },
+    {
+      "question": "Et ikonisk bilde fra februar 1945 viser soldater som reiser det amerikanske flagget. På hvilken øy?",
+      "answer": "Iwo Jima",
+      "aliases": [
+        "Iwo Jima"
+      ]
+    },
+    {
+      "question": "Hva blir den kalt, konflikten mellom Storbritannia og Island som nådde sitt klimaks på midten av 1970-tallet?",
+      "answer": "Torskekrigen",
+      "aliases": [
+        "Torskekrigen",
+        "Torskekrig",
+        "Cod War"
+      ]
+    },
+    {
+      "question": "På hvilken øy, som opp gjennom historien har vært okkupert av mange forskjellige makter, finner vi militærbasene Akrotiri og Dekelia?",
+      "answer": "Kypros",
+      "aliases": [
+        "Kypros"
+      ]
+    },
+    {
+      "question": "Japanerne angrep Pearl Harbor på Hawaii i desember 1941. På hvilken øy ligger militærbasen?",
+      "answer": "Oahu",
+      "aliases": [
+        "Oahu",
+        "Pearl Harbor"
+      ]
+    }
+  ]
+}
