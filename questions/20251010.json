@@ -1,0 +1,40 @@
+{
+  "theme": "Oscar",
+  "questions": [
+    {
+      "question": "Oscar for beste film i 2002 hadde en by som tittel. Hvilken by?",
+      "answer": "Chicago",
+      "aliases": [
+        "Chicago"
+      ]
+    },
+    {
+      "question": "Oscar for beste film i 1982 hadde et etternavn som tittel. Hvilket navn?",
+      "answer": "Gandhi",
+      "aliases": [
+        "Gandhi"
+      ]
+    },
+    {
+      "question": "Oscar for beste film i 1984 hadde et fornavn som tittel. Hvilket navn?",
+      "answer": "Amadeus",
+      "aliases": [
+        "Amadeus",
+      ]
+    },
+    {
+      "question": "Oscar for beste film i 1988 hadde et misforstått fornavn som tittel. Hvilket navn?",
+      "answer": "Rain Man",
+      "aliases": [
+        "Rain Man"
+      ]
+    },
+    {
+      "question": "Oscar for beste film i 1994 hadde et for- og etternavn som tittel. Hvilket navn?",
+      "answer": "Forrest Gump",
+      "aliases": [
+        "Forrest Gump"
+      ]
+    }
+  ]
+}
