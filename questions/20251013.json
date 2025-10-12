@@ -1,0 +1,41 @@
+{
+  "theme": "Delstater i USA",
+  "questions": [
+    {
+      "question": "Hvilken av USAs 50 delstater kom med sist, nemlig i 1959? En ikke alt for god krim-serie gir deg en god pekepinn.",
+      "answer": "Hawaii (Hawaii 5-0)",
+      "aliases": [
+        "Hawaii"
+      ]
+    },
+    {
+      "question": "Hvilken sang (om både et land og en delstat!) fra 1930 ble en hit med Ray Charles i 1960 og med Willie Nelson i 1978? En av sørstatene har den som sin «offisielle sang».",
+      "answer": "Georgia on My Mind",
+      "aliases": [
+        "Georgia"
+      ]
+    },
+    {
+      "question": "Hvilken delstat har John Denvers sang «Rocky Mountain High» som sin «offisielle sang»?",
+      "answer": "Colorado",
+      "aliases": [
+        "Colorado"
+      ]
+    },
+    {
+      "question": "Hvilken kjent bygning har samme navn som staten New Yorks offisielle kallenavn?",
+      "answer": "The Empire State Building",
+      "aliases": [
+        "Empire State Building",
+        "Empire State"
+      ]
+    },
+    {
+      "question": "Hvilket museum for moderne kunst beliggende i Humlebæk i Nord-Sjælland har samme navn som en amerikansk delstat?",
+      "answer": "Louisiana",
+      "aliases": [
+        "Louisiana"
+      ]
+    }
+  ]
+}
