@@ -1,0 +1,37 @@
+{
+  "theme": "Svaret starter på 'Å'",
+  "questions": [
+    {
+      "question": "Olav Thon var ingen sleip fisk, men i hvilken kommune i Hallingdal ble han født i 1923?",
+      "answer": "Ål  ",
+      "aliases": [
+        "Ål kommune"
+      ]
+    },
+    {
+      "question": "Hvilket petroleumsfelt i Norskehavet har samme navn som en gudebolig og et psykiatrisk sykehus?",
+      "answer": "Åsgard",
+      "aliases": [
+        "Aasgard"
+      ]
+    },
+    {
+      "question": "Hvilken by er Danmarks nest største målt i folketall?",
+      "answer": "Århus",
+      "aliases": [
+        "Aarhus"
+      ]
+    },
+    {
+      "question": "Hvem debuterte som soloartist i 1975 med albumet '7800 Namsos'?",
+      "answer": "Åge Aleksandersen",
+      "aliases": [
+        "Åge "
+      ]
+    },
+    {
+      "question": "Hvilken tv-serie med underlig stemning som gikk fra 2005 - 2021 hadde Tom Strømnæss som programleder?",
+      "answer": "Åndenes makt"
+    }
+  ]
+}
