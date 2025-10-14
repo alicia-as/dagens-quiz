@@ -1,0 +1,37 @@
+{
+  "theme": "Latinske dyr og planter",
+  "questions": [
+    {
+      "question": "Hvilken ugle går under det latinske navne bubo scandiacus?",
+      "answer": "Snøugle",
+      "aliases": [
+        "Snø ugle"
+      ]
+    },
+    {
+      "question": "Hvilket rovdyr i de norske skoger har den latinske betegnelsen lynx lynx?",
+      "answer": "Gaupe"
+    },
+    {
+      "question": "Hvilken ikke-viltvoksende plante med det latinske navnet «Allium sativum» ble populær i Norge etter hvert som vi fikk flere innvandrere?",
+      "answer": "Hvitløk",
+      "aliases": [
+        "Garlic"
+      ]
+    },
+    {
+      "question": "Planten med det latinske navnet «Humulus lupulus» har på norsk samme navn som det flygende vesenet med det latinske navnet «Bombini»? Hva er det snakk om?",
+      "answer": "Humle",
+      "aliases": [
+        "Humlen"
+      ]
+    },
+    {
+      "question": "Hvilket dyr med det latinske navnet «Vulpes vulpes» har et norsk navn som også er en betegnelse på et dop?",
+      "answer": "Rev (hasj)",
+      "aliases": [
+        "Rev"
+      ]
+    }
+  ]
+}
