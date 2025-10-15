@@ -1,0 +1,39 @@
+{
+  "theme": "Skandinaviske aviser",
+  "questions": [
+    {
+      "question": "Denne måneden er det 20 år siden karikaturene av profeten Muhammed ble trykket i en dansk avis. Hva heter avisen?",
+      "answer": "Jyllands-Posten",
+      "aliases": [
+        "Jyllandsposten"
+      ]
+    },
+    {
+      "question": "Hvilken svensk avis kom ut for første gang i 1944 og har et navn som kan få deg til å tenke på et kjapt tog?",
+      "answer": "Expressen",
+      "aliases": [
+        "Ekspressen"
+      ]
+    },
+    {
+      "question": "Stortingspolitik Mimir Kristjansson var tidligere sjefsredaktør i hvilken norsk avis på venstresiden?",
+      "answer": "Klassekampen"
+    },
+    {
+      "question": "Trondhiems Adresse Contoirs Efterretninger skiftet navn i 1927. Til hva?",
+      "answer": "Adresseavisen",
+      "aliases": [
+        "Adresseavisa"
+      ]
+    },
+    {
+      "question": "Hvilken stor norsk avis har nesten samme navn som en enda større dansk avis, som igjen har en hovedstad i sitt navn?",
+      "answer": "Bergens Tidende (Berlingske Tidende)",
+      "aliases": [
+        "Bergens Tidende",
+        "Bergens Tidende (Berlingske Tidende)",
+        "Berlingske Tidende"
+      ]
+    }
+  ]
+}
