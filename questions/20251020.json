@@ -1,0 +1,40 @@
+{
+  "theme": "TV-serier som start på 'The'",
+  "questions": [
+    {
+      "question": "Hvilken britisk tv-serie (2001-2003) var den første til å vinne en Golden Globe og ble senere kopiert i USA?",
+      "answer": "The Office",
+      "aliases": [
+        "The Office UK",
+        "The Office (UK)",
+        "Office",
+        "Kontoret"
+      ]
+    },
+    {
+      "question": "I hvilken tv-serie, som bygger på et dataspill, følger vi Ellie og Joel i en post-apokalyptisk verden?",
+      "answer": "The Last of Us",
+      "aliases": [
+        "Last of Us"
+      ]
+    },
+    {
+      "question": "I hvilken tv-serie spiller Lorraine Bracco rollen som den forståelsesfulle Dr. Jennifer Melfi?",
+      "answer": "The Sopranos",
+      "aliases": [
+        "Sopranos"
+      ]
+    },
+    {
+      "question": "I hvilken TV-serie med handling fra Baltimore møter vi Dominic West som etterforskeren Jimmy McNulty?",
+      "answer": "The Wire"
+    },
+    {
+      "question": "Hvilken amerikanske tv-serie (1959-64) handlet om helt vanlige mennesker som havnet i høyst uvanlige og gjerne overnaturlige situasjoner?",
+      "answer": "The Twilight Zone",
+      "aliases": [
+        "Twilight Zone"
+      ]
+    }
+  ]
+}
