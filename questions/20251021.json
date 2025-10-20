@@ -1,0 +1,38 @@
+{
+  "theme": "I kjøleskapet",
+  "questions": [
+    {
+      "question": "Hvilken matvare, som franskmennene kaller 'beurre', blir ganske ekkelt å spise om du bytter ut én bokstav?",
+      "answer": "Smør (Snørr)",
+      "aliases": [
+        "Smør"
+      ]
+    },
+    {
+      "question": "Hvilket meieriprodukt, som kan få deg til å lenge til hytta, har økt voldsomt i popularitet de siste årene?",
+      "answer": "Cottage Cheese"
+    },
+    {
+      "question": "Hvilken grønnsak har et navn som på svensk også kan være betegnelsen på en soldat fra Nepal?",
+      "answer": "Agurk (Gurkha)",
+      "aliases": [
+        "Agurk",
+        "Gurkha"
+      ]
+    },
+    {
+      "question": "Hvilken viktig ingrediens i mange retter har sannsynligvis fått sitt navn etter byen Mahón på Menorca?",
+      "answer": "Majones",
+      "aliases": [
+        "Mayonnaise"
+      ]
+    },
+    {
+      "question": "Husk å vaske deg på hendene: hva er hovedingrediensen i den østeuropeiske suppen med det vanskelige navnet barszcz (borszcz/borscht)?",
+      "answer": "Rødbeter",
+      "aliases": [
+        "Rødbete"
+      ]
+    }
+  ]
+}
