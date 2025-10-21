@@ -1,0 +1,31 @@
+{
+  "theme": "Frode Øverlis verden",
+  "description": "I anledning nyhetene om at Frode Øverli gir seg som daglig tegneserie-skaper etter 30 år!, ",
+  "questions": [
+    {
+      "question": "Moren til Jokke er storforbruker av badevekter. Hva heter hun?",
+      "answer": "Else"
+    },
+    {
+      "question": "Hvilken tv-serie trøster hun seg med etter et «tappert» forsøk på å gå ned i vekt?",
+      "answer": "Derrick"
+    },
+    {
+      "question": "Frode Øverli tegnet også énruters vitsetegninger. Med et fellesnavn, hva kaller han dem?",
+      "answer": "Rutetid"
+    },
+    {
+      "question": "Hva heter fotballstadionet i England der en Pondus-stripe står utstilt sammen med et Champions League-trofé fra 2005?",
+      "answer": "Anfield"
+    },
+    {
+      "question": "Hva heter de to kollegaene til Pondus som er ivrige samlere av Cola-korker?",
+      "answer": "Ivar og Hugo",
+      "aliases": [
+        "Ivar & Hugo",
+        "Hugo og Ivar",
+        "Hugo & Ivar"
+      ]
+    }
+  ]
+}
