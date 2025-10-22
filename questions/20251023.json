@@ -1,0 +1,28 @@
+{
+  "theme": "Biler",
+  "questions": [
+    {
+      "question": "Hvilket russisk bilmerke solgte i millionopplag også i vestlige land på 1980- og 90-tallet? Tar du vekk siste bokstav blir det en passende oppfordring til elbil-eiere!",
+      "answer": "Lada"
+    },
+    {
+      "question": "Hvilket britisk bilmerke ble stiftet i 1952, tok samme navn som nasjonalblomsten i India, og var med i Formel I fram til 1994?",
+      "answer": "Lotus"
+    },
+    {
+      "question": "Hvilket tysk bilmerke har samme navn som 66 kvinner i Norge?",
+      "answer": "Mercedes"
+    },
+    {
+      "question": "Hvilket uhyre sjeldent norsk bilmerke ga ideen til produksjon av bilmerket Koenigsegg?",
+      "answer": "Il Tempo Gigante"
+    },
+    {
+      "question": "Hvilket bilmerke, som gjemmer seg i et arabisk land, ville fra 2026 konkurrere i Formel 1?",
+      "answer": "Audi (Saudi-Arabia)",
+      "aliases": [
+        "Audi"
+      ]
+    }
+  ]
+}
