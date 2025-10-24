@@ -26,14 +26,15 @@
       ]
     },
     {
-      "question": "",
-      "answer": "Il Tempo Gigante"
+      "question": "I hvilken delstat, som blir til et vanlig norsk pikenavn dersom du fjerner de to siste bokstavene, heter hovedstaden Boise?",
+      "answer": "Idaho"
     },
     {
-      "question": "Hvilket bilmerke, som gjemmer seg i et arabisk land, ville fra 2026 konkurrere i Formel 1?",
-      "answer": "Audi (Saudi-Arabia)",
+      "question": "Hvilken annen norsk by i Rogaland blir til et kraftuttrykk dersom du fjerner forbokstaven? Tar du deretter vekk den siste bokstaven får du et jentenavn. ",
+      "answer": "Sauda (au da, Aud)",
       "aliases": [
-        "Audi"
+        "Sauda",
+        "Auda"
       ]
     }
   ]
