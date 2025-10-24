@@ -1,0 +1,40 @@
+{
+  "theme": "Bytt siste bokstav",
+  "questions": [
+    {
+      "question": "Hvilket grunnstoff med atomnummer 82 blir til en farge om du bytter ut siste bokstav?",
+      "answer": "Bly (blå)",
+      "aliases": [
+        "Bly",
+        "blå"
+      ]
+    },
+    {
+      "question": "Hvilket populært lojalitetskort i Norge blir til et mindre populær verdensleder om du bytter ut siste bokstav?",
+      "answer": "Trumf (Trump)",
+      "aliases": [
+        "Trumf",
+        "Trump"
+      ]
+    },
+    {
+      "question": "Hvilket land har et navn som blir til landets erkefiende dersom du bytter ut den siste bokstaven?",
+      "answer": "Iran eller Irak!",
+      "aliases": [
+        "Iran",
+        "Irak"
+      ]
+    },
+    {
+      "question": "",
+      "answer": "Il Tempo Gigante"
+    },
+    {
+      "question": "Hvilket bilmerke, som gjemmer seg i et arabisk land, ville fra 2026 konkurrere i Formel 1?",
+      "answer": "Audi (Saudi-Arabia)",
+      "aliases": [
+        "Audi"
+      ]
+    }
+  ]
+}
