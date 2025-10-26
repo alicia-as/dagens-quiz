@@ -1,0 +1,32 @@
+{
+  "theme": "Kortspill 2",
+  "questions": [
+    {
+      "question": "I hvilket kortspill, som man på engelsk kan krysse, kan man bli 'blindemann'?",
+      "answer": "Bridge"
+    },
+    {
+      "question": "I hvilket kortspill gir ruter knekt minus 100 poeng, mens hjerteress gir 20 poeng?",
+      "answer": "Spardame",
+      "aliases": [
+        "Hearts",
+        "Hjerter"
+      ]
+    },
+    {
+      "question": "Hvilken type kortspill, der ruterti har spesiell betydning, har samme navn som et sted som er forbudt i Norge og Island men lovlig ellers i Europa?",
+      "answer": "Casino",
+      "aliases": [
+        "Kasino"
+      ]
+    },
+    {
+      "question": "I hvilket kortspill teller essene 1 eller 11 mens bildekortene teller 10?",
+      "answer": "Blackjack"
+    },
+    {
+      "question": "Med samme navn som et kortspill, hva heter Ronja Røverdatters far?",
+      "answer": "Mattis"
+    }
+  ]
+}
