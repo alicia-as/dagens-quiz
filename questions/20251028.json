@@ -1,0 +1,32 @@
+{
+  "theme": "Planter",
+  "questions": [
+    {
+      "question": "Hvilken tresort fra Australia, som kalles febertre i flere land, kan bli 100 meter høy og har en ekstrakt som brukes bl.a. i pastiller?",
+      "answer": "Eukalyptus",
+      "aliases": [
+        "Eucalyptus"
+      ]
+    },
+    {
+      "question": "Hvilken plantefamilie, som lagrer vannet i stammen, har det latinske navnet «Cactaceae»?",
+      "answer": "Kaktus",
+      "aliases": [
+        "Kaktusen",
+        "Kaktus-familien"
+      ]
+    },
+    {
+      "question": "Hvilken kulturplante, som stort sett består av vann, har gitt navn til sesongbaserte nyheter?",
+      "answer": "Agurk"
+    },
+    {
+      "question": "Hvilken plante, som har fått navn etter en kvinnelig skikkelse fra gresk mytologi, har saft som brukes til brennevinsproduksjon?",
+      "answer": "Agave"
+    },
+    {
+      "question": "Humulus lupulus er en plante, som på tross av det norske navnet, ikke kan fly. Hva kaller vi den?",
+      "answer": "Humle"
+    }
+  ]
+}
