@@ -1,0 +1,44 @@
+{
+  "theme": "Bryllupsdager",
+  "questions": [
+    {
+      "question": "Hvor lenge har man vært gift når man feirer sølvbryllup?",
+      "answer": "25 år  ",
+      "aliases": [
+        "25  "
+      ]
+    },
+    {
+      "question": "Hvor lenge har man vært gift når man feirer gullbryllup?",
+      "answer": "50 år  ",
+      "aliases": [
+        "50  "
+      ]
+    },
+    {
+      "question": "Hvilket grunnstoff har samme navn som en kommune og har også gitt navn til 10 års bryllupsdag?",
+      "answer": "Tinn",
+      "aliases": [
+        "Sn    ",
+        "Tinnbryllup"
+      ]
+    },
+    {
+      "question": "Dersom ekteskapet ikke er knust etter 20 år, hva slags bryllupsdag kan man feire da?",
+      "answer": "Porselensbryllup",
+      "aliases": [
+        "Porselens bryllup",
+        "Porselensbryllupet",
+        "Porselen"
+      ]
+    },
+    {
+      "question": "Hvilken legering, som du kan få på pallen, har gitt navn til den åttende bryllupsdagen?",
+      "answer": "Bronse",
+      "aliases": [
+        "Bronze",
+        "Bronsebryllup"
+      ]
+    }
+  ]
+}
