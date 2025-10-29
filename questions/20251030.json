@@ -1,0 +1,41 @@
+{
+  "theme": "Og navnet var?",
+  "questions": [
+    {
+      "question": "Det er 6424 kvinner som har dette navnet i Norge. Det er også navnet på den største byen i Nord-Carolina, samt en svensk vinner av «Eurovision Song Contest».",
+      "answer": "Charlotte",
+      "aliases": [
+        "Charlotte"
+      ]
+    },
+    {
+      "question": "Det er 6941 kvinner som har dette navnet i Norge. Det er også navnet på administrasjonssenteret i Østre Toten og en tysk vinner av «Eurovision Song Contest».",
+      "answer": "Lena",
+      "aliases": [
+        "Lena"
+      ]
+    },
+    {
+      "question": "Det er 8416 kvinner som har dette navnet i Norge. Svært mange av oss har henne også i lommen. 2089 norske kvinner har samme navn, men baklengs.",
+      "answer": "Siri",
+      "aliases": [
+        "Siri"
+      ]
+    },
+    {
+      "question": "Det er 2575 menn som har dette navnet i Norge. En død psykolog og en sabla god munnspiller har samme navn.",
+      "answer": "Sigmund",
+      "aliases": [
+        "Sigmund"
+      ]
+    },
+    {
+      "question": "Det er 17 886 menn som har dette navnet i Norge, inkludert en som ble verdensmester i 2013 og en som ble olympisk mester i 2014. En pensjonert Anders på TV har det til etternavn.",
+      "answer": "Magnus",
+      "aliases": [
+        "Magnus"
+      ]
+    }
+  ]
+]
+}
