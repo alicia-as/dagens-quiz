@@ -1,0 +1,51 @@
+{
+  "theme": "Olympisk mestere",
+  "questions": [
+    {
+      "question": "Hvilken idrettsutøver er den eneste nordmannen som er blitt olympisk mester med 14 års mellomrom, i 1992 og 2006?",
+      "answer": "Kjetil Andre Aamodt",
+      "aliases": [
+        "Kjetil Aamodt",
+        "Kjetil Andre Aamodt",
+        "Aamodt"
+      ]
+    },
+    {
+      "question": "Hvilken helt blir olympisk mester i René Goscinnys- og Albert Uderzos historie som kom på norsk i 1981?",
+      "answer": "Asterix",
+      "aliases": [
+        "Asterix"
+      ]
+    },
+    {
+      "question": "Hvilken norsk spydkaster tok sitt andre gull på rad i Beijing 2008?",
+      "answer": "Andreas Thorkildsen",
+      "aliases": [
+        "Andreas Thorkildsen",
+        "Thorkildsen"
+      ]
+    },
+    {
+      "question": "Hvem er den yngste norske som er blitt olympisk mester - helt tilbake i 1928?",
+      "answer": "Sonja Henie",
+      "aliases": [
+        "Sonja Henie",
+        "Henie"
+      ]
+    },
+    {
+      "question": "Hvor mange meter må du løpe dersom du skal ha håp om å bli olympisk mester i maraton?",
+      "answer": "42 195 meter ",
+      "aliases": [
+        "42 195 meter",
+        "42195 meter ",
+        "42,195 meter",
+        "42 kilometer og 195 meter",
+        "42 km og 195 meter",
+        "42 kilometer",
+        "42 km. ",
+        "42195 meter  "
+      ]
+    }
+  ]
+}
