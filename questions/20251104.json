@@ -1,0 +1,37 @@
+{
+  "theme": "Delstater i USA",
+  "questions": [
+    {
+      "question": "Med samme navn som et fjell i Hellas, hva heter delstatshovedstaden i Washington?",
+      "answer": "Olympia"
+    },
+    {
+      "question": "Hvilken amerikansk by ble grunnlagt av kvekeren William Penn og er også tittelen på en film og navn på en del menigheter?",
+      "answer": "Philadelphia, Pennsylvania",
+      "aliases": [
+        "Philadelphia i Pennsylvania",
+        "Philadelphia",
+        "Pennsylvania"
+      ]
+    },
+    {
+      "question": "I hvilken nåværende amerikansk delstat, som du ikke klarer å stave navnet på, fant «Teselskapet i Boston» (1773) sted?",
+      "answer": "Massachusetts",
+      "aliases": [
+        "Masachusets"
+      ]
+    },
+    {
+      "question": "Hvilken amerikansk delstat har et tilnavn som på norsk betyr «Hei» eller «Ha det»?",
+      "answer": "Hawaii - The Aloha State",
+      "aliases": [
+        "The Aloha State",
+        "Hawaii"
+      ]
+    },
+    {
+      "question": "I hvilken amerikansk delstat ble grunnstoffet berkelium, som er oppkalt etter et universitet, kunstig framstilt i 1949?",
+      "answer": "California"
+    }
+  ]
+}
