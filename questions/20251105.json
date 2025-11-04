@@ -1,0 +1,41 @@
+{
+  "theme": "Top Hits fra 2000-tallet",
+  "questions": [
+    {
+      "question": "«Love Me Like You Do» lå på andre plass for to år siden. Med gyllent etternavn, hva heter  artisten?",
+      "answer": "Ellie Goulding",
+      "aliases": [
+        "Ellie Goulding"
+      ]
+    },
+    {
+      "question": "Hvilken artist, med etternavnet Atkins, toppet lista i 2008 med «Chasing Pavements»?",
+      "answer": "Adele",
+      "aliases": [
+        "Adele"
+      ]
+    },
+    {
+      "question": "Maria Haukaas lå også høyt oppe på listene i 2008. Med hvilken vellykket Grand Prix-låt?",
+      "answer": "Hold On Be Strong",
+      "aliases": [
+        "Hold On Be Strong"
+      ]
+    },
+    {
+      "question": "Hvilken Nelly lå høyt på listene i 2007 med «All Good Things (Come To An End)»?",
+      "answer": "Nelly Furtado",
+      "aliases": [
+        "Nelly Furtado",
+        "Furtado"
+      ]
+    },
+    {
+      "question": "Hvilken norsk artist med ganske så ordinært navn toppet listene i 2006 med «Don't Save Me»?",
+      "answer": "Marit Larsen",
+      "aliases": [
+        "Marit Larsen"
+      ]
+    }
+  ]
+}
