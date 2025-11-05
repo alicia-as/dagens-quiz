@@ -1,0 +1,37 @@
+{
+  "theme": "Svaret slutter på 'ix'",
+  "questions": [
+    {
+      "question": "I hvilket tradisjonsrikt formel I-løp, som involverer «hele» landet, kjører bilene i en tunnel under Fairmont Hotel?",
+      "answer": "Monaco Grand Prix",
+      "aliases": [
+        "Monte Carlo Grand Prix",
+        "Monaco Grand Prix",
+        "Grand Prix de Monaco"
+      ]
+    },
+    {
+      "question": "Hvilken helt tegnet av Albert Uderzo har samme navn som en potetsort?",
+      "answer": "Asterix"
+    },
+    {
+      "question": "En rekke paver, samt den avdøde østerrikeren som hoppet fra verdensrommet har fornavn som også er et vanlig kattenavn. Hvilket?",
+      "answer": "Felix",
+      "aliases": [
+        "Feliks"
+      ]
+    },
+    {
+      "question": "Delstaten i USA som har flest indianerreservater har en hovedstad som også er navnet til et fabeldyr? Navnet takk!",
+      "answer": "Phoenix",
+      "aliases": [
+        "Phoenix, Arizona",
+        "Arizona"
+      ]
+    },
+    {
+      "question": "De første olympiske vinterleker ble arrangerte i 1924. Hvor skjedde det?",
+      "answer": "Chamonix"
+    }
+  ]
+}
