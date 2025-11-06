@@ -1,0 +1,41 @@
+{
+  "theme": "Ørken",
+  "questions": [
+    {
+      "question": "I hvilket østafrikansk land med mer enn 100 millioner innbyggere ligger det omstridte ørkenområdet Ogaden?",
+      "answer": "Etiopia",
+      "aliases": [
+        "Ethiopia"
+      ]
+    },
+    {
+      "question": "Hvilken ørken, beliggende på 24 grader syd og 69 grader vest, er verdens tørreste?",
+      "answer": "Atacamaørkenen",
+      "aliases": [
+        "Atacama"
+      ]
+    },
+    {
+      "question": "Silkeveien gikk gjennom verdens femte største ørken. Med et navn som kan få deg til å tenke på en godbit, hva heter den?",
+      "answer": "Gobi",
+      "aliases": [
+        "Gobiørkenen"
+      ]
+    },
+    {
+      "question": "Hvilken tysker fikk klengenavnet ”Ørkenreven” under andre verdenskrig?",
+      "answer": "Erwin Rommel",
+      "aliases": [
+        "Generalfeldmarschall Erwin Rommel",
+        "Rommel"
+      ]
+    },
+    {
+      "question": "Las Vegas ligger midt i en ørken som har fått navn etter urbefolkningen som bodde der. Hva heter ørkenen?",
+      "answer": "Mojave",
+      "aliases": [
+        "Mojaveørkenen"
+      ]
+    }
+  ]
+}
