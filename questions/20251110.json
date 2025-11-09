@@ -1,0 +1,34 @@
+{
+  "theme": "Gresk mytologi",
+  "questions": [
+    {
+      "question": "Sønnen til Zeus og Hera i gresk mytologi har samme navn som et eksklusivt klesmerke, blant annet kjent for sine slips. Hva heter han?",
+      "answer": "Hermés",
+      "aliases": [
+        "Hermes"
+      ]
+    },
+    {
+      "question": "Hva het regnbuens gudinne i gresk mytologi, som man også finner i øyet?",
+      "answer": "Iris"
+    },
+    {
+      "question": "Zevs er gudenes konge i gresk mytologi. Med et «gigantisk» navn, hva heter hans romerske motstykke?",
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Den øverste nakkevirvelen hos mennesker har samme navn som skikkelse fra gresk mytologi med lignende oppgaver, samt en fjellkjede i Nord-Afrika. Hvilket navn?",
+      "answer": "Atlas",
+      "aliases": [
+        "Atlasfjellene"
+      ]
+    },
+    {
+      "question": "Hvilket monster fra gresk mytologi fikk sitt hode kappet av og sine hundre øyne satt på fjærene til en påfugl, noe som har gitt opphav for et uttrykk?",
+      "answer": "Argus (argusøyne)",
+      "aliases": [
+        "Argusøyne"
+      ]
+    }
+  ]
+}
