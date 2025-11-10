@@ -1,0 +1,49 @@
+{
+  "theme": "Eliteinstitusjoner",
+  "questions": [
+    {
+      "question": "Med samme navn som et skjortemerke, hvilken privat ungdoms- og videregående skole, grunnlagt i 1440, har hatt 19 senere statsministre som elever, inkludert David Cameron?",
+      "answer": "Eton College",
+      "aliases": [
+        "Eton",
+        "Eton College",
+        "Eton College"
+      ]
+    },
+    {
+      "question": "MIT (Massachusetts Institute of Technology) ansees som et av verdens beste universiteter. En av hovedkonkurrentene til tittelen ligger så å si et steinkast unna. Hva heter det universitetet?",
+      "answer": "Harvard University",
+      "aliases": [
+        "Harvard",
+        "Harvard University"
+      ]
+    },
+    {
+      "question": "Google hadde sin spede begynnelse i september 1998 og ble utviklet av studentene Sergeij Brin og Larry Page. Hva heter det universitetet de startet i?",
+      "answer": "Stanford University",
+      "aliases": [
+        "Stanford",
+        "Stanford University"
+      ]
+    },
+    {
+      "question": "James Murray strevet i 36 år for å fullføre verdens største Dictionary. Han døde da han var kommet til bokstaven T. Det siste bindet kom ut i 1928, tretten år etter hans død. Hvilken institusjon var ansvarlig for utgivelsen?",
+      "answer": "Oxford University Press",
+      "aliases": [
+        "Oxford University Press",
+        "Oxford Press",
+        "Oxford",
+        "Oxford University"
+      ]
+    },
+    {
+      "question": "Han ble født den 14. mars 1879 i Ulm, Tyskland og døde i 1955 i Princeton, New Jersey. Hvilken verdenskjent person snakker vi om?",
+      "answer": "Albert Einstein",
+      "aliases": [
+        "Einstein",
+        "Albert Einstein",
+        "Einstein"
+      ]
+    }
+  ]
+}
