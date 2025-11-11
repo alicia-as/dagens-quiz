@@ -1,0 +1,35 @@
+{
+  "theme": "Land i Afrika",
+  "questions": [
+    {
+      "question": "I hvilket lite Vestafrikansk land, som man på engelsk kan si at man vil ha maten sin som, er Lomé hovedstad?",
+      "answer": "Togo"
+    },
+    {
+      "question": "Hvilket østafrikansk land som er kjent for sine gode kaffe, har også blitt kalt Abyssinia?",
+      "answer": "Etiopia",
+      "aliases": [
+        "Ethiopia"
+      ]
+    },
+    {
+      "question": "Med samme navn som en barnefilm fra 2005, hvilket land er Antananarivo hovedstad?",
+      "answer": "Madagaskar"
+    },
+    {
+      "question": "Hvilket land i Afrika, som er halvparten så stort som Norge, ligger lengst nord?",
+      "answer": "Tunisia"
+    },
+    {
+      "question": "To land i Afrika har navn som begynner på bokstaven A. Hvilke?",
+      "answer": "Angola og Algeria",
+      "aliases": [
+        "Algeria & Angola",
+        "Angola & Algeria",
+        "Algeria, Angola",
+        "Angola, Algeria",
+        "Algeria og Angola"
+      ]
+    }
+  ]
+}
