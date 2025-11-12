@@ -1,39 +1,43 @@
 {
-  "theme": "Og navnet var?",
+  "theme": "Bryllupsdager",
   "questions": [
     {
-      "question": "Det er 6424 kvinner som har dette navnet i Norge. Det er også navnet på den største byen i Nord-Carolina, samt en svensk vinner av «Eurovision Song Contest».",
-      "answer": "Charlotte",
+      "question": "Hvor lenge har man vært gift når man feirer sølvbryllup?",
+      "answer": "25 år  ",
       "aliases": [
-        "Charlotte"
+        "25  "
       ]
     },
     {
-      "question": "Det er 6941 kvinner som har dette navnet i Norge. Det er også navnet på administrasjonssenteret i Østre Toten og en tysk vinner av «Eurovision Song Contest».",
-      "answer": "Lena",
+      "question": "Hvor lenge har man vært gift når man feirer gullbryllup?",
+      "answer": "50 år  ",
       "aliases": [
-        "Lena"
+        "50  "
       ]
     },
     {
-      "question": "Det er 8416 kvinner som har dette navnet i Norge. Svært mange av oss har henne også i lommen. 2089 norske kvinner har samme navn, men baklengs.",
-      "answer": "Siri",
+      "question": "Hvilket grunnstoff har samme navn som en kommune og har også gitt navn til 10 års bryllupsdag?",
+      "answer": "Tinn",
       "aliases": [
-        "Siri"
+        "Sn    ",
+        "Tinnbryllup"
       ]
     },
     {
-      "question": "Det er 2575 menn som har dette navnet i Norge. En død psykolog og en sabla god munnspiller har samme navn.",
-      "answer": "Sigmund",
+      "question": "Dersom ekteskapet ikke er knust etter 20 år, hva slags bryllupsdag kan man feire da?",
+      "answer": "Porselensbryllup",
       "aliases": [
-        "Sigmund"
+        "Porselens bryllup",
+        "Porselensbryllupet",
+        "Porselen"
       ]
     },
     {
-      "question": "Det er 17 886 menn som har dette navnet i Norge, inkludert en som ble verdensmester i 2013 og en som ble olympisk mester i 2014. En pensjonert Anders på TV har det til etternavn.",
-      "answer": "Magnus",
+      "question": "Hvilken legering, som du kan få på pallen, har gitt navn til den åttende bryllupsdagen?",
+      "answer": "Bronse",
       "aliases": [
-        "Magnus"
+        "Bronze",
+        "Bronsebryllup"
       ]
     }
   ]
