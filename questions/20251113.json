@@ -1,0 +1,45 @@
+{
+  "theme": "Byer i USA",
+  "questions": [
+    {
+      "question": "Hvilken by, som ligger i Missouri, var den første utenfor Europa som arrangerte olympiske leker?",
+      "answer": "St. Louis",
+      "aliases": [
+        "St. Louis (USA)",
+        "Saint Louis"
+      ]
+    },
+    {
+      "question": "Ved hvilken tidligere sommerolympisk arrangørby og delstatshovedstad ligger Hartsfield internasjonale flyplass?",
+      "answer": "Atlanta",
+      "aliases": [
+        "Atlanta (USA)",
+        "Atlanta"
+      ]
+    },
+    {
+      "question": "I hvilken amerikansk vestkystby foregikk handlingen i TV-seriene ”Frasier” og ”Grey's Anatomy”?",
+      "answer": "Seattle",
+      "aliases": [
+        "Seattle (USA)",
+        "Seattle"
+      ]
+    },
+    {
+      "question": "Ved hvilken by ligger O'Hare International Airport? ",
+      "answer": "Chicago",
+      "aliases": [
+        "Chicago (USA)",
+        "Chicago"
+      ]
+    },
+    {
+      "question": "Hvilken by ble grunnlagt av franskmannen Antoine de la Mothe Cadillac i 1701 (etternavnet er et bra hint)?",
+      "answer": "Detroit",
+      "aliases": [
+        "Detroit (USA)",
+        "Detroit"
+      ]
+    }
+  ]
+}
