@@ -1,0 +1,50 @@
+{
+  "theme": "Fargen er rød 🔴",
+  "questions": [
+    {
+      "question": "Under hvilket navn ble Manfred Albrecht von Richthofen bedre kjent i årene før han døde på dramatisk vis i 1918?",
+      "answer": "Den røde baron",
+      "aliases": [
+        "Den røde baron",
+        "Den røde baronen",
+        "Røde baron",
+        "Rød baron",
+        "Rød Baronen"
+      ]
+    },
+    {
+      "question": "Tyskeren Mathias Rust fikk mye oppmerksomhet for hvor han landet sitt fly i 1987. Hvor landet han?",
+      "answer": "På den Røde Plass i Moskva",
+      "aliases": [
+        "Røde Plass",
+        "Den røde plass",
+        "Røde Plassen",
+        "Den røde plassen",
+        "Røde Plassen i Moskva",
+        "Den røde plassen i Moskva",
+        "Røde Plassen i Moskva",
+        "Den røde plassen i Moskva"
+      ]
+    },
+    {
+      "question": "Marie Sneve Rasmussen er partileder - i hvilken parti?",
+      "answer": "Rødt"
+    },
+    {
+      "question": "Hvilket rockeband, stiftet i California i 1983 og fremdeles sterkt tilstede, har et navn som kommer høyt opp på scovilleskalaen?",
+      "answer": "Red Hot Chili Peppers",
+      "aliases": [
+        "The Red Hot Chili Peppers"
+      ]
+    },
+    {
+      "question": "Hvilken bok ble solgt i en milliard eksemplarer på 60-tallet?",
+      "answer": "Maos lille røde",
+      "aliases": [
+        "Maos røde",
+        "Maos lille røde",
+        "Maos lille røde bok"
+      ]
+    }
+  ]
+}
