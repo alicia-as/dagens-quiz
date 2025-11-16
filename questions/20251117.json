@@ -1,0 +1,40 @@
+{
+  "theme": "Julefilmer",
+  "questions": [
+    {
+      "question": "Hva heter den tsjekkiske julefilmen fra 1973 som vi alle har sett?",
+      "answer": "Tre nøtter til Askepott",
+      "aliases": [
+        "Drei Haselnüsse für Aschenbrödel",
+        "Tři oříšky pro Popelku"
+      ]
+    },
+    {
+      "question": "Hvem er programleder i den tradisjonsrike julefilmen «Donald Duck og vennene hans»?",
+      "answer": "Timmy Gresshoppe",
+      "aliases": [
+        "Jimmy Cricket"
+      ]
+    },
+    {
+      "question": "Hvem spiller rollen som det grønne monsteret Grinchen i julefilmen fra 2000?",
+      "answer": "Jim Carrey"
+    },
+    {
+      "question": "I hvilken populær julefilm fra blir en guttunge glemt igjen i det familien stresser avgårde på juleferie?",
+      "answer": "Hjemme Alene",
+      "aliases": [
+        "Home Alone",
+        "Alene Hjemme"
+      ]
+    },
+    {
+      "question": "Hvilken svensk «julefilm» fra 1982 vant fire Oscars, bl.a. for «Beste utenlandske film»?",
+      "answer": "Fanny og Alexander",
+      "aliases": [
+        "Fanny och Alexander",
+        "Fanny & Alexander"
+      ]
+    }
+  ]
+}
