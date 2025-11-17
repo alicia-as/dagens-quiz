@@ -1,0 +1,50 @@
+{
+  "theme": "Kjente organisasjoner",
+  "questions": [
+    {
+      "question": "Hvilken organisasjon, som blir til et kvinnemagasin om du fjerner én av bokstavene, hadde sin spede begynnelse i Tennessee julen 1865?",
+      "answer": "Ku Klux Klan (KKK)",
+      "aliases": [
+        "Ku Klux Klan",
+        "KKK ",
+        "Ku Klux"
+      ]
+    },
+    {
+      "question": "Hvilken kjent militær organisasjon, med medlemmer fra mange land, ble etablert av Ludvig Filip året etter juli-revolusjonen i 1830?",
+      "answer": "Fremmedlegionen",
+      "aliases": [
+        "Legion Etrangere",
+        "Légion Etrangère",
+        "Den franske fremmedlegion"
+      ]
+    },
+    {
+      "question": "Hva heter, med en forkortelse, den internasjonale organisasjonen som består av 208 nasjonale fotballforbund?",
+      "answer": "FIFA (Fédération Internationale de Football Association)",
+      "aliases": [
+        "Fédération Internationale de Football Association",
+        "Fotballforbundet",
+        "Fotballforbundet (FIFA)",
+        "FIFA"
+      ]
+    },
+    {
+      "question": "Hvilken organisasjon fikk Nobels fredspris i 1999 'for dens banebrytende humanitære innsats på flere kontinenter'?",
+      "answer": "Leger Uten Grensen",
+      "aliases": [
+        "Medicins sans frontières",
+        "MSF",
+        "Médecins Sans Frontières"
+      ]
+    },
+    {
+      "question": "Hvilken stor organisasjon har sitt hovedkvarter i Langley i Virginia?",
+      "answer": "CIA (Central Intelligence Agency)",
+      "aliases": [
+        "Central Intelligence Agency",
+        "CIA  "
+      ]
+    }
+  ]
+}
