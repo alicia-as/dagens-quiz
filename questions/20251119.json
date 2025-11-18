@@ -1,0 +1,32 @@
+{
+  "theme": "Land på 'A'",
+  "questions": [
+    {
+      "question": "Hvilke to land i Kaukasus, begge med navn som begynner på bokstaven A, utkjempet en krig om det omstridte Nagorno-Karabakh i 1994 og i 2020?",
+      "answer": "Armenia og Aserbajdsjan",
+      "aliases": [
+        "Aserbajdsjan og Armenia",
+        "Armenia, Aserbajdsjan",
+        "Aserbajdsjan, Armenia",
+        "Armenia & Aserbajdsjan",
+        "Aserbajdsjan & Armenia"
+      ]
+    },
+    {
+      "question": "I hvilken afrikansk republikk ligger byen Luanda, som også er landets hovedstad?",
+      "answer": "Angola"
+    },
+    {
+      "question": "Verdens sjette største land i areal har rundt 21 millioner innbyggere. Hva heter det?",
+      "answer": "Australia"
+    },
+    {
+      "question": "Hvilket land er det eneste i verden med et flagg som er kun rødt og svart?",
+      "answer": "Albania"
+    },
+    {
+      "question": "I hvilket land er den eksentriske Javier Milei president?",
+      "answer": "Argentina"
+    }
+  ]
+}
