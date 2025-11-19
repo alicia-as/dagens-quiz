@@ -1,0 +1,33 @@
+{
+  "theme": "Land på 'B'",
+  "questions": [
+    {
+      "question": "Hvilket land har kun litt flere innbyggere enn Oslo, men grenser til land som til sammen har mer enn 2,5 milliarder innbyggere?",
+      "answer": "Bhutan"
+    },
+    {
+      "question": "I hvilket land, som har fått et nytt navn (av oss) de siste årene, er stadig Aleksandr Lukasjenko president?",
+      "answer": "Belarus (tidligere Hviterussland)",
+      "aliases": [
+        "Belarus",
+        "Hviterussland"
+      ]
+    },
+    {
+      "question": "Hvor mange afrikanske land har navn som begynner på bokstaven ”B”? (Tallet holder!)",
+      "answer": "4. Benin, Botswana, Burkina Faso og Burundi",
+      "aliases": [
+        "fire",
+        "4  "
+      ]
+    },
+    {
+      "question": "I hvilken bitteliten og ganske rik arabisk stat er Manama hovedstad?",
+      "answer": "Bahrain"
+    },
+    {
+      "question": "I hvilket land, som blir til en kjederestaurant om du tar vekk første bokstav, endte Che Guevara sine dager?",
+      "answer": "Bolivia"
+    }
+  ]
+}
