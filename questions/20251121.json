@@ -1,0 +1,29 @@
+{
+  "theme": "Land på ...'C', så klart!",
+  "questions": [
+    {
+      "question": "Hvilket land, som man får kjøpt i butikken, ledes for tiden av Miguel Díaz-Canel?",
+      "answer": "Cuba"
+    },
+    {
+      "question": "Til hvilken øygruppe, oppkalt etter en oppdager, hører øya Rarotonga?",
+      "answer": "Cookøyene",
+      "aliases": [
+        "Cook",
+        "Cook Islands"
+      ]
+    },
+    {
+      "question": "Verdens kraftigste jordskjelv fant sted i 1960 og målte 9.5 på Richters skala. I hvilket land?",
+      "answer": "Chile"
+    },
+    {
+      "question": "I hvilket land, som grenser til Panama i sør og Nicaragua i nord, heter hovedstaden San José?",
+      "answer": "Costa Rica"
+    },
+    {
+      "question": "Fra hvilket land kommer artisten Shakira?",
+      "answer": "Colombia"
+    }
+  ]
+}
