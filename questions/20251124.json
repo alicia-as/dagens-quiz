@@ -1,0 +1,44 @@
+{
+  "theme": "Medisin",
+  "questions": [
+    {
+      "question": "Verkesprøyta, eller BCG som den også kalles, var påbudt for alle barn i Norge mellom 1947 og 1995. Hva er den en vaksine mot?",
+      "answer": "Tuberkulose",
+      "aliases": [
+        "tbc",
+        "tuberkulosevaksine"
+      ]
+    },
+    {
+      "question": "Med en fellesbetegnelse, hva kalles bakterien som spres via flåtten?",
+      "answer": "Borrelia",
+      "aliases": [
+        "borreliose"
+      ]
+    },
+    {
+      "question": "Hvilken sykdom har fått sitt navn etter at 35 mennesker døde under en samling for krigsveteraner i Philadelphia i 1976?",
+      "answer": "Legionella",
+      "aliases": [
+        "legionærsykdommen",
+        "legionærsyken"
+      ]
+    },
+    {
+      "question": "Han fikk Nobelprisen i medisin i 1945 for oppdagelsen av penicillinet. Navnet takk!",
+      "answer": "Alexander Fleming",
+      "aliases": [
+        "Fleming",
+        "alexander fleming"
+      ]
+    },
+    {
+      "question": "Portugiseren Egas Moniz fikk Nobelprisen i medisin i 1949 for å ha utviklet en metode som ingen med vettet i behold praktiserer i dag. Hva var det snakk om?",
+      "answer": "Lobotomi",
+      "aliases": [
+        "lobotomioperasjon",
+        "lobotomering"
+      ]
+    }
+  ]
+}
