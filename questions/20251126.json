@@ -1,0 +1,39 @@
+{
+  "theme": "Olympiske grener",
+  "questions": [
+    {
+      "question": "Da denne grenen igjen kom på programmet i 1988 tok argentinske Gabriela Sabatini sølvet. Hvilken idrettsgren, som vår mann Casper Ruud nådde kvartfinalen i under 2024-lekene? ",
+      "answer": "Tennis"
+    },
+    {
+      "question": "I hvilken gren vant etiopieren Abebe Bikila (som for øvrig er på Facebook) olympisk gull både i 1960 og 1964?",
+      "answer": "Maraton"
+    },
+    {
+      "question": "I hvilken idrettsgren, som er nasjonalsport i Kina, har Tommy Urhaug hentet flere olympiske medaljer?",
+      "answer": "Bordtennis, som spilles både under OL og Paralympics",
+      "aliases": [
+        "Bordtennis",
+        "Ping pong"
+      ]
+    },
+    {
+      "question": "Hvilket uttrykk som brukes i lønnsforhandlinger er også en tidligere olympisk øvelse (1900-1920) der Sverige vant sitt aller første olympiske mesterskap på lag med Danmark i 1900?",
+      "answer": "Tautrekking",
+      "aliases": [
+        "Tau trekking",
+        "Tug of war"
+      ]
+    },
+    {
+      "question": "En legendarisk verdensrekord i lengdehopp fra 1968 ble satt satt av en person som hadde et kallenavn som også er betegnelsen på en vinterolympisk øvelse. Hvilket kallenavn?",
+      "answer": "Bob (Robert «Bob» Beamon hoppet 8,90 i lengde i Mexico-OL)",
+      "aliases": [
+        "Bob",
+        "Bobkjøring",
+        "Bob slede",
+        "Bobsleigh"
+      ]
+    }
+  ]
+}
