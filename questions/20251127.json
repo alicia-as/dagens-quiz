@@ -1,0 +1,34 @@
+{
+  "theme": "Mellomstore norske byer",
+  "questions": [
+    {
+      "question": "Hvilken by, som også mange får bruk for nå som vinteren kommer, er adminisrasjonssenter i Telemark?",
+      "answer": "Skien ",
+      "aliases": [
+        "Skeen "
+      ]
+    },
+    {
+      "question": "I hvilken by, hvis navn består av to verb alle skal gjennom i livet, ligger Aspmyra stadion?",
+      "answer": "Bodø",
+      "aliases": [
+        "Bodo"
+      ]
+    },
+    {
+      "question": "Hvilken by, som slo seg sammen med Hisøy, Tromøy, Moland og Øyestad i 1992, kalles også Seilskutebyen?",
+      "answer": "Arendal"
+    },
+    {
+      "question": "Hvilken Østfoldby het Fredrikshald fram til 1928?",
+      "answer": "Halden",
+      "aliases": [
+        "Halden kommune"
+      ]
+    },
+    {
+      "question": "I hvilken by ligger det famøse spa-hotellet Farris Bad?",
+      "answer": "Larvik"
+    }
+  ]
+}
