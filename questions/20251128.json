@@ -1,0 +1,40 @@
+{
+  "theme": "Små norske byer",
+  "questions": [
+    {
+      "question": "Tre norske byer har navn som begynner bokstaven «O». Oslo er veldig mye større enn de to andre, som har nesten likt navn. Hva heter de?",
+      "answer": "Otta og Odda",
+      "aliases": [
+        "Otta & Odda",
+        "Odda & Otta",
+        "Otta",
+        "Odda,Otta",
+        "Otta, Odda",
+        "Odda og Otta"
+      ]
+    },
+    {
+      "question": "Hvilken by langt nord, som nylig har blitt fylkets største (igjen), blir til en uteplass om man legger til én bokstav?",
+      "answer": "Alta(n)",
+      "aliases": [
+        "Alta",
+        "Altan"
+      ]
+    },
+    {
+      "question": "Grunnstoffet med atomnummer 50 har samme navn som kommunen der Rjukan ligger. Hva heter den?",
+      "answer": "Tinn",
+      "aliases": [
+        "Tinn kommune"
+      ]
+    },
+    {
+      "question": "Ganske langt sør i landet kan du besøke Skalldyrfestivalen og samtidig ta deg en dukkert ved Sjøsanden. Hva heter byen?",
+      "answer": "Mandal"
+    },
+    {
+      "question": "Hvilken liten by i Østfold har samme navn som den væsken som blir igjen når ostemassen er utskilt ved ysting?",
+      "answer": "Mysen"
+    }
+  ]
+}
