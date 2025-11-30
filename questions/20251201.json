@@ -1,0 +1,48 @@
+{
+  "theme": "Endelig jul!",
+  "questions": [
+    {
+      "question": "Hvilken julesang avsluttes med: «Oss er idag en Frelser født»?",
+      "answer": "Deilig er jorden"
+    },
+    {
+      "question": "I hvilken film, som vi kan se hver juleaften, møter vi bl.a Bente Børsum, Knut Risan, Harald Heide-Steen jr. og Anne Marit Jacobsen?",
+      "answer": "Reisen til julestjernen",
+      "aliases": [
+        "Reisen til julestjerna"
+      ]
+    },
+    {
+      "question": "Hvilken stille og rolig sang ble komponert av Franz Gruber og første gang fremført i Østerrike julen 1818?",
+      "answer": "Glade jul",
+      "aliases": [
+        "Glade jul",
+        "Stille natt, hellige natt",
+        "Silent Night",
+        "Stille Nacht",
+        "Holy Night",
+        "Silent Night, Holy Night",
+        "Stille Nacht, Heilige Nacht"
+      ]
+    },
+    {
+      "question": "I julen møtte vi som vanlig Chip & Dale på NRK. Hva heter de på norsk?",
+      "answer": "Snipp og Snapp",
+      "aliases": [
+        "Snipp & Snapp",
+        "Snipp",
+        "Snapp"
+      ]
+    },
+    {
+      "question": "Hvilken bok skapt av de irske tvillingbrødrene Ross og Norris McWhirter i 1955 er fremdeles en populær bursdagspresang og julegave?",
+      "answer": "Guinness rekordbok",
+      "aliases": [
+        "Guinness rekordboka",
+        "Guinness World Records",
+        "Guinness Book of Records",
+        "Guinness "
+      ]
+    }
+  ]
+}
