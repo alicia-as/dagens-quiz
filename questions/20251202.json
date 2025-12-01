@@ -1,0 +1,43 @@
+{
+  "theme": "Klær",
+  "questions": [
+    {
+      "question": "Hvilken klesdrakt fikk sitt navn etter en fransk atombombesprengning i Stillehavet i 1946?",
+      "answer": "Bikini",
+      "aliases": [
+        "Bikini-bukse",
+        "Bikinibukse"
+      ]
+    },
+    {
+      "question": "Hvilket motemerke sto bak produksjonen av uniformer til SS under andre verdenskrig?",
+      "answer": "Hugo Boss",
+      "aliases": [
+        "Boss"
+      ]
+    },
+    {
+      "question": "Hva heter det festlige klesplagget som var populært blant frie romerske borgere og som ble drapert rundt kroppen?",
+      "answer": "Toga",
+      "aliases": [
+        "Togaen",
+        "Toga drakt"
+      ]
+    },
+    {
+      "question": "En plante som er blitt brukt i medisinen og et klesplagg brukt som beskyttelse har samme navn. Hvilket?,",
+      "answer": "Solhatt",
+      "aliases": [
+        "Solhatten"
+      ]
+    },
+    {
+      "question": "Hvilken britisk mynt, som var lovlig betalingsmiddel fram til 1980, har gitt navn til et klesplagg?",
+      "answer": "Sixpence",
+      "aliases": [
+        "Sixpence-hatt",
+        "Six pence"
+      ]
+    }
+  ]
+}
