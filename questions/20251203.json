@@ -1,0 +1,43 @@
+{
+  "theme": "Golf",
+  "questions": [
+    {
+      "question": "Hvor mange hull har en standard golfbane?",
+      "answer": "Atten hull",
+      "aliases": [
+        "Atten",
+        "18  ",
+        "18 hull  ",
+        "Hull"
+      ]
+    },
+    {
+      "question": "Med «samme» navn som engelskmennenes favorittdrikk, hvilket navn brukes om utslagsstedet på et hull?",
+      "answer": "Tee",
+      "aliases": [
+        "Tee"
+      ]
+    },
+    {
+      "question": "Suzann Pettersen var i verdenstoppen for kvinner i en årrekke. Hva er hennes kallenavn?",
+      "answer": "Tutta.",
+      "aliases": [
+        "Tutta"
+      ]
+    },
+    {
+      "question": "På golfbaner er alle hull klassifisert etter forventet antall slag, som kalles par. Et slag under par kalles «Birdie» og to slag under par kalles «Eagle». Hvilken fugl, som liker seg best på havet, har gitt navn til tre slag under par?",
+      "answer": "Albatross",
+      "aliases": [
+        "Albatross"
+      ]
+    },
+    {
+      "question": "Hvilken nasjonalfugl i Andes har gitt navn til lykketreffet der man slår «Hole in One» på et «par 5-hull»?",
+      "answer": "Kondor",
+      "aliases": [
+        "Kondor"
+      ]
+    }
+  ]
+}
