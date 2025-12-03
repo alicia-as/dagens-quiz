@@ -1,0 +1,35 @@
+{
+  "theme": "Hovedsteder i Europa",
+  "questions": [
+    {
+      "question": "Hvilken europeisk hovedstad og mange norske kvinner er oppkalt etter det greske ordet for visdom?",
+      "answer": "Sofia, Bulgaria",
+      "aliases": [
+        "Sofia"
+      ]
+    },
+    {
+      "question": "Hvilken europeisk hovedstad har et navn som blir til en bok dersom du legger til en bokstav til slutt?",
+      "answer": "Roma(n)",
+      "aliases": [
+        "Roma",
+        "Roman"
+      ]
+    },
+    {
+      "question": "Hvilken (bratt) europeisk hovedstad ble rammet av et kolossalt jordskjelv med påfølgende tsunami i 1755?",
+      "answer": "Lisboa"
+    },
+    {
+      "question": "Et lite tettsted i Stockholms län, en by i Texas og en europeisk hovedstad og verdensby har alle tatt navn etter en gresk gud. Hvilken?",
+      "answer": "Paris"
+    },
+    {
+      "question": "Gjennom hvilken europeisk hovedstad, som kun er landets fjerde største by, renner elven Aare?",
+      "answer": "Bern, Sveits",
+      "aliases": [
+        "Bern"
+      ]
+    }
+  ]
+}
