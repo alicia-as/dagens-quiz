@@ -1,0 +1,50 @@
+{
+  "theme": "Halvøyer",
+  "questions": [
+    {
+      "question": "På hvilken halvøy ble de første olympiske leker arrangert i 776 f.Kr.?",
+      "answer": "Peloponnes",
+      "aliases": [
+        "Den peloponnesiske halvøy",
+        "Peloponnes-halvøya",
+        "Peloponnesos"
+      ]
+    },
+    {
+      "question": "Foruten Mandsjuria, hvilken stor halvøy kjempet de stridende parter om i den russisk-japanske krig fra 1904 til 1905?",
+      "answer": "Koreahalvøya",
+      "aliases": [
+        "Korea",
+        "Den koreanske halvøy",
+        "Koreahalvøya"
+      ]
+    },
+    {
+      "question": "Hva heter den industrialiserte halvøya i Porsgrunn som har samme navn som to norske kommuner?",
+      "answer": "Herøya (Herøy; Møre og Romsdal og Nordland).",
+      "aliases": [
+        "Herøya",
+        "Herøy"
+      ]
+    },
+    {
+      "question": "Hva kalles havområdet som ligger syd for Kolahalvøya?",
+      "answer": "Kvitsjøen",
+      "aliases": [
+        "Den hvite sjø",
+        "Hvitsjøen",
+        "Kvitsjøen",
+        "Barentshavet"
+      ]
+    },
+    {
+      "question": "Hva heter halvøya som ligger mellom Suezbukta og Akababukta?",
+      "answer": "Sinai",
+      "aliases": [
+        "Sinai-halvøya",
+        "Den egyptiske Sinai-halvøy",
+        "Sinai"
+      ]
+    }
+  ]
+}
