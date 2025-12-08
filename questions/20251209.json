@@ -1,0 +1,40 @@
+{
+  "theme": "Donald Duck & vennene hans",
+  "questions": [
+    {
+      "question": "Hva het det britiske bilmerket som konkurrerte med Jaguar og hadde det samme norskklingende navnet som naboen til Donald Duck?",
+      "answer": "Jensen"
+    },
+    {
+      "question": "Hvem er hovedperson i den klassiske filmen Steamboat Willie fra 1928?",
+      "answer": "Mikke Mus",
+      "aliases": [
+        "Mickey Mouse",
+        "Mikke"
+      ]
+    },
+    {
+      "question": "I Danmark blir han kalt Fedtmule. Hva kaller vi denne Disneyfiguren i Norge?",
+      "answer": "Langbein"
+    },
+    {
+      "question": "Hva heter Ole, Dole og Doffen på originalspråket, engelsk?",
+      "answer": "Huey, Dewey and Louie",
+      "aliases": [
+        "Huey, Dewey, Louie",
+        "Huey Dewey and Louie",
+        "Huey Dewey Louie",
+        "Huey, Dewey og Louie",
+        "Huey Dewey & Louie"
+      ]
+    },
+    {
+      "question": "Under hvilket navn er ”svenske” Joakim von Anka bedre kjent?",
+      "answer": "Onkel Skrue",
+      "aliases": [
+        "Skrue McDuck",
+        "Uncle Scrooge"
+      ]
+    }
+  ]
+}
