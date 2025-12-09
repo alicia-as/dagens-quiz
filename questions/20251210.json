@@ -1,0 +1,49 @@
+{
+  "theme": "Hvilket yrke",
+  "questions": [
+    {
+      "question": "Hvilket yrke har en betegnelse som er hentet fra flamsk og betyr «liten mann» eller «utstillingsdukke»?",
+      "answer": "Mannequin",
+      "aliases": [
+        "Mannequin",
+        "Mannekin",
+        "Manekin"
+      ]
+    },
+    {
+      "question": "Hvilket yrke har en «Bobby» i Storbritannia?",
+      "answer": "Politimann",
+      "aliases": [
+        "Politi",
+        "Politimann",
+        "Politibetjent"
+      ]
+    },
+    {
+      "question": "Hvilket vanlig yrke blir til en liten by i Agder dersom du fjerner første bokstav?",
+      "answer": "Frisør (Risør)",
+      "aliases": [
+        "Frisør",
+        "Frisor"
+      ]
+    },
+    {
+      "question": "Hvilket yrke innen kirken, som er underordnet presten, har fått sin betegnelse fra det greske ordet for ”tjener”?",
+      "answer": "Diakon",
+      "aliases": [
+        "Diakon",
+        "Diakoni"
+      ]
+    },
+    {
+      "question": "”The Mercury Seven” ble utnevnt i 1959. Hvilket yrke hadde de?",
+      "answer": "De var astronauter",
+      "aliases": [
+        "Astronaut",
+        "Romfarer",
+        "Romfartøy",
+        "Astronauter"
+      ]
+    }
+  ]
+}
