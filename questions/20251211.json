@@ -1,0 +1,33 @@
+{
+  "theme": "Norske TV-serier",
+  "questions": [
+    {
+      "question": "Hva heter søsteren til Roy Narvestad i TV-serien Borettslaget?",
+      "answer": "Ruth"
+    },
+    {
+      "question": "Hvilken norsk miniserie fra 2016, med Aksel Hennie i hovedrollen, har et navn som er høyaktuelt i disse dager?",
+      "answer": "Nobel"
+    },
+    {
+      "question": "Hvem spilte rollen som Tormod i «Lilyhammer» og Tormund i «Game of Thrones?",
+      "answer": "Kristofer Hivju",
+      "aliases": [
+        "Hivju"
+      ]
+    },
+    {
+      "question": "Hva het karakteren til Henrik Elvestad i TVNorges ”Nissene på låven” fra 2001?",
+      "answer": "Timothy Dahle",
+      "aliases": [
+        "Tommy Dahle",
+        "Tim Dahle",
+        "Timothy Dahle"
+      ]
+    },
+    {
+      "question": "Lillesøsteren til Marcus & Martinus, Emma Gunnarsen, røk ut forrige uke. I hvilken TV-serie?",
+      "answer": "Maskorama"
+    }
+  ]
+}
