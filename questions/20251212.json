@@ -1,0 +1,40 @@
+{
+  "theme": "Alfa, Bravo, Charlie (repeat)",
+  "questions": [
+    {
+      "question": "Hvilket et folkeslag i Sør-Afrika representerer bokstaven «Z»?",
+      "answer": "Zulu"
+    },
+    {
+      "question": "Hvilken av årets måneder, som var den niende i den gamle romerske kalenderen, er representert i bokstaveringsalfabetet?",
+      "answer": "November"
+    },
+    {
+      "question": "Hvilket ord representerer bokstaven «E»?",
+      "answer": "Ekko (Echo)",
+      "aliases": [
+        "Ekko",
+        "Echo"
+      ]
+    },
+    {
+      "question": "Hvilket kjærestepar fra litteraturen representerer hver sin bokstav?",
+      "answer": "Romeo og Julie (Juliet)",
+      "aliases": [
+        "Romeo og Julie",
+        "Romeo og Julie (Juliet)",
+        "Romeo, Juliet",
+        "Juliet, Romeo",
+        "Juliet",
+        "Romeo"
+      ]
+    },
+    {
+      "question": "Hvilken storby representerer bokstaven «Q»?",
+      "answer": "Quebec",
+      "aliases": [
+        "Quebec City"
+      ]
+    }
+  ]
+}
