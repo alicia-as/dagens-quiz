@@ -1,0 +1,41 @@
+{
+  "theme": "Svaret er et verb",
+  "questions": [
+    {
+      "question": "Hvilken kjempestor, asiatisk by er også et verb i sjømannsterminologi?",
+      "answer": "Shanghai (Å sjanghaie)",
+      "aliases": [
+        "Shanghai",
+        "Å sjanghaie",
+        "Sjanghaie"
+      ]
+    },
+    {
+      "question": "Et ildsted, en kommune i Hedmark og et verb som antyder at man ikke gleder seg. Hvilket ord?",
+      "answer": "Grue "
+    },
+    {
+      "question": "Hvilket verb, som er hentet fra latin og betyr å «trekke sammen», brukes om å inngå kontrakt eller bestille skip?",
+      "answer": "Å kontrahere",
+      "aliases": [
+        "Kontrahere"
+      ]
+    },
+    {
+      "question": "Biskopen i Hamar fra 2006 - 2022 hadde et etternavn som også er et verb. Mange liker å gjøre dette, særlig i ferien, men langs kysten er det en jobb. Hva heter biskopen til etternavn?",
+      "answer": "Solveig Fiske",
+      "aliases": [
+        "Fiske",
+        "Å fiske"
+      ]
+    },
+    {
+      "question": "Hvilket verb i infinitiv begynner og slutter på samme konsonant, ikke bare det, den nest siste bokstaven er den samme?",
+      "answer": "Å sloss. (Kom du på flere? Send meg en mail på mathias@alicia.app!)",
+      "aliases": [
+        "Sloss",
+        "Å sloss"
+      ]
+    }
+  ]
+}
