@@ -1,0 +1,39 @@
+{
+  "theme": "Flagg",
+  "questions": [
+    {
+      "question": "Hvilket østafrikansk land har et blått flagg med en hvit stjerne i midten?",
+      "answer": "Somalia"
+    },
+    {
+      "question": "Hvilket asiatisk land, som bl.a. grenser til Singapore, har samme flagg som USA, bortsett fra at de femti stjernene er byttet ut med en stor stjerne og en halvmåne?",
+      "answer": "Malaysia"
+    },
+    {
+      "question": "Hvilket urolig land har et flagg som består av en horisontal blå stripe over en horisontal gul stripe?",
+      "answer": "Ukraina"
+    },
+    {
+      "question": "Hvilke to farger består det canadiske flagget av?",
+      "answer": "Rødt og hvitt",
+      "aliases": [
+        "Rødt og hvitt",
+        "Rødt & hvitt",
+        "Hvit og rødt",
+        "Hvitt og rødt",
+        "Hvitt, rødt",
+        "Rødt, hvitt",
+        "Rød, Hvit",
+        "Hvit, Rød"
+      ]
+    },
+    {
+      "question": "Hvilket flagg, med hvitt symbol på blå bakgrunn, ble tatt i bruk 20. oktober 1947?",
+      "answer": "FN-flagget",
+      "aliases": [
+        "FN-flagget",
+        "FN flagget"
+      ]
+    }
+  ]
+}
