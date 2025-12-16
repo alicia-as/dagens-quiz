@@ -1,0 +1,59 @@
+{
+  "theme": "Fremtidens arrangører",
+  "questions": [
+    {
+      "question": "Når fotball-VM for menn arrangeres i 2026, vil det bli det første mesterskapet som arrangeres i tre forskjellige land. Hvilke?",
+      "answer": "USA, Canada og Mexico",
+      "aliases": [
+        "USA, Canada og Mexico",
+        "USA, Canada, Mexico",
+        "USA, Mexico, Canada",
+        "Mexico, USA, Canada",
+        "Mexico, Canada, USA",
+        "Canada, USA, Mexico",
+        "Canada, Mexico, USA",
+        "USA og Canada og Mexico",
+        "USA og Canada, Mexico",
+        "USA, Canada og Mexico",
+        "USA, Canada, og Mexico",
+        "USA, Canda, Mexico",
+        "Canada, USA og Mexico",
+        "Mexico, USA og Canada",
+        "Mexico, Canada og USA",
+        "Canada, Mexico og USA"
+      ]
+    },
+    {
+      "question": "Vinter-OL i 2026 arrangeres i Italia, i byene Cortina d'Ampezzo og ...?",
+      "answer": "Milano",
+      "aliases": [
+        "Milan"
+      ]
+    },
+    {
+      "question": "Når Sommer-OL i 2028 arrangeres, vil det finne sted i en by som allerede har arrangert lekene to ganger, i 1932 og 1984. Hvilken by er det?",
+      "answer": "Los Angeles",
+      "aliases": [
+        "LA",
+        "L.A.",
+        "Los Angeles"
+      ]
+    },
+    {
+      "question": "Hvor skal finalen i Eurovisjon Song Contest 2026 arrangeres?",
+      "answer": "Wien, Østerrike",
+      "aliases": [
+        "Wien",
+        "Østerrike",
+        "Wien, Østerrike",
+        "Vienna",
+        "Austria",
+        "Vienna, Austria"
+      ]
+    },
+    {
+      "question": "Etter suksessen med fotball-VM i Qatar i 2022, har Qatars eneste naboland blitt tildelt vertskapet for fotball-VM i 2034. I hvilket land vil det finne sted?",
+      "answer": "Saudi-Arabia"
+    }
+  ]
+}
