@@ -1,0 +1,28 @@
+{
+  "theme": "Latinske begrep",
+  "questions": [
+    {
+      "question": "I jussens verden forekommer utrykket bona fide. Hva betyr det?",
+      "answer": "I god tro",
+      "aliases": [
+        "in good faith"
+      ]
+    },
+    {
+      "question": "Hvilket latinsk begrep, som betyr «nærende mor», brukes om universitetet man engang gikk på?",
+      "answer": "Alma mater"
+    },
+    {
+      "question": "Hvilket latinsk uttrykk, som kan få deg til å tenke på en nettbokhandler, bruker vi om et bokeiermerke?",
+      "answer": "Ex libris"
+    },
+    {
+      "question": "Hvilket latinsk uttrykk betyr 'annet jeg' på norsk?",
+      "answer": "Alter ego"
+    },
+    {
+      "question": "Hvilket britisk band har et navn som er et latinsk uttrykk for en 'uforandret tilstand'?",
+      "answer": "Status Quo"
+    }
+  ]
+}
