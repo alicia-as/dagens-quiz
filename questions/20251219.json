@@ -1,0 +1,36 @@
+{
+  "theme": "Du finner det på kjøkkenet (repeat)",
+  "questions": [
+    {
+      "question": "Hvilken relativt nylig avdødd italiensk statsleder og businessmann hadde et hullete kjøkkenredskap i fornavnet?",
+      "answer": "Silvio Berlusconi",
+      "aliases": [
+        "Berlusconi",
+        "Silvio"
+      ]
+    },
+    {
+      "question": "Med et navn som begynner på «M», hvilken tysk familiebedrift lanserte tidenes første elektriske vaskemaskin i 1914?",
+      "answer": "Miele"
+    },
+    {
+      "question": "«Alle» har det i kjøleskapet. Det er også tittelen på filmen fra 2008 som ga Sean Penn Oscar for beste hovedrolle. Hvilket meieriprodukt?",
+      "answer": "Milk",
+      "aliases": [
+        "Melk"
+      ]
+    },
+    {
+      "question": "Hvilken eplesort har fått navn etter hun som passer på eplene som sikrer gudene evig ungdom? Et varemerke i kjøkken/kjøleskapet har samme navn. ",
+      "answer": "Idunn",
+      "aliases": [
+        "Idun",
+        "Idunn eple"
+      ]
+    },
+    {
+      "question": "Hvilken vakker middelhavs-og middelalderby, med et kjøkkenaparat i navnet, var innspillingssted for King's Landing i Game of Thrones?",
+      "answer": "Dubrovnik"
+    }
+  ]
+}
