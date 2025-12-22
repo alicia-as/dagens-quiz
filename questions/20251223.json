@@ -1,0 +1,28 @@
+{
+  "theme": "Ville vesten (repeat)",
+  "questions": [
+    {
+      "question": "Under hvilket navn er William H. Bonney, som ble født rundt 1860, bedre kjent den dag i dag?",
+      "answer": "Billy the Kid"
+    },
+    {
+      "question": "Hvilket velkjent etternavn hadde de fire beryktede brødrene Grat, Bob, Emmet og Bill, som ranet og herjet i det ville vesten på slutten av 1800-tallet?",
+      "answer": "Dalton"
+    },
+    {
+      "question": "I den tredje filmen av 'Tilbake til fremtiden' drar Marty tilbake til det ville vesten og tar navn etter en westernhelt. Hva kaller han seg der?",
+      "answer": "Clint Eastwood",
+      "aliases": [
+        "Eastwood"
+      ]
+    },
+    {
+      "question": "Hva heter HBO-serien der du kan besøke det ville vesten for den nette sum av 40 000 dollar pr. dag?",
+      "answer": "Westworld"
+    },
+    {
+      "question": "Jolly Jumper er navnet på hesten til hvilken berømt westernhelt?",
+      "answer": "Lucky Luke"
+    }
+  ]
+}
