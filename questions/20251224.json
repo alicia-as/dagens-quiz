@@ -1,0 +1,44 @@
+{
+  "theme": "Med en by i svaret (repeat)",
+  "questions": [
+    {
+      "question": "Med en sentraleuropeisk hovedstad i navnet, hvilket pseudonym brukte André Bjerke ofte da han skrev kriminalromaner?",
+      "answer": "BERNhard Borge",
+      "aliases": [
+        "Bernhard",
+        "Bernhard Borge"
+      ]
+    },
+    {
+      "question": "En britisk formel I-fører, født i 1929, har samme etternavn som en skandalebefengt britisk supermodell. Hvilken norsk by er vi på jakt etter?",
+      "answer": "Moss: Stirling Moss og Kate Moss",
+      "aliases": [
+        "Moss",
+        "Stirling Moss",
+        "Kate Moss"
+      ]
+    },
+    {
+      "question": "Hvilket 5895 meter høyt fjell har en hovedstad som ligger ganske nøyaktig 12 000km vest i navnet?",
+      "answer": "KiLIMAnjaro",
+      "aliases": [
+        "Kilimanjaro"
+      ]
+    },
+    {
+      "question": "I årene før Google tok over fullstendig, var det en annen søkemotor som var ledende på nettet. Med en nordlig by i navnet, hva het denne søkemotoren?",
+      "answer": "ALTAvista",
+      "aliases": [
+        "Altavista",
+        "Alta"
+      ]
+    },
+    {
+      "question": "Oslo og Ougadougou er to av tre hovedsteder som begynner på O. Med en norsk by i navnet, hva heter den tredje?",
+      "answer": "OTTAwa",
+      "aliases": [
+        "Ottawa"
+      ]
+    }
+  ]
+}
