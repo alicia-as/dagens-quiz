@@ -1,0 +1,42 @@
+{
+  "theme": "Julenøtter - Med samme navn (repeat)",
+  "questions": [
+    {
+      "question": "Hvilke to grunnstoffer, det ene med samme gudommelige navn som en måne, det andre med samme navn som en russisk by, har kjemiske symboler som også er tall?",
+      "answer": "Titan og Nikkel (Ti og Ni)",
+      "aliases": [
+        "Titan og Nikkel",
+        "Titan, Nikkel",
+        "Titanium og Nikkel",
+        "Titanium, Nikkel",
+        "Titanium og Ni",
+        "Titanium, Ni",
+        "Nikkel og Titan",
+        "Nikkel, Titan",
+        "Nikkel og Titanium",
+        "Nikkel, Titanium",
+        "Ni, Ti",
+        "Ti, Ni"
+      ]
+    },
+    {
+      "question": "Hvilken film fra 1999, med bl.a. Tom Cruise og Julianne Moore i rollene, har en tittel som også er navn på en eldgammel treslekt med vakre blomster?",
+      "answer": "Magnolia"
+    },
+    {
+      "question": "Billigbladet «Amazing Stories» kom på markedet i USA i 1926 og inneholdt all mulig slags Science Fiction. De ikke helt dype historiene på det billige papiret fikk et nedsettende kallenavn, et uttrykk som også er tittelen på en grådig god film fra 1994. Hvilket uttrykk?",
+      "answer": "Pulp Fiction"
+    },
+    {
+      "question": "Hvilket norsk band har et navn som også er initialene til en tidligere amerikansk president?",
+      "answer": "DDE (Dwight D. Eisenhower)",
+      "aliases": [
+        "DDE"
+      ]
+    },
+    {
+      "question": "Hva kalles forsvarsspillere i fotball med en litt friere rolle, en betegnelse som som også er navnet på en type bleier?",
+      "answer": "Libero"
+    }
+  ]
+}
