@@ -1,0 +1,39 @@
+{
+  "theme": "Julenøtter - baklengs (repeat)",
+  "questions": [
+    {
+      "question": "Hvilken Innlandet-kommune i Gudbrandsdalen har et navn som lest baklengs blir en grunnenhet i SI-systemet?",
+      "answer": "Lom (Mol)",
+      "aliases": [
+        "Lom kommune",
+        "Lom"
+      ]
+    },
+    {
+      "question": "Hvilket av FNs medlemsland har et navn som blir til et jentenavn som lå på topp 10-listen fra 1933 til 1963 dersom du leser det baklengs?",
+      "answer": "Irak (Kari)",
+      "aliases": [
+        "Irak",
+        "Kari"
+      ]
+    },
+    {
+      "question": "Det kan være en tidligere kommune, en skråning, et etternavn eller en beholder. Skiflygere må forholde seg til dette ordet hele tiden. Skip kan gjøre det baklengs. Hva er ordet?",
+      "answer": "Bakke"
+    },
+    {
+      "question": "Hvilken europeisk hovedstad har et navn som blir til en gudinne dersom du leser navnet baklengs og til en bok dersom du i stedet legger til en bokstav bakerst?",
+      "answer": "Roma (amor, roman)",
+      "aliases": [
+        "Roma"
+      ]
+    },
+    {
+      "question": "Norges mest brukte palindromiske (kan leses begge veier) navn for kvinner er Anna, med 21 040 bærere av navnet. Hva er det tilsvarende mest populære palindromiske fornavnet for gutter?",
+      "answer": "Otto. 1726 menn i Norge heter det.",
+      "aliases": [
+        "Otto"
+      ]
+    }
+  ]
+}
