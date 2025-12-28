@@ -1,0 +1,40 @@
+{
+  "theme": "Årets bøker",
+  "announcement": "Denne uken ser vi tilbake på året som har vært.",
+  "questions": [
+    {
+      "question": "Den desidert mestselgende boka i Norge i 2025 heter 'Grunnboka' og tar for seg grunnleggende matoppskrifter. Hvem er forfatteren?",
+      "answer": "Eyvind Hellstrøm",
+      "aliases": [
+        "Eyvind Hellstrøm",
+        "Hellstrøm"
+      ]
+    },
+    {
+      "question": "Jo Nesbøs 'årlige' krimbok hadde i 2025 en amerikansk delstat som tittel. Navnet takk!",
+      "answer": "Minnesota",
+      "aliases": [
+        "Minnesota - roman"
+      ]
+    },
+    {
+      "question": "En annen storsnakkis som kom tidligere i år, ble skrevet av eks-konsulent Martin Bech Holte. Hva er tittelen på hans (første) bestselger?",
+      "answer": "Landet som ble for rikt"
+    },
+    {
+      "question": "'På min vakt' er den mestselgende selvbiografien i 2025, som omhandler en kjent norsk person som også gjorde årets comeback. Hvem?",
+      "answer": "Jens Stoltenberg",
+      "aliases": [
+        "Jens Stoltenberg",
+        "Stoltenberg"
+      ]
+    },
+    {
+      "question": "Boka 'Ingen' var en av årets mest solgte romaner, skrevet av en svensk forfatter. Med et fornavn som også er enheten for trykk, hva heter forfatteren?",
+      "answer": "Pascal Engman",
+      "aliases": [
+        "Pascal"
+      ]
+    }
+  ]
+}
