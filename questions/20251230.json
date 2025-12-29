@@ -1,0 +1,40 @@
+{
+  "theme": "Brennevin (repeat)",
+  "questions": [
+    {
+      "question": "Hvilken kjent amerikansk brennevinstype har fått sitt navn etter et område i Kentucky, som igjen er oppkalt etter et fransk kongehus?",
+      "answer": "Bourbon",
+      "aliases": [
+        "Bourbon"
+      ]
+    },
+    {
+      "question": "Hva heter regionen i provinsen Gascogne sør for Cognac som også er kjent for sitt gode druebrennevin? Navnet kan fort forveksles med en personlig kalender dersom man har dysleksi!",
+      "answer": "Armagnac"
+    },
+    {
+      "question": "Hva slags frukt må til når man produserer brennevinet calvados?",
+      "answer": "Epler",
+      "aliases": [
+        "Epler",
+        "Eple"
+      ]
+    },
+    {
+      "question": "Med «samme» navn som en hovedstad, hvilken type brennevin er oppkalt etter «Captain» Henry Morgan?",
+      "answer": "Rom(a)",
+      "aliases": [
+        "Rom",
+        "Rum"
+      ]
+    },
+    {
+      "question": "Edvard Munch ble født i 1863, i en Hedmarks-kommune som er kjent for sin akevitt. Hva heter den?",
+      "answer": "Løten",
+      "aliases": [
+        "Løten",
+        "løiten"
+      ]
+    }
+  ]
+}
