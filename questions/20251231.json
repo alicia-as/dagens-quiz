@@ -1,0 +1,36 @@
+{
+  "theme": "Året i musikk",
+  "announcement": "Denne uken ser vi tilbake på året som har vært.",
+  "questions": [
+    {
+      "question": "Stjerneskuddet Tobias Sten har toppet listene i Norge med flere av sine låter. Fra hvilken øy på Vestlandet kommer han fra?",
+      "answer": "Stord",
+      "aliases": [
+        "Leirvik"
+      ]
+    },
+    {
+      "question": "Sangen 'Ordinary' ble Norges mest lyttede låt på Spotify i 2025. Med samme etternavn som en av verdens rikeste menn, hva heter artisten bak låta?",
+      "answer": "Alex Warren",
+      "aliases": [
+        "Alex Warren",
+        "Warren"
+      ]
+    },
+    {
+      "question": "En av årets deltagere i 'Hver gang vi møtes' går under artistnavnet Astrid S. Men hva står S-en for?",
+      "answer": "Smeplass",
+      "aliases": [
+        "Astrid Smeplass"
+      ]
+    },
+    {
+      "question": "En annen av årets deltagere i 'Hver gang vi møtes' heter egentlig Per Áki Sigurdsson Kvikne, men er bedre kjent under sitt artistnavn. Hva er det?",
+      "answer": "Kjartan Laurtizen"
+    },
+    {
+      "question": "Med et navn som blir til en viktig bestanddel i mange bygninger om du bytter ut én bokstav, hvilken norsk artist står bak hitten 'SAMMEN'?",
+      "answer": "Marstein"
+    }
+  ]
+}
