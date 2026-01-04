@@ -1,0 +1,38 @@
+{
+  "theme": "Fjoråret i nyheter",
+  "questions": [
+    {
+      "question": "Jensen Huang leder et selskap som tok tittelen som verdens mest verdifulle selskap i 2025. Hva heter selskapet?",
+      "answer": "NVIDIA"
+    },
+    {
+      "question": "Årets engelske nyord ble 'rage bait'. Men hvilken britisk institusjon står bak kåringen?",
+      "answer": "Oxford English Dictionary",
+      "aliases": [
+        "Oxford University Press",
+        "Oxford Press",
+        "Oxford",
+        "Oxford University"
+      ]
+    },
+    {
+      "question": "Det norske nyordet for 2025 var 'tekoligark'. Hvem står bak denne kåringen?",
+      "answer": "Språkrådet",
+      "aliases": [
+        "Norsk språkråd",
+        "Språkrådet"
+      ]
+    },
+    {
+      "question": "Joachim von Trier var nok en gang ute med film i 2025, denne gangen 'Affeksjonsverdi'. Hvor mange minutters applaus fikk denne under filmfestivalen i Cannes?",
+      "answer": "19 minutter  ",
+      "aliases": [
+        "19  "
+      ]
+    },
+    {
+      "question": "Et av årets mest virale øyeblikk forekom på en konsert med et superkjent britisk band, da en affære ble fanget på film. Med hvilket band?",
+      "answer": "Coldplay"
+    }
+  ]
+}
