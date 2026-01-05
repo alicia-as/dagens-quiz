@@ -1,0 +1,42 @@
+{
+  "theme": "Statskupp",
+  "questions": [
+    {
+      "question": "Hva heter den nylig kidnappede tidligere presidenten i Venezuela?",
+      "answer": "Nicolás Maduro",
+      "aliases": [
+        "Maduro"
+      ]
+    },
+    {
+      "question": "I hvilket asiatisk land gjorde Lon Nol Statskupp i 1970?",
+      "answer": "Kambodsja",
+      "aliases": [
+        "Cambodia"
+      ]
+    },
+    {
+      "question": "Danmark, Irland og Storbritannia blir med i EF (EU), World Trade Center står ferdig og  Salvador Allende omkommer i statskupp. Hvilket år?",
+      "answer": "1973. "
+    },
+    {
+      "question": "Hvem var den første i historien som gjorde statskupp ved hjelp av radioen?",
+      "answer": "Vidkun Quisling, som utnevnte seg selv til stats- og utenriksminister på radio den 9. april 1940.",
+      "aliases": [
+        "Vidkun Quisling",
+        "Quisling"
+      ]
+    },
+    {
+      "question": "Hvilken stormannsgal kvinne ble født i 1729, gjorde statskupp, og myrdet sin mann i 1762, for deretter å ta over tronen?",
+      "answer": "Katarina den store",
+      "aliases": [
+        "Catherine the Great",
+        "Catherine II",
+        "Catherine",
+        "Katarina II",
+        "Katarina"
+      ]
+    }
+  ]
+}
