@@ -1,0 +1,39 @@
+{
+  "theme": "Berømte røde ting",
+  "questions": [
+    {
+      "question": "Hva var kallenavnet til flyesset fra første verdenskrig, Manfred von Richthofen?",
+      "answer": "Den røde baron",
+      "aliases": [
+        "Den røde baron",
+        "Den røde baronen",
+        "Røde baron",
+        "Rød baron",
+        "Rød Baronen"
+      ]
+    },
+    {
+      "question": "Lederen for Røde Khmer, som døde i 1998 hadde nesten samme navn som den siste formannen i AKP-ml. Hva het han?",
+      "answer": "Pol Pot",
+      "aliases": [
+        "Pål Stegan"
+      ]
+    },
+    {
+      "question": "Krasnaja plostsjad, heter den store plassen ved Kreml i Moskva. Hva kaller vi den på norsk?",
+      "answer": "Den røde plass"
+    },
+    {
+      "question": "Hva heter den desidert mest berømte og brukte rødvinsdruen som har sitt opphav i Bourdaux?",
+      "answer": "Cabernet Sauvignon",
+      "aliases": [
+        "Cabernet Sauvignon",
+        "Cabernet"
+      ]
+    },
+    {
+      "question": "Hva slags sykdom heter Rubella på latin?",
+      "answer": "Røde hunder"
+    }
+  ]
+}
