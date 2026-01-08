@@ -1,0 +1,43 @@
+{
+  "theme": "Oppkalt etter (repeat)",
+  "questions": [
+    {
+      "question": "Den nå 94 avdøde Henry ble berømt for sin effektive metode for å få orden på forstoppelser i luftveiene. Hva heter Henry til etternavn?",
+      "answer": "Heimlich",
+      "aliases": [
+        "Heimlich Maneuver"
+      ]
+    },
+    {
+      "question": "I hvilken millionby, som har fått navn etter «det kongelige fjellet», ligger Pierre Elliott Trudeau internasjonale lufthavn, som er oppkalt etter en tidligere statsminister i landet?",
+      "answer": "Montréal",
+      "aliases": [
+        "Montreal"
+      ]
+    },
+    {
+      "question": "Hvilket bilmerke, som neste år er å se i Formel 1, er oppkalt etter grunnleggeren av bilbyen Detroit?",
+      "answer": "Cadillac",
+      "aliases": [
+        "Cadillac Motor Car Company",
+        "Antoine Léonard de la Mothe Cadillac"
+      ]
+    },
+    {
+      "question": "Hva kalles viruset som er oppkalt etter en sideelv til Kongoelven i Afrika?",
+      "answer": "Ebola",
+      "aliases": [
+        "Ebolavirus"
+      ]
+    },
+    {
+      "question": "Hva het den romerske keiseren, død i 138 e.Kr., som har fått en mur oppkalt etter seg?",
+      "answer": "Hadrian",
+      "aliases": [
+        "Hadrian's Wall",
+        "Hadrians mur",
+        "Keiser Hadrian"
+      ]
+    }
+  ]
+}
