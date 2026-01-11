@@ -1,0 +1,31 @@
+{
+  "theme": "Valuta",
+  "questions": [
+    {
+      "question": "Hvilken valuta må du veksle til dersom du drar på ferie til India?",
+      "answer": "Rupi",
+      "aliases": [
+        "Indisk rupi",
+        "INR",
+        "Rupee",
+        "Rupees"
+      ]
+    },
+    {
+      "question": "I hvilket land, som gjør krav på Nagorno-Karabakh, betaler man med valutaen dram dersom man skal ha seg noe å drikke i hovedstaden Jerevan?",
+      "answer": "Armenia"
+    },
+    {
+      "question": "I hvilket stort land het valutaen tidligere cruzeiro, mens den i dag heter real?",
+      "answer": "Brasil"
+    },
+    {
+      "question": "Hva heter valutaen i Venezuela, som ikke har tatt navn etter en hund, men etter en frigjøringshelt?",
+      "answer": "Bolívar"
+    },
+    {
+      "question": "I hvilke asiatisk land, som er fem ganger større enn Norge, men en tredjedel av Sveriges befolkning, bruker man valutaen ”tugrik”, som igjen deler inn i 100 ”möngö”?",
+      "answer": "Mongolia"
+    }
+  ]
+}
