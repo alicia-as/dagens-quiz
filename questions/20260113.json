@@ -1,0 +1,31 @@
+{
+  "theme": "Forkortelser",
+  "questions": [
+    {
+      "question": "RAM er en type lagringsplass brukt i datamaskiner. Hva står forkortelsen for?",
+      "answer": "Random Access Memory"
+    },
+    {
+      "question": "Under hvilken forkortelse er teknikken 'sound navigation and ranging' bedre kjent?",
+      "answer": "SONAR"
+    },
+    {
+      "question": "Hva er den internasjonale forkortelsen for FNs organisasjon for utdannelse, vitenskap og kultur?",
+      "answer": "UNESCO (United Nations Educational, Scientific and Cultural Organization)",
+      "aliases": [
+        "UNESCO"
+      ]
+    },
+    {
+      "question": "Hvilken olympisk sport har den i internettsammenheng uheldige forkortelsen WTF?",
+      "answer": "Taekwondo (World Taekwondo Federation)",
+      "aliases": [
+        "taekwondo"
+      ]
+    },
+    {
+      "question": "Hva står forkortelsen BMI for i helsesammenheng?",
+      "answer": "Body Mass Index"
+    }
+  ]
+}
