@@ -1,0 +1,36 @@
+{
+  "theme": "Tørket mat",
+  "questions": [
+    {
+      "question": "Hva er selskapet Sun-Maid særlig kjent for å lage?",
+      "answer": "Rosiner",
+      "aliases": [
+        "rosin",
+        "tørkede druer"
+      ]
+    },
+    {
+      "question": "Den drøye seks kilometer lange kanalen som ble bygget på 1880-tallet har teknisk sett gjort halvøya Peloponnes til en øy. Den har samme navn som en tørket frukt. Hvilken?",
+      "answer": "Korint",
+      "aliases": [
+        "korintkanalen",
+        "korinter"
+      ]
+    },
+    {
+      "question": "Hvilket ord bruker vi om korn som er vasket, har begynt å spire og deretter er blitt tørket?",
+      "answer": "Malt"
+    },
+    {
+      "question": "Planten bergmynte kan du få kjøpt i tørket tilstand i de fleste dagligvarebutikker. Hva kalles den da?",
+      "answer": "Oregano"
+    },
+    {
+      "question": "Hvilket krydder, som egentlig er uferdige, tørkede blomster, brukes ofte i julen både på skinke og på appelsiner?",
+      "answer": "Nellik",
+      "aliases": [
+        "nellikspiker"
+      ]
+    }
+  ]
+}
