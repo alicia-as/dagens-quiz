@@ -1,0 +1,36 @@
+{
+  "theme": "Frukt",
+  "questions": [
+    {
+      "question": "Hvilken plante med uvanlig- og enestående velsmakende frukter, produseres på Madagaskar og har et navn som blir til en vannglad plante dersom du putter inn bokstavene ”nl” i midten av navnet?",
+      "answer": "Vanilje (vannlilje)",
+      "aliases": [
+        "Vanilje",
+        "Vannlilje"
+      ]
+    },
+    {
+      "question": "Hvilken fruktbar drikk ble oppfunnet i 1934 og tok et navn som også benyttes i musikken?",
+      "answer": "Solo"
+    },
+    {
+      "question": "Hvilken frukt har samme navn som verdens mest talte språk?",
+      "answer": "Mandarin"
+    },
+    {
+      "question": "Hvilken frukt, som egentlig er et bær, har et navn som på arabisk betyr ”finger”, og har gitt kallenavn til mange stater (av og til også Norge)? ",
+      "answer": "Banan(republikk)",
+      "aliases": [
+        "Banan",
+        "Bananrepublikk"
+      ]
+    },
+    {
+      "question": "Hvilken frukt er den vanligste å bruke i tilslørte bondepiker?",
+      "answer": "Epler",
+      "aliases": [
+        "Eple"
+      ]
+    }
+  ]
+}
