@@ -1,0 +1,55 @@
+{
+  "theme": "Knock out! (repeat)",
+  "questions": [
+    {
+      "question": "Hvilken gyldenpris, som gis til unge amerikanske boksere, har samme navn som en pris som gis til gode keepere og nesten samme navn som en film- og fjernsynspris?",
+      "answer": "Golden Glove",
+      "aliases": [
+        "Golden Gloves",
+        "Golden Glove Award",
+        "Golden Gloves Award",
+        "Golden Glove-prisen",
+        "Golden Gloves-prisen",
+        "Golden Globe",
+        "Golden Globe Award",
+        "Golden Globes",
+        "Golden Globes Award",
+        "Golden Globe-prisen",
+        "Golden Globes-prisen"
+      ]
+    },
+    {
+      "question": "Verdens største boksemagasin ble gitt ut første gang i 1922. Med samme navn som et kvadratisk område, hva heter tidsskriftet?",
+      "answer": "Ring Magazine",
+      "aliases": [
+        "Ring",
+        "The Ring",
+        "The Ring Magazine",
+        "Ring Magazine Award",
+        "The Ring Award",
+        "The Ring Magazine Award"
+      ]
+    },
+    {
+      "question": "I 1974 ble Svein Erik Paulsen Norges første europamester i proffboksing. Hva var hans kallenavn, som er en viktig ingrediens i ei tynn suppe?",
+      "answer": "Spiker'n",
+      "aliases": [
+        "Spikern",
+        "Spikersuppe"
+      ]
+    },
+    {
+      "question": "Med et ord som kan få en til å tenke på en feriereise, hva heter vektklassen mellom lett tungvekt og tungvekt i profesjonell boksing?",
+      "answer": "Cruiservekt",
+      "aliases": [
+        "Cruiserweight",
+        "Cruiserweight class",
+        "Cruiser"
+      ]
+    },
+    {
+      "question": "I hvilket land ble Cecilia Brækhus født i 1981?",
+      "answer": "Colombia"
+    }
+  ]
+}
