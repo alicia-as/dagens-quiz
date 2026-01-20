@@ -1,0 +1,29 @@
+{
+  "theme": "Land med et dyr i navnet 2",
+  "questions": [
+    {
+      "question": "Hvilket europeisk land har katalansk som offisielt språk?",
+      "answer": "ANDorra"
+    },
+    {
+      "question": "Med et insekt i begynnelsen av navnet, i hvilket vestafrikansk land er Nouakchott hovedstad?",
+      "answer": "MAURitania"
+    },
+    {
+      "question": "Hvilken vestafrikansk land har nesten samme navn som nabolandet, heter hovedstaden Bissau?",
+      "answer": "Guinea-BisSAU",
+      "aliases": [
+        "Guinea Bissau",
+        "Guinea Bissau"
+      ]
+    },
+    {
+      "question": "Hvilket afrikansk land med hovedstad Gaborone har en majestetisk fugl i navnet, i alle fall på engelsk?",
+      "answer": "BotSWANa"
+    },
+    {
+      "question": "Hvilket lutfattig land i Karibien har et livsfarlig sjødyr i starten av navnet sitt?",
+      "answer": "HAIti"
+    }
+  ]
+}
