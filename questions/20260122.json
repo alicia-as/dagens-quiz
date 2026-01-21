@@ -1,0 +1,30 @@
+{
+  "theme": "Nam nam",
+  "questions": [
+    {
+      "question": "Hvilket glukoseholdig næringsmiddel, som har en spesiell bismak, har tilnærmet «uendelig» holdbarhet?",
+      "answer": "Honning"
+    },
+    {
+      "question": "I hvilket land blir Kinderegg produsert?",
+      "answer": "Italia"
+    },
+    {
+      "question": "Hvilken bedrift har produsert Gullbrød i mer enn 100 år?",
+      "answer": "Nidar"
+    },
+    {
+      "question": "Hvilket Freia-produkt ble lansert i 1957 med et navn som betyr «Vri»?",
+      "answer": "Twist"
+    },
+    {
+      "question": "Noen vittige tunger vil nok påstasy at Sverige eksporterer flest biler i verden. Hvilket bilmerke er det snakk om?",
+      "answer": "Ahlgrens biler",
+      "aliases": [
+        "Ahlgrens biler",
+        "Ahlgrens bil",
+        "Ahlgrens"
+      ]
+    }
+  ]
+}
