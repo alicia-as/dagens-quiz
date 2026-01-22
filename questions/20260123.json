@@ -1,0 +1,44 @@
+{
+  "theme": "På nett",
+  "questions": [
+    {
+      "question": "Hvilket IT-selskap ble etablert i Bergen i 1999 og leverer nettbaserte løsninger til undervisning og administrasjon i skoler på alle trinn?",
+      "answer": "it'slearning",
+      "aliases": [
+        "itslearning",
+        "it's learning",
+        "its learning"
+      ]
+    },
+    {
+      "question": "Hva heter filmen fra 2010 som handler om intrigene rundt oppstarten av «Facebook»?",
+      "answer": "The Social Network",
+      "aliases": [
+        "social network",
+        "the social network"
+      ]
+    },
+    {
+      "question": "Hva het musikkdelingstjenesten som ble etablert av Sean Parker, gründeren som også er kjent for å ha sløyfet «The» i «The Facebook»?",
+      "answer": "Napster",
+      "aliases": [
+        "napster"
+      ]
+    },
+    {
+      "question": "Hva grunnla svensken Daniel Ek i 2006, som de fleste av oss bruker hver dag den dagen i dag?",
+      "answer": "Spotify",
+      "aliases": [
+        "spotify"
+      ]
+    },
+    {
+      "question": "Grunnleggeren av Wikipedia heter Jimmy til fornavn og har et etternavn som også er navnet på et land som er medlem av FIFA, men som ikke er selvstendig. Hva heter han?",
+      "answer": "Jimmy Wales",
+      "aliases": [
+        "jimmy wales",
+        "Wales"
+      ]
+    }
+  ]
+}
