@@ -1,0 +1,48 @@
+{
+  "theme": "Mc, Takk!",
+  "questions": [
+    {
+      "question": "Hvilken hurtigmatkjede bruker slagordet «I'm lovin' it»?",
+      "answer": "McDonald's",
+      "aliases": [
+        "mcdonald's",
+        "mcdonalds"
+      ]
+    },
+    {
+      "question": "En av pophistoriens mestselgende artister brukte i sin tid aliaset Paul Ramone, noe som ga navn til bandet «The Ramones». Hva heter artisten?",
+      "answer": "Paul McCartney",
+      "aliases": [
+        "McCartney",
+        "paul mccartney"
+      ]
+    },
+    {
+      "question": "Nord-Amerikas høyeste fjell er oppkalt etter en president som ble skutt. Hva heter fjellet?",
+      "answer": "Mount McKinley",
+      "aliases": [
+        "mount mckinley",
+        "mckinley",
+        "denali"
+      ]
+    },
+    {
+      "question": "Hvilket Formel-1 lag vant både konstruktør- og førermesterskapet i 2025?",
+      "answer": "McLaren",
+      "aliases": [
+        "mclaren",
+        "mclaren f1",
+        "mclaren formula 1",
+        "mclaren formula one"
+      ]
+    },
+    {
+      "question": "Hva heter hovedpersonen i 'Tilbake til framtiden'-filmene, spilt av Michael J. Fox?",
+      "answer": "Marty McFly",
+      "aliases": [
+        "marty mcfly",
+        "mcfly"
+      ]
+    }
+  ]
+}
