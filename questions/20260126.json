@@ -23,7 +23,7 @@
       ]
     },
     {
-      "question": "I hvilket søramerikansk land er Wong, Chin, Singh og van Dijk blant de mest vanlige etternavnene? Lnadet ble selvstendig i 1975.",
+      "question": "I hvilket søramerikansk land er Wong, Chin, Singh og van Dijk blant de mest vanlige etternavnene? Landet ble selvstendig i 1975.",
       "answer": "Surinam",
       "aliases": [
         "surinam",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "quesstion": "De tretten mest populære etternavnene i Norge ender alle på de tre bokstavene «sen». Det fjortende mest populære navnet har fire bokstaver og er også etternavnet til den litterære figuren Rasmus. Hvilket navn?",
+      "quesstion": "De tretten mest populære etternavnene i Norge ender alle på de tre bokstavene 'sen'. Det fjortende mest populære navnet har fire bokstaver og er også etternavnet til den litterære figuren Rasmus. Hvilket navn?",
       "answer": "Berg (Erasmus Montanus heter jo egentlig Rasmus Berg)",
       "aliases": [
         "berg"
