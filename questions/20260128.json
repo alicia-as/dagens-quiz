@@ -1,0 +1,36 @@
+{
+  "theme": "I Frankrike 🇫🇷",
+  "questions": [
+    {
+      "question": "Hvilken fransk region har et navn som også kan være en storferase og en lang bil?",
+      "answer": "Limousin"
+    },
+    {
+      "question": "I hvilken fransk region, som var fødestedet for en av 1800-tallets mektigste menn, heter hovedstaden Ajaccio?",
+      "answer": "Korsika",
+      "aliases": [
+        "Corsica"
+      ]
+    },
+    {
+      "question": "Under opptakten til den franske revolusjon ble en festning stormet. Hva het den?",
+      "answer": "Bastillen",
+      "aliases": [
+        "La Bastille",
+        "Bastille"
+      ]
+    },
+    {
+      "question": "Hvilken by ble grunnlagt av franskmannen Antoine Cadillac?",
+      "answer": "Detroit"
+    },
+    {
+      "question": "Den nest høyeste fjelltoppen på Svalbard (1712 moh.) er oppkalt etter en for lengst avdød fransk vitenskapsmann. Med samme navn som et kostbart fransk mineralvannsmerke, hva het han?",
+      "answer": "Perrier",
+      "aliases": [
+        "Perriertoppen",
+        "Carlo Perrier"
+      ]
+    }
+  ]
+}
