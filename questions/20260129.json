@@ -1,0 +1,36 @@
+{
+  "theme": "Brus",
+  "questions": [
+    {
+      "question": "Hvilken brusfabrikk i Lillestrøm, som for de fleste kun ses i juletider, har samme navn som en av EUs eldste hovedsteder?",
+      "answer": "Roma mineralvannfabrikk",
+      "aliases": [
+        "Roma-brus",
+        "Roma brus",
+        "Roma"
+      ]
+    },
+    {
+      "question": "En pensjonert spansk fotballspiller og en norsk 'partyartist' deller begge etternavn med en champagnebrus. Hvilken?",
+      "answer": "Villa (David & Vidar)",
+      "aliases": [
+        "Villa",
+        "David Villa",
+        "Vidar Villa",
+        "Villa Farris"
+      ]
+    },
+    {
+      "question": "Danmarks 'nasjonalbrus' har et navn på to ord. Det første blir til et avleggs kommunikasjonsverktøy om du fjerner siste bokstav. Det andre blir til en kroppslig evne om du legger til én bokstav. Hvilken brus?",
+      "answer": "Faxe Kondi"
+    },
+    {
+      "question": "Hvilken sitronbrus funker fint solo, men også i drink - og tar du bort siste bokstav i navnet får du det den ofte mikses med?",
+      "answer": "Sprite (sprit)"
+    },
+    {
+      "question": "Hvilken amerikansk brus kan høres ut som den er anbefalt av en lege, selv om den neppe står på reseptblokka?",
+      "answer": "Dr Pepper"
+    }
+  ]
+}
