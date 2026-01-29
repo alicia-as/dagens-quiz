@@ -26,7 +26,11 @@
     },
     {
       "question": "Hvilken sitronbrus funker fint solo, men også i drink - og tar du bort siste bokstav i navnet får du det den ofte mikses med?",
-      "answer": "Sprite (sprit)"
+      "answer": "Sprite (sprit)",
+      "aliases": [
+        "Sprite",
+        "sprit"
+      ]
     },
     {
       "question": "Hvilken amerikansk brus kan høres ut som den er anbefalt av en lege, selv om den neppe står på reseptblokka?",
