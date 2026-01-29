@@ -1,0 +1,36 @@
+{
+  "theme": "Svaret starter på 'J'",
+  "questions": [
+    {
+      "question": "Hvilken bedrift fra Fredrikstad har tatt navn etter noen troll og produserer og markedsfører støpejernsildsteder?",
+      "answer": "Jøtul"
+    },
+    {
+      "question": "I hvilken by, som er blitt knivet om i tusenvis av år, ligger den eldgamle Al Aqsa-moskeen?",
+      "answer": "Jerusalem"
+    },
+    {
+      "question": "Norges høyest liggende vei for ordinær biltrafikk ligger ved Juvasshytta. I hvilken nasjonalpark?",
+      "answer": "Jotunheimen",
+      "aliases": [
+        "Jotunheimen nasjonalpark"
+      ]
+    },
+    {
+      "question": "Hvilket band fra bergen gjemmer seg bak anagrammet 'hasjoljen liggevogn nonne'?",
+      "answer": "John Olav Nilsen og Gjengen",
+      "aliases": [
+        "John Olav Nilsen & Gjengen",
+        "John Olav Nilsen"
+      ]
+    },
+    {
+      "question": "Han ble kjent som Tony Manero og deretter Danny Zuko. Så gikk det en stund før han dukket opp som Vincent Vega. Hva heter skuespilleren?",
+      "answer": "John Travolta",
+      "aliases": [
+        "Travolta",
+        "Johnny Travolta"
+      ]
+    }
+  ]
+}
