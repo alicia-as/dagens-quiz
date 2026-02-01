@@ -1,0 +1,43 @@
+{
+  "theme": "Stilige dyr",
+  "questions": [
+    {
+      "question": "Hvilket utrydningstruet dyr har det vitenskapelige navnet «Rhinocerotidae»?",
+      "answer": "Neshorn",
+      "aliases": [
+        "Neshornet"
+      ]
+    },
+    {
+      "question": "Hva heter halvapene som lever på Madagaskar og som med sin stripete hale og kule maske ser ut som straffanger?",
+      "answer": "Lemurer",
+      "aliases": [
+        "Lemur"
+      ]
+    },
+    {
+      "question": "Forrige svar inneholder en kjempestor flygeudyktig fugl fra Australia i nær slekt med strutsen. Hva heter denne fuglen?",
+      "answer": "Emu",
+      "aliases": [
+        "Emuen"
+      ]
+    },
+    {
+      "question": "Hvilket rovdyr med det vitenskapelige navnet «Smilidon» døde ut i slutten av siste istid? Arten har gitt navn til en meget populær (blant barn) sjørøver.",
+      "answer": "Sabeltanntiger",
+      "aliases": [
+        "Sabeltanntigeren",
+        "Sabeltann tiger",
+        "Sabeltann",
+        "Sabeltanne tigeren"
+      ]
+    },
+    {
+      "question": "Hvilket annet stort pattedyr døde ut i siste istid, men har gitt navn til årlig salg?",
+      "answer": "Mammuten",
+      "aliases": [
+        "Mammut"
+      ]
+    }
+  ]
+}
