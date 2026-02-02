@@ -1,0 +1,48 @@
+{
+  "theme": "Canada 🍁",
+  "questions": [
+    {
+      "question": "I hvilken canadisk by, som har mått sitt kongelige navn etter den 233 m høye knausen i hjertet av byen, ble sommer-OL arrangert i 1976?",
+      "answer": "Montreal",
+      "aliases": [
+        "Montreal"
+      ]
+    },
+    {
+      "question": "Hva het tikjemperen som vant OL-gull i Canada i 1976, som siden har skiftet kjønn og vært profilert i 'The Kardashians'?",
+      "answer": "Bruce Jenner, som hadde skiftet fornavn og kjønn",
+      "aliases": [
+        "Bruce Jenner",
+        "Jenner"
+      ]
+    },
+    {
+      "question": "Ved hvilken breddegrad går det en ca. 3500 km lang «rett» grense mellom USA og Canada? Frankrikes hovedstad ligger nesten like langt nord.",
+      "answer": "Den 49. breddegrad",
+      "aliases": [
+        "49. breddegrad",
+        "den 49. breddegrad",
+        "49th parallel",
+        "49  ",
+        "49 grader",
+        "49 grader nord"
+      ]
+    },
+    {
+      "question": "Canadas tidligere statsminister (1971-) har nylig blitt sammen med selveste Katy Perry. Hva heter han?",
+      "answer": "Justin Trudeau",
+      "aliases": [
+        "Trudeau",
+        "Justin Trudeau",
+        "Pierre Trudeau"
+      ]
+    },
+    {
+      "question": "Canadas nåværende statsminister ble for alvor kjent internasjonal under årets Davos, hvor han talte Trump i mot. Hva heter han?",
+      "answer": "Mark Carney",
+      "aliases": [
+        "Carney"
+      ]
+    }
+  ]
+}
