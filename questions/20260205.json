@@ -1,0 +1,32 @@
+{
+  "theme": "Slagord",
+  "questions": [
+    {
+      "question": "Med «samme» navn som en tidligere norsk pop-duo, hvilket sjokolademerke «Melts in Your Mouth, Not in Your Hands»?",
+      "answer": "M&M"
+    },
+    {
+      "question": "Gruveselskapet De Beers skapte et slagord i 1948 som er «identisk» med tittelen på en Bond-film fra 1971. Slagord takk!",
+      "answer": "Diamonds are Forever",
+      "aliases": [
+        "Diamanter varer evig"
+      ]
+    },
+    {
+      "question": "«Noen forhold varer livet ut.» Hvilket Tine-produkt er dette slagord for?",
+      "answer": "Norvegia"
+    },
+    {
+      "question": "Hvilken global aktør har brukt slagordet «I'm Lovin' It» siden 2003?",
+      "answer": "McDonalds",
+      "aliases": [
+        "McDonalds",
+        "McDonald's"
+      ]
+    },
+    {
+      "question": "Hvilken byggevarekjede bruker det informative slagordet «Ba-bompi-bomp» i sine reklamer?",
+      "answer": "Byggmakker"
+    }
+  ]
+}

@@ -1,29 +1,47 @@
 {
+  "theme": "Farger",
   "questions": [
     {
       "question": "Fargen oker har fått navnet sitt fra det greske ordet «ochros». Kan du si fargen på «norsk»?",
       "answer": "Gul/blekgul",
-      "aliases": ["Gul", "Blekgul", "Oker"]
+      "aliases": [
+        "Gul",
+        "Blekgul",
+        "Oker"
+      ]
     },
     {
       "question": "Hvilken farge har smaragden, en farge den har fått fra en liten mengde krom?",
       "answer": "Grønn",
-      "aliases": ["Grønn", "Smaragdgrønn"]
+      "aliases": [
+        "Grønn",
+        "Smaragdgrønn"
+      ]
     },
     {
       "question": "Hvilken kjent bergenser har en fetter fra Amerika som heter Dollars?",
       "answer": "Gullars",
-      "aliases": ["Gullars", "Dollars"]
+      "aliases": [
+        "Gullars",
+        "Dollars"
+      ]
     },
     {
       "question": "I hvilken amerikansk tv-serie blir den «vellykkede» Piper Chapman dømt til 15 måneders fengsel for narkotikaforbrytelser?",
       "answer": "Orange Is the New Black",
-      "aliases": ["Orange Is the New Black", "Orange is the new black", "OITNB"]
+      "aliases": [
+        "Orange Is the New Black",
+        "Orange is the new black",
+        "OITNB"
+      ]
     },
     {
       "question": "Hvilken farge har bladet i det kanadiske flagget?",
       "answer": "Rødt",
-      "aliases": ["Rødt", "Rød"]
+      "aliases": [
+        "Rødt",
+        "Rød"
+      ]
     }
   ]
 }
