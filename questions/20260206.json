@@ -1,0 +1,44 @@
+{
+  "theme": "Ørken 2",
+  "questions": [
+    {
+      "question": "Verdens største (varme) ørken er Sahara, men hva betyr egentlig det arabiske ordet 'sahra', som navnet stammer fra?",
+      "answer": "Det betyr... Ørken",
+      "aliases": [
+        "Ørkener",
+        "Ørken"
+      ]
+    },
+    {
+      "question": "Hvilken stor ørken i det sørlige Afrika strekker seg over store deler av Botswana, samt deler av Namibia og Sør-Afrika? Navnet blir til en blekksprutsrett om du bytter ut én bokstav!",
+      "answer": "Kalahari",
+      "aliases": [
+        "Kalahariørkenen"
+      ]
+    },
+    {
+      "question": "Hvilken berømt science fiction-roman av Frank Herbert, nylig filmatisert, foregår i stor grad på ørkenplaneten Arrakis?",
+      "answer": "Dune",
+      "aliases": [
+        "Sand",
+        "Dune-serien"
+      ]
+    },
+    {
+      "question": "Hva heter dalen i California hvor man i 1913 målte den høyeste offisielle lufttemperaturen på jorden (56,7 °C)?",
+      "answer": "Death Valley",
+      "aliases": [
+        "Dødsdalen",
+        "Death Valley National Park"
+      ]
+    },
+    {
+      "question": "Hvilket velkjent ørkendyr kjennetegnes av at det har én pukkel, i motsetning til sin nære slektning som har to?",
+      "answer": "Dromedar",
+      "aliases": [
+        "Arabisk kamel",
+        "Enpuklet kamel"
+      ]
+    }
+  ]
+}
