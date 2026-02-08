@@ -1,0 +1,31 @@
+{
+  "theme": "Flotte byer på 'F'",
+  "questions": [
+    {
+      "question": "I nærheten av hvilken vakker by ligger fjellandsbyen Vinci?",
+      "answer": "Firenze",
+      "aliases": [
+        "Florence"
+      ]
+    },
+    {
+      "question": "I hvilken by ligger Tysklands største børs?",
+      "answer": "Frankfurt",
+      "aliases": [
+        "Frankfurt am Main"
+      ]
+    },
+    {
+      "question": "I hvilken Østfoldby ligger øyene Kråkerøy og Kjøkøy?",
+      "answer": "Fredrikstad"
+    },
+    {
+      "question": "På hvilken middelhavsøy ligger havnebyen Famagusta?",
+      "answer": "Kypros"
+    },
+    {
+      "question": "To byer i regionen Nordjylland har fergeforbindelse til Norge. Den er Hirtshals, hva heter den andre byen?",
+      "answer": "Frederikshavn"
+    }
+  ]
+}
