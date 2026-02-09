@@ -1,0 +1,44 @@
+{
+  "theme": "Hovedsteder rundt omkring",
+  "questions": [
+    {
+      "question": "Hvor ligger Dulles internasjonale flyplass?",
+      "answer": "Washington DC",
+      "aliases": [
+        "Washington DC",
+        "Dulles"
+      ]
+    },
+    {
+      "question": "Hvor kan du kose deg på Spansketrappen?",
+      "answer": "Roma",
+      "aliases": [
+        "Roma",
+        "Spansketrappen"
+      ]
+    },
+    {
+      "question": "Hva heter landet som kan skryte av å ha verdens sydligste hovedstad, og hva heter byen?",
+      "answer": "New Zealand, Wellington",
+      "aliases": [
+        "New Zealand",
+        "Wellington"
+      ]
+    },
+    {
+      "question": "I hvilket lite Vestafrikansk land, som har et navn man gjerne bestiller kaffe som på engelsk, er Lomé hovedstad?",
+      "answer": "Togo",
+      "aliases": [
+        "Togo"
+      ]
+    },
+    {
+      "question": "Hvilken forbokstav er mest vanlig på Hovedsteder i Afrika?",
+      "answer": "A. Asmara, Addis Abeba, Antananarivo, Alger, Accra, Abuja",
+      "aliases": [
+        "a ",
+        "A  "
+      ]
+    }
+  ]
+}
