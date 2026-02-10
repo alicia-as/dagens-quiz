@@ -1,0 +1,46 @@
+{
+  "theme": "Edelstener 💎",
+  "questions": [
+    {
+      "question": "Hva slags edelsten er den golfballstore og gråblå «Star of India», som befinner seg på naturhistorisk museum i New York?",
+      "answer": "Safir",
+      "aliases": [
+        "Safir",
+        "Sapphire",
+        "En safir"
+      ]
+    },
+    {
+      "question": "Hva slags type edelsten er den 3106 karat store «Cullinan», som er den største av sin sort som noen gang er funnet?",
+      "answer": "Diamant",
+      "aliases": [
+        "Diamant",
+        "Diamond",
+        "En diamant"
+      ]
+    },
+    {
+      "question": "Oppkalt etter en grønn og vakker bergart, hva heter datteren til Mick og Bianca Jagger, som ble født i 1971? En gammel sjokolade med fengende reklamefilm hadde samme navn.",
+      "answer": "Jade",
+      "aliases": [
+        "Jade"
+      ]
+    },
+    {
+      "question": "Hva kaller vi den på norsk, edelstenen som engelsktalende kaller «Emerald»?",
+      "answer": "Smaragd",
+      "aliases": [
+        "Smaragd",
+        "En smaragd"
+      ]
+    },
+    {
+      "question": "Hvilken film av Alfred Hitchcock fra 1969, basert på en roman av Leon Uris, har en blålig eller fargeløs smykkestein som tittel?",
+      "answer": "Topas",
+      "aliases": [
+        "Topas",
+        "Topaz"
+      ]
+    }
+  ]
+}
