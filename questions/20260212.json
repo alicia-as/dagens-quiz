@@ -1,0 +1,32 @@
+{
+  "theme": "Frukt 🍎",
+  "questions": [
+    {
+      "question": "Hvilken frukt er også et av verdens mest talte språk?",
+      "answer": "Mandarin"
+    },
+    {
+      "question": "Hvilken grønnsak, som botanisk sett er en frukt, er den mest verdifulle i Norge dersom man ser på omsetningen?",
+      "answer": "Tomat",
+      "aliases": [
+        "Tomaten"
+      ]
+    },
+    {
+      "question": "Logisk nok - hva kalles den pressede råsaften av druer og annen frukt som danner grunnlaget for vin og sider?",
+      "answer": "Most",
+      "aliases": [
+        "Druemost",
+        "Fruktmost"
+      ]
+    },
+    {
+      "question": "Hvilken norsk dagligvarekjede har tidligere hatt slagordet ”Nei til eplemoms”?",
+      "answer": "Kiwi"
+    },
+    {
+      "question": "Hvilket selskap med historie tilbake til 1851 har samme navn som en figur i Andeby, og er kanskje mest kjent for sin produksjon av ananas og bananer?",
+      "answer": "Dole"
+    }
+  ]
+}
