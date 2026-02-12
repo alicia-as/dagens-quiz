@@ -1,0 +1,35 @@
+{
+  "theme": "De edle dråpers opphav 🍷",
+  "questions": [
+    {
+      "question": "Hva blir den japanske spriten Sake laget av?",
+      "answer": "Av gjæret ris",
+      "aliases": [
+        "Ris",
+        "Gjæret ris"
+      ]
+    },
+    {
+      "question": "Hva kalles det greske brennevinet som er verdenskjent og er krydret med anis?",
+      "answer": "Ouzo"
+    },
+    {
+      "question": "Hvilken ingrediens skal det være minst 50% av for at man kalle øl for Weizenbier i Tyskland?",
+      "answer": "Hvete",
+      "aliases": [
+        "Hvetemalt"
+      ]
+    },
+    {
+      "question": "Hvilken frukt er hovedingrediens i brennevinet slivovitsj, som er populært på Balkan? Fjerner du første bokstav, får den plass i 'lommen'.",
+      "answer": "Plommer",
+      "aliases": [
+        "Plomme"
+      ]
+    },
+    {
+      "question": "Hvilken ingrediens i øl, som gir bitterhet og aroma, brukes i enda større grad i ølsorten IPA?",
+      "answer": "Humle"
+    }
+  ]
+}
