@@ -1,0 +1,43 @@
+{
+  "theme": "Vinter-OL 2026 ⛷️",
+  "questions": [
+    {
+      "question": "Hvem tok gull i 10 km intervallstart, menn under OL i Milano-Cortina 2026?",
+      "answer": "Johannes Høsflot Klæbo",
+      "aliases": [
+        "Johannes Klæbo",
+        "Høsflot Klæbo",
+        "Johannes Høsflot Klæbo",
+        "Klæbo"
+      ]
+    },
+    {
+      "question": "Kristin Skaslien og Magnus Nedregotten måtte reise medaljeløse hjem. Hvilken idrett konkurrerer ekteparet i?",
+      "answer": "Curling"
+    },
+    {
+      "question": "Sør-Amerika tok i helgen sin første gullmedalje i Vinter-OL noensinne, da en 'brasilianer' vant. Med et nedlagt flyselskap til etternavn, hva heter medlajevinneren?",
+      "answer": "Lucas Pinheiro Braathen",
+      "aliases": [
+        "Lucas Braathen",
+        "Braathen"
+      ]
+    },
+    {
+      "question": "Anna Odine Strøm tok sitt andre OL-gull for mesterskapet i går. Hvilken idrett konkurrerer hun i?",
+      "answer": "Skihopping",
+      "aliases": [
+        "Skihopper",
+        "Skihopp"
+      ]
+    },
+    {
+      "question": "Sander Eikrem satte olympisk rekord da han vant gull i 5000 meter skøyter. Hvilken tid hadde han: A: 6:03.95 B 7:16.23 C: 8:21.86",
+      "answer": "A  ",
+      "aliases": [
+        "6:03.95",
+        "6:03"
+      ]
+    }
+  ]
+}
