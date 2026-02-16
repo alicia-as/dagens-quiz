@@ -1,0 +1,39 @@
+{
+  "theme": "Svaret begynner på 'A'",
+  "questions": [
+    {
+      "question": "Hvilken kommune kommer først i den alfabetiske oversikten i fylket Akershus?",
+      "answer": "Asker kommune",
+      "aliases": [
+        "Asker"
+      ]
+    },
+    {
+      "question": "Google har tatt sitt navn fra et matematisk begrep som beskriver en 1 etterfulgt av 100 nuller. Hvor har morselskapet sitt navn fra?",
+      "answer": "Alfabetet (Alphabet)",
+      "aliases": [
+        "Alphabet",
+        "Alfabetet"
+      ]
+    },
+    {
+      "question": "Hva ble de kalt de som prøvde å lage gull i middelalderen?",
+      "answer": "Alkymister",
+      "aliases": [
+        "Alkymist",
+        "Alkymister",
+        "Alkemister",
+        "Alkemist",
+        "Alkemister"
+      ]
+    },
+    {
+      "question": "Hvilket nyhetsbyrå står bak forkortelsen AP?",
+      "answer": "Associated Press"
+    },
+    {
+      "question": "I hvilken by ble de ikke anerkjente olympiske sommerlekene i 1906 arrangert?",
+      "answer": "Athen"
+    }
+  ]
+}
