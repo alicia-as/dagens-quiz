@@ -1,0 +1,46 @@
+{
+  "theme": "Bryllupsdager",
+  "questions": [
+    {
+      "question": "Dersom du er gift og har holdt ut i et år, hva slags bryllup kan du feire da?",
+      "answer": "Papirbryllup",
+      "aliases": [
+        "Papirbryllup",
+        "Papir"
+      ]
+    },
+    {
+      "question": "Hvis du har vært gift i 10 år, feirer man en bryllupsdag som er én av bestanddelene i bronse. Hva heter denne bryllupsdagen?",
+      "answer": "Tinnbryllup",
+      "aliases": [
+        "Tinnbryllup",
+        "Tinn"
+      ]
+    },
+    {
+      "question": "Gullbryllup er noe de fleste håper å feire, men hvor lenge må man ha vært gift for å kunne feire det?",
+      "answer": "50 år ",
+      "aliases": [
+        "50  ",
+        "I 50 år  ",
+        "50 år "
+      ]
+    },
+    {
+      "question": "Når kongeparet forhåpentligvis feirer sitt diamantbryllup om to år, hvor mange år har de vært gift da?",
+      "answer": "60 år. ",
+      "aliases": [
+        "60  ",
+        "I 60 år  "
+      ]
+    },
+    {
+      "question": "Dersom ekteskapet ikke er knust etter 20 år, hva slags bryllupsdag kan man feire da?",
+      "answer": "Porselensbryllup",
+      "aliases": [
+        "Porselensbryllup",
+        "Porselen"
+      ]
+    }
+  ]
+}
