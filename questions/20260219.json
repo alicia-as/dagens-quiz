@@ -1,0 +1,41 @@
+{
+  "theme": "Hund 🐶",
+  "questions": [
+    {
+      "question": "Hvilken hunderase, opprinnelig fra Sibir, er kjent for sitt ulvelignende utseende og evne til å trekke sleder over lange avstander?",
+      "answer": "Siberian Husky",
+      "aliases": [
+        "Husky"
+      ]
+    },
+    {
+      "question": "Hva slags hunderase, som er særlig praktisk om man alltid er tøst, var hunden som søstrene Obama fikk da de flyttet inn i Det hvite hus?",
+      "answer": "Portugisisk vannhund",
+      "aliases": [
+        "Vannhund"
+      ]
+    },
+    {
+      "question": "En av Norges mest populære hunderaser har fått sitt navn fra det engelske ordet for å «hente». Hvilken rase?",
+      "answer": "Retriever",
+      "aliases": [
+        "Golden retriever",
+        "Labrador retriever"
+      ]
+    },
+    {
+      "question": "Frankrikes nasjonalhund er blant verdens mest populære hunderaser og finnes i mange størrelser og farger. Hva kaller vi hunderasen?",
+      "answer": "Puddel",
+      "aliases": [
+        "Puddelen"
+      ]
+    },
+    {
+      "question": "Hva er det tyske ordet for «grevling» som også er betegnelsen på en hunderase?",
+      "answer": "Dachs",
+      "aliases": [
+        "Dachshund"
+      ]
+    }
+  ]
+}
