@@ -1,0 +1,44 @@
+{
+  "theme": "Katt 🐱",
+  "questions": [
+    {
+      "question": "Katterasens navn stammer fra Isle of Man, og dens fremste kjennetegn er mangelen på hale. Hva heter rasen, som blir til kommunismens far om du bytter ut én bokstav?",
+      "answer": "Manx",
+      "aliases": [
+        "Manx-katten"
+      ]
+    },
+    {
+      "question": "Hvilket tidligere land, nå kaldt Thailand, har gitt navn til en katterase og en spesiell type mennesker?",
+      "answer": "Siam",
+      "aliases": [
+        "Siamesiske tvillinger"
+      ]
+    },
+    {
+      "question": "En rekke paver, samt østerrikeren som hoppet fra verdensrommet har et fornavn som også er et vanlig kattenavn. Hvilket?",
+      "answer": "Felix",
+      "aliases": [
+        "Felix-katten",
+        "Felix Baumgartner"
+      ]
+    },
+    {
+      "question": "En rekke paver, samt en action-skuespiller har et fornavn som er et vanlig kattenavn, det har også katten som ikke klarer å fange Pip. Hvilket navn?",
+      "answer": "Sylvester",
+      "aliases": [
+        "Sylvester-katten",
+        "Sylvester Stallone",
+        "Pip og Sylvester"
+      ]
+    },
+    {
+      "question": "Med samme navn som en verdensberømt katt fra Japan, hva het hun til fornavn, søsteren til Alexander Kielland, som var en anerkjent landskapsmaler?",
+      "answer": "Kitty (Hello Kitty)",
+      "aliases": [
+        "Kitty Kielland",
+        "Hello Kitty"
+      ]
+    }
+  ]
+}
