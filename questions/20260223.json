@@ -1,0 +1,38 @@
+{
+  "theme": "Idretter med lavere intensitet",
+  "questions": [
+    {
+      "question": "Hvilket biljardspill spilles på et mye større bord, har én hvit kule, 15 røde og seks fargede kuler?",
+      "answer": "Snooker"
+    },
+    {
+      "question": "I hvilken populær barsport ligger tallene syv, nitten, tre, sytten, to og femten etter hverandre fra venstre til høyre?",
+      "answer": "Dart",
+      "aliases": [
+        "Darts",
+        "Dartspill",
+        "Pilkasting"
+      ]
+    },
+    {
+      "question": "Canada slo England og vant OL-gullet på lørdag, etter å på torsdag både ha tapt og deretter vunnet mot Norge. I hvilken sport?",
+      "answer": "Curling"
+    },
+    {
+      "question": "I hvilken (sommer-)OL-øvelse er blinken 122 cm i diameter?",
+      "answer": "Bueskyting",
+      "aliases": [
+        "Pil og bue",
+        "Bue og pil"
+      ]
+    },
+    {
+      "question": "I hvilken idrett er navn som Hikaru Nakamura, Fabiano Caruana samt en verdenskjent nordmann de mest kjente utøverne?",
+      "answer": "Sjakk",
+      "aliases": [
+        "Sjakkspill",
+        "Sjakkutøvere"
+      ]
+    }
+  ]
+}
