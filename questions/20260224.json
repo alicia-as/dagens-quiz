@@ -1,0 +1,44 @@
+{
+  "theme": "Basert på tomat 🍅",
+  "questions": [
+    {
+      "question": "På engelsk ville vi vel kanskje kalt det «toast», men de grillede eller stekte brødskivene med digg på har et annet navn på italiensk, et ord som betyr 'å brenne'? Snakker du med Hellstrøm må du være nøye med uttalen. Hvilken tomatbasert rett er vi på jakt etter?",
+      "answer": "Bruschetta"
+    },
+    {
+      "question": "Hvilken spansk nasjonalrett inneholdende hvitløk, olivenolje og gjerne tomater?  Den serveres kald og kan også inneholde all slags andre grønnsaker.",
+      "answer": "Gazpacho",
+      "aliases": [
+        "Gazpachos",
+        "Gazpacho",
+        "Kald tomatkrem"
+      ]
+    },
+    {
+      "question": "En choronsaus er en saus som er basert på en klassisk fransk saus, men som i tillegg inneholder tomatpuré. Hva heter den klassiske franske sausen?",
+      "answer": "Bernaise",
+      "aliases": [
+        "Béarnaise",
+        "Bernese",
+        "Bernese saus",
+        "Béarnaise saus"
+      ]
+    },
+    {
+      "question": "Hvilken kjærlighetsgudinne i norrøn mytologi har ansvar for epler som gir evig ungdom, men forbindes likevel med tomater?",
+      "answer": "Idun (Ketchup)",
+      "aliases": [
+        "Idun",
+        "Ketchup",
+        "Idun ketchup"
+      ]
+    },
+    {
+      "question": "Hvilken metode for å styre egen tidsbruk på en mer effektiv måte, ved å stykke opp arbeid og pauser i bolker, har tatt sitt navn fra det italienske ordet for tomat?",
+      "answer": "Pomodoro-teknikken",
+      "aliases": [
+        "Pomodoro"
+      ]
+    }
+  ]
+}
