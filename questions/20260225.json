@@ -1,0 +1,46 @@
+{
+  "theme": "Hovedsteder som rimer på...",
+  "questions": [
+    {
+      "question": "Hvilken europeisk hovedstad rimer på en velkjent partikkelakselerator som ligger i nærheten?",
+      "answer": "Bern, CERN",
+      "aliases": [
+        "Bern",
+        "CERN"
+      ]
+    },
+    {
+      "question": "Hvilken annen europeisk hovedstad kjent for sin gode mat rimer på den norske oversettelsen av det latinske ordet 'Porcus'?",
+      "answer": "Paris, Gris",
+      "aliases": [
+        "Paris",
+        "Gris"
+      ]
+    },
+    {
+      "question": "Fylkeshovedstaden i Telemark fylke rimer på nok en europeisk hovedstad. Hva heter hovedstaden, som er kjent for å være opphavsstedet til mange kjente komponister?",
+      "answer": "Wien, Skien",
+      "aliases": [
+        "Wien",
+        "Skien"
+      ]
+    },
+    {
+      "question": "Et dynasti som regjerte landet fra 1368 til 1644 hadde et navn som rimer på det landets hovedstad heter i dag. Hvilken hovedstad?",
+      "answer": "Beijing, Ming",
+      "aliases": [
+        "Beijing",
+        "Ming"
+      ]
+    },
+    {
+      "question": "Hovedstaden i Oman rimer på hovedstaden i Marokko. Kan du nevne en av dem?",
+      "answer": "Muskat, Rabat",
+      "aliases": [
+        "Muskat",
+        "Rabat",
+        "Rabat, Muskat"
+      ]
+    }
+  ]
+}
