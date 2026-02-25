@@ -1,0 +1,34 @@
+{
+  "theme": "Daniel",
+  "questions": [
+    {
+      "question": "Hvilken tidligere James Bond-skuespiller har nylig hatt suksess i filmeserien om etterforskeren Benoit Blanc?",
+      "answer": "Daniel Craig"
+    },
+    {
+      "question": "Hvem fikk Oscar for beste mannlige hovedrolle under utdelingen 24. februar 2008, for sin rolle i filmen «There Will Be Blood»?",
+      "answer": "Daniel Day-Lewis",
+      "aliases": [
+        "Daniel Day Lewis",
+        "Day-Lewis"
+      ]
+    },
+    {
+      "question": "Hva slags brennevin bruker man til cocktailen Tennessee cowboy?",
+      "answer": "Jack Daniel's",
+      "aliases": [
+        "Jack Daniel's",
+        "Jack Daniels",
+        "Jack Daniel"
+      ]
+    },
+    {
+      "question": "Hva er tittelen på Daniel Defoes mest kjente roman som kom ut i 1719 og som har gitt navn til en egen sjanger i litteraturen?",
+      "answer": "Robinson Crusoe"
+    },
+    {
+      "question": "Hvilket selskap ble etablert av Daniel Ek og Martin Lorentzon i 2008?",
+      "answer": "Spotify"
+    }
+  ]
+}
