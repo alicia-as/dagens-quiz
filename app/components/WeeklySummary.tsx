@@ -120,7 +120,7 @@ const WeeklySummary: React.FC<WeeklySummaryProps> = ({ apiUrl }) => {
         const data: { dailyAverageStats: Record<string, number> } =
           await response.json();
 
-        const dateKeys = Object.keys(data.dailyAverageStats);
+        const dateKeys = Object.keys(data.dailyAverageStats).sort();
         const userStats = getUserStatsForDates(dateKeys);
 
         const chartData: DayStat[] = dateKeys.map((dateKey) => ({

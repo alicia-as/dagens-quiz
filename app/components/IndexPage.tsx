@@ -1,5 +1,5 @@
 "use client";
-import React, { useEffect, useState } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 
 import ScoreBoxes from "../ScoreBoxes";
 import levenshtein from "js-levenshtein";
@@ -62,7 +62,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     };
 
     fetchQuestions();
-  }, []);
+  }, [quizDate]);
 
   useEffect(() => {
     // Fetch the list of available dates
@@ -89,8 +89,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     fetchDates();
   }, [quizDate]);
 
-  // Function to fetch summary
-  const fetchSummary = async () => {
+  const fetchSummary = useCallback(async () => {
     // We only fetch summary for the current date (if quizDate is not provided)
     if (quizDate) return;
     try {
@@ -101,7 +100,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     } catch (error) {
       console.error("Couldn't fetch summary", error);
     }
-  };
+  }, [quizDate]);
 
   useEffect(() => {
     const canonicalKey = toStorageKey(quizDate);
@@ -131,7 +130,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     if (savedOverturns) {
       setOverturns(JSON.parse(savedOverturns));
     }
-  }, [quizDate]);
+  }, [quizDate, fetchSummary]);
 
   const handleSubmit = async () => {
     if (
