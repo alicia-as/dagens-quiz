@@ -34,3 +34,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# codex/playwright artifacts
+.playwright-cli
+output/playwright
+
+# local npm cache (optional)
+.npm-cache

@@ -314,7 +314,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
             ) : (
               <input
                 type="text"
-                value={userAnswers[index]}
+                value={userAnswers[index] ?? ""}
                 onChange={(e) => handleAnswerChange(index, e.target.value)}
                 className="w-full p-2 border-2 text-gray-800 border-gray-300 rounded"
               />
