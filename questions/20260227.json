@@ -1,0 +1,37 @@
+{
+  "theme": "Instrumenter",
+  "questions": [
+    {
+      "question": "Holly Hunter fikk Oscar for beste kvinnelige hovedrolle i 1993. Filmen hadde samme tittel som et musikkinstrument, som blant annet Leif Ove Andsnes mestrer. Hvilket?",
+      "answer": "Piano"
+    },
+    {
+      "question": "Hvilket «rengjøringsinstrument» var president i USA før Franklin D. Roosevelt?",
+      "answer": "Hoover (Herbert)",
+      "aliases": [
+        "Hoover",
+        "Herbert Hoover"
+      ]
+    },
+    {
+      "question": "Hvilket «oppdelingsinstrument» som ble svært populært under den franske revolusjonen, og som ble brukt i Sverige i 1910 for første- og siste gang, ble i begynnelsen kalt louison/louisette?",
+      "answer": "Giljotinen",
+      "aliases": [
+        "Giljotin",
+        "Giljotinen"
+      ]
+    },
+    {
+      "question": "Hvilket treblåseinstrument har et navn som på engelsk kan være en nedsettende betegnelse på en homofil person?",
+      "answer": "Fagott",
+      "aliases": [
+        "Fagott",
+        "Bassoon"
+      ]
+    },
+    {
+      "question": "Hva kaller man instrumentet som registrerer seismiske bølger forårsaket av jordskjelv eller eksplosjoner?",
+      "answer": "Seismograf"
+    }
+  ]
+}
