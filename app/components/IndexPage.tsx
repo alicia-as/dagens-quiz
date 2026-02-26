@@ -39,6 +39,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
   const [warningMessage, setWarningMessage] = useState<string | null>(null);
   const [prevDate, setPrevDate] = useState<string | null>(null);
   const [nextDate, setNextDate] = useState<string | null>(null);
+  const [overturns, setOverturns] = useState<boolean[]>([]);
 
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -115,7 +116,13 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     if (answers) {
       setUserAnswers(JSON.parse(answers));
       setIsSubmitted(true);
-      fetchSummary(); // Fetch summary when answers are cached
+      fetchSummary();
+    }
+
+    const overturnsKey = `${dateKey}-overturns`;
+    const savedOverturns = localStorage.getItem(overturnsKey);
+    if (savedOverturns) {
+      setOverturns(JSON.parse(savedOverturns));
     }
   }, [quizDate]);
 
@@ -207,26 +214,29 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
   };
 
   const handleShare = () => {
-    // Determine the date to include in the URL
     const today = new Date().toISOString().split("T")[0];
     const dateFromURL = searchParams?.get("date");
+    const quizDateToUse = quizDate || dateFromURL || today;
 
-    const quizDateToUse = quizDate || dateFromURL || today; // Use quizDate prop, then URL param, else today
+    const hasOverturns = overturns.some(Boolean);
 
-    // Generate result string
     const resultString = questions
-      .map((_, index) => (isCorrect(index) ? "🟩" : "🟥"))
+      .map((_, index) => {
+        if (isCorrect(index)) return "🟩";
+        if (overturns[index]) return "🟨";
+        return "🟥";
+      })
       .join("");
 
-    // Construct URL with date
     const shareableURL = `https://www.femkjappe.no${
       quizDateToUse !== today ? `?date=${quizDateToUse}` : ""
     }`;
 
-    // Copy result string and link to clipboard
+    const legend = hasOverturns ? "\n🟨 = rettet selv" : "";
+
     navigator.clipboard
       .writeText(
-        `${resultString}\nSpill fem kjappe på: ${shareableURL}${
+        `${resultString}${legend}\nSpill fem kjappe på: ${shareableURL}${
           theme ? ` Dagens tema: ${theme}` : ""
         }`
       )
@@ -243,6 +253,23 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     if (warningMessage) {
       setWarningMessage(null);
     }
+  };
+
+  const handleOverturn = (index: number) => {
+    const newOverturns = [...overturns];
+    newOverturns[index] = !newOverturns[index];
+    setOverturns(newOverturns);
+
+    const dateKey = quizDate
+      ? formatDate(quizDate).replace(/\./g, "-")
+      : new Date().toLocaleDateString();
+    localStorage.setItem(`${dateKey}-overturns`, JSON.stringify(newOverturns));
+
+    const correctKey = `${dateKey}-correct`;
+    const correctArray = questions.map((_, i) =>
+      isCorrect(i) || newOverturns[i] ? true : false
+    );
+    localStorage.setItem(correctKey, JSON.stringify(correctArray));
   };
 
   return (
@@ -301,15 +328,32 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
                 </p>
                 <p
                   className={
-                    isCorrect(index) ? "text-green-200" : "text-red-200"
+                    isCorrect(index) || overturns[index]
+                      ? "text-green-200"
+                      : "text-red-200"
                   }
                 >
                   {isCorrect(index)
                     ? isAliasCorrect(index)
                       ? `✅ Korrekt.\n${question.answer}`
                       : "✅ Korrekt!"
+                    : overturns[index]
+                    ? `✅ Rettet av deg. Rett svar: '${question.answer}'`
                     : `❌ Feil. Rett svar: '${question.answer}'`}
                 </p>
+                {!isCorrect(index) && (
+                  <button
+                    type="button"
+                    onClick={() => handleOverturn(index)}
+                    className={`mt-1 text-xs px-2 py-1 rounded-md transition-colors ${
+                      overturns[index]
+                        ? "bg-yellow-500/20 text-yellow-300 border border-yellow-500/40 hover:bg-red-500/20 hover:text-red-300 hover:border-red-500/40"
+                        : "bg-gray-500/20 text-gray-300 border border-gray-500/30 hover:bg-yellow-500/20 hover:text-yellow-300 hover:border-yellow-500/40"
+                    }`}
+                  >
+                    {overturns[index] ? "↩ Angre rettet" : "🤚 Jeg hadde rett"}
+                  </button>
+                )}
               </div>
             ) : (
               <input
