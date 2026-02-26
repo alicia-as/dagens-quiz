@@ -7,7 +7,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import ClipboardModal from "../ClipboardModal";
 import Image from "next/image";
 import WeeklySummary from "./WeeklySummary";
-import { isFriday } from "../utils";
+import { isFriday, toStorageKey, parseYYYYMMDD, tryDateFormats } from "../utils";
 
 const LEVENSHTEIN_THRESHOLD = 2; // Adjust this value as needed
 
@@ -103,15 +103,23 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     }
   };
 
-  // Retrieve answers from local storage
   useEffect(() => {
-    // Use quizDate if provided, otherwise use today's date
-    const dateKey = quizDate
-      ? formatDate(quizDate).replace(/\./g, "-") // Convert to a format like YYYY-MM-DD
-      : new Date().toLocaleDateString(); // Ensures format is consistent (YYYY-MM-DD)
+    const canonicalKey = toStorageKey(quizDate);
+    let answers = localStorage.getItem(`${canonicalKey}-answers`);
 
-    const answersKey = `${dateKey}-answers`;
-    const answers = localStorage.getItem(answersKey);
+    if (!answers) {
+      const date = quizDate ? parseYYYYMMDD(quizDate) : new Date();
+      for (const fmt of tryDateFormats(date)) {
+        const val = localStorage.getItem(`${fmt}-answers`);
+        if (val) {
+          answers = val;
+          localStorage.setItem(`${canonicalKey}-answers`, val);
+          const correct = localStorage.getItem(`${fmt}-correct`);
+          if (correct) localStorage.setItem(`${canonicalKey}-correct`, correct);
+          break;
+        }
+      }
+    }
 
     if (answers) {
       setUserAnswers(JSON.parse(answers));
@@ -119,8 +127,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
       fetchSummary();
     }
 
-    const overturnsKey = `${dateKey}-overturns`;
-    const savedOverturns = localStorage.getItem(overturnsKey);
+    const savedOverturns = localStorage.getItem(`${canonicalKey}-overturns`);
     if (savedOverturns) {
       setOverturns(JSON.parse(savedOverturns));
     }
@@ -137,22 +144,12 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
       return;
     }
 
-    // Use quizDate if provided, otherwise use today's date
-    const dateKey = quizDate
-      ? formatDate(quizDate).replace(/\./g, "-") // Convert to YYYY-MM-DD format
-      : new Date().toLocaleDateString(); // Ensures format is consistent (YYYY-MM-DD)
+    const dateKey = toStorageKey(quizDate);
 
-    const answersKey = `${dateKey}-answers`;
+    localStorage.setItem(`${dateKey}-answers`, JSON.stringify(userAnswers));
 
-    // Save answers to local storage
-    // if (process.env.NODE_ENV !== "development") {
-    localStorage.setItem(answersKey, JSON.stringify(userAnswers));
-
-    // Store correct/incorrect classification
-    const correctKey = `${dateKey}-correct`;
     const correctArray = questions.map((_, index) => isCorrect(index));
-    localStorage.setItem(correctKey, JSON.stringify(correctArray));
-    // }
+    localStorage.setItem(`${dateKey}-correct`, JSON.stringify(correctArray));
     setIsSubmitted(true);
 
     // Submit answers to the server
@@ -260,16 +257,13 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     newOverturns[index] = !newOverturns[index];
     setOverturns(newOverturns);
 
-    const dateKey = quizDate
-      ? formatDate(quizDate).replace(/\./g, "-")
-      : new Date().toLocaleDateString();
+    const dateKey = toStorageKey(quizDate);
     localStorage.setItem(`${dateKey}-overturns`, JSON.stringify(newOverturns));
 
-    const correctKey = `${dateKey}-correct`;
     const correctArray = questions.map((_, i) =>
       isCorrect(i) || newOverturns[i] ? true : false
     );
-    localStorage.setItem(correctKey, JSON.stringify(correctArray));
+    localStorage.setItem(`${dateKey}-correct`, JSON.stringify(correctArray));
   };
 
   return (
