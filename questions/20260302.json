@@ -1,0 +1,38 @@
+{
+  "theme": "Havnebyer",
+  "questions": [
+    {
+      "question": "I hvilket urolig land ligger havnebyen Aden? Bytt ut forbokstaven og du får en hissig gnager!",
+      "answer": "Jemen (Lemen",
+      "aliases": [
+        "Jemen",
+        "Lemen"
+      ]
+    },
+    {
+      "question": "I hvilken tidligere betydningsfull havneby i det nordvestlige Italia holder fotballklubben Sampdoria til? Byen har nesten samme navn som Sveits største innsjø.",
+      "answer": "Genova",
+      "aliases": [
+        "Genova",
+        "Genoa",
+        "Geneva"
+      ]
+    },
+    {
+      "question": "I hvilket land ligger havnebyen Durban, der det sikkert har vært shipet ut en og annen diamant?",
+      "answer": "Sør-Afrika"
+    },
+    {
+      "question": "Fra hvilken havneby ble mer enn 300 000 franske og britiske soldater evakuert i Mai/Juni 1940?",
+      "answer": "Dunkerque",
+      "aliases": [
+        "Dunkerque",
+        "Dunkirk"
+      ]
+    },
+    {
+      "question": "Ved hvilket stort hav ligger havnebyen og turistmagneten Acapulco?",
+      "answer": "Stillehavet"
+    }
+  ]
+}
