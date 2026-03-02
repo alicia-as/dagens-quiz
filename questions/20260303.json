@@ -1,0 +1,29 @@
+{
+  "theme": "Europeiske fotballigaer",
+  "questions": [
+    {
+      "question": "Med samme navn et vidunderbarns fødeby, hvilket lag har vunnet Østerrikes Bundesliga 10 av 12 siste år?",
+      "answer": "Salzburg"
+    },
+    {
+      "question": "Juventus vant ligaen 9 år på rad fra 2012, før det har gått litt mer trått de siste årene. Fra hvilken tidligere OL-by kommer laget?",
+      "answer": "Torino"
+    },
+    {
+      "question": "Västerås vant Superettan i Sverige og rykker dermed opp - men hva heter det øverste nivået i herrenes fotball hos «Söta bror»?",
+      "answer": "Allsvenskan"
+    },
+    {
+      "question": "I hvilket lands øverste liga finner du lag som Dundalk, Shamrock, Derry og St. Patrick's?",
+      "answer": "Irland"
+    },
+    {
+      "question": "Laget Wrexham har hatt en eventyrlig reise de siste årene, med direkte opprykk fra National League til League Two, til League One, til...?",
+      "answer": "Championship",
+      "aliases": [
+        "EFL Championship",
+        "EFL Sky Bet Championship"
+      ]
+    }
+  ]
+}
