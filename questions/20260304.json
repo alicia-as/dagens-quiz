@@ -1,0 +1,37 @@
+{
+  "theme": "Flagg og land",
+  "announcement": "I dagens utgave får du hint om disse semi-obskure landene i form av et flagg: 🇦🇶",
+  "questions": [
+    {
+      "question": "Hvilket land er det minste som har arrangert VM i fotball? 🇶🇦",
+      "answer": "Qatar"
+    },
+    {
+      "question": "Hvilket land har klart kunststykket å bli verdensmester i fotball 2 ganger etter til sammen bare 8 kamper? 🇺🇾",
+      "answer": "UruguayUruguay. I 1930 spilte de 2 innledende kamper, semifinale og finale. I 1950 gikk de til finalegruppen etter å ha vunnet en kamp!",
+      "aliases": [
+        "Uruguay"
+      ]
+    },
+    {
+      "question": "Ouagadougou er hovedstad i ”De ubestikkelige menns land” et navn landet fikk i 1984. Hvilket land tenker vi på? 🇧🇫",
+      "answer": "Burkina Faso"
+    },
+    {
+      "question": "Bjørn Einar Romøren satte verdensrekord da han hoppet 239 meter i mammutbakken Planica, i hvilket land? 🇸🇮",
+      "answer": "Slovenia",
+      "aliases": [
+        "Republic of Slovenia",
+        "Slovenia"
+      ]
+    },
+    {
+      "question": "I hvilket høyaktuelt land er 90 prosent av den 92 millioner store befolkningen sjiamuslimer? 🇮🇷",
+      "answer": "Iran",
+      "aliases": [
+        "Islamic Republic of Iran",
+        "Iran"
+      ]
+    }
+  ]
+}
