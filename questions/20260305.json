@@ -1,0 +1,28 @@
+{
+  "theme": "Svaret starter på 'T'",
+  "questions": [
+    {
+      "question": "På hvilket feriested, hvor en hvis Rex befinner seg om dagen, kolliderte to jumbojets i 1977 med 583 omkomne som resultat?",
+      "answer": "Tenerife"
+    },
+    {
+      "question": "I hvilken østlig hovedstad ble Liv Ullmann født?",
+      "answer": "Tokyo"
+    },
+    {
+      "question": "John Clayton III er gift med Jane Porter. Han har imidlertid vært kjent under et annet navn siden 1912. Hvilket?",
+      "answer": "Tarzan"
+    },
+    {
+      "question": "Hva er indianernes svar på samenes lavvoer?",
+      "answer": "Tipi",
+      "aliases": [
+        "Tipier"
+      ]
+    },
+    {
+      "question": "Hvilken øy er Australias største?",
+      "answer": "Tasmania"
+    }
+  ]
+}
