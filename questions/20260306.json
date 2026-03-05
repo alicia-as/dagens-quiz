@@ -1,0 +1,46 @@
+{
+  "theme": "Skjuler seg i...",
+  "questions": [
+    {
+      "question": "Hvilket (gammeldags) norsk jentenavn skjuler seg i et tysk bilmerke, samt i navnet til et stort oljeproduserende land?",
+      "answer": "Aud, som skjuler seg i Audi og Saudi-Arabia",
+      "aliases": [
+        "Aud",
+        "Audi",
+        "Saudi-Arabia"
+      ]
+    },
+    {
+      "question": "I vår utenriksministers navn gjemmer det seg en type ansiktspryd. Hva heter han?",
+      "answer": "Espen BARTth Eide",
+      "aliases": [
+        "Bart",
+        "Espen BARTth Eide"
+      ]
+    },
+    {
+      "question": "I hvilken del av ansiktet, som nesten alle har, skjuler det seg en øst-asiatisk valuta?",
+      "answer": "øYENbrynet!",
+      "aliases": [
+        "Yen",
+        "øYENbrynet",
+        "Øyenbryn"
+      ]
+    },
+    {
+      "question": "Hvilken internasjonal lufthavn, hvor blant annet SAS har sin hovedbade, blir til en norsk maler dersom du fjerner første bokstaven navnet?",
+      "answer": "Kastrup",
+      "aliases": [
+        "København Kastrup Lufthavn",
+        "Kastrup"
+      ]
+    },
+    {
+      "question": "Hvilken stor kanadisk by ligger ved Ontariosjøen? Legger du sammen de to første- og de to siste bokstavene i navnet får du fire. ",
+      "answer": "Toronto (to + to = fire)",
+      "aliases": [
+        "Toronto"
+      ]
+    }
+  ]
+}
