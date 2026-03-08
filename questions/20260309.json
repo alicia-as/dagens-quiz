@@ -1,0 +1,51 @@
+{
+  "theme": "Snacks",
+  "questions": [
+    {
+      "question": "Hvilken snacksprodusent med fuglenavn ble etablert i 1957, men solgt til Kims i 1993?",
+      "answer": "Polly",
+      "aliases": [
+        "Polly",
+        "Polly's",
+        "Polly's Snacks",
+        "Polly peanøtter",
+        "Polly snacks"
+      ]
+    },
+    {
+      "question": "Orkla er villig til å strekke seg langt for å beskytte sine merkevarer. Hvilket godteri står i den norske ordboken på tross av selskapets seiglivede motstand?",
+      "answer": "Seigmenn (Laban)",
+      "aliases": [
+        "Seigmenn",
+        "Laban",
+        "Seigmenn (Laban)",
+        "Seigmann"
+      ]
+    },
+    {
+      "question": "Fra hvilken gård kom de første potetene som ble brukt til potetgullproduksjon i Norge?",
+      "answer": "Maarud gård",
+      "aliases": [
+        "Maarud gård",
+        "Maarud",
+        "Maarudpotet"
+      ]
+    },
+    {
+      "question": "Hvilken snacks er merkevaren OLW mest kjent for her i Norge?",
+      "answer": "Ostepop",
+      "aliases": [
+        "Ostepop",
+        "Cheese Doodles",
+        "OLW Ostepop"
+      ]
+    },
+    {
+      "question": "Hvilken sgtor merkevare innen snacksprodukter hadde samme navn som noen beryktede statsledere, noe som muligens var årsaken til at det ble lagt til en bokstav i slutten av navnet?",
+      "answer": "Kim, som i dag heter Kims. ",
+      "aliases": [
+        "Kims"
+      ]
+    }
+  ]
+}
