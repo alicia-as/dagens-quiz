@@ -1,0 +1,28 @@
+{
+  "theme": "Hovedsteder ikke i land",
+  "questions": [
+    {
+      "question": "Dresden er hovedstad i en tysk delstat med et navn som mange av oss har i kjøkkenskuffen, og frisører er helt avhengige av. Hva heter den?",
+      "answer": "Sachsen",
+      "aliases": [
+        "Saks"
+      ]
+    },
+    {
+      "question": "Delstatshovedstaden i New Mexico har et spansk navn som opprinnelig betød «Den kongelige by av St. Frans av Assisis hellige tro» Hva heter den nå?",
+      "answer": "Santa Fe"
+    },
+    {
+      "question": "Hvilket navn har hovedstaden på Seychellene, delstaten der Melbourne er hovedstad, hovedstad i provinsen Britisk Columbia og en tidligere keiserinne av India til felles? ",
+      "answer": "Victoria"
+    },
+    {
+      "question": "Hva heter fylkedhovedstaden i Innlandet, som de fleste av oss nok ønsker ringt fra en lørdags kveld?",
+      "answer": "Hamar"
+    },
+    {
+      "question": "Fylkedhovedstedene i de tre nordligste fylkene våre slutter alle på samme bokstav, 'ø'. Bodø, Tromsø og ...?",
+      "answer": "Vadsø"
+    }
+  ]
+}
