@@ -1,0 +1,33 @@
+{
+  "theme": "Flotte filmer",
+  "questions": [
+    {
+      "question": "Hva heter rollefiguren som blir spilt av Harrison Ford i Star Wars fra 1977?",
+      "answer": "Han Solo"
+    },
+    {
+      "question": "Og med samme etternavn som en legendariks sjakkspiller, hvem hadde rollen som Prinsesse Leia i samme film?",
+      "answer": "Carrie Fisher",
+      "aliases": [
+        "Fisher"
+      ]
+    },
+    {
+      "question": "Hvilken film fra 1982, som vant åtte oscarstatuetter, har et fredlig etternavn som tittel?",
+      "answer": "Gandhi"
+    },
+    {
+      "question": "Og hvilken film fra 1984 satt i Wien på 1700-tallet, som vant åtte oscarstatuetter, har et mellomnavn som tittel?",
+      "answer": "Amadeus"
+    },
+    {
+      "question": "I hvilken film fra 1994 møter vi bl.a. Jim Carrey i rollen som den ikke helt smarte Lloyd Christmas?",
+      "answer": "Dum og dummere",
+      "aliases": [
+        "Dum & dummere",
+        "Dumb and dumber",
+        "Dumb & dumber"
+      ]
+    }
+  ]
+}
