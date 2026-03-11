@@ -1,0 +1,39 @@
+{
+  "theme": "Hus 🏠",
+  "questions": [
+    {
+      "question": "Hvis du har både tress og et par i poker, hva har du da?",
+      "answer": "Fullt hus",
+      "aliases": [
+        "Full house"
+      ]
+    },
+    {
+      "question": "Hva heter herskapshuset i Westminster i London, med et navn som kan gi deg røykesug, der dronning Maud ble født i 1869?",
+      "answer": "Marlborough House",
+      "aliases": [
+        "Marlborough",
+        "Marlborough huset"
+      ]
+    },
+    {
+      "question": "Hva er det meget passende navnet til underholdningshuset på Aker Brygge som ble til etter initiativ av bergenseren Elina Krantz?",
+      "answer": "Latter"
+    },
+    {
+      "question": "Hva heter sykehuset med 2000 ansatte, som har tatt sitt navn fra atomnummer 88 og ligger på Montebello i Oslo?",
+      "answer": "Radiumhospitalet",
+      "aliases": [
+        "Radiumhospitalet",
+        "Radium"
+      ]
+    },
+    {
+      "question": "Fra hvilket land kommer motehuset Prada?",
+      "answer": "Italia",
+      "aliases": [
+        "Italien"
+      ]
+    }
+  ]
+}
