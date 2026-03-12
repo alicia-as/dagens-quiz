@@ -1,0 +1,43 @@
+{
+  "theme": "Spill & antall",
+  "questions": [
+    {
+      "question": "Vi starter enkelt - hvor mange ruter er det på et sjakkbrett?",
+      "answer": "64  "
+    },
+    {
+      "question": "Scrabble har vært blant de mest populære spillene siden det ble klekket ut i 1938. Husker du hvor mange ruter brettet inneholder? ",
+      "answer": "15x15, altså 225 ruter",
+      "aliases": [
+        "225 ruter ",
+        "225 ",
+        "15x15 ruter",
+        "15x15 "
+      ]
+    },
+    {
+      "question": "Hvor mange kort får du på hånden i pokerspillet Texas Hold'em?",
+      "answer": "2  ",
+      "aliases": [
+        "2 kort  ",
+        "To  "
+      ]
+    },
+    {
+      "question": "Backgammon er et av verdens eldste brettspill. Hvor mange brikker har hver spiller?",
+      "answer": "15  ",
+      "aliases": [
+        "15 brikker  ",
+        "Femten  "
+      ]
+    },
+    {
+      "question": "Hvor mange ruter er det i et standard Sudoku-spill?",
+      "answer": "81  ",
+      "aliases": [
+        "81 ruter  ",
+        "Åtti-en  "
+      ]
+    }
+  ]
+}
