@@ -1,0 +1,47 @@
+{
+  "theme": "Grønn 🟢🟢🟢",
+  "questions": [
+    {
+      "question": "Hvilket krydder får vi av barken til det eviggrønne treet cinnamomum?",
+      "answer": "Kanel",
+      "aliases": [
+        "Kanel",
+        "kanel"
+      ]
+    },
+    {
+      "question": "To av de grønne gatene i brettspillet Monopol heter Sinsen og Trosterudveien. Hva heter den tredje?",
+      "answer": "Pilestredet"
+    },
+    {
+      "question": "Hvilken grønn dag feires som nasjonaldag, spesielt i Irland, den 17. mars hvert år?",
+      "answer": "St. Patrick's Day",
+      "aliases": [
+        "St. Patrick's Day",
+        "Patrick's Day",
+        "Saint Patrick's Day",
+        "St. Patricks Day",
+        "St. Patricksday"
+      ]
+    },
+    {
+      "question": "Hva er et annet navn på øyesykdommen glaukom?",
+      "answer": "Grønn stær",
+      "aliases": [
+        "Grønn stær",
+        "grønn stær"
+      ]
+    },
+    {
+      "question": "Hvilken film basert på en bok av Stephen King handler bl.a. om en dødsdømt fange med overnaturlige evner?",
+      "answer": "Den grønne mil",
+      "aliases": [
+        "Den grønne milen",
+        "Den grønne mil",
+        "The Green Mile",
+        "Grønn mil",
+        "Green Mile"
+      ]
+    }
+  ]
+}
