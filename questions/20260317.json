@@ -1,0 +1,47 @@
+{
+  "theme": "Blå 🟦🟦🟦",
+  "questions": [
+    {
+      "question": "I hvilken by, som har skiftet navn noen ganger, ligger Sultan Ahmed-moskeen, også kalt den blå moské?",
+      "answer": "Istanbul",
+      "aliases": [
+        "Istanbul",
+        "Konstantinopel",
+        "Bysants"
+      ]
+    },
+    {
+      "question": "Hva var motivet på bildet ”The Blue Marble” som ble tatt i desember 1972?",
+      "answer": "Jorden. Bildet ble tatt fra Apollo 17.",
+      "aliases": [
+        "Jorden",
+        "Earth",
+        "Tellus"
+      ]
+    },
+    {
+      "question": "Hvilken øynasjon i Europa har et flagg som bl.a. inneholder åtte blå trekanter?",
+      "answer": "Storbrittania, Union Jack",
+      "aliases": [
+        "Storbrittania",
+        "Britain",
+        "Great Britain"
+      ]
+    },
+    {
+      "question": "Den blå Nil har sitt utløp i Tanasjøen, 1788 moh. I hvilket folkerikt lan uten kyst, kjent for sin gode kaffe?",
+      "answer": "Etiopia",
+      "aliases": [
+        "Etiopia",
+        "Ethiopia"
+      ]
+    },
+    {
+      "question": "En tidligere britisk statsminister, en britisk TV-kokk med 12 Michelin-stjerner og en blåfarget venn av lokomotivet Thomas. Hvilket navn har de felles?",
+      "answer": "Gordon (Brown, Ramsay, the Blue Engine Gordon)",
+      "aliases": [
+        "Gordon"
+      ]
+    }
+  ]
+}
