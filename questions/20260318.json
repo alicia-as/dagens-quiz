@@ -1,0 +1,31 @@
+{
+  "theme": "Animerte figurer",
+  "questions": [
+    {
+      "question": "Med samme navn som en animert gul atomanleggansatt, hva het den greske dikteren som skal ha skrevet ”Odysseen”?",
+      "answer": "Homer"
+    },
+    {
+      "question": "I hvilken tv-serie møter vi niåringene Eric Cartman, Kyle Broflovski, Stan Marsh og Kenny McCormick?",
+      "answer": "South Park"
+    },
+    {
+      "question": "I hvilken animert TV-serie følger vi en bestefar og hans sønns utrolige reiser gjennom rom og dimensjoner?",
+      "answer": "Rick & Morty",
+      "aliases": [
+        "RIck and morty"
+      ]
+    },
+    {
+      "question": "Under hvilket navn er den uheldige jegeren Wiley E. Coyote bedre kjent på norsk?",
+      "answer": "Per Ulv",
+      "aliases": [
+        "Per Ulven"
+      ]
+    },
+    {
+      "question": "I 1940 dukket Snurre Sprett opp fra sitt kaninhull for første gang. Hva heter figuren på engelsk?",
+      "answer": "Bugs Bunny"
+    }
+  ]
+}
