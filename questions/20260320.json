@@ -1,0 +1,35 @@
+{
+  "theme": "Traktor 🚜🚜🚜",
+  "questions": [
+    {
+      "question": "Hvilken amerikansk traktorprodusent, som er blant verdens største, har et navn som er oppkalt etter gründeren og kan få deg til å tenke på et velsmakende pattedyr?",
+      "answer": "John Deere",
+      "aliases": [
+        "John Deere",
+        "Deere"
+      ]
+    },
+    {
+      "question": "Hos hvilket norsk klesmerke, som gikk konkurs i 2017 men siden har gjenoppstått, kan du støte på en traktor eller to?",
+      "answer": "Moods of Norway",
+      "aliases": [
+        "Moods"
+      ]
+    },
+    {
+      "question": "Traktormerket Ferguson TE20 kom på markedet i Norge etter krigen. Den fikk et kallenavn som også er tittelen på en barnefilm fra 1997 med traktoren som hovedperson. Hvilket?",
+      "answer": "Gråtass"
+    },
+    {
+      "question": "Hvilket traktorredskap som man bruker til å samle sammen og frakte høy, har samme navn som en praktfull hale man kan svinse med?",
+      "answer": "Svans",
+      "aliases": [
+        "Høysvans"
+      ]
+    },
+    {
+      "question": "I 1963 startet en traktorfabrikk utenfor Bologna opp med produksjon av luksusbiler. Hva heter bilmerket, som har en okse som logo?",
+      "answer": "Lamborghini"
+    }
+  ]
+}
