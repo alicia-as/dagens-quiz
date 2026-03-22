@@ -1,0 +1,43 @@
+{
+  "theme": "Flyplasser ✈️",
+  "questions": [
+    {
+      "question": "Hva er den tresifrede IATA-koden du finner på boardingkortet når du flyr til Norges største flyplass Gardermoen?",
+      "answer": "OSL  ",
+      "aliases": [
+        "Oslo lufthavn"
+      ]
+    },
+    {
+      "question": "Lavprisselskaper selger ofte billetter til «Oslo» selv om flyet i realiteten landet langt sør i Vestfold. Hva heter flyplassen ved Sandefjord?",
+      "answer": "Torp",
+      "aliases": [
+        "Sandefjord lufthavn Torp",
+        "Sandefjord lufthavn"
+      ]
+    },
+    {
+      "question": "Hva heter den store flyplassen nordøst for Paris som er oppkalt etter en fransk general og statsmann?",
+      "answer": "Charles de Gaulle",
+      "aliases": [
+        "Roissy",
+        "CDG "
+      ]
+    },
+    {
+      "question": "Frem til oktober 1998 gikk det rutefly til Oslo fra et nes vest for byen. Hva het flyplassen som da ble avløst av Gardermoen?",
+      "answer": "Fornebu",
+      "aliases": [
+        "Oslo lufthavn Fornebu"
+      ]
+    },
+    {
+      "question": "Hvilken brasiliansk storby har hovedflyplass som ofte regnes som den største på den sørlige halvkule målt i passasjertrafikk? Flyplassen ligger i nabokommunen Guarulhos og har IATA-koden GRU.",
+      "answer": "Sao Paulo",
+      "aliases": [
+        "São Paulo",
+        "Sao Paolo"
+      ]
+    }
+  ]
+}
