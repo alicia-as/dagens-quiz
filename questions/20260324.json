@@ -1,0 +1,36 @@
+{
+  "theme": "Ord og uttrykk",
+  "questions": [
+    {
+      "question": "Hva heter fagfeltet som undersøker språk på en systematisk måte?",
+      "answer": "Lingvistikk",
+      "aliases": [
+        "Språkvitenskap"
+      ]
+    },
+    {
+      "question": "Hva kaller vi et ord eller en kort frase som kan leses både forlengs og baklengs, som «regninger»?",
+      "answer": "Palindrom"
+    },
+    {
+      "question": "Når bokstavene i et ord eller navn stokkes om og danner noe nytt, f.eks når «listen» blir «silent» - hva heter dette?",
+      "answer": "Anagram"
+    },
+    {
+      "question": "At noen «gikk bort» i stedet for «døde» er en måte å 'mildne' budskapet. Hva kalles et slikt språklig grep?",
+      "answer": "Eufemisme",
+      "aliases": [
+        "Eufemismer",
+        "Euphemisme",
+        "Euphemism"
+      ]
+    },
+    {
+      "question": "Hva heter angstlidelsen der man ofte frykter åpne plasser, folkemengder og situasjoner der det er vanskelig å komme seg bort?",
+      "answer": "Agorafobi",
+      "aliases": [
+        "Agorafobien"
+      ]
+    }
+  ]
+}
