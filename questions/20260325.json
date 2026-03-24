@@ -1,0 +1,45 @@
+{
+  "theme": "Verdensrommet 🛰️",
+  "questions": [
+    {
+      "question": "Historiens første kunstige satellitt ble skutt opp 4. oktober 1957. Hva het den?",
+      "answer": "Sputnik 1",
+      "aliases": [
+        "Sputnik-1",
+        "Sputnik1",
+        "Sputnik"
+      ]
+    },
+    {
+      "question": "En snau måned etter Sputnik 1 gikk Sputnik 2 i bane. Hva het den noe ufrivillige passasjeren som ble av de første levende vesenene i rommet?",
+      "answer": "Laika",
+      "aliases": [
+        "Lajka"
+      ]
+    },
+    {
+      "question": "Hva het det første bemannede romskipet som faktisk gikk i bane rundt månen, med astronautene Borman, Lovell og Anders om bord?",
+      "answer": "Apollo 8",
+      "aliases": [
+        "Apollo-8",
+        "Apollo8"
+      ]
+    },
+    {
+      "question": "Armstrong og Aldrin satte fot på månen 20. juli 1969, i Stillhetens hav. Hva het månelandingsfartøyet, som man gjerne ønsker seg på golfbanen?",
+      "answer": "Eagle",
+      "aliases": [
+        "The Eagle",
+        "Ørnen"
+      ]
+    },
+    {
+      "question": "Den er den fjerde største av Jupiters måner og en av ytterst få måner de fleste av oss faktisk «har vært på». Hva heter den?",
+      "answer": "Europa",
+      "aliases": [
+        "Jupitermånen Europa",
+        "Europa (månen)"
+      ]
+    }
+  ]
+}
