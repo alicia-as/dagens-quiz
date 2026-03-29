@@ -1,0 +1,34 @@
+{
+  "theme": "Påskenøtter 1/8: Viktige elver 🐣",
+  "announcement": "Velkommen til årets Påske-quiz! Femkjappe vi levere fem spørsmål hver dag gjennom hele påskeferien!",
+  "questions": [
+    {
+      "question": "USAs tredje største urbefolkningsgruppe, ojibwa, har gitt navn til 'Den store elven'. Med et navn som kan være litt vrient å stave, heter den?",
+      "answer": "Mississippi"
+    },
+    {
+      "question": "Hvilken stor elv renner gjennom Østerrikes hovedstad?",
+      "answer": "Donau"
+    },
+    {
+      "question": "Hvilken stor elv fikk sitt navn i 1542 og ble oppkalt etter noen tøffe skikkelser fra gresk mytologi?",
+      "answer": "Amazonas"
+    },
+    {
+      "question": "Hvilken stor elv renner gjennom byen som en gang het Stalingrad, men som fikk navn etter elven i 1961?",
+      "answer": "Volga, Volgograd",
+      "aliases": [
+        "Volgograd",
+        "Volga"
+      ]
+    },
+    {
+      "question": "Hvilken stor elv renner gjennom byer som Basel, Strasbourg, Karlsruhe, Mannheim, Ludwigshafen, Wiesbaden, Mainz, Koblenz, Bonn og Köln?",
+      "answer": "Rhinen",
+      "aliases": [
+        "Rhenen",
+        "Rhen"
+      ]
+    }
+  ]
+}
