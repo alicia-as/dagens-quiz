@@ -1,0 +1,44 @@
+{
+  "theme": "Påskenøtter 2/8: Detektiver 🐣",
+  "announcement": "Velkommen til årets Påske-quiz! Femkjappe vil levere fem spørsmål hver dag gjennom hele påskeferien!",
+  "questions": [
+    {
+      "question": "Hvilken fordukken etterforsker, som liker å spise sine middager på Schrøder, har nylig kommet på TV-skjermene i en Netflix-serie?",
+      "answer": "Harry Hole",
+      "aliases": [
+        "Hole"
+      ]
+    },
+    {
+      "question": "Hva heter Agatha Christies detektivhelt Poirot til fornavn? Legger man til en bokstav, får Zevs' sønn!",
+      "answer": "Hercule",
+      "aliases": [
+        "Herucle Poirot"
+      ]
+    },
+    {
+      "question": "Hva er det folkelige navnet på det statlige organet som etterforsker større ulykker innen transportsektoren her i landet?",
+      "answer": "Havarikommisjonen",
+      "aliases": [
+        "Havarikommisjonen",
+        "Havarikommisjon",
+        "Statens havarikommisjon"
+      ]
+    },
+    {
+      "question": "Med hvilken etterforsker etablerte dr. John Watson partnerskap i 1881?",
+      "answer": "Sherlock Holmes",
+      "aliases": [
+        "Sherlock",
+        "Holmes"
+      ]
+    },
+    {
+      "question": "Hun heter Jane til fornavn, men under hvilket navn kjenner vi best etterforskeren skap av Agatha Christie, som først dukket opp i en novelle i 1927?",
+      "answer": "Miss Marple",
+      "aliases": [
+        "Marple"
+      ]
+    }
+  ]
+}
