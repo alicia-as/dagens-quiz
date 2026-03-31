@@ -1,0 +1,48 @@
+{
+  "theme": "Påskenøtter 3/8: Hovesteder på... 🐣",
+  "announcement": "Velkommen til årets Påske-quiz! Femkjappe vil levere fem spørsmål hver dag gjennom hele påskeferien!",
+  "questions": [
+    {
+      "question": "Fem av EUs hovedsteder starter på bokstaven 'B': Berlin, Bratislava, Brussel, Budapest og...?",
+      "answer": "Bukarest. Bern er hovedstaden i Sveits, som ikke er medlem av EU.",
+      "aliases": [
+        "Bukuresti",
+        "Bucharesti",
+        "Bukarest"
+      ]
+    },
+    {
+      "question": "Kun fire hovedsteder i verden har forbokstaven sin for seg selv: Quito, Ulan Bator, Islamabad og...? Sammen danner de et høyaktuelt akronym!",
+      "answer": "Zagreb. QUIZ!",
+      "aliases": [
+        "Zagreb"
+      ]
+    },
+    {
+      "question": "Åtte FN-land har hovedsteder som begynner og slutter på samme vokal. For syv av dem gjelder det bokstaven «A». Hvilket annet land, som de fleste av oss har vært i, skal med på listen? ",
+      "answer": "Norge/Oslo (Ouagadougou slutter på «u» ).",
+      "aliases": [
+        "Norge",
+        "Oslo, Norge",
+        "Oslo"
+      ]
+    },
+    {
+      "question": "Hvor mange FN-land har navn som begynner på bokstaven ”C” (norsk rettskriving)?",
+      "answer": "Fem; Canada, Chile, Columbia, Costa Rica og Cuba.",
+      "aliases": [
+        "5  ",
+        "Fem",
+        "5 !"
+      ]
+    },
+    {
+      "question": "Hvilket land, som var en del av Sovjetunionen, har et navn som begynner på bokstaven A og en hovedstad som begynner på bokstaven B?",
+      "answer": "Azerbaijan/Baku",
+      "aliases": [
+        "Azerbaijan",
+        "Baku"
+      ]
+    }
+  ]
+}
