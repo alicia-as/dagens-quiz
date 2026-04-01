@@ -1,0 +1,26 @@
+{
+  "theme": "Påskenøtter 4/8: Godt i påskeegget... 🐣",
+  "announcement": "Velkommen til årets Påske-quiz! Femkjappe vil levere fem spørsmål hver dag gjennom hele påskeferien!",
+  "questions": [
+    {
+      "question": "Hvilken norsk tegneserie fra 1938 har hentet ideen fra Asbjørnsen & Moe og har samme navn som et produkt som Nidar selger mange millioner av hvert år?",
+      "answer": "Smørbukk"
+    },
+    {
+      "question": "Hvilken sjokolade har hentet sin form fra sveitsiske Matterhorn?",
+      "answer": "Toblerone"
+    },
+    {
+      "question": "Hvilken godtepose med små sukkerpastiller har tatt navn etter noen innpåslitne små insekter?",
+      "answer": "Knott"
+    },
+    {
+      "question": "Hvilket sjokoladeprodukt med lystig navn ble «-skapt for å deles i 1955. Spist alene siden den gang»?",
+      "answer": "Smil"
+    },
+    {
+      "question": "Den består av et lag med karamell og et lag med crisptrøffel overtrukket med melkesjokolade. Den ble lansert av Nidar i 1991 i samarbeid med Norges Idrettshøyskole, og skal hjelpe med energien. Hva heter sjokoladen?",
+      "answer": "New Energy"
+    }
+  ]
+}
