@@ -1,0 +1,44 @@
+{
+  "theme": "Helt unyttig kunnskap",
+  "questions": [
+    {
+      "question": "Hvor mange ruter er det på et Scrabble-brett?",
+      "answer": "225  ",
+      "aliases": [
+        "225 ruter"
+      ]
+    },
+    {
+      "question": "Hva slags grønnsak, som man gjerne vil bruke hansker når man jobber med, er hovedingrediens i Biff à la Lindström?",
+      "answer": "Rødbeter",
+      "aliases": [
+        "Rødbete",
+        "Rødbet",
+        "Rødbeten"
+      ]
+    },
+    {
+      "question": "Med nesten samme navn som Israels hovedstad, hvem er ifølge Bibelen det eldste mennesket som har levd?",
+      "answer": "Metusalem",
+      "aliases": [
+        "Metusjalem",
+        "Metusjalah",
+        "Methusalem"
+      ]
+    },
+    {
+      "question": "Hvilket sigarettmerke, som barn gjerne sover med, røykte Kong Olav hele sitt voksne liv?",
+      "answer": "Teddy",
+      "aliases": [
+        "Teddy uten filter"
+      ]
+    },
+    {
+      "question": "Hvilken farge har «den svarte boksen» i et fly?",
+      "answer": "Oransje",
+      "aliases": [
+        "Oransje"
+      ]
+    }
+  ]
+}
