@@ -1,0 +1,40 @@
+{
+  "theme": "På brødskiva",
+  "questions": [
+    {
+      "question": "Hvilket populært pålegg har vært produsert på Hamar siden 1949 og har fått sitt navn derfra?",
+      "answer": "Hapå (Hamar pålegg)",
+      "aliases": [
+        "Hapå"
+      ]
+    },
+    {
+      "question": "Hvilket konfliktfylt afrikansk land har et navn som blir til et gammelt pålegg dersom du stokker om på bokstavene?",
+      "answer": "Sudan (Sunda)",
+      "aliases": [
+        "Sunda"
+      ]
+    },
+    {
+      "question": "Hva heter kjøttprodusenten fra Trondheim som står bak merkevarer som Gullsalami, Trønderfår og Jubelsalami?",
+      "answer": "Grilstad",
+      "aliases": [
+        "Grilstad"
+      ]
+    },
+    {
+      "question": "Hva heter regionen sør for Paris som har gitt navn til en myk fløteost med mugg på utsiden?",
+      "answer": "Brie",
+      "aliases": [
+        "Brie"
+      ]
+    },
+    {
+      "question": "Hvilken næringsmiddelprodusent har navnet sitt på makrell i tomat-boksen?",
+      "answer": "Stabburet",
+      "aliases": [
+        "Stabburet"
+      ]
+    }
+  ]
+}
