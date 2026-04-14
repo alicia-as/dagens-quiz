@@ -1,0 +1,41 @@
+{
+  "theme": "Skyskrapere",
+  "questions": [
+    {
+      "question": "Hvilken bilprodusent sto bak byggingen av verdens høyeste skyskraper som sto ferdig i 1930 med en høyde på 319 meter?",
+      "answer": "Chrysler (Chrysler Building)",
+      "aliases": [
+        "Chrysler Building",
+        "Chrysler"
+      ]
+    },
+    {
+      "question": "Verdens høyeste skyskraper, som sto ferdig i 2010 og har en høyde på 828 meter, het tidligere Burj Dubai. Hva heter den nå?",
+      "answer": "Burj Khalifa",
+      "aliases": [
+        "Burj Khalifa"
+      ]
+    },
+    {
+      "question": "Hvilken europeisk bankby blir av vittige tunger kalt Mainhattan pga. dens skyskrapere?",
+      "answer": "Frankfurt am Main",
+      "aliases": [
+        "Frankfurt"
+      ]
+    },
+    {
+      "question": "Hvor høyt er Norges høyeste skyskraper, Oslo Plaza: 87, 117 eller 147 meter?",
+      "answer": "117 meter. ",
+      "aliases": [
+        "117  "
+      ]
+    },
+    {
+      "question": "I hvilket sørøstasiatisk monarki ruver tvillingskyskraperen Petronas Towers 452 meter over bakken?",
+      "answer": "Malaysia",
+      "aliases": [
+        "Kuala Lumpur"
+      ]
+    }
+  ]
+}
