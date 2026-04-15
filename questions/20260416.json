@@ -1,0 +1,38 @@
+{
+  "theme": "Roy",
+  "questions": [
+    {
+      "question": "Hva heter borettslaget der Roy Narvestad er selvutnevnt sjef?",
+      "answer": "Tertitten Borettslag",
+      "aliases": [
+        "Tertitten"
+      ]
+    },
+    {
+      "question": "Roy Nielsen fra Milorg og Max Manus fra Kompani Linge sto for en viktig sabotasjeaksjon i januar 1945. Med samme navn som en elv, hva het skipet som ble sprengt og siden gikk på grunn?",
+      "answer": "Donau",
+      "aliases": [
+        "DS Donau"
+      ]
+    },
+    {
+      "question": "Irske Roy Keane er for mange unge kjent som fotballkommentator, men var i sine glansdager kaptein for hvilken fotballklubb i Premier League?",
+      "answer": "Manchester United",
+      "aliases": [
+        "UNITED"
+      ]
+    },
+    {
+      "question": "Hva slags type sprit er merket «Rob Roy»?",
+      "answer": "Whisky",
+      "aliases": [
+        "Skotsk whisky",
+        "Skotsk"
+      ]
+    },
+    {
+      "question": "Hesten til sangeren og skuespilleren Roy Rogers var i sin tid verdens mest kjente hest. Navnet var det samme som en del av en revolver. Hvilket?",
+      "answer": "Trigger"
+    }
+  ]
+}
