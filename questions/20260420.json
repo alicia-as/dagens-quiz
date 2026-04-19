@@ -1,0 +1,27 @@
+{
+  "theme": "Viltvoksende planter 🍃",
+  "questions": [
+    {
+      "question": "Hvilken viltvoksende plante har samme navn som et insekt, suser ikke selv, men kan få hodet ditt til å suse?",
+      "answer": "Humle"
+    },
+    {
+      "question": "Hvilket krydder, som blant annet brukes på pizza, får vi fra den viltvoksende bergmynteslekta? Krydderet blir til en delstat om man tar vekk siste bokstav!",
+      "answer": "Oregano"
+    },
+    {
+      "question": "Hvilken ikke-viltvoksende plante med det latinske navnet «Allium sativum» ble populær i Norge etter hvert som vi fikk flere innvandrere?",
+      "answer": "Hvitløk"
+    },
+    {
+      "question": "En hunderase, en statsborger og en hasj-klump har alle (nesten) samme betegnelse. Hvilken?",
+      "answer": "Afghaner",
+      "aliases": ["Afghan"]
+    },
+    {
+      "question": "Hva slags ekstremt dyr delikatesse vokser vilt, men kan også dyrkes i eikeplantasjer?",
+      "answer": "Trøfler",
+      "aliases": ["Trøffel"]
+    }
+  ]
+}
