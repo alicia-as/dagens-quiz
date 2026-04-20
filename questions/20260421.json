@@ -1,0 +1,27 @@
+{
+  "theme": "Store land i Afrika",
+  "questions": [
+    {
+      "question": "Hva heter landet som grenser til Mali, Marokko, Mauritania, Niger, Libya og Tunisia?",
+      "answer": "Algerie",
+      "aliases": ["Algeria"]
+    },
+    {
+      "question": "Hvilket stort afrikansk land, hvor noen nordmenn viklet seg inn i mye greier i 2009, har gitt navn til en blå potetsort?",
+      "answer": "Kongo",
+      "aliases": ["DRC", "Den demokratiske republikken Kongo"]
+    },
+    {
+      "question": "I hvilket stort nordafrikansk land var Muhammed Ali konge fra 1805 til 1849?",
+      "answer": "Egypt"
+    },
+    {
+      "question": "I hvilket afrikansk land ligger vinområdene Klein Karoo, Worchester og Paarl?",
+      "answer": "Sør-Afrika"
+    },
+    {
+      "question": "Den offisielle hovedstaden i Nigeria heter i dag Abuja, men hva heter den største byen i landet?",
+      "answer": "Lagos"
+    }
+  ]
+}
