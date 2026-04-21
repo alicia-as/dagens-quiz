@@ -1,0 +1,29 @@
+{
+  "theme": "Med 'fri' i svaret",
+  "questions": [
+    {
+      "question": "Hvilken sport driver du med dersom du er medlem av World Flying Disc Federation?",
+      "answer": "Frisbee",
+      "aliases": ["Frisbeegolf", "Frisbee"]
+    },
+    {
+      "question": "En skole på Lillehammer, et krater på Månen og Sjøforsvarets fregattklasse bærer alle navnet til samme person. Hvem?",
+      "answer": "Fridtjof Nansen",
+      "aliases": ["Fridtjof", "Nansen"]
+    },
+    {
+      "question": "Hvilken filosof er kjent for frasen «Gud er død»?",
+      "answer": "Friedrich Nietzsche",
+      "aliases": ["Nietzsche", "Friedrich", "Fridrich Nitszhe"]
+    },
+    {
+      "question": "Utenfor hvilken verdensdel ligger øygruppen Seychellene?",
+      "answer": "Afrika"
+    },
+    {
+      "question": "Hvilken kvittering innen kommunikasjon så dagens lys i Norge i 1855?",
+      "answer": "Frimerket",
+      "aliases": ["Frimerke"]
+    }
+  ]
+}
