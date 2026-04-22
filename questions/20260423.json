@@ -1,0 +1,48 @@
+{
+  "theme": "Regissører",
+  "questions": [
+    {
+      "question": "Regissøren av «Gladiator» slo gjennom i 1979 med filmen «Alien». Hva heter han?",
+      "answer": "Ridley Scott",
+      "aliases": [
+        "Ridley",
+        "Scott"
+      ]
+    },
+    {
+      "question": "Hvilken norsk regissør står bak filmene «Reprise», «Oslo, 31. august» og «Verdens verste menneske»?",
+      "answer": "Joachim Trier",
+      "aliases": [
+        "Joachim",
+        "Trier",
+        "Joachim von Trier"
+      ]
+    },
+    {
+      "question": "En journalist som døde i 1904, en regissør som døde i 1999, en ishockey-turnering og en omstridt by i 1982 bærer alle dette navnet. Hvilket fornavn?",
+      "answer": "Stanley",
+      "aliases": [
+        "Henry Morton Stanley",
+        "Stanley Kubrick",
+        "Stanley Cup",
+        "Port Stanley"
+      ]
+    },
+    {
+      "question": "Hvilket bekmørkt navn har regissøren bak filmene «Agent Cody Banks» og «One Night at McCool's»?",
+      "answer": "Harald Zwart",
+      "aliases": [
+        "Harald",
+        "Zwart"
+      ]
+    },
+    {
+      "question": "Hvilken regissør står bak filmene «Jaws», «E.T.» og «Jurassic Park», og var med på å skape Indiana Jones-universet?",
+      "answer": "Steven Spielberg",
+      "aliases": [
+        "Steven",
+        "Spielberg"
+      ]
+    }
+  ]
+}
