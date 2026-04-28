@@ -1,0 +1,33 @@
+{
+    "theme": "Laget i Norge",
+    "questions": [
+        {
+            "question": "På midten av 50-tallet startet produksjonen av et norsk bilmerke. Det ble ingen suksess, og firmaet gikk konkurs i 1958. Hva het bilmerket, som hadde samme navn som Norges største gassfelt (og kongens kallenavn på dronningen)?",
+            "answer": "Troll"
+        },
+        {
+            "question": "Hvilken sjokolade ble første gang produsert i Bergenes godterifabrikk i 1958? Ifølge Nidar smaker den like godt som den knaser.",
+            "answer": "Crispo"
+        },
+        {
+            "question": "Hvilken fargerik sjokolade kom på det norske markedet i 1952 og har vært produsert i Oslo uten opphold siden den gang?",
+            "answer": "Non stop",
+            "aliases": [
+                "Non-stop",
+                "Non stop sjokolade"
+            ]
+        },
+        {
+            "question": "Hvilken norsk kjede av kiosker har et navn som kan få deg til å tenke på tallet «1009»?",
+            "answer": "MIX (romertallet MIX= 1009)",
+            "aliases": [
+                "MIX",
+                "Mix"
+            ]
+        },
+        {
+            "question": "I hvilket folkeeventyr, med samme navn som et deilig norsk produkt, blir det kokt suppe på datteren til trollkjerringa?",
+            "answer": "Smørbukk"
+        }
+    ]
+}
