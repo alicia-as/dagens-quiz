@@ -1,0 +1,40 @@
+{
+    "theme": "Stol 🪑",
+    "questions": [
+        {
+            "question": "Hva heter USAs sentralbanksjef, som har sittet som Fed Chair siden 2018 og blir ferdig 15. mai?",
+            "answer": "Jerome Powell",
+            "aliases": [
+                "Powell",
+                "JPow"
+            ]
+        },
+        {
+            "question": "Med en 'stol' i navnet - hvem var president i Norges Røde Kors fra 1999 til 2008?",
+            "answer": "Thorvald Stoltenberg",
+            "aliases": [
+                "Stoltenberg"
+            ]
+        },
+        {
+            "question": "I moderne femkamp konkurreres det i svømming, sprangridning, fekting, 3 km terrengløp og ...?",
+            "answer": "Pistolskyting",
+            "aliases": [
+                "Pistol",
+                "Skyting",
+                "Pistol skyting"
+            ]
+        },
+        {
+            "question": "I hvilken (fransk) by, som høres litt tysk ut, finner du Europaparlamentet, Europarådet og Den europeiske menneskerettighetsdomstolen?",
+            "answer": "Strasbourg"
+        },
+        {
+            "question": "En sammenleggbar liggestol med et tøystykke til sete og rygg har et navn som kan få fengselsfugler på feil tanker. Hva slags møbel snakker vi om?",
+            "answer": "Fluktstol",
+            "aliases": [
+                "Fluktstolen"
+            ]
+        }
+    ]
+}
