@@ -1,0 +1,59 @@
+{
+  "theme": "Litt latin",
+  "questions": [
+    {
+      "question": "Hvilket latinsk uttrykk betyr «grip dagen», og høres nesten ut som det tidligere navnet til en norsk rapduo som annonserte avskjedsturné i april 2026?",
+      "answer": "Carpe diem",
+      "aliases": [
+        "Carpe Diem",
+        "Karpe Diem",
+        "Karpe diem",
+        "Carpediem",
+        "Karpediem"
+      ]
+    },
+    {
+      "question": "Hva heter den romerske kjærlighetsgudinnen, som også skinner klart som morgen- og aftenstjerne?",
+      "answer": "Venus",
+      "aliases": [
+        "Gudinnen Venus",
+        "Venusgudinnen",
+        "Planeten Venus"
+      ]
+    },
+    {
+      "question": "Hvilket latinsk uttrykk brukes om en person som ikke er ønsket i et land eller selskap?",
+      "answer": "Persona non grata",
+      "aliases": [
+        "Persona nongrata",
+        "Persona non-grata",
+        "Non grata",
+        "Uønsket person"
+      ]
+    },
+    {
+      "question": "Hvilket latinsk uttrykk betyr omtrent «det motsatte», og brukes når noe også gjelder andre veien?",
+      "answer": "Vice versa",
+      "aliases": [
+        "Viceversa",
+        "Vise versa",
+        "Visa versa",
+        "Vica versa",
+        "Vice verca",
+        "Og omvendt",
+        "Omvendt"
+      ]
+    },
+    {
+      "question": "Hvilket britisk universitet har det latinske mottoet «Hinc lucem et pocula sacra»?",
+      "answer": "University of Cambridge",
+      "aliases": [
+        "Cambridge",
+        "Cambridge University",
+        "Universitetet i Cambridge",
+        "Cambridge-universitetet",
+        "Cambridge universitet"
+      ]
+    }
+  ]
+}
