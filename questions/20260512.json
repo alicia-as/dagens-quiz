@@ -1,0 +1,46 @@
+{
+  "theme": "I nyhetene",
+  "questions": [
+    {
+      "question": "Et cruiseskip rammet av hantavirus kom i helgen til en spansk ferieøy der passasjerene ble tatt imot under strenge smitteverntiltak. Hvilken øy?",
+      "answer": "Tenerife",
+      "aliases": [
+        "Tenerife i Kanariøyene",
+        "Kanariøyene"
+      ]
+    },
+    {
+      "question": "Russland markerte som vanlig Seiersdagen 9. mai med parade i Moskva. Hva heter det kjente stedet i sentrum av Moskva der paraden holdes?",
+      "answer": "Den røde plass",
+      "aliases": [
+        "Røde plass",
+        "Red Square"
+      ]
+    },
+    {
+      "question": "Storbritannias statsminister har fått kraftig kritikk etter svake lokalvalg for Labour. Hva heter statsministeren?",
+      "answer": "Keir Starmer",
+      "aliases": [
+        "Starmer",
+        "Kier Starmer"
+      ]
+    },
+    {
+      "question": "DN skrev mandag at flere storbanker setter opp boliglånsrentene etter at Norges Bank nylig hevet styringsrenten. Hvilken bank var først ute blant storbankene?",
+      "answer": "DNB",
+      "aliases": [
+        "DnB",
+        "DNB Bank"
+      ]
+    },
+    {
+      "question": "Frp-rådgiveren som mistet jobben etter omstridte uttalelser om pakistanere, og som politiet senere henla anmeldelsen mot, har et fornavn som også er navnet på en kjent tegneseriefigur. Hva heter han?",
+      "answer": "Hårek Hansen",
+      "aliases": [
+        "Hårek",
+        "Haarek Hansen",
+        "Harek Hansen"
+      ]
+    }
+  ]
+}
