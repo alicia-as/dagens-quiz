@@ -1,0 +1,47 @@
+{
+    "theme": "California",
+    "questions": [
+        {
+            "question": "Hva heter hovedstaden i California, byen som også er oppkalt etter elva den ligger ved?",
+            "answer": "Sacramento",
+            "aliases": [
+                "Sacramento, California"
+            ]
+        },
+        {
+            "question": "Hva heter den lange forkastningen i California som har gitt navn til et av verdens mest spilte TV-spill, og som utgjør skillet mellom stillehavsplaten og den nordamerikanske kontinentalplaten?",
+            "answer": "San Andreas-forkastningen",
+            "aliases": [
+                "San Andreas",
+                "San Andreasforkastningen",
+                "San Andreas Fault"
+            ]
+        },
+        {
+            "question": "Hvilket lykkeland i Anaheim, California, har tilsvarende parker i Paris, Tokyo og ved Orlando i Florida?",
+            "answer": "Disneyland",
+            "aliases": [
+                "Disneyland i California",
+                "Disneyland Park",
+                "Disneyland Resort"
+            ]
+        },
+        {
+            "question": "Hva heter dalen i California der man i 1913 målte 56,7 grader, ofte oppgitt som den høyeste offisielle lufttemperaturen på jorden?",
+            "answer": "Death Valley",
+            "aliases": [
+                "Dødsdalen",
+                "Death Valley National Park"
+            ]
+        },
+        {
+            "question": "Hvilken berømt bro forbinder San Francisco med Marin County, og har et navn som får den til å høres mer gullfarget ut enn den egentlig er?",
+            "answer": "Golden Gate Bridge",
+            "aliases": [
+                "Golden Gate-broen",
+                "Golden Gate",
+                "Golden Gate Bridge i San Francisco"
+            ]
+        }
+    ]
+}
