@@ -1,0 +1,44 @@
+{
+  "theme": "Hipp hipp! 🇳🇴🎉",
+  "questions": [
+    {
+      "question": "Hvem skrev «Vi ere en Nation vi med», også kjent som «Smaaguttenes Nationalsang»? Han er også mannen mange forbinder med barnetog og 17. mai-feiring.",
+      "answer": "Henrik Wergeland",
+      "aliases": [
+        "Wergeland"
+      ]
+    },
+    {
+      "question": "Hvilken fargerik sang, skrevet under andre verdenskrig av Finn Bø, Bias Bernhoft og Arild Feldborg, blir ofte sunget når flaggene vaier?",
+      "answer": "Norge i rødt, hvitt og blått",
+      "aliases": [
+        "Norge i rodt hvitt og blatt",
+        "Rødt, hvitt og blått",
+        "Rodt hvitt og blatt"
+      ]
+    },
+    {
+      "question": "Hvilken danske, med to fornavn som begge er svært vanlige kongenavn i Danmark, ble valgt til norsk konge på Eidsvoll i mai 1814, og rakk bare å sitte til oktober samme år?",
+      "answer": "Christian Frederik",
+      "aliases": [
+        "Christian Fredrik",
+        "Kristian Fredrik",
+        "Kristian Frederik"
+      ]
+    },
+    {
+      "question": "I hvilken by ble naturlig nok «Ja, vi elsker» sunget offentlig for første gang, på 17. mai i 1864?",
+      "answer": "Eidsvoll",
+      "aliases": [
+        "Eidsvollsbygningen"
+      ]
+    },
+    {
+      "question": "Hvilken by het Fredrikshald fra 1665 til 1928, og er den eneste norske byen som nevnes i «Ja, vi elsker»?",
+      "answer": "Halden",
+      "aliases": [
+        "Fredrikshald"
+      ]
+    }
+  ]
+}
