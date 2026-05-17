@@ -1,0 +1,40 @@
+{
+  "theme": "Dagen derpå",
+  "questions": [
+    {
+      "question": "Hvilken tysk by har et navn som blir til en skikkelig bakrus dersom du bytter ut en av bokstavene og setter inn en G i stedet?",
+      "answer": "Hannover",
+      "aliases": [
+        "Hangover",
+        "Hannover (Hangover)"
+      ]
+    },
+    {
+      "question": "Hva kalles den italienske drikken som lages av rester av knuste drueskall, steiner og stilker, etter at druesaften er brukt til vinlaging?",
+      "answer": "Grappa"
+    },
+    {
+      "question": "Hvilken iskremklassiker ble lansert i 1953, og hadde i en periode et helt riktig navn, noe inflasjonen har endret på?",
+      "answer": "Kroneis",
+      "aliases": [
+        "Krone-is",
+        "Krone is"
+      ]
+    },
+    {
+      "question": "Hva kalles den tradisjonelle japanske nasjonaldrakten, Japans svar på bunaden?",
+      "answer": "Kimono",
+      "aliases": [
+        "Japansk kimono"
+      ]
+    },
+    {
+      "question": "Etter festen ligger det ofte igjen en del tomflasker. Hvilket norsk selskap ble grunnlagt etter at den første prototypen på en automatisk panteautomat ble installert i Oslo i 1972?",
+      "answer": "TOMRA",
+      "aliases": [
+        "Tomra",
+        "Tomra Systems"
+      ]
+    }
+  ]
+}
