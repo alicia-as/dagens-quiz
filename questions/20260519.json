@@ -1,0 +1,27 @@
+{
+  "theme": "Nitten",
+  "questions": [
+    {
+      "question": "Hvilket grunnstoff med kjemisk symbol K har atomnummer 19?",
+      "answer": "Kalium",
+      "aliases": ["K", "Potassium"]
+    },
+    {
+      "question": "Hvilken artist debuterte i 2008 med albumet «19», oppkalt etter alderen hun var da mye av materialet ble skrevet?",
+      "answer": "Adele"
+    },
+    {
+      "question": "I hvilken sport blir klubbhuset eller baren spøkefullt kalt «det 19. hullet»?",
+      "answer": "Golf"
+    },
+    {
+      "question": "Hvilken amerikansk delstat, med en hovedstad som har statens navn i seg, ble USAs 19. stat da den ble tatt opp i unionen i 1816?",
+      "answer": "Indiana"
+    },
+    {
+      "question": "Hvor ble fredsavtalen etter første verdenskrig undertegnet i 1919?",
+      "answer": "Versailles",
+      "aliases": ["Paris", "Utenfor paris"]
+    }
+  ]
+}
