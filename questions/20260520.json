@@ -1,0 +1,27 @@
+{
+  "theme": "Hovedsteder i Latin-Amerika",
+  "questions": [
+    {
+      "question": "Hvilket latinamerikansk land har et blått og hvitt flagg med fem stjerner, samt en hovedstad som heter Tegucigalpa?",
+      "answer": "Honduras"
+    },
+    {
+      "question": "Caracas var åstedet da landets president, Nicolas Maduro, ble kidnappet av USA. I hvilket land er byen hovedstad?",
+      "answer": "Venezuela"
+    },
+    {
+      "question": "Hvilken av hovedstedene i Sør-Amerika er alene om sin forbokstav og ligger nærmest ekvator?",
+      "answer": "Quito"
+    },
+    {
+      "question": "Hvilken hovedstad i Sør-Amerika har samme navn som en sitrusfrukt, dersom du snakker spansk?",
+      "answer": "Lima (lime)",
+      "aliases": ["Lima"]
+    },
+    {
+      "question": "Tre av latinamerikas hovedsteder har 'jukset' litt og bare slengt på 'city' for å få hovedstaden: Mexico City, Guatemala City og ...?",
+      "answer": "Panama City",
+      "aliases": ["Panama"]
+    }
+  ]
+}
