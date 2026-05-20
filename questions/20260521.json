@@ -1,0 +1,38 @@
+{
+  "theme": "Tetid",
+  "announcement": "I dag, 21. mai, er det internasjonal te-dag. Det markerer vi med fem spørsmål om te, iste og andre ting i koppen.",
+  "questions": [
+    {
+      "question": "Hvilken te er oppkalt etter en britisk statsminister og jarl, og får sin karakteristiske smak fra bergamott?",
+      "answer": "Earl Grey",
+      "aliases": [
+        "Early Grey"
+      ]
+    },
+    {
+      "question": "I hvilken amerikansk by kastet kolonister te i havnen i 1773, i protesten som fikk navnet Tea Party?",
+      "answer": "Boston",
+      "aliases": [
+        "Boston Tea Party"
+      ]
+    },
+    {
+      "question": "Hva heter den japanske grønne teen som males til fint pulver og gjerne piskes ut i vann?",
+      "answer": "Matcha"
+    },
+    {
+      "question": "Den har ørkennavn, sørvestdesign og store bokstaver midt i navnet, men AriZona-isteen ble født langt fra kaktusene. I hvilken New York-bydel ble drikken lansert i 1992?",
+      "answer": "Brooklyn",
+      "aliases": [
+        "Brooklyn, New York"
+      ]
+    },
+    {
+      "question": "Hvilket britisk temerke har en over 300 år gammel flaggskipbutikk på 216 Strand i London, omtalt som verdens eldste tørre te- og kaffebutikk?",
+      "answer": "Twinings",
+      "aliases": [
+        "Twining"
+      ]
+    }
+  ]
+}
