@@ -1,0 +1,48 @@
+{
+  "theme": "Biomangfold",
+  "announcement": "I dag, 22. mai, er det FNs internasjonale dag for biologisk mangfold. Det markerer vi med fem spørsmål om arter, natur og økosystemer.",
+  "questions": [
+    {
+      "question": "Hva heter Artsdatabankens oversikt over arter som er vurdert etter risiko for å dø ut i Norge? Navnet er også fargen på varsellys.",
+      "answer": "Rødlista",
+      "aliases": [
+        "Rødlisten",
+        "Norsk rødliste for arter",
+        "IUCNs rødliste",
+        "Red List"
+      ]
+    },
+    {
+      "question": "Hvilken flygeudyktig fugl fra Mauritius har blitt et klassisk symbol på arter som er utryddet?",
+      "answer": "Dodo",
+      "aliases": [
+        "Dronte"
+      ]
+    },
+    {
+      "question": "Hva kalles arter som er spredt til steder der de ikke hører naturlig hjemme, og som kan skade lokale økosystemer?",
+      "answer": "Fremmede arter",
+      "aliases": [
+        "Fremmedarter",
+        "Invaderende arter",
+        "Invasive arter"
+      ]
+    },
+    {
+      "question": "Hva kalles prosessen der pollen flyttes fra en blomst til en annen, ofte med hjelp fra bier, humler og andre insekter?",
+      "answer": "Pollinering",
+      "aliases": [
+        "Bestøving",
+        "Bestøvning"
+      ]
+    },
+    {
+      "question": "Hvilken naturtype under havet, bygget av bittesmå dyr, regnes som et av verdens mest artsrike økosystemer? Great Barrier Reef er det største.",
+      "answer": "Korallrev",
+      "aliases": [
+        "Koraller",
+        "Korall"
+      ]
+    }
+  ]
+}
