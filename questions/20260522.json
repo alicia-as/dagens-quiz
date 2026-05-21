@@ -3,29 +3,26 @@
   "announcement": "I dag, 22. mai, er det FNs internasjonale dag for biologisk mangfold. Det markerer vi med fem spørsmål om arter, natur og økosystemer.",
   "questions": [
     {
-      "question": "Hva heter Artsdatabankens oversikt over arter som er vurdert etter risiko for å dø ut i Norge? Navnet er også fargen på varsellys.",
-      "answer": "Rødlista",
+      "question": "Hvilken internasjonal klimaavtale fra 2015 har som mål å holde den globale oppvarmingen godt under 2 grader, og helst begrense den til 1,5 grader?",
+      "answer": "Parisavtalen",
       "aliases": [
-        "Rødlisten",
-        "Norsk rødliste for arter",
-        "IUCNs rødliste",
-        "Red List"
+        "Paris-avtalen",
+        "Paris Agreement",
+        "Parisavtala"
       ]
     },
     {
-      "question": "Hvilken flygeudyktig fugl fra Mauritius har blitt et klassisk symbol på arter som er utryddet?",
+      "question": "Navnet kan få deg til å tenke på artisten bak «White Flag»: Hvilken flygeudyktig fugl fra Mauritius er blitt et klassisk symbol på arter som er utryddet?",
       "answer": "Dodo",
       "aliases": [
         "Dronte"
       ]
     },
     {
-      "question": "Hva kalles arter som er spredt til steder der de ikke hører naturlig hjemme, og som kan skade lokale økosystemer?",
-      "answer": "Fremmede arter",
+      "question": "Hvilken stor øy utenfor Afrikas østkyst er kjent for lemurer, baobabtrær og et dyreliv der svært mange arter ikke finnes naturlig noe annet sted?",
+      "answer": "Madagaskar",
       "aliases": [
-        "Fremmedarter",
-        "Invaderende arter",
-        "Invasive arter"
+        "Madagascar"
       ]
     },
     {
