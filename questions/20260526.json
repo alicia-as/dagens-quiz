@@ -1,0 +1,53 @@
+{
+  "theme": "På papiret",
+  "questions": [
+    {
+      "question": "Hva heter den japanske kunsten der man bretter papir til figurer som fugler, blomster og dyr?",
+      "answer": "Origami",
+      "aliases": [
+        "Papirbretting",
+        "Origami-kunst"
+      ]
+    },
+    {
+      "question": "Hvor mange A4-ark får plass på et A1-ark?",
+      "answer": "Åtte A4-ark",
+      "aliases": [
+        "8. ",
+        "8 A4-ark",
+        "8 ark",
+        "Åtte",
+        "Åtte ark"
+      ]
+    },
+    {
+      "question": "Minnesota Mining and Manufacturing Company er kjent for et gult, selvklebende papirprodukt som mange bruker til små notater. Hva heter produktet?",
+      "answer": "Post-it",
+      "aliases": [
+        "Postit",
+        "Post it",
+        "Post-it-lapper",
+        "Post-it lapper",
+        "Post-it-lapp"
+      ]
+    },
+    {
+      "question": "Hvilket selskap startet som papirprodusent i Tampere i 1865, og ble senere verdensledende på mobiltelefoner?",
+      "answer": "Nokia",
+      "aliases": [
+        "Nokia Corporation",
+        "Nokia Oyj"
+      ]
+    },
+    {
+      "question": "Hvilken geologisk periode har samme navn som noe man kan oppbevare papirer i?",
+      "answer": "Perm",
+      "aliases": [
+        "Permtiden",
+        "Perm-perioden",
+        "Permperioden",
+        "Permisk"
+      ]
+    }
+  ]
+}
