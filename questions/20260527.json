@@ -1,0 +1,42 @@
+{
+  "theme": "Før og etter",
+  "questions": [
+    {
+      "question": "I 1930 fikk Konstantinopel navnet Istanbul. Hva het byen før keiser Konstantin ga den navnet Nova Roma i år 330?",
+      "answer": "Bysants",
+      "aliases": [
+        "Byzants",
+        "Byzantion",
+        "Byzantium"
+      ]
+    },
+    {
+      "question": "Slaget om Stalingrad var blant andre verdenskrigs blodigste slag. Hva heter byen i dag?",
+      "answer": "Volgograd",
+      "aliases": [
+        "Volgograd by"
+      ]
+    },
+    {
+      "question": "Hvilken britisk artist het Reginald Kenneth Dwight før han tok sitt langt mer kjente artistnavn?",
+      "answer": "Elton John",
+      "aliases": [
+        "Sir Elton John",
+        "Elton Hercules John"
+      ]
+    },
+    {
+      "question": "Hvilken nåværende verdensby skiftet navn fra Nieuw Amsterdam i 1664?",
+      "answer": "New York",
+      "aliases": [
+        "New York City",
+        "NYC"
+      ]
+    },
+    {
+      "question": "I 1930 skiftet Trondhjem navn etter et stortingsvedtak, men fikk først navnet Trondheim året etter. Hva het byen i mellomtiden?",
+      "answer": "Nidaros",
+      "aliases": []
+    }
+  ]
+}
