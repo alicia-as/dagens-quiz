@@ -1,0 +1,43 @@
+{
+  "theme": "Hvilket land?",
+  "questions": [
+    {
+      "question": "Maputo er hovedstad, og portugisisk er offisielt språk. Hvilket land på Afrikas østkyst?",
+      "answer": "Mosambik",
+      "aliases": [
+        "Mozambique",
+        "Mosambique"
+      ]
+    },
+    {
+      "question": "Machu Picchu ligger i Andesfjellene, og hovedstaden heter Lima. Hvilket land?",
+      "answer": "Peru",
+      "aliases": [
+        "Perú"
+      ]
+    },
+    {
+      "question": "Dette smale landet ligger nesten helt omsluttet av Senegal, og hovedstaden heter Banjul. Hvilket land?",
+      "answer": "Gambia",
+      "aliases": [
+        "The Gambia"
+      ]
+    },
+    {
+      "question": "Mange tror hovedstaden er Auckland, men den heter Wellington. Landet består av to store øyer langt sør i Stillehavet. Hvilket land?",
+      "answer": "New Zealand",
+      "aliases": [
+        "Ny-Zealand",
+        "Aotearoa"
+      ]
+    },
+    {
+      "question": "Dette landet ligger mellom Polen, Ukraina, Russland og Baltikum, og byttet nylig navn her i Norge. Hvilket land?",
+      "answer": "Belarus",
+      "aliases": [
+        "Hviterussland",
+        "Belorussland"
+      ]
+    }
+  ]
+}
