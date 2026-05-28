@@ -1,0 +1,43 @@
+{
+  "theme": "Engangsundere",
+  "questions": [
+    {
+      "question": "Hvilken låt ga den spanske duoen Los del Río sin eneste internasjonale hit i 1996, og skapte sin helt egen dansefeber?",
+      "answer": "Macarena",
+      "aliases": [
+        "La Macarena"
+      ]
+    },
+    {
+      "question": "Da svenske Rednex blandet banjo og teknobeat i 1994, fikk de hele verden ut på dansegulvet. Hva het deres eneste store hit?",
+      "answer": "Cotton Eye Joe",
+      "aliases": [
+        "Cotton Eyed Joe"
+      ]
+    },
+    {
+      "question": "I hvilken låt fra 1999 ramset tyske Lou Bega opp jentenavn som Angela, Pamela, Sandra og Rita?",
+      "answer": "Mambo No. 5",
+      "aliases": [
+        "Mambo Number 5",
+        "Mambo nr. 5"
+      ]
+    },
+    {
+      "question": "Hvilken verdenshit fra 2000 ga gruppen Baha Men fra Bahamas en Grammy, med et bjeffende spørsmål som tittel?",
+      "answer": "Who Let the Dogs Out",
+      "aliases": [
+        "Who Let the Dogs Out?"
+      ]
+    },
+    {
+      "question": "Hvilken låt farget dansegulvene blå for italienske Eiffel 65 i 1999, med et refreng de fleste husker bedre enn de klarer å synge riktig?",
+      "answer": "Blue (Da Ba Dee)",
+      "aliases": [
+        "Blue",
+        "Da Ba Dee",
+        "Blue Da Ba Dee"
+      ]
+    }
+  ]
+}
