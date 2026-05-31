@@ -1,0 +1,49 @@
+{
+  "theme": "Førstemann ut",
+  "questions": [
+    {
+      "question": "Den 29. mai 1953 nådde Edmund Hillary toppen av Mount Everest. Hvilken sherpa sto på toppen sammen med ham?",
+      "answer": "Tenzing Norgay",
+      "aliases": [
+        "Tenzing"
+      ]
+    },
+    {
+      "question": "Historiens første satellitt ble skutt opp 4. oktober 1957. Hva het den?",
+      "answer": "Sputnik 1",
+      "aliases": [
+        "Sputnik",
+        "Sputnik1"
+      ]
+    },
+    {
+      "question": "Hvilken norsk løper ble historiens første verdensmester i friidrett da hun vant maraton i Helsinki i 1983? Hint: New York ble også hennes by.",
+      "answer": "Grete Waitz",
+      "aliases": [
+        "Grete Andersen",
+        "Grete"
+      ]
+    },
+    {
+      "question": "Hvilken film var verdens første helaftens tegnefilm da den hadde premiere i 1937?",
+      "answer": "Snøhvit og de syv dvergene",
+      "aliases": [
+        "Snehvit og de syv dvergene",
+        "Snøhvit og de 7 dvergene",
+        "Snehvit og de 7 dvergene",
+        "Snow White and the Seven Dwarfs",
+        "Snow White and the 7 Dwarfs",
+        "Snow White",
+        "Snøhvit",
+        "Snehvit"
+      ]
+    },
+    {
+      "question": "Verdens første atomdrevne ubåt ble satt i drift i 1954, og hadde samme navn som kaptein Nemos ubåt hos Jules Verne. Hva het den?",
+      "answer": "USS Nautilus",
+      "aliases": [
+        "Nautilus"
+      ]
+    }
+  ]
+}
