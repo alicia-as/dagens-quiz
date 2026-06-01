@@ -1,0 +1,42 @@
+{
+  "theme": "Svaret starter på 'S'",
+  "questions": [
+    {
+      "question": "Hvilken sykdom rammet Europa rett etter første verdenskrig, på tross av at sykdommen ikke hadde sitt opphav der?",
+      "answer": "Spanskesyken",
+      "aliases": [
+        "Spanskesjuken"
+      ]
+    },
+    {
+      "question": "I hvilken, visstnok liten, del av Sverige ligger Lønneberget?",
+      "answer": "Småland",
+      "aliases": [
+        "Smaaland"
+      ]
+    },
+    {
+      "question": "Hva er det norske navnet på stjernebildet Canis Major?",
+      "answer": "Store Hund",
+      "aliases": [
+        "Store hund",
+        "Canis Major"
+      ]
+    },
+    {
+      "question": "Hva var Japans statsreligion fram til 1945?",
+      "answer": "Shintoismen",
+      "aliases": [
+        "Shinto",
+        "Shintoisme"
+      ]
+    },
+    {
+      "question": "Hvilken maskin ble patentert i 1851 av Isaac Merritt Singer, et etternavn som fremdeles forbindes med nettopp slike maskiner?",
+      "answer": "Symaskinen",
+      "aliases": [
+        "Symaskin"
+      ]
+    }
+  ]
+}
