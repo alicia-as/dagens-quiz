@@ -1,0 +1,45 @@
+{
+  "theme": "Sjøsprøyt",
+  "questions": [
+    {
+      "question": "Verdens dypeste kjente punkt ligger i Marianergropa, og har navn etter et britisk forskningsskip. Hva heter havdypet?",
+      "answer": "Challengerdypet",
+      "aliases": [
+        "Challenger Deep",
+        "Challenger-dypet"
+      ]
+    },
+    {
+      "question": "Suezkanalen binder Middelhavet til havet mellom Afrika og Arabia. Hvilket hav?",
+      "answer": "Rødehavet",
+      "aliases": [
+        "Røde havet",
+        "Red Sea"
+      ]
+    },
+    {
+      "question": "Starbuck er mannskap om bord på hvalfangstskuta Pequod i en roman der en hvit hval er målet. Hvilken roman?",
+      "answer": "Moby Dick",
+      "aliases": [
+        "Moby-Dick",
+        "Moby Dick; or, The Whale"
+      ]
+    },
+    {
+      "question": "Når du står om bord og ser fram mot baugen, hva heter høyre side?",
+      "answer": "Styrbord",
+      "aliases": [
+        "Styrbord side"
+      ]
+    },
+    {
+      "question": "Europas lengste elv renner ikke ut i verdenshavene, men i verdens største innsjø, som likevel heter hav. I hvilket hav ender Volga?",
+      "answer": "Kaspihavet",
+      "aliases": [
+        "Det kaspiske hav",
+        "Kaspiske hav",
+        "Kaspihavet (hav)"
+      ]
+    }
+  ]
+}
