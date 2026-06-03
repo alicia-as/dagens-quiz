@@ -1,0 +1,34 @@
+{
+  "theme": "Oppdaget!",
+  "questions": [
+    {
+      "question": "Alexander Fleming oppdaget i 1928 at en muggsopp drepte bakteriekulturen hans. Hvilket legemiddel ble resultatet?",
+      "answer": "Penicillin",
+      "aliases": [
+        "Penicillinet"
+      ]
+    },
+    {
+      "question": "Hvilket grunnstoff ble først oppdaget på solen i 1868, før man senere fant det på jorden?",
+      "answer": "Helium"
+    },
+    {
+      "question": "Galilei oppdaget den i 1610, og den er solsystemets største måne. Hva heter Jupiters største måne?",
+      "answer": "Ganymedes",
+      "aliases": [
+        "Ganymede"
+      ]
+    },
+    {
+      "question": "Hvilken oppfinnelse tok Alfred Nobel patent på i 1867?",
+      "answer": "Dynamitt",
+      "aliases": [
+        "Dynamite"
+      ]
+    },
+    {
+      "question": "I 1931 ble et stoff oppfunnet som senere ble brukt i blant annet fallskjermduker og strømper. Hvilket stoff?",
+      "answer": "Nylon"
+    }
+  ]
+}
