@@ -1,0 +1,47 @@
+{
+  "theme": "På menyen",
+  "questions": [
+    {
+      "question": "Ekte russisk kaviar er svart og grovkornet, og kommer tradisjonelt fra en fisk som blant annet lever i Svartehavet og Kaspihavet. Hvilken fisk?",
+      "answer": "Stør",
+      "aliases": [
+        "Beluga",
+        "Belugastør",
+        "Sturgeon"
+      ]
+    },
+    {
+      "question": "Stellenbosch er et av verdens mest kjente vindistrikter utenfor Europa, og navnet står ofte på flasker med cabernet sauvignon og chenin blanc. I hvilket land ligger Stellenbosch?",
+      "answer": "Sør-Afrika",
+      "aliases": [
+        "Sør Afrika",
+        "South Africa"
+      ]
+    },
+    {
+      "question": "Estragon er urten som gir denne klassiske franske sausen mye av smaken. Den serveres gjerne til biff, fries og annen grillmat. Hvilken saus?",
+      "answer": "Béarnaise",
+      "aliases": [
+        "Bearnaise",
+        "Bernaise",
+        "Béarnaisesaus",
+        "Bearnaisesaus"
+      ]
+    },
+    {
+      "question": "Denne drinken lages typisk med tequila, Cointreau eller annen appelsinlikør og limejuice, ofte servert i glass med saltkant. Hva heter drinken?",
+      "answer": "Margarita",
+      "aliases": [
+        "Margarita cocktail"
+      ]
+    },
+    {
+      "question": "Før poteten ble vanlig i Norge, var denne lyse rotfrukten en viktig stivelseskilde. Den ligner litt på en krysning mellom gulrot og persillerot. Hva heter den?",
+      "answer": "Pastinakk",
+      "aliases": [
+        "Pastinakkrot",
+        "Parsnip"
+      ]
+    }
+  ]
+}
