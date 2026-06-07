@@ -1,0 +1,62 @@
+{
+  "theme": "På hjul",
+  "questions": [
+    {
+      "question": "Hvilket bilmerke har et navn som på latin kan knyttes til å høre, og bruker slagordet «Vorsprung durch Technik»?",
+      "answer": "Audi",
+      "aliases": [
+        "AUDI",
+        "Audi AG"
+      ]
+    },
+    {
+      "question": "Hvilket bilmerke gjorde trepunkts sikkerhetsbelte til standardutstyr i 1959, og ble dermed et rullende sikkerhetsikon?",
+      "answer": "Volvo",
+      "aliases": [
+        "Volvo Cars",
+        "Volvo Personvagnar",
+        "Volvo Car Corporation"
+      ]
+    },
+    {
+      "question": "Hvilket sovjetisk bilmerke solgte i millionopplag også i vestlige land på 1980- og 90-tallet?",
+      "answer": "Lada",
+      "aliases": [
+        "VAZ",
+        "AvtoVAZ",
+        "AutoVAZ"
+      ]
+    },
+    {
+      "question": "I helgen gikk det tradisjonsrike Formel 1-løpet der bilene blant annet kjører i tunnel under Fairmont Hotel. Hvilket løp?",
+      "answer": "Monaco Grand Prix",
+      "aliases": [
+        "Monaco",
+        "Monaco GP",
+        "Monaco F1",
+        "F1 Monaco",
+        "F1 Monaco Grand Prix",
+        "Formel 1 Monaco",
+        "Formel 1-løpet i Monaco",
+        "Formel 1 løpet i Monaco",
+        "GP Monaco",
+        "Grand Prix Monaco",
+        "Monacos Grand Prix",
+        "Grand Prix de Monaco",
+        "Grand Prix de Monaco 2026",
+        "Monaco Grand Prix 2026",
+        "Monegaskiske Grand Prix",
+        "Monegaskisk Grand Prix"
+      ]
+    },
+    {
+      "question": "Hvilket bilmerke har tatt navn etter det japanske ordet for stjernebildet Pleiadene, noe logoen også røper?",
+      "answer": "Subaru",
+      "aliases": [
+        "SUBARU",
+        "Subaru Corporation",
+        "Fuji Heavy Industries"
+      ]
+    }
+  ]
+}
