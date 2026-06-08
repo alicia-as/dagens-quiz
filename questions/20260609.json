@@ -1,0 +1,44 @@
+{
+  "theme": "Gamle navn",
+  "questions": [
+    {
+      "question": "Romerne kalte England «Albion», Irland «Hibernia» og Wales «Cambria». Hva kalte de området omtrent der Skottland ligger?",
+      "answer": "Caledonia",
+      "aliases": [
+        "Kaledonia"
+      ]
+    },
+    {
+      "question": "Sri Lanka het tidligere dette navnet, som vi fortsatt kjenner fra både kanel og te. Hvilket navn?",
+      "answer": "Ceylon",
+      "aliases": [
+        "Seylon",
+        "Ceylon tea",
+        "Ceylon-te",
+        "Ceylonkanel"
+      ]
+    },
+    {
+      "question": "Immanuel Kant ble født i Königsberg, som i dag ligger i en russisk enklave ved Østersjøen. Hva heter området nå?",
+      "answer": "Kaliningrad",
+      "aliases": [
+        "Kaliningrad oblast",
+        "Kaliningrad-enklaven"
+      ]
+    },
+    {
+      "question": "Portugisiske sjøfarere ga denne øya et navn som betyr omtrent «den vakre». Øya ligger utenfor kysten av Kina og er fortsatt politisk omstridt. Hvilket gammelt navn?",
+      "answer": "Formosa",
+      "aliases": [
+        "Ilha Formosa"
+      ]
+    },
+    {
+      "question": "Denne tidligere britiske kolonien het Gullkysten, og navnet passer godt med landets mineralhistorie. Kofi Annan kom herfra, og landet ble selvstendig i 1957. Hvilket land?",
+      "answer": "Ghana",
+      "aliases": [
+        "Republikken Ghana"
+      ]
+    }
+  ]
+}
