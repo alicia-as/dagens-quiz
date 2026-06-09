@@ -1,0 +1,40 @@
+{
+  "theme": "Byer med bakhistorie",
+  "questions": [
+    {
+      "question": "Kvekeren William Penn grunnla denne amerikanske byen, som også er tittel på en Oscar-film fra 1993. Hvilken by?",
+      "answer": "Philadelphia",
+      "aliases": [
+        "Filadelfia"
+      ]
+    },
+    {
+      "question": "Hvilken hovedstad ble grunnlagt av Jean de Vallette i 1556 og ligger i et land som ble selvstendig i 1964?",
+      "answer": "Valletta",
+      "aliases": [
+        "La Valletta",
+        "Valetta"
+      ]
+    },
+    {
+      "question": "Hvilken japansk by var hovedstad i mer enn tusen år fram til 1868, og er et anagram av dagens hovedstad?",
+      "answer": "Kyoto",
+      "aliases": [
+        "Kyōto",
+        "Kioto"
+      ]
+    },
+    {
+      "question": "Hvilken millionby har hatt navn som Miklagard, Bysants og Konstantinopel?",
+      "answer": "Istanbul",
+      "aliases": [
+        "İstanbul"
+      ]
+    },
+    {
+      "question": "Hvilken hovedstad «Down Under» har et navn som betyr «møteplass» på gundungurra-språket?",
+      "answer": "Canberra",
+      "aliases": []
+    }
+  ]
+}
