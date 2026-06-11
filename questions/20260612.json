@@ -1,0 +1,48 @@
+{
+  "theme": "Ut i rommet",
+  "announcement": "I forbindelse med SpaceX sin børsnotering skal vi også ut i rommet i dag.",
+  "questions": [
+    {
+      "question": "En snau måned etter Sputnik 1 ble neste sovjetiske satellitt sendt opp med en svært ufrivillig passasjer. Hva het passasjeren?",
+      "answer": "Laika",
+      "aliases": [
+        "Lajka",
+        "Hunden Laika",
+        "Laikahunden"
+      ]
+    },
+    {
+      "question": "Hvor mange mennesker har satt sin fot på månen?",
+      "answer": "12  ",
+      "aliases": [
+        "tolv",
+        "tolv menn"
+      ]
+    },
+    {
+      "question": "Pathfinder dro ikke akkurat til Syden, men hvor i solsystemet landet den?",
+      "answer": "Mars",
+      "aliases": [
+        "Planeten Mars"
+      ]
+    },
+    {
+      "question": "I golf er det to slag under par. I romfarten var det også navnet på månelandingsfartøyet til Armstrong og Aldrin. Hva het det?",
+      "answer": "Eagle",
+      "aliases": [
+        "The Eagle",
+        "Lunar Module Eagle",
+        "Månelanderen Eagle"
+      ]
+    },
+    {
+      "question": "SpaceX er mer enn raketter. Hva heter satellittnettverket deres, som gir internett via tusenvis av satellitter i lav jordbane?",
+      "answer": "Starlink",
+      "aliases": [
+        "Star Link",
+        "Starlink Internet",
+        "Starlink-satellittene"
+      ]
+    }
+  ]
+}
