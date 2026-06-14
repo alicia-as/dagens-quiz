@@ -1,0 +1,46 @@
+{
+  "theme": "Kroppen",
+  "questions": [
+    {
+      "question": "Hva er kroppens største organ målt i vekt?",
+      "answer": "Huden",
+      "aliases": [
+        "Hud"
+      ]
+    },
+    {
+      "question": "Hvor mange tenner har de fleste voksne mennesker når visdomstennene er medregnet?",
+      "answer": "32 tenner",
+      "aliases": [
+        "32  ",
+        "Trettito tenner",
+        "Trettito"
+      ]
+    },
+    {
+      "question": "Kroppens kraftigste og tykkeste sene har navn etter en helt fra gresk mytologi. Hva heter senen?",
+      "answer": "Akillessenen",
+      "aliases": [
+        "Akillessena",
+        "Akilles-senen",
+        "Hælsenen"
+      ]
+    },
+    {
+      "question": "I hvilket organ produseres hormonet insulin, som regulerer blodsukkeret?",
+      "answer": "Bukspyttkjertelen",
+      "aliases": [
+        "Pankreas",
+        "Bukspyttkjertel"
+      ]
+    },
+    {
+      "question": "Organet med det latinske navnet «renes» renser blodet for avfallsstoffer og lager urin – og vi har to av dem. Hvilket organ?",
+      "answer": "Nyrene",
+      "aliases": [
+        "Nyrer",
+        "Nyre"
+      ]
+    }
+  ]
+}
