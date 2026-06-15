@@ -1,0 +1,48 @@
+{
+  "theme": "Undergrunnen",
+  "questions": [
+    {
+      "question": "I hvilken hovedstad ble verdens eldste undergrunnsbane åpnet i 1863?",
+      "answer": "London",
+      "aliases": [
+        "London Underground"
+      ]
+    },
+    {
+      "question": "Hva er kallenavnet på undergrunnsbanen i Paris?",
+      "answer": "Metro",
+      "aliases": [
+        "Métro",
+        "Le Métro",
+        "Paris Metro",
+        "Paris Métro"
+      ]
+    },
+    {
+      "question": "Hvilken London-stasjon har gitt navn til bjørnen fra «det mørkeste Peru»?",
+      "answer": "Paddington",
+      "aliases": [
+        "Paddington Station",
+        "Paddington stasjon"
+      ]
+    },
+    {
+      "question": "I hvilken by åpnet verdens nordligste metro i 1982?",
+      "answer": "Helsingfors",
+      "aliases": [
+        "Helsinki",
+        "Helsinki/Helsingfors"
+      ]
+    },
+    {
+      "question": "I hvilken roman fra 1741 begynner historien i en hule i Bergen og fortsetter til en underjordisk verden?",
+      "answer": "Nils Klims reise til den underjordiske verden",
+      "aliases": [
+        "Niels Klims reise til den underjordiske verden",
+        "Nils Klim",
+        "Niels Klim",
+        "Nicolai Klimii iter subterraneum"
+      ]
+    }
+  ]
+}
