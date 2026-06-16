@@ -1,0 +1,47 @@
+{
+  "theme": "Den første setningen",
+  "questions": [
+    {
+      "question": "«På et sted i La Mancha ...» begynner den mer enn 400 år gamle romanen om en mann som ikke alltid så forskjell på kjemper og vindmøller. Hvilken roman?",
+      "answer": "Don Quijote",
+      "aliases": [
+        "Don Quixote",
+        "Don Quijote de la Mancha"
+      ]
+    },
+    {
+      "question": "«Kall meg Ismael» er åpningslinjen i en amerikansk klassiker fra 1851, der jakten på en hvit hval blir en smule altoppslukende. Hvilken roman?",
+      "answer": "Moby Dick",
+      "aliases": [
+        "Moby-Dick",
+        "Moby Dick or The Whale"
+      ]
+    },
+    {
+      "question": "«Noen måtte ha baktalt Josef K ...» starter en klassiker der hovedpersonen blir arrestert uten helt å få vite hva han er anklaget for. Hvilken Kafka-roman?",
+      "answer": "Prosessen",
+      "aliases": [
+        "Der Process",
+        "Der Prozess",
+        "The Trial"
+      ]
+    },
+    {
+      "question": "«Sofie var på vei hjem fra skolen» åpner en norsk roman der en tenåring får filosofihistorien levert i posten. Hvilken roman?",
+      "answer": "Sofies verden",
+      "aliases": [
+        "Sofies verden: Roman om filosofiens historie"
+      ]
+    },
+    {
+      "question": "I første setning i «Bridget Jones dagbok» lover Bridget å drikke mindre. Hvor mange alkoholenheter setter hun som maksgrense?",
+      "answer": "14  ",
+      "aliases": [
+        "14",
+        "fjorten",
+        "fjorten alkoholenheter",
+        "14 alkoholenheter"
+      ]
+    }
+  ]
+}
