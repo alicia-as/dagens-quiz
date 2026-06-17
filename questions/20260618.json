@@ -1,0 +1,45 @@
+{
+  "theme": "Valuta",
+  "questions": [
+    {
+      "question": "I hvilket EU-land betaler du med pengeenheten som har valutakoden «HUF»?",
+      "answer": "Ungarn",
+      "aliases": [
+        "Hungary"
+      ]
+    },
+    {
+      "question": "Hva var valutaen i Spania før landet gikk over til euro?",
+      "answer": "Peseta",
+      "aliases": [
+        "Pesetas",
+        "Spansk peseta"
+      ]
+    },
+    {
+      "question": "Hvilket «kongelig» navn har Brasils valuta?",
+      "answer": "Real",
+      "aliases": [
+        "Brasiliansk real",
+        "Brazilian real"
+      ]
+    },
+    {
+      "question": "På Torget godtar de mange valutaer, men shekel tar de vel neppe. Hvor kommer turistene fra som har denne valutaen?",
+      "answer": "Israel",
+      "aliases": [
+        "Israelere",
+        "Israelske turister"
+      ]
+    },
+    {
+      "question": "Både Sør-Korea og Nord-Korea har hver sin valuta med samme korte navn. Hva heter valutaen?",
+      "answer": "Won",
+      "aliases": [
+        "Koreansk won",
+        "Sørkoreansk won",
+        "Nordkoreansk won"
+      ]
+    }
+  ]
+}
