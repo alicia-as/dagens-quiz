@@ -1,5 +1,5 @@
 "use client";
-import React, { useEffect, useState } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 
 import ScoreBoxes from "../ScoreBoxes";
 import levenshtein from "js-levenshtein";
@@ -7,7 +7,7 @@ import { useRouter, useSearchParams } from "next/navigation";
 import ClipboardModal from "../ClipboardModal";
 import Image from "next/image";
 import WeeklySummary from "./WeeklySummary";
-import { isFriday } from "../utils";
+import { isFriday, toStorageKey, parseYYYYMMDD, tryDateFormats } from "../utils";
 
 const LEVENSHTEIN_THRESHOLD = 2; // Adjust this value as needed
 
@@ -39,6 +39,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
   const [warningMessage, setWarningMessage] = useState<string | null>(null);
   const [prevDate, setPrevDate] = useState<string | null>(null);
   const [nextDate, setNextDate] = useState<string | null>(null);
+  const [overturns, setOverturns] = useState<boolean[]>([]);
 
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -61,7 +62,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     };
 
     fetchQuestions();
-  }, []);
+  }, [quizDate]);
 
   useEffect(() => {
     // Fetch the list of available dates
@@ -88,8 +89,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     fetchDates();
   }, [quizDate]);
 
-  // Function to fetch summary
-  const fetchSummary = async () => {
+  const fetchSummary = useCallback(async () => {
     // We only fetch summary for the current date (if quizDate is not provided)
     if (quizDate) return;
     try {
@@ -100,24 +100,37 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     } catch (error) {
       console.error("Couldn't fetch summary", error);
     }
-  };
+  }, [quizDate]);
 
-  // Retrieve answers from local storage
   useEffect(() => {
-    // Use quizDate if provided, otherwise use today's date
-    const dateKey = quizDate
-      ? formatDate(quizDate).replace(/\./g, "-") // Convert to a format like YYYY-MM-DD
-      : new Date().toLocaleDateString(); // Ensures format is consistent (YYYY-MM-DD)
+    const canonicalKey = toStorageKey(quizDate);
+    let answers = localStorage.getItem(`${canonicalKey}-answers`);
 
-    const answersKey = `${dateKey}-answers`;
-    const answers = localStorage.getItem(answersKey);
+    if (!answers) {
+      const date = quizDate ? parseYYYYMMDD(quizDate) : new Date();
+      for (const fmt of tryDateFormats(date)) {
+        const val = localStorage.getItem(`${fmt}-answers`);
+        if (val) {
+          answers = val;
+          localStorage.setItem(`${canonicalKey}-answers`, val);
+          const correct = localStorage.getItem(`${fmt}-correct`);
+          if (correct) localStorage.setItem(`${canonicalKey}-correct`, correct);
+          break;
+        }
+      }
+    }
 
     if (answers) {
       setUserAnswers(JSON.parse(answers));
       setIsSubmitted(true);
-      fetchSummary(); // Fetch summary when answers are cached
+      fetchSummary();
     }
-  }, [quizDate]);
+
+    const savedOverturns = localStorage.getItem(`${canonicalKey}-overturns`);
+    if (savedOverturns) {
+      setOverturns(JSON.parse(savedOverturns));
+    }
+  }, [quizDate, fetchSummary]);
 
   const handleSubmit = async () => {
     if (
@@ -130,22 +143,12 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
       return;
     }
 
-    // Use quizDate if provided, otherwise use today's date
-    const dateKey = quizDate
-      ? formatDate(quizDate).replace(/\./g, "-") // Convert to YYYY-MM-DD format
-      : new Date().toLocaleDateString(); // Ensures format is consistent (YYYY-MM-DD)
+    const dateKey = toStorageKey(quizDate);
 
-    const answersKey = `${dateKey}-answers`;
+    localStorage.setItem(`${dateKey}-answers`, JSON.stringify(userAnswers));
 
-    // Save answers to local storage
-    // if (process.env.NODE_ENV !== "development") {
-    localStorage.setItem(answersKey, JSON.stringify(userAnswers));
-
-    // Store correct/incorrect classification
-    const correctKey = `${dateKey}-correct`;
     const correctArray = questions.map((_, index) => isCorrect(index));
-    localStorage.setItem(correctKey, JSON.stringify(correctArray));
-    // }
+    localStorage.setItem(`${dateKey}-correct`, JSON.stringify(correctArray));
     setIsSubmitted(true);
 
     // Submit answers to the server
@@ -207,26 +210,29 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
   };
 
   const handleShare = () => {
-    // Determine the date to include in the URL
     const today = new Date().toISOString().split("T")[0];
     const dateFromURL = searchParams?.get("date");
+    const quizDateToUse = quizDate || dateFromURL || today;
 
-    const quizDateToUse = quizDate || dateFromURL || today; // Use quizDate prop, then URL param, else today
+    const hasOverturns = overturns.some(Boolean);
 
-    // Generate result string
     const resultString = questions
-      .map((_, index) => (isCorrect(index) ? "🟩" : "🟥"))
+      .map((_, index) => {
+        if (isCorrect(index)) return "🟩";
+        if (overturns[index]) return "🟨";
+        return "🟥";
+      })
       .join("");
 
-    // Construct URL with date
     const shareableURL = `https://www.femkjappe.no${
       quizDateToUse !== today ? `?date=${quizDateToUse}` : ""
     }`;
 
-    // Copy result string and link to clipboard
+    const legend = hasOverturns ? "\n🟨 = rettet selv" : "";
+
     navigator.clipboard
       .writeText(
-        `${resultString}\nSpill fem kjappe på: ${shareableURL}${
+        `${resultString}${legend}\nSpill fem kjappe på: ${shareableURL}${
           theme ? ` Dagens tema: ${theme}` : ""
         }`
       )
@@ -243,6 +249,20 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
     if (warningMessage) {
       setWarningMessage(null);
     }
+  };
+
+  const handleOverturn = (index: number) => {
+    const newOverturns = [...overturns];
+    newOverturns[index] = !newOverturns[index];
+    setOverturns(newOverturns);
+
+    const dateKey = toStorageKey(quizDate);
+    localStorage.setItem(`${dateKey}-overturns`, JSON.stringify(newOverturns));
+
+    const correctArray = questions.map((_, i) =>
+      isCorrect(i) || newOverturns[i] ? true : false
+    );
+    localStorage.setItem(`${dateKey}-correct`, JSON.stringify(correctArray));
   };
 
   return (
@@ -301,15 +321,32 @@ const IndexPage: React.FC<IndexPageProps> = ({ quizDate }) => {
                 </p>
                 <p
                   className={
-                    isCorrect(index) ? "text-green-200" : "text-red-200"
+                    isCorrect(index) || overturns[index]
+                      ? "text-green-200"
+                      : "text-red-200"
                   }
                 >
                   {isCorrect(index)
                     ? isAliasCorrect(index)
                       ? `✅ Korrekt.\n${question.answer}`
                       : "✅ Korrekt!"
+                    : overturns[index]
+                    ? `✅ Rettet av deg. Rett svar: '${question.answer}'`
                     : `❌ Feil. Rett svar: '${question.answer}'`}
                 </p>
+                {!isCorrect(index) && (
+                  <button
+                    type="button"
+                    onClick={() => handleOverturn(index)}
+                    className={`mt-1 text-xs px-2 py-1 rounded-md transition-colors ${
+                      overturns[index]
+                        ? "bg-yellow-500/20 text-yellow-300 border border-yellow-500/40 hover:bg-red-500/20 hover:text-red-300 hover:border-red-500/40"
+                        : "bg-gray-500/20 text-gray-300 border border-gray-500/30 hover:bg-yellow-500/20 hover:text-yellow-300 hover:border-yellow-500/40"
+                    }`}
+                  >
+                    {overturns[index] ? "↩ Angre rettet" : "🤚 Jeg hadde rett"}
+                  </button>
+                )}
               </div>
             ) : (
               <input
