@@ -1,0 +1,58 @@
+{
+  "theme": "Tresorter",
+  "questions": [
+    {
+      "question": "Hvilken tresort er det mer enn 1100 år gamle Gokstadskipet laget av?",
+      "answer": "Eik",
+      "aliases": [
+        "Eiketre",
+        "Eiketreverk",
+        "Oak",
+        "Oak wood"
+      ]
+    },
+    {
+      "question": "Hvilket middelhavsland har et sedertre i flagget?",
+      "answer": "Libanon",
+      "aliases": [
+        "Lebanon",
+        "Den libanesiske republikk",
+        "The Lebanese Republic"
+      ]
+    },
+    {
+      "question": "Hva er favorittmaten, og nesten eneste mat, til koalaen i Australia?",
+      "answer": "Eukalyptus",
+      "aliases": [
+        "Eucalyptus",
+        "Eukalyptusblader",
+        "Eukalyptusblad",
+        "Eucalyptus leaves",
+        "Eukalyptustrær",
+        "Eucalyptus trees"
+      ]
+    },
+    {
+      "question": "Hvilken tresort er nasjonaltre i Hellas, Albania og Israel?",
+      "answer": "Oliventreet",
+      "aliases": [
+        "Oliven",
+        "Oliventre",
+        "Olive",
+        "Olive tree"
+      ]
+    },
+    {
+      "question": "Hva slags eik er nasjonaltre i Portugal?",
+      "answer": "Korkeik",
+      "aliases": [
+        "Kork",
+        "Kork-eik",
+        "Korkeika",
+        "Korktre",
+        "Cork oak",
+        "Quercus suber"
+      ]
+    }
+  ]
+}
