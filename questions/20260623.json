@@ -1,0 +1,46 @@
+{
+  "theme": "Store fotballnasjoner",
+  "questions": [
+    {
+      "question": "Lionel Messi bommet først på straffe, men scoret to ganger da Argentina slo Østerrike 2-0 i VM i går. Hvilken tysk spiss passerte han som tidenes mestscorende i VM?",
+      "answer": "Miroslav Klose",
+      "aliases": [
+        "Klose",
+        "Miro Klose"
+      ]
+    },
+    {
+      "question": "Hvor mange kamper vant Italia i gruppespillet i VM 1982 før de senere ble verdensmestere?",
+      "answer": "Ingen",
+      "aliases": [
+        "0  ",
+        "Null",
+        "Ingen kamper"
+      ]
+    },
+    {
+      "question": "Hvilket land ble verdensmester i 1930 og 1950 etter å ha spilt til sammen bare åtte kamper i de to VM-turneringene?",
+      "answer": "Uruguay"
+    },
+    {
+      "question": "Hvilke to land spilte finalen i fotball-VM i 2022?",
+      "answer": "Argentina og Frankrike",
+      "aliases": [
+        "Frankrike og Argentina",
+        "Argentina-Frankrike",
+        "Frankrike-Argentina",
+        "Argentina mot Frankrike",
+        "Frankrike mot Argentina",
+        "Frankrike, Argentina",
+        "Argentina, Frankrike"
+      ]
+    },
+    {
+      "question": "Hvor mange lag deltar i årets VM-sluttspill?",
+      "answer": "48  ",
+      "aliases": [
+        "48 lag  "
+      ]
+    }
+  ]
+}
