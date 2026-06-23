@@ -1,0 +1,73 @@
+{
+  "theme": "Mesterverk",
+  "questions": [
+    {
+      "question": "Hvem står bak mesterverket «Salvador Mundi», som ble solgt for 450 millioner dollar hos Christie's?",
+      "answer": "Leonardo da Vinci",
+      "aliases": [
+        "Leonardo",
+        "Da Vinci",
+        "Leonardo di ser Piero da Vinci"
+      ]
+    },
+    {
+      "question": "Hvor kan du beskue Michelangelos «Adams skapelse»?",
+      "answer": "Det sixtinske kapell i Vatikanet",
+      "aliases": [
+        "Det sixtinske kapell",
+        "Det sixtinske kapellet",
+        "Sixtinske kapell",
+        "Sixtinske kapellet",
+        "Sixtinske kapell i Vatikanet",
+        "Sixtinske kapellet i Vatikanet",
+        "Vatikanet",
+        "Vatikanstaten",
+        "Kapellet i Vatikanet",
+        "Sistine Chapel",
+        "The Sistine Chapel",
+        "Sistine Chapel in the Vatican",
+        "The Sistine Chapel in the Vatican",
+        "Vatican",
+        "Vatican City",
+        "Cappella Sistina",
+        "Capella Sistina",
+        "Roma",
+        "Rome"
+      ]
+    },
+    {
+      "question": "I 1888 skar Vincent van Gogh av seg en flipp av øret. Høyre eller venstre?",
+      "answer": "Venstre",
+      "aliases": [
+        "Venstre øre",
+        "Det venstre",
+        "Det venstre øret",
+        "Vestre"
+      ]
+    },
+    {
+      "question": "Hvilket verdensberømt motiv er hentet fra Ekebergåsen i Oslo på slutten av 1800-tallet?",
+      "answer": "Skrik",
+      "aliases": [
+        "Skriket",
+        "Munchs Skrik",
+        "Edvard Munchs Skrik",
+        "The Scream",
+        "Scream",
+        "Le Cri",
+        "El grito",
+        "Huuto",
+        "L'urlo"
+      ]
+    },
+    {
+      "question": "Hvem malte det kubistiske bildet «Pikene fra Avignon» i 1907?",
+      "answer": "Pablo Picasso",
+      "aliases": [
+        "Picasso",
+        "Pablo Ruiz Picasso",
+        "Pablo Ruiz y Picasso"
+      ]
+    }
+  ]
+}
