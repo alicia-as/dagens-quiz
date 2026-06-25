@@ -1,0 +1,49 @@
+{
+  "theme": "Frankrike",
+  "announcement": "I forbindelse med kveldens VM-kamp mot Frankrike går dagens femkjappe til fransk språk, geografi og sommervarme.",
+  "questions": [
+    {
+      "question": "I kveld møter Norge Frankrike i VM. I hvilken amerikansk by spilles kampen?",
+      "answer": "Boston",
+      "aliases": [
+        "Foxborough",
+        "Foxboro",
+        "Gillette Stadium"
+      ]
+    },
+    {
+      "question": "Når vi sier «poulet» på fransk, hva tenker vi på da?",
+      "answer": "Kylling",
+      "aliases": [
+        "En kylling",
+        "Chicken",
+        "Høne",
+        "Høns"
+      ]
+    },
+    {
+      "question": "Hvilken kjent fransk alpeby ligger ved foten av Mont Blanc?",
+      "answer": "Chamonix",
+      "aliases": [
+        "Chamonix-Mont-Blanc",
+        "Chamonix Mont Blanc"
+      ]
+    },
+    {
+      "question": "Verdens største franskspråklige by utenfor Frankrike ligger i Quebec. Hva heter byen?",
+      "answer": "Montreal",
+      "aliases": [
+        "Montréal"
+      ]
+    },
+    {
+      "question": "Mens det herjer hetebølge i Frankrike: Hvor mange grader må det minst være i Norge i fem dager eller mer før Meteorologisk institutt kaller det en hetebølge?",
+      "answer": "27 grader  ",
+      "aliases": [
+        "27  ",
+        "Minst 27 grader",
+        "Tjuesju grader"
+      ]
+    }
+  ]
+}
