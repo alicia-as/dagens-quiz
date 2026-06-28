@@ -1,0 +1,30 @@
+{
+  "theme": "Brenner det?",
+  "questions": [
+    {
+      "question": "Hvilken gass som kan brukes i lightere, har nesten samme navn som et asiatisk land?",
+      "answer": "Butan",
+      "aliases": ["Bhutan", "Butangass", "Butan gass"]
+    },
+    {
+      "question": "Hvilken tidligere kommune sør i Buskerud har et navn de fleste av oss har stumpet?",
+      "answer": "Røyken",
+      "aliases": ["Royken", "Røyken kommune", "Royken kommune"]
+    },
+    {
+      "question": "Hvilken vulkan var årsak til at Pompeii ble ødelagt i år 79 e.Kr.?",
+      "answer": "Vesuv",
+      "aliases": ["Vesuvius", "Vesuvio", "Mount Vesuvius", "Monte Vesuvio"]
+    },
+    {
+      "question": "Hva heter journalisten som intervjuet kjendiser fra sin Volvo Amazon fra 1966?",
+      "answer": "Hans Olav Brenner",
+      "aliases": ["Hans-Olav Brenner", "Brenner"]
+    },
+    {
+      "question": "Hva tok Alfred Nobel patent på i 1867?",
+      "answer": "Dynamitt",
+      "aliases": ["Dynamit", "Dynamite", "Dynamitten"]
+    }
+  ]
+}
