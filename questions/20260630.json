@@ -1,0 +1,43 @@
+{
+  "theme": "Norge-Elfenbenskysten",
+  "announcement": "I anledning VM-kampen mot Elfenbenskysten går dagens femkjappe til geografi, VM-historie og et par fotballomveier.",
+  "questions": [
+    {
+      "question": "Vinneren av Norge-Elfenbenskysten kan få møte et land Norge historisk har uvanlig godt tak på: to seirer og to uavgjorte på fire kamper. Hvilket land?",
+      "answer": "Brasil",
+      "aliases": [
+        "Brazil"
+      ]
+    },
+    {
+      "question": "Elfenbenskysten sikret avansement fra gruppen med 2-0 mot en VM-debutant som også har gitt navn til en sterk appelsinsprit. Hvilket land?",
+      "answer": "Curaçao",
+      "aliases": [
+        "Curacao"
+      ]
+    },
+    {
+      "question": "Når Norge møter Elfenbenskysten i VM, møter de et land som ble uavhengig i 1960. Fra hvilket europeisk land?",
+      "answer": "Frankrike",
+      "aliases": [
+        "France"
+      ]
+    },
+    {
+      "question": "Norge har tapt mot samme land i alle sine tre tidligere VM-sluttspill, men fikk revansj i kvaliken til årets VM med seier både hjemme og borte. Hvilket land?",
+      "answer": "Italia",
+      "aliases": [
+        "Italy"
+      ]
+    },
+    {
+      "question": "Norge-Elfenbenskysten spilles på et stadion som til daglig brukes av noen ganske kjente «Cowboys». I hvilken by spilles kampen?",
+      "answer": "Arlington",
+      "aliases": [
+        "Arlington, Texas",
+        "Dallas",
+        "Dallas, Texas"
+      ]
+    }
+  ]
+}
