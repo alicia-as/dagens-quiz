@@ -1,0 +1,44 @@
+{
+  "theme": "Kallenavn",
+  "questions": [
+    {
+      "question": "Victoria Beckham fikk sitt kallenavn fordi hun så sofistikert ut. Hva het hun derfor da hun var med i Spice Girls?",
+      "answer": "Posh Spice",
+      "aliases": [
+        "Posh"
+      ]
+    },
+    {
+      "question": "Hva kalles den eksklusive gruppen av amerikanske eliteuniversiteter som har fått sitt navn etter en plante?",
+      "answer": "Ivy League",
+      "aliases": [
+        "The Ivy League",
+        "Ivy league-universitetene",
+        "Ivy League-universitetene"
+      ]
+    },
+    {
+      "question": "Hvilket kallenavn har det nedlagte fengselet Alcatraz, Gibraltar og Dwayne Johnson til felles?",
+      "answer": "The Rock",
+      "aliases": [
+        "Rock",
+        "The rock"
+      ]
+    },
+    {
+      "question": "Patrick Dempsey spiller Dr. Derek Shepherd i «Grey's Anatomy». Hva er karakterens kallenavn?",
+      "answer": "McDreamy",
+      "aliases": [
+        "Mc Dreamy",
+        "Mcdreamy"
+      ]
+    },
+    {
+      "question": "Med fornavn som kortform av William og et ord du kan finne både i delstaten New York og på mozzarella-pakker: under hvilket navn var eventyreren William Cody bedre kjent?",
+      "answer": "Buffalo Bill",
+      "aliases": [
+        "Buffalo Bill Cody"
+      ]
+    }
+  ]
+}
