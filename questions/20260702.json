@@ -1,0 +1,49 @@
+{
+  "theme": "Ost",
+  "questions": [
+    {
+      "question": "Hvilken trøndelagskommune, kjent for votter og et gjenkjennelig mønster, har gitt navn til en blåmuggost?",
+      "answer": "Selbu",
+      "aliases": [
+        "Selbu Blå",
+        "Selbu Bla",
+        "Selbu Blaa",
+        "Selbu Blue",
+        "Selbu kommune"
+      ]
+    },
+    {
+      "question": "Hvilket landskap sør for Paris har gitt navn til en myk fløteost med hvit mugg utenpå?",
+      "answer": "Brie",
+      "aliases": [
+        "Brieost",
+        "Brie ost"
+      ]
+    },
+    {
+      "question": "Hvilken fransk blåmuggost har fått navn etter huler i Sør-Frankrike?",
+      "answer": "Roquefort",
+      "aliases": [
+        "Roquefortost",
+        "Roquefort ost"
+      ]
+    },
+    {
+      "question": "Hvilken by i Normandie har gitt navn til verdens mest kjente bløte hvitmuggost?",
+      "answer": "Camembert",
+      "aliases": [
+        "Camembertost",
+        "Camembert ost",
+        "Camembert de Normandie"
+      ]
+    },
+    {
+      "question": "Hvilken ost, Storbritannias mest populære, har navn etter en liten by i Somerset?",
+      "answer": "Cheddar",
+      "aliases": [
+        "Cheddarost",
+        "Cheddar ost"
+      ]
+    }
+  ]
+}
