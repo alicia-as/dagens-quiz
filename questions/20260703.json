@@ -1,0 +1,45 @@
+{
+  "theme": "Bergen",
+  "questions": [
+    {
+      "question": "Hvilken norsk motstandsmann, født i Bergen i 1914, skrev selvbiografien «Det vil helst gå godt»?",
+      "answer": "Max Manus",
+      "aliases": [
+        "Maximo Manus",
+        "Maximo Guillermo Manus"
+      ]
+    },
+    {
+      "question": "Hvilket kallenavn fikk krigshelten Leif Andreas Larsen, som krysset Nordsjøen en rekke ganger under andre verdenskrig?",
+      "answer": "Shetlands-Larsen",
+      "aliases": [
+        "Shetlands Larsen",
+        "Shetland-Larsen",
+        "Shetland Larsen"
+      ]
+    },
+    {
+      "question": "Hvilket europeisk studentutvekslingsprogram har samme navn som en figur hos Ludvig Holberg?",
+      "answer": "Erasmus",
+      "aliases": [
+        "Erasmus-programmet",
+        "Erasmusprogrammet",
+        "Erasmus+"
+      ]
+    },
+    {
+      "question": "Hvilket bergensband, kjent for røde treningsdresser og låten «Fa-Fa-Fa», fikk internasjonal oppmerksomhet på 2000-tallet?",
+      "answer": "Datarock",
+      "aliases": [
+        "Data Rock"
+      ]
+    },
+    {
+      "question": "Hurtigruten starter tradisjonelt i Bergen og går langs kysten til hvilken by i Finnmark før den snur sørover?",
+      "answer": "Kirkenes",
+      "aliases": [
+        "Kirkenes i Finnmark"
+      ]
+    }
+  ]
+}
