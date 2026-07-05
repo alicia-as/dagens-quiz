@@ -1,0 +1,43 @@
+{
+  "theme": "Sjokoladehylla",
+  "questions": [
+    {
+      "question": "I hvilken del av atmosfæren er det mer sjokolade enn ellers, skal vi tro navnet?",
+      "answer": "Stratosfæren",
+      "aliases": [
+        "Stratosfaeren",
+        "Stratosfären"
+      ]
+    },
+    {
+      "question": "Med en hval i kommunevåpenet, i hvilken bykommune ligger Hval Sjokoladefabrikk?",
+      "answer": "Sandefjord",
+      "aliases": [
+        "Sandefjord kommune"
+      ]
+    },
+    {
+      "question": "Hvilken sjokolade fikk nesten et navn som lignet litt for mye på USAs fiende fra andre verdenskrig?",
+      "answer": "Japp",
+      "aliases": [
+        "Freia Japp"
+      ]
+    },
+    {
+      "question": "Hvilken Freia-sjokolade ble «skapt for å deles i 1955, men spist alene siden den gang»?",
+      "answer": "SMIL",
+      "aliases": [
+        "Smil",
+        "Freia Smil"
+      ]
+    },
+    {
+      "question": "Hvilken luring i Bibelen fikk giftet bort sine to døtre til samme mann og har fått et godteri oppkalt etter seg?",
+      "answer": "Laban",
+      "aliases": [
+        "Laban seigmenn",
+        "Laban Seigmenn"
+      ]
+    }
+  ]
+}
