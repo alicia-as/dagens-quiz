@@ -1,0 +1,45 @@
+{
+  "theme": "Vær og uvær",
+  "questions": [
+    {
+      "question": "På Beauforts vindskala går det fra 0, vindstille, til 12. Hva kalles vindstyrke 12?",
+      "answer": "Orkan",
+      "aliases": [
+        "orkan styrke"
+      ]
+    },
+    {
+      "question": "Hva måler et barometer?",
+      "answer": "Lufttrykk",
+      "aliases": [
+        "lufttrykket",
+        "atmosfærisk trykk",
+        "barometertrykk"
+      ]
+    },
+    {
+      "question": "Hvilken dal i California, med et navn som ikke akkurat lover liv og røre, har verdens høyeste offisielt målte lufttemperatur på 56,7 grader?",
+      "answer": "Death Valley",
+      "aliases": [
+        "Dødsdalen",
+        "Death Valley i California"
+      ]
+    },
+    {
+      "question": "Skogbranner i Sør-Europa i starten av juli 2026 førte blant annet til tilskuerrestriksjoner i hvilket stort sykkelritt?",
+      "answer": "Tour de France",
+      "aliases": [
+        "Frankrike rundt"
+      ]
+    },
+    {
+      "question": "Mandag 6. juli 2026 ble tilskuere nektet å møte opp ved deler av 3. etappe av Tour de France, fordi skogbranner raste nær den fransk-spanske grensen. I hvilken fjellkjede skjedde dette?",
+      "answer": "Pyreneene",
+      "aliases": [
+        "Pyrénées",
+        "Pyrenees",
+        "De franske Pyreneene"
+      ]
+    }
+  ]
+}
