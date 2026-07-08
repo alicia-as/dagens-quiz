@@ -1,0 +1,40 @@
+{
+  "theme": "Fødebyer",
+  "questions": [
+    {
+      "question": "Hvilken østerriksk by ved elven Salzach, også kjent for en stor musikkfestival, var Wolfgang Amadeus Mozarts fødeby?",
+      "answer": "Salzburg",
+      "aliases": [
+        "Salzburg i Østerrike"
+      ]
+    },
+    {
+      "question": "Ludwig van Beethoven døde i Wien, men ble født i hvilken by ved Rhinen, som senere var Vest-Tysklands hovedstad?",
+      "answer": "Bonn",
+      "aliases": [
+        "Bonn i Tyskland"
+      ]
+    },
+    {
+      "question": "På hvilken middelhavsøy, som ble fransk bare året før han ble født, kom Napoleon Bonaparte til verden i 1769?",
+      "answer": "Korsika",
+      "aliases": [
+        "Corsica"
+      ]
+    },
+    {
+      "question": "Det høres ut som et sted for badekåpe, agurkvann og full avkobling, men hos Agatha Christie er det også fødestedet til Hercule Poirot. Hvilken belgisk kommune?",
+      "answer": "Spa",
+      "aliases": [
+        "Spa i Belgia"
+      ]
+    },
+    {
+      "question": "På hvilken portugisisk øy i Atlanterhavet, kjent for både vin og kake, ble Cristiano Ronaldo født i 1985?",
+      "answer": "Madeira",
+      "aliases": [
+        "Madeiraøyene"
+      ]
+    }
+  ]
+}
