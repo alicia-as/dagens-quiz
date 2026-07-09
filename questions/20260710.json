@@ -1,0 +1,37 @@
+{
+  "theme": "Tøffe typer i filmhistorien",
+  "questions": [
+    {
+      "question": "Hvilken film fra 1971, lagt til San Francisco og med Clint Eastwood som den kompromissløse politimannen Harry Callahan, ga rollefiguren hans et varig kallenavn?",
+      "answer": "Dirty Harry",
+      "aliases": [
+        "Dirty Harry (1971)"
+      ]
+    },
+    {
+      "question": "Hvilken actionfilm fra 1988 lar New York-politimannen John McClane havne i en høytliggende julefeiring som går svært galt i Los Angeles?",
+      "answer": "Die Hard",
+      "aliases": [
+        "Die Hard (1988)"
+      ]
+    },
+    {
+      "question": "Hva heter Vietnam-veteranen som Sylvester Stallone spiller i filmen «First Blood», og som senere ble en av actionfilmens mest kjente enmannshærer?",
+      "answer": "John Rambo",
+      "aliases": [
+        "Rambo"
+      ]
+    },
+    {
+      "question": "Hvilken kampsportlegende, født i San Francisco og død som 32-åring, spiller hovedrollen i «Enter the Dragon»?",
+      "answer": "Bruce Lee"
+    },
+    {
+      "question": "Hva heter smugleren som først dukker opp i «Star Wars» fra 1977, og som styrer Millennium Falcon sammen med førstestyrmannen Chewbacca?",
+      "answer": "Han Solo",
+      "aliases": [
+        "Solo"
+      ]
+    }
+  ]
+}
