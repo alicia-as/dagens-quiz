@@ -1,0 +1,44 @@
+{
+  "theme": "USA",
+  "announcement": "VM-eventyret er over for Norge, men USA er fortsatt på programmet. Dagens fem tar deg fra Alamo til Capitol Hill.",
+  "questions": [
+    {
+      "question": "11. juli 2026 røk Norge ut av VM i kvartfinalen etter 1–2 mot hvilket land?",
+      "answer": "England"
+    },
+    {
+      "question": "USA deler VM-vertsskapet i 2026 med hvilke to land?",
+      "answer": "Canada og Mexico",
+      "aliases": [
+        "Mexico og Canada",
+        "Canada, Mexico",
+        "Mexico, Canada"
+      ]
+    },
+    {
+      "question": "Hvilken amerikansk folkehelt, med etternavn som minner om plenleken der man slår trekuler gjennom bøyler, møtte sin skjebne ved Alamo?",
+      "answer": "Davy Crockett",
+      "aliases": [
+        "David Crockett",
+        "Crockett"
+      ]
+    },
+    {
+      "question": "Senator Lindsey Graham døde 11. juli 2026. Hvilken delstat, som også var den første sørstaten til å trekke seg ut av Unionen etter Lincolns valg i 1860, representerte han?",
+      "answer": "South Carolina",
+      "aliases": [
+        "Sør-Carolina",
+        "Sør Carolina",
+        "South Carolina, USA"
+      ]
+    },
+    {
+      "question": "Hvor mange amerikanske delstater begynner på bokstaven M?",
+      "answer": "8  ",
+      "aliases": [
+        "åtte  ",
+        "atte  "
+      ]
+    }
+  ]
+}
