@@ -1,0 +1,44 @@
+{
+  "theme": "Vann",
+  "questions": [
+    {
+      "question": "Akevitt har navn fra det latinske uttrykket «aqua vitae». Hva betyr det?",
+      "answer": "Livets vann",
+      "aliases": [
+        "Livets vatn"
+      ]
+    },
+    {
+      "question": "Fiskere langs kysten av Sør-Amerika ga værfenomenet El Niño navn etter tiden rundt jul, og Jesus er en del av forklaringen. Hva betyr navnet i denne sammenhengen?",
+      "answer": "Jesusbarnet",
+      "aliases": [
+        "Jesus-barnet",
+        "Jesusbarn",
+        "Kristusbarnet",
+        "Kristusbarn"
+      ]
+    },
+    {
+      "question": "Hvilken stor elv renner gjennom Bamako, hovedstaden i Mali? Elven har samme navn som et av Malis naboland.",
+      "answer": "Niger",
+      "aliases": [
+        "Nigerelven",
+        "Niger-elven"
+      ]
+    },
+    {
+      "question": "Hvilken sibirsk innsjø inneholder mer ferskvann enn noen annen innsjø i verden?",
+      "answer": "Bajkalsjøen",
+      "aliases": [
+        "Bajkal",
+        "Baikalsjøen",
+        "Baikal",
+        "Lake Baikal"
+      ]
+    },
+    {
+      "question": "Ved hvilken Østfold-by munner Norges lengste elv, Glomma, ut i Oslofjorden?",
+      "answer": "Fredrikstad"
+    }
+  ]
+}
