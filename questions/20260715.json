@@ -1,0 +1,36 @@
+{
+  "theme": "Mål og mening",
+  "questions": [
+    {
+      "question": "Du har faktisk svaret helt nederst på kroppen: Hvilken lengdeenhet tilsvarer nøyaktig 30,48 centimeter?",
+      "answer": "Fot"
+    },
+    {
+      "question": "Hvilken lengdeenhet tilsvarer nøyaktig 0,9144 meter?",
+      "answer": "Yard"
+    },
+    {
+      "question": "Et lite hint nå som det er fotball-VM: En internasjonal fotballbane dekker omtrent sju av dem, og det er to av dem på banen, men da med en annen betydning. Hvilken arealenhet tilsvarer 1 000 kvadratmeter?",
+      "answer": "Mål",
+      "aliases": [
+        "Dekar"
+      ]
+    },
+    {
+      "question": "Hvilket tall skrives XLI med romertall?",
+      "answer": "41  ",
+      "aliases": [
+        "Førti én  ",
+        "Førti en  "
+      ]
+    },
+    {
+      "question": "Gull stemplet 750 består av 750 tusendeler rent gull. Hvor mange karat tilsvarer det?",
+      "answer": "18 karat",
+      "aliases": [
+        "Atten karat",
+        "18  "
+      ]
+    }
+  ]
+}
