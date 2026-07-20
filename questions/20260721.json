@@ -1,0 +1,43 @@
+{
+  "theme": "På scenen",
+  "questions": [
+    {
+      "question": "Hvilket norsk arkitektkontor, som deler navn med en kjent fjelltopp på Dovrefjell, tegnet Operahuset i Oslo?",
+      "answer": "Snøhetta",
+      "aliases": [
+        "Snøhetta arkitekter",
+        "Snøhetta arkitektkontor"
+      ]
+    },
+    {
+      "question": "I hvilken Mozart-opera, der prins Tamino må gjennom prøvelser med ild og vann, møter vi Nattens dronning?",
+      "answer": "Tryllefløyten",
+      "aliases": [
+        "Die Zauberflöte",
+        "The Magic Flute"
+      ]
+    },
+    {
+      "question": "Hvilken Ibsen-skikkelse spiser makroner, danser tarantella og holder et hemmelig lån skjult for ektemannen?",
+      "answer": "Nora Helmer",
+      "aliases": [
+        "Nora"
+      ]
+    },
+    {
+      "question": "Hvilken fiktiv barber fra Fleet Street samarbeider med paibakeren Mrs. Lovett?",
+      "answer": "Sweeney Todd",
+      "aliases": [
+        "Sweeney Todd: The Demon Barber of Fleet Street"
+      ]
+    },
+    {
+      "question": "Hvilken musikal lar skuespillerne opptre som dyr med værhår og inneholder sangen «Memory»?",
+      "answer": "Cats",
+      "aliases": [
+        "Cats the Musical",
+        "Cats-musikalen"
+      ]
+    }
+  ]
+}
