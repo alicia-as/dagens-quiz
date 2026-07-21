@@ -1,0 +1,38 @@
+{
+  "theme": "Ord på avveie",
+  "questions": [
+    {
+      "question": "Hva er «regninger» og «Agnes i senga» eksempler på?",
+      "answer": "Palindromer",
+      "aliases": [
+        "palindrom",
+        "et palindrom"
+      ]
+    },
+    {
+      "question": "Hva betyr det franske ordet «poulet»?",
+      "answer": "Kylling",
+      "aliases": [
+        "en kylling"
+      ]
+    },
+    {
+      "question": "Hva betyr det juridiske uttrykket «bona fide»?",
+      "answer": "I god tro",
+      "aliases": [
+        "god tro"
+      ]
+    },
+    {
+      "question": "Hva står CNN for?",
+      "answer": "Cable News Network"
+    },
+    {
+      "question": "Hva er den latinske betegnelsen for øresus?",
+      "answer": "Tinnitus",
+      "aliases": [
+        "tinnitus aurium"
+      ]
+    }
+  ]
+}
