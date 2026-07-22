@@ -1,0 +1,34 @@
+{
+  "theme": "Hovedsteder ved fjell",
+  "questions": [
+    {
+      "question": "Hvilket høytliggende land ligger mellom India og Kina, og har Kathmandu som hovedstad?",
+      "answer": "Nepal"
+    },
+    {
+      "question": "Hvilken hovedstad i Ecuador ligger ved vulkanen Pichincha?",
+      "answer": "Quito"
+    },
+    {
+      "question": "Donald Trump og konflikten med Iran har preget nyhetene i sommer. Hva heter Irans hovedstad?",
+      "answer": "Teheran",
+      "aliases": [
+        "Tehran"
+      ]
+    },
+    {
+      "question": "Hvilken søramerikansk hovedstad ligger ved foten av Andesfjellene?",
+      "answer": "Santiago",
+      "aliases": [
+        "Santiago de Chile"
+      ]
+    },
+    {
+      "question": "Hvilket land har Tbilisi som hovedstad og ligger ved Kaukasus?",
+      "answer": "Georgia",
+      "aliases": [
+        "Georgien"
+      ]
+    }
+  ]
+}
