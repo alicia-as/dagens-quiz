@@ -1,0 +1,40 @@
+{
+  "theme": "Frukt og bær",
+  "questions": [
+    {
+      "question": "Hvilken bestemor har gitt navn til en eplesort med grønt skall?",
+      "answer": "Granny Smith",
+      "aliases": [
+        "Granny",
+        "Granny Smith-eple"
+      ]
+    },
+    {
+      "question": "Med et passende navn, hva heter verdens største produsent av rosiner?",
+      "answer": "Sun-Maid",
+      "aliases": [
+        "Sunmaid",
+        "Sun Maid"
+      ]
+    },
+    {
+      "question": "Hva heter den grønne vindruen som har sitt opphav i Tyskland og dyrkes i Mosel og Rhindalen og også er spredd til mange andre land?",
+      "answer": "Riesling",
+      "aliases": [
+        "Rieslingdrue"
+      ]
+    },
+    {
+      "question": "Hva kalles den italienske drikken som lages av rester av knuste drueskall, steiner og stilker, etter at druesaften er brukt til vinlaging?",
+      "answer": "Grappa"
+    },
+    {
+      "question": "Hvilken hard og blank frukt fra varmere strøk, rød inni og med rusten rødbrun farge utenpå, har et våpen i navnet?",
+      "answer": "Granateple",
+      "aliases": [
+        "Granat-eple",
+        "Pomegranate"
+      ]
+    }
+  ]
+}
