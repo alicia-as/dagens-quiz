@@ -1,0 +1,44 @@
+{
+  "theme": "På skolen",
+  "questions": [
+    {
+      "question": "Alfa, Bravo og Charlie er de tre første ordene i det fonetiske alfabetet. Hva er de tre neste?",
+      "answer": "Delta, Echo og Foxtrot",
+      "aliases": [
+        "Delta Echo Foxtrot",
+        "Delta, Echo, Foxtrot",
+        "Delta Ekko Foxtrot"
+      ]
+    },
+    {
+      "question": "Hva står BI opprinnelig for?",
+      "answer": "Bedriftsøkonomisk Institutt",
+      "aliases": [
+        "Bedriftsøkonomisk institutt"
+      ]
+    },
+    {
+      "question": "Hvilken årlig aksjon lar elever arbeide én dag for å støtte ungdom i andre land?",
+      "answer": "Operasjon Dagsverk",
+      "aliases": [
+        "OD"
+      ]
+    },
+    {
+      "question": "Hva heter skolen på Oslo vest der hovedpersonene i «Skam» er elever?",
+      "answer": "Hartvig Nissens skole",
+      "aliases": [
+        "Hartvig Nissen",
+        "Hartvig Nissens",
+        "Nissen"
+      ]
+    },
+    {
+      "question": "Hvem grunnla Akademiet i Athen, der Aristoteles var elev?",
+      "answer": "Platon",
+      "aliases": [
+        "Plato"
+      ]
+    }
+  ]
+}
