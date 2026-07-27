@@ -1,0 +1,34 @@
+{
+  "theme": "Dansetrinn",
+  "questions": [
+    {
+      "question": "Hva kalles dansen som også er navnet på mellomtilstanden mellom liv og død i katolsk lære?",
+      "answer": "Limbo",
+      "aliases": [
+        "Limbodans"
+      ]
+    },
+    {
+      "question": "Hvilken dans representerer bokstaven T i det fonetiske alfabetet?",
+      "answer": "Tango"
+    },
+    {
+      "question": "Hvilken dans som oppsto i Böhmen på 1830-tallet, har gitt navn til en jordbærsort og noen søte små griser?",
+      "answer": "Polka"
+    },
+    {
+      "question": "Hvilken saus har samme navn som en cubansk dans?",
+      "answer": "Salsa",
+      "aliases": [
+        "Salsadans"
+      ]
+    },
+    {
+      "question": "Hvilken musikk- og danseform fra Karibia ble gjort populær av Harry Belafonte og deler navn med nymfen som holdt Odyssevs på øya Ogygia?",
+      "answer": "Calypso",
+      "aliases": [
+        "Kalypso"
+      ]
+    }
+  ]
+}
