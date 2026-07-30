@@ -1,0 +1,25 @@
+{
+  "theme": "En kopp til",
+  "questions": [
+    {
+      "question": "Hvilken kaffesort, som er den mest utbredte i verden, har et navn med geografiske røtter øst for Rødehavet?",
+      "answer": "Arabica"
+    },
+    {
+      "question": "Hvilken espressobasert kaffedrikk med dampet melk og melkeskum har fått navn etter drakten til en munkeorden?",
+      "answer": "Cappuccino"
+    },
+    {
+      "question": "Hvilken indonesisk øy har gitt navn til både en kaffesort og et programmeringsspråk?",
+      "answer": "Java"
+    },
+    {
+      "question": "Hvilket kaffemerke ble landsdekkende etter at bedriften innledet et samarbeid med REMA 1000 i 1979?",
+      "answer": "Kjeldsberg"
+    },
+    {
+      "question": "Hvilket kaffemerke, som ifølge reklamen kurerer gruff, deler navn med en tidligere verdensmester i tungvektsboksing?",
+      "answer": "Ali kaffe"
+    }
+  ]
+}
