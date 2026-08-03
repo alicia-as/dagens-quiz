@@ -1,0 +1,33 @@
+{
+  "theme": "På tur i Spania 🇪🇸 (repeat)",
+  "questions": [
+    {
+      "question": "Den spanske byen Alicante ligger langs en kyst som har fått navn etter en farge. Hva blir den kalt?",
+      "answer": "Costa Blanca",
+      "aliases": [
+        "Costa Blanca, Spania",
+        "Blanca, Costa"
+      ]
+    },
+    {
+      "question": "Hvilken spansk by, hvis navn kan deles i et transportmiddel og en kinesisk matrett, kunne stolt vise fram sitt nye Guggenheim-museum i 1997?",
+      "answer": "Bilbao"
+    },
+    {
+      "question": "Hvilken nordlig spansk by på størrelse med Oslo i folketall har bokstaven «Z» skrevet to ganger i navnet sitt?",
+      "answer": "Zaragoza"
+    },
+    {
+      "question": "Dersom du seiler rett øst fra Valencia, hvilken stor øy støter du da etter hvert på?",
+      "answer": "Mallorca",
+      "aliases": [
+        "Mallorca, Spania",
+        "Majorca"
+      ]
+    },
+    {
+      "question": "I hvilken spansk by med et noe våpenklingende navn ligger praktbygget Alhambra som ble bygget av maurerne på 12- og 1300-tallet?",
+      "answer": "Granada"
+    }
+  ]
+}
