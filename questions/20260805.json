@@ -1,0 +1,36 @@
+{
+  "theme": "Små kryp",
+  "questions": [
+    {
+      "question": "I hvilken verdensdel finner vi edderkoppen Red Back Spider?",
+      "answer": "Australia",
+      "aliases": [
+        "Oseania"
+      ]
+    },
+    {
+      "question": "Hvilken sommerfugl har den høyeste militære graden, en grad særlig forbundet med livet til havs?",
+      "answer": "Admiralen",
+      "aliases": [
+        "Admiral",
+        "Admiralsommerfugl"
+      ]
+    },
+    {
+      "question": "Hvilken potetspisende billeart har fått sitt navn etter en amerikansk delstat med Denver som hovedstad?",
+      "answer": "Coloradobillen",
+      "aliases": [
+        "Coloradobille",
+        "Colorado-billen"
+      ]
+    },
+    {
+      "question": "Hvilket kjøretøy fra den italienske produsenten Piaggio har fått navn etter et insekt?",
+      "answer": "Vespa"
+    },
+    {
+      "question": "Hva kalles biene som har til oppgave å befrukte dronningbien? Dagens hint finner du i luftrommet over Russland og Ukraina.",
+      "answer": "Droner"
+    }
+  ]
+}
