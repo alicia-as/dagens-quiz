@@ -1,0 +1,35 @@
+{
+  "theme": "Øyhopping",
+  "questions": [
+    {
+      "question": "Hvilken kjent skikkelse i litteraturen, som for tiden er meget aktuell på kinolerretet, skal ha vært konge på øya Ithaka?",
+      "answer": "Odyssevs",
+      "aliases": [
+        "Odysseus",
+        "Ulysses"
+      ]
+    },
+    {
+      "question": "Sicilia er Middelhavets største øy. Hva heter regionshovedstaden?",
+      "answer": "Palermo"
+    },
+    {
+      "question": "Flyplassen på Réunion er oppkalt etter en fransk flyver som også har gitt navn til en kjent tennisarena. Hvem?",
+      "answer": "Roland Garros",
+      "aliases": [
+        "Roland-Garros"
+      ]
+    },
+    {
+      "question": "I hvilket land kan du feriere på øyene Krk, Brač, Hvar og Korčula?",
+      "answer": "Kroatia",
+      "aliases": [
+        "Croatia"
+      ]
+    },
+    {
+      "question": "Hvilken stor øy er delt mellom Indonesia, Malaysia og Brunei?",
+      "answer": "Borneo"
+    }
+  ]
+}
