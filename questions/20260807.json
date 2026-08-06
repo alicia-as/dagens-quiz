@@ -1,0 +1,40 @@
+{
+  "theme": "På jobb",
+  "questions": [
+    {
+      "question": "Hvilket yrke har en som vurderer, serverer og anbefaler vin på restaurant?",
+      "answer": "Sommelier",
+      "aliases": [
+        "Vinkelner"
+      ]
+    },
+    {
+      "question": "Hvilket yrke har en som leder skip trygt gjennom vanskelige farvann eller inn til havn?",
+      "answer": "Los",
+      "aliases": [
+        "Skipslos"
+      ]
+    },
+    {
+      "question": "Hva slags yrke hadde oppfinneren av Coca-Cola, John Stith Pemberton? Som hint ble drikken opprinnelig utviklet med medisinske ambisjoner.",
+      "answer": "Apoteker",
+      "aliases": [
+        "Farmasøyt"
+      ]
+    },
+    {
+      "question": "Hvilket yrke har Clark Kent når han ikke opptrer som Supermann?",
+      "answer": "Journalist",
+      "aliases": [
+        "Reporter"
+      ]
+    },
+    {
+      "question": "Mario og Luigi er mest kjent for å redde prinsesser, men hvilket yrke har de egentlig?",
+      "answer": "Rørleggere",
+      "aliases": [
+        "Rørlegger"
+      ]
+    }
+  ]
+}
