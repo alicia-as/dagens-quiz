@@ -1,0 +1,47 @@
+{
+  "theme": "Under bakken",
+  "questions": [
+    {
+      "question": "Hva heter dryppsteinsformasjonene som vokser ned fra taket i en grotte?",
+      "answer": "Stalaktitter",
+      "aliases": [
+        "Stalaktitt",
+        "Takdryppstein",
+        "Takdryppsteiner"
+      ]
+    },
+    {
+      "question": "I hvilket land ligger Lascaux-hulene, som er berømte for sine forhistoriske hulemalerier?",
+      "answer": "Frankrike",
+      "aliases": [
+        "France"
+      ]
+    },
+    {
+      "question": "Hvilken menneskeart har navn etter Neanderdalen i Tyskland?",
+      "answer": "Neandertaler",
+      "aliases": [
+        "Neandertaleren",
+        "Neanderthaler",
+        "Neanderthaleren",
+        "Homo neanderthalensis"
+      ]
+    },
+    {
+      "question": "Hva kalles underjordiske gravganger som særlig forbindes med de første kristne i Roma?",
+      "answer": "Katakomber",
+      "aliases": [
+        "Katakombe",
+        "Katakombene",
+        "Catacombs"
+      ]
+    },
+    {
+      "question": "Hvilket metall ble utvunnet i gruvene på Kongsberg i mer enn 300 år?",
+      "answer": "Sølv",
+      "aliases": [
+        "Ag"
+      ]
+    }
+  ]
+}
