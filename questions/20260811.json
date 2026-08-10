@@ -1,0 +1,43 @@
+{
+  "theme": "Bak navnet",
+  "questions": [
+    {
+      "question": "Robert Allen Zimmerman slo gjennom som visesanger tidlig på 1960-tallet. Under hvilket navn kjenner vi ham?",
+      "answer": "Bob Dylan",
+      "aliases": [
+        "Dylan"
+      ]
+    },
+    {
+      "question": "Eric Arthur Blair skrev blant annet Animal Farm og 1984. Under hvilket navn ble han kjent?",
+      "answer": "George Orwell",
+      "aliases": [
+        "Orwell"
+      ]
+    },
+    {
+      "question": "Hvilken krimforfatter skrev romantiske romaner under pseudonymet Mary Westmacott?",
+      "answer": "Agatha Christie",
+      "aliases": [
+        "Christie",
+        "Dame Agatha Christie"
+      ]
+    },
+    {
+      "question": "Reginald Kenneth Dwight har solgt flere hundre millioner plater. Hva er artistnavnet hans?",
+      "answer": "Elton John",
+      "aliases": [
+        "Elton",
+        "Sir Elton John",
+        "Elton Hercules John"
+      ]
+    },
+    {
+      "question": "William Frederick Cody grunnla sitt berømte Wild West-show i 1883. Under hvilket navn ble han kjent?",
+      "answer": "Buffalo Bill",
+      "aliases": [
+        "Buffalo Bill Cody"
+      ]
+    }
+  ]
+}
