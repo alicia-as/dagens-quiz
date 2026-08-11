@@ -1,0 +1,37 @@
+{
+  "theme": "Lurt tenkt",
+  "questions": [
+    {
+      "question": "Hva tok Alfred Nobel patent på i 1867?",
+      "answer": "Dynamitt",
+      "aliases": [
+        "Dynamite"
+      ]
+    },
+    {
+      "question": "Hvilket syntetisk stoff, utviklet i 1930-årene, ble blant annet brukt til fallskjermduker under andre verdenskrig?",
+      "answer": "Nylon"
+    },
+    {
+      "question": "Hvilket kjøkkenredskap tok Thor Bjørklund patent på i 1925?",
+      "answer": "Ostehøvel",
+      "aliases": [
+        "Ostehøvelen",
+        "Cheese slicer"
+      ]
+    },
+    {
+      "question": "Hvilket dataspill ble utviklet av den russiske programmereren Aleksej Pazjitnov i 1985?",
+      "answer": "Tetris"
+    },
+    {
+      "question": "Hvilket instrument tok Adolphe Sax patent på i 1846?",
+      "answer": "Saksofon",
+      "aliases": [
+        "Saksofonen",
+        "Saxofon",
+        "Saxophone"
+      ]
+    }
+  ]
+}
