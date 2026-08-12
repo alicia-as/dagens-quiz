@@ -1,0 +1,43 @@
+{
+  "theme": "Byer på «G»",
+  "questions": [
+    {
+      "question": "Hvilken svensk by forbindes med Liseberg, Avenyn og fotballklubben IFK?",
+      "answer": "Göteborg",
+      "aliases": [
+        "Gøteborg",
+        "Gothenburg"
+      ]
+    },
+    {
+      "question": "I hvilken sveitsisk by ligger hovedkvarterene til blant andre WHO og WTO?",
+      "answer": "Genève",
+      "aliases": [
+        "Geneve",
+        "Geneva"
+      ]
+    },
+    {
+      "question": "Hvilken italiensk havneby regnes som Christofer Columbus’ fødeby?",
+      "answer": "Genova",
+      "aliases": [
+        "Genoa"
+      ]
+    },
+    {
+      "question": "Hvilken egyptisk by forbindes først og fremst med pyramidene og Sfinksen?",
+      "answer": "Giza",
+      "aliases": [
+        "Gizeh"
+      ]
+    },
+    {
+      "question": "Hvilken polsk havneby var arnested for fagbevegelsen Solidaritet?",
+      "answer": "Gdańsk",
+      "aliases": [
+        "Gdansk",
+        "Danzig"
+      ]
+    }
+  ]
+}
