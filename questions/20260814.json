@@ -1,0 +1,33 @@
+{
+  "theme": "Helt på «H»",
+  "questions": [
+    {
+      "question": "I hvilken by finner vi den verdensberømte Waikiki-stranden?",
+      "answer": "Honolulu",
+      "aliases": []
+    },
+    {
+      "question": "Hvilken plante skal ifølge folketroen holde vampyrer unna?",
+      "answer": "Hvitløk",
+      "aliases": []
+    },
+    {
+      "question": "Hvilken sykdom forårsakes av det samme viruset som vannkopper?",
+      "answer": "Helvetesild",
+      "aliases": [
+        "Herpes zoster",
+        "Herpes"
+      ]
+    },
+    {
+      "question": "Hva heter den greske gudinnen som var gift med Zevs?",
+      "answer": "Hera",
+      "aliases": []
+    },
+    {
+      "question": "Hva kalles en organisme med både hannlige og hunnlige reproduksjonsorganer?",
+      "answer": "Hermafroditt",
+      "aliases": []
+    }
+  ]
+}
