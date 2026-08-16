@@ -1,0 +1,37 @@
+{
+  "theme": "Havet på menyen",
+  "questions": [
+    {
+      "question": "Hvilken fisk brukes vanligvis som råvare i bacalao?",
+      "answer": "Klippfisk",
+      "aliases": [
+        "Klippfisk av torsk",
+        "Torsk"
+      ]
+    },
+    {
+      "question": "Hva slags fisk er marulk et annet navn på? Ifølge en kjent Bergen-hjemlengselsang finnes denne fisken overalt.",
+      "answer": "Breiflabb",
+      "aliases": [
+        "Havtaske"
+      ]
+    },
+    {
+      "question": "Hva heter den japanske planten med sterk smak som ofte serveres til sushi?",
+      "answer": "Wasabi",
+      "aliases": []
+    },
+    {
+      "question": "Hva kalles den fete bukdelen av tunfisk som regnes som en delikates i sushi? Tenk suppeposer for nordmenn og okser for spanjoler.",
+      "answer": "Toro",
+      "aliases": []
+    },
+    {
+      "question": "Hva heter den svenske retten av fermentert sild som selges på boks, og som navnet antyder kan minne om noen ikke særlig blide svensker?",
+      "answer": "Surströmming",
+      "aliases": [
+        "Surstromming"
+      ]
+    }
+  ]
+}
