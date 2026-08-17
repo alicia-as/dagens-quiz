@@ -1,0 +1,41 @@
+{
+  "theme": "Albumtitler",
+  "questions": [
+    {
+      "question": "Et sted de færreste har sett, og ingen har vært, er tittelen på et av verdens mest solgte album. Hvilket sted?",
+      "answer": "The Dark Side of the Moon",
+      "aliases": [
+        "Dark Side of the Moon",
+        "Månens bakside",
+        "Dark Side"
+      ]
+    },
+    {
+      "question": "Hvilket album av Di Derre hadde først tittelen «Kvinner og Klær», men skiftet navn etter trusler om søksmål?",
+      "answer": "Jenter & Sånn",
+      "aliases": [
+        "Jenter og sånn",
+        "Jenter og sann"
+      ]
+    },
+    {
+      "question": "Hvilket band ga ut lp-en «The Joshua Tree» i 1987, som ble kåret til årets album av Grammy? Navnet er også et spionfly.",
+      "answer": "U2",
+      "aliases": [
+        "U 2"
+      ]
+    },
+    {
+      "question": "Hvilket band debuterte med albumet «Ring Ring» i 1973? Bandnavnet er et palindrom.",
+      "answer": "ABBA",
+      "aliases": [
+        "Abba"
+      ]
+    },
+    {
+      "question": "Hvilket Beatles-album fra 1966 har et våpen som tittel, som vanligvis holder seks patroner?",
+      "answer": "Revolver",
+      "aliases": []
+    }
+  ]
+}
