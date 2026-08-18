@@ -1,0 +1,51 @@
+{
+  "theme": "Forbindelser",
+  "questions": [
+    {
+      "question": "Hvilket navn mangler: Kim Cattrall, Kristin Davis, Cynthia Nixon?",
+      "answer": "Sarah Jessica Parker",
+      "aliases": [
+        "Sarah Jessica",
+        "Jessica Parker",
+        "SJP"
+      ]
+    },
+    {
+      "question": "Den amerikanske grunnloven setter en grense for hvor mange år man kan sitte som president. Det gikk like mange år mellom Kjetil André Aamodts to første OL-gull i Super-G. Hvor mange år?",
+      "answer": "10  ",
+      "aliases": [
+        "ti  ",
+        "ti år  ",
+        "10 år  "
+      ]
+    },
+    {
+      "question": "Norge har tre store seilskip: Christian Radich, Statsraad Lehmkuhl og …? Det er også en landsdel.",
+      "answer": "Sørlandet",
+      "aliases": [
+        "Sorlandet",
+        "Sørlandet seilskip",
+        "SKS Sørlandet"
+      ]
+    },
+    {
+      "question": "Hva har Sava, Asterix, Gullauge, Beate og Ottar til felles?",
+      "answer": "Poteter",
+      "aliases": [
+        "Potet",
+        "Potetsorter",
+        "De er poteter",
+        "Potetsort"
+      ]
+    },
+    {
+      "question": "Saint John’s, Jerevan og Baku er alle hovedsteder i land som har felles forbokstav. Hvilken bokstav?",
+      "answer": "A  ",
+      "aliases": [
+        "bokstaven a  ",
+        "bokstav a  ",
+        "a.  "
+      ]
+    }
+  ]
+}
