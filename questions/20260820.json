@@ -1,0 +1,53 @@
+{
+  "theme": "Gastronomisk finesse",
+  "questions": [
+    {
+      "question": "Ekte russisk kaviar er svart og grovkornet og regnes blant verdens mest eksklusive delikatesser. Fra hva slags fisk lages denne?",
+      "answer": "Stør",
+      "aliases": [
+        "Støren",
+        "Beluga",
+        "Belugastør",
+        "Størfisk",
+        "Størfamilien"
+      ]
+    },
+    {
+      "question": "Den berømte rødvinen Chianti lages tradisjonelt i et bølgende kulturlandskap. Fra hvilken italiensk region kommer denne vinen?",
+      "answer": "Toscana",
+      "aliases": [
+        "Tuscany",
+        "Toskana"
+      ]
+    },
+    {
+      "question": "Hvilken klassisk cocktail får du dersom du blander tequila, Cointreau (eller triple sec) og fersk limesaft, og serverer i et glass med saltkant?",
+      "answer": "Margarita",
+      "aliases": [
+        "Margerita",
+        "Margaritas"
+      ]
+    },
+    {
+      "question": "Hva kalles den italienske forretten som består av florlette, rå skiver av oksefilet servert med god olivenolje, sitron og høvlet parmesan?",
+      "answer": "Carpaccio",
+      "aliases": [
+        "Karpatsjo",
+        "Carpacio",
+        "Biff carpaccio",
+        "Beef carpaccio"
+      ]
+    },
+    {
+      "question": "I hvilken klassisk fransk smørsaus er fersk estragon den helt avgjørende smaksgiveren?",
+      "answer": "Béarnaise",
+      "aliases": [
+        "Bearnaise",
+        "Bernaise",
+        "Bearnaisesaus",
+        "Béarnaisesaus",
+        "Bernaisesaus"
+      ]
+    }
+  ]
+}
