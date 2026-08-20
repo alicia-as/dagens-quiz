@@ -1,0 +1,49 @@
+{
+  "theme": "Dyrenes meny",
+  "questions": [
+    {
+      "question": "Blader fra hvilket treslag står nesten alltid på menyen hos koalaen?",
+      "answer": "Eukalyptus",
+      "aliases": [
+        "Eukalyptusblader",
+        "Eukalyptusblad",
+        "Eucalyptus"
+      ]
+    },
+    {
+      "question": "Hvilken plante utgjør størstedelen av kostholdet til kjempepandaen?",
+      "answer": "Bambus",
+      "aliases": [
+        "Bambusskudd",
+        "Bambusplanten"
+      ]
+    },
+    {
+      "question": "Hvilket piggete sjødyr står gjerne på menyen hos havoteren?",
+      "answer": "Kråkebolle",
+      "aliases": [
+        "Kråkeboller",
+        "Sjøpinnsvin",
+        "Sea urchin"
+      ]
+    },
+    {
+      "question": "Hva lever den fredelige kjemperokken hovedsakelig av når den filtrerer sjøvann? Tar du bort K og N fra svaret, sitter du igjen med navnet på en gresk filosof.",
+      "answer": "Plankton",
+      "aliases": [
+        "Dyreplankton",
+        "Zooplankton",
+        "Planteplankton"
+      ]
+    },
+    {
+      "question": "Hvilke små krepsdyr er blåhvalens viktigste føde? Navnet rimer på noe mange finner frem om sommeren.",
+      "answer": "Krill",
+      "aliases": [
+        "Antarktisk krill",
+        "Småkreps",
+        "Små krepsdyr"
+      ]
+    }
+  ]
+}
