@@ -1,0 +1,73 @@
+{
+  "theme": "På sporet",
+  "questions": [
+    {
+      "question": "Bergensbanens høyeste punkt ligger 1237 meter over havet. Hvor befinner det seg?",
+      "answer": "Finsetunnelen",
+      "aliases": [
+        "Finse",
+        "Finse stasjon",
+        "Finse-tunnelen",
+        "Finse tunnel",
+        "I Finsetunnelen",
+        "I Finse",
+        "Ved Finse",
+        "Finsetunnelen på Bergensbanen"
+      ]
+    },
+    {
+      "question": "Hvilken belgisk detektiv løser et mord om bord på Orientekspressen?",
+      "answer": "Hercule Poirot",
+      "aliases": [
+        "Poirot",
+        "Herkul Poirot",
+        "Detektiven Poirot"
+      ]
+    },
+    {
+      "question": "Mellom hvilke to byer går hovedruten til Den transsibirske jernbanen?",
+      "answer": "Moskva og Vladivostok",
+      "aliases": [
+        "Vladivostok og Moskva",
+        "Moskva, Vladivostok",
+        "Moskva,Vladivostok",
+        "Vladivostok, Moskva",
+        "Vladivostok,Moskva",
+        "Moskva–Vladivostok",
+        "Vladivostok–Moskva",
+        "Moskva - Vladivostok",
+        "Vladivostok - Moskva",
+        "Moskva/Vladivostok",
+        "Vladivostok/Moskva",
+        "Moskva til Vladivostok",
+        "Vladivostok til Moskva",
+        "Moscow and Vladivostok",
+        "Vladivostok and Moscow",
+        "Moscow, Vladivostok",
+        "Vladivostok, Moscow",
+        "Moscow to Vladivostok",
+        "Vladivostok to Moscow"
+      ]
+    },
+    {
+      "question": "Hvilken litterær figur tar toget fra plattform 9¾?",
+      "answer": "Harry Potter",
+      "aliases": [
+        "Harry",
+        "Potter",
+        "Harry James Potter"
+      ]
+    },
+    {
+      "question": "Hvilket lokomotiv er hovedpersonen i barnebøkene og TV-serien om øya Sodor?",
+      "answer": "Lokomotivet Thomas",
+      "aliases": [
+        "Thomas",
+        "Thomas-toget",
+        "Thomas toget",
+        "Thomas the Tank Engine",
+        "Thomas og vennene hans"
+      ]
+    }
+  ]
+}
