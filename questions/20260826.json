@@ -1,0 +1,47 @@
+{
+  "theme": "Bak lås og slå",
+  "questions": [
+    {
+      "question": "Utenfor hvilken by ligger øya Alcatraz, som ble kjent for sitt beryktede fengsel?",
+      "answer": "San Francisco",
+      "aliases": [
+        "San Fransisco",
+        "San Francisco California",
+        "San Fransisco California"
+      ]
+    },
+    {
+      "question": "Hvilken øy har gitt navn til både ferjer og et skolehjem for gutter med atferdsproblemer?",
+      "answer": "Bastøy",
+      "aliases": [
+        "Bastoy",
+        "Bastøy skolehjem"
+      ]
+    },
+    {
+      "question": "I hvilken TV-serie foregår mye av handlingen i det fiktive fengselet Fox River State Penitentiary?",
+      "answer": "Prison Break",
+      "aliases": [
+        "TV-serien Prison Break",
+        "Prison break"
+      ]
+    },
+    {
+      "question": "Mona Grudt ble Miss Universe, Tyskland ble gjenforent og Nelson Mandela ble satt fri etter 27 års fangenskap. Hvilket år?",
+      "answer": "1990  ",
+      "aliases": []
+    },
+    {
+      "question": "Hvilken russisk forfatter brukte sine egne opplevelser fra en sibirsk fangeleir i «Opptegnelser fra det døde hus»?",
+      "answer": "Fjodor Dostojevskij",
+      "aliases": [
+        "Fjodor Mikhajlovitsj Dostojevskij",
+        "Fjodor Mikhailovitsj Dostojevskij",
+        "Dostojevskij",
+        "Dostoevskij",
+        "Fyodor Dostoevsky",
+        "Dostoevsky"
+      ]
+    }
+  ]
+}
