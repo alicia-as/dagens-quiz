@@ -1,0 +1,29 @@
+{
+  "theme": "På do",
+  "questions": [
+    {
+      "question": "Hvilket grunnstoff, med et navn som betyr «lysbærer», oppdaget Henning Brand etter å ha kokt inn store mengder urin?",
+      "answer": "Fosfor",
+      "aliases": ["P"]
+    },
+    {
+      "question": "Hvilket organ har det latinske navnet «vesica urinaria»?",
+      "answer": "Urinblæren",
+      "aliases": ["Blæren"]
+    },
+    {
+      "question": "Hvilken amerikansk romfartsorganisasjon resirkulerer astronautenes urin til drikkevann om bord på ISS?",
+      "answer": "NASA",
+      "aliases": ["National Aeronautics and Space Administration"]
+    },
+    {
+      "question": "Hvilket fransk ord for et vaskemøbel betyr opprinnelig «liten hest»?",
+      "answer": "Bidet"
+    },
+    {
+      "question": "Hvilken amerikansk rockekonge ble funnet livløs på badeværelset i Graceland i 1977?",
+      "answer": "Elvis Presley",
+      "aliases": ["Elvis"]
+    }
+  ]
+}
