@@ -1,0 +1,51 @@
+{
+  "theme": "På kartet",
+  "questions": [
+    {
+      "question": "Hvilket afrikansk kongedømme ligger helt omgitt av Sør-Afrika?",
+      "answer": "Lesotho",
+      "aliases": [
+        "Kongeriket Lesotho"
+      ]
+    },
+    {
+      "question": "De spanske byene Ceuta og Melilla ligger på det afrikanske fastlandet. Hvilket land grenser begge til?",
+      "answer": "Marokko",
+      "aliases": [
+        "Morocco",
+        "Kongeriket Marokko"
+      ]
+    },
+    {
+      "question": "Hva heter øya i Karibia som er delt mellom Haiti og Den dominikanske republikk?",
+      "answer": "Hispaniola",
+      "aliases": [
+        "La Española",
+        "Española",
+        "Haitiøya",
+        "Haiti-øya"
+      ]
+    },
+    {
+      "question": "Eksklaven Nakhitsjevan er skilt fra resten av landet sitt av Armenia. Hvilket land tilhører den?",
+      "answer": "Aserbajdsjan",
+      "aliases": [
+        "Azerbaijan",
+        "Republikken Aserbajdsjan",
+        "Aserbajdsjanrepublikken"
+      ]
+    },
+    {
+      "question": "De to Diomedesøyene ligger bare noen kilometer fra hverandre, men på hver sin side av den internasjonale datolinjen. Hvilke to land tilhører de?",
+      "answer": "USA og Russland",
+      "aliases": [
+        "Russland og USA",
+        "USA, Russland",
+        "Russland, USA",
+        "United States and Russia",
+        "Russia and the United States",
+        "Amerika og Russland"
+      ]
+    }
+  ]
+}
