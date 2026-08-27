@@ -1,0 +1,32 @@
+{
+  "theme": "Norske byer utenfor allfarvei",
+  "questions": [
+    {
+      "question": "Tre norske byer begynner på bokstaven «O». Oslo er den klart største. Hva heter de to andre, som har nesten identiske navn?",
+      "answer": "Otta og Odda",
+      "aliases": [
+        "Odda og Otta",
+        "Otta & Odda",
+        "Odda & Otta",
+        "Otta, Odda",
+        "Odda, Otta"
+      ]
+    },
+    {
+      "question": "Hvilken by i Østfold het Fredrikshald fram til 1928?",
+      "answer": "Halden"
+    },
+    {
+      "question": "Hvilken by i Vestfold er kjent for mineralvannet Farris og spahotellet Farris Bad?",
+      "answer": "Larvik"
+    },
+    {
+      "question": "Hvilken by er administrasjonssenteret i Telemark, og deler navn med noe mange bruker om vinteren?",
+      "answer": "Skien"
+    },
+    {
+      "question": "Hvilken tidligere gruveby står på UNESCOs verdensarvliste og er kjent for trehusbebyggelsen og kobberverket sitt?",
+      "answer": "Røros"
+    }
+  ]
+}
