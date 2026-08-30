@@ -1,0 +1,49 @@
+{
+  "theme": "Kong Harald V – til minne 🇳🇴",
+  "questions": [
+    {
+      "question": "Hvem var Norges flaggbærer under åpningsseremonien i sommer-OL i Tokyo i 1964, og senere Norges konge i 35 år?",
+      "answer": "Harald V",
+      "aliases": [
+        "Kong Harald",
+        "Kong Harald V",
+        "Harald 5",
+        "Kong Harald 5"
+      ]
+    },
+    {
+      "question": "Alle de fire norske kongene etter 1905 har brukt det samme valgspråket – også den nye kongen, Haakon VIII. Hvordan lyder det?",
+      "answer": "Alt for Norge",
+      "aliases": [
+        "Alt for Noreg"
+      ]
+    },
+    {
+      "question": "På midten av 1950-tallet startet produksjonen av et norsk bilmerke. Firmaet gikk konkurs i 1958. Hva het bilmerket, som hadde samme navn som Norges største gassfelt og Kong Haralds kallenavn på Dronning Sonja?",
+      "answer": "Troll",
+      "aliases": [
+        "Troll-bilen",
+        "Troll bil"
+      ]
+    },
+    {
+      "question": "Hvilken amerikansk president og nobelprisvinner ga navn til Kong Olav Vs favorittsigarett uten filter?",
+      "answer": "Teddy Roosevelt",
+      "aliases": [
+        "Theodore Roosevelt",
+        "Roosevelt",
+        "Teddy"
+      ]
+    },
+    {
+      "question": "Fredag 28. august ble det holdt et ekstraordinært møte på Slottet der Kong Haakon VIII formelt kunngjorde Kong Haralds bortgang. Hva slags møte var dette?",
+      "answer": "Statsråd",
+      "aliases": [
+        "Statsrådsmøte",
+        "Statsrådet",
+        "Ekstraordinært statsråd",
+        "Ekstraordinært statsrådsmøte"
+      ]
+    }
+  ]
+}
