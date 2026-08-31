@@ -1,0 +1,47 @@
+{
+  "theme": "Tronskifter",
+  "questions": [
+    {
+      "question": "Da Haakon VIII overtok tronen, fikk Ingrid Alexandra en ny tittel. Hvilken?",
+      "answer": "Kronprinsesse",
+      "aliases": [
+        "Norges kronprinsesse",
+        "Kronprinsesse Ingrid Alexandra"
+      ]
+    },
+    {
+      "question": "Da prins Carl ble Haakon VII i 1905, fikk sønnen Alexander også et nytt, mer norsk kongenavn. Hvilket?",
+      "answer": "Olav",
+      "aliases": [
+        "Olav V",
+        "Olav 5",
+        "Kong Olav",
+        "Kong Olav V"
+      ]
+    },
+    {
+      "question": "Haakon VII og Maud er det siste kongeparet som har blitt kronet i Norge. I hvilket år skjedde det?",
+      "answer": "1906  "
+    },
+    {
+      "question": "Dronning Margrethe II av Danmark gjorde dette så sent som i 2024, da hun frivillig overlot tronen til sønnen Frederik X. Hva kalles det når en monark frivillig gir fra seg tronen?",
+      "answer": "Abdikasjon",
+      "aliases": [
+        "Å abdisere",
+        "Abdisere",
+        "Abdisering"
+      ]
+    },
+    {
+      "question": "Den franske marskalken Jean-Baptiste Bernadotte ble valgt til svensk tronfølger og ble i 1818 konge av både Sverige og Norge. Under hvilket navn kjenner vi ham som norsk konge?",
+      "answer": "Karl III Johan",
+      "aliases": [
+        "Karl Johan",
+        "Karl 3 Johan",
+        "Carl III Johan",
+        "Carl 3 Johan",
+        "Carl Johan"
+      ]
+    }
+  ]
+}
