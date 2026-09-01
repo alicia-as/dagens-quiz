@@ -1,0 +1,43 @@
+{
+  "theme": "På kabelen",
+  "questions": [
+    {
+      "question": "Hvem fikk i 1876 patent på telefonen og forbindes med den første vellykkede telefonsamtalen?",
+      "answer": "Alexander Graham Bell",
+      "aliases": [
+        "Alexander Bell",
+        "Graham Bell",
+        "Bell"
+      ]
+    },
+    {
+      "question": "Hvilket internasjonalt nødsignal skrives som tre korte, tre lange og tre korte signaler i morsealfabetet?",
+      "answer": "SOS",
+      "aliases": [
+        "S.O.S."
+      ]
+    },
+    {
+      "question": "Verdens første SMS ble sendt i 1992. Hvilken julehilsen besto meldingen av?",
+      "answer": "Merry Christmas",
+      "aliases": [
+        "God jul"
+      ]
+    },
+    {
+      "question": "Den første nettsiden i verden hadde adressen info.cern.ch. I hvilket land ligger CERNs hovedanlegg?",
+      "answer": "Sveits",
+      "aliases": [
+        "Switzerland",
+        "Det sveitsiske edsforbund"
+      ]
+    },
+    {
+      "question": "Hva heter det amerikanske hermetiske kjøttproduktet som gjennom en Monty Python-sketsj ga navn til uønskede massemeldinger på internett?",
+      "answer": "Spam",
+      "aliases": [
+        "SPAM"
+      ]
+    }
+  ]
+}
