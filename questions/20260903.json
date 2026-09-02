@@ -1,0 +1,44 @@
+{
+  "theme": "Stillehavet",
+  "questions": [
+    {
+      "question": "Punktet i Stillehavet som ligger lengst fra land, har navn etter Jules Vernes berømte ubåtkaptein – og deler navn med klovnefisken som blir borte i en kjent animasjonsfilm. Hva kalles punktet?",
+      "answer": "Point Nemo",
+      "aliases": [
+        "Nemo-punktet",
+        "Nemo punktet",
+        "Punkt Nemo"
+      ]
+    },
+    {
+      "question": "Kon-Tiki la ut fra havnebyen Callao i 1947 med kurs for Polynesia. I hvilket land ligger Callao?",
+      "answer": "Peru",
+      "aliases": [
+        "Republikken Peru"
+      ]
+    },
+    {
+      "question": "Langs kysten av hvilken australsk delstat strekker verdens største korallrevsystem, Great Barrier Reef, seg?",
+      "answer": "Queensland",
+      "aliases": [
+        "Delstaten Queensland"
+      ]
+    },
+    {
+      "question": "Verdens nest største øy er delt mellom Papua Ny-Guinea i øst og hvilket land i vest?",
+      "answer": "Indonesia",
+      "aliases": [
+        "Republikken Indonesia"
+      ]
+    },
+    {
+      "question": "Da James Cook kom til Hawaii i 1778, ga han øygruppen navn etter en jarl som også forbindes med en populær matrett mellom to brødskiver. Hva kalte Cook øygruppen?",
+      "answer": "Sandwichøyene",
+      "aliases": [
+        "Sandwich-øyene",
+        "Sandwich Islands",
+        "The Sandwich Islands"
+      ]
+    }
+  ]
+}
