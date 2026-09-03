@@ -1,0 +1,28 @@
+{
+  "theme": "Si ost!",
+  "questions": [
+    {
+      "question": "Hvilken ost har fått navn etter en liten by i Somerset i England, og havner ofte oppå en hamburger?",
+      "answer": "Cheddar",
+      "aliases": ["Cheddarost"]
+    },
+    {
+      "question": "Hvilken italiensk by har gitt navn til både en ost og en skinke?",
+      "answer": "Parma"
+    },
+    {
+      "question": "En ost, en travbane og en greve – hvilket navn?",
+      "answer": "Jarlsberg",
+      "aliases": ["Jarlsbergost"]
+    },
+    {
+      "question": "Hvilken blåmuggost fra Tingvoll ble kåret til verdens beste ost i 2016?",
+      "answer": "Kraftkar"
+    },
+    {
+      "question": "Hvilken norsk kommune, kjent for sine votter, har også gitt navn til en blåmuggost?",
+      "answer": "Selbu",
+      "aliases": ["Selbu kommune"]
+    }
+  ]
+}
