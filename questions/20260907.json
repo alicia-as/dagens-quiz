@@ -1,0 +1,30 @@
+{
+  "theme": "Bare én bokstav",
+  "questions": [
+    {
+      "question": "Hvilken bokstav er kodenavnet til utstyrseksperten som forsyner James Bond med alt fra eksplosive penner til spesialutstyrte biler?",
+      "answer": " Q ",
+      "aliases": []
+    },
+    {
+      "question": "En maskert opprører med Guy Fawkes-maske kjemper mot et totalitært Storbritannia i en film fra 2005. Hvilken bokstav bruker han som navn?",
+      "answer": " V ",
+      "aliases": []
+    },
+    {
+      "question": "Hvilken bokstav betegner tallet 500 i romertallsystemet?",
+      "answer": " D ",
+      "aliases": []
+    },
+    {
+      "question": "I Einsteins berømte formel E = mc² står én bokstav for lyshastigheten i vakuum. Hvilken?",
+      "answer": " c ",
+      "aliases": []
+    },
+    {
+      "question": "Hvilken bokstav ble Twitters nye navn da tjenesten skiftet navn i 2023?",
+      "answer": " X ",
+      "aliases": []
+    }
+  ]
+}
