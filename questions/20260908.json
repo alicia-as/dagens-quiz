@@ -1,0 +1,34 @@
+{
+  "theme": "Fiktive arbeidsplasser",
+  "questions": [
+    {
+      "question": "Hva heter kaffebaren der Rachel jobber som servitør i «Friends», og vennegjengen stadig kaprer den samme sofaen?",
+      "answer": "Central Perk",
+      "aliases": ["Central perk café", "Central perk cafe"]
+    },
+    {
+      "question": "Hva heter kyllingkjeden som Gus Fring driver i «Breaking Bad» og «Better Call Saul»?",
+      "answer": "Los Pollos Hermanos",
+      "aliases": ["Los Pollos", "Pollos Hermanos"]
+    },
+    {
+      "question": "Hva heter hotellet i Torquay der Basil og Sybil er vertskap, og Manuel gjør sitt beste for å forstå beskjedene han får?",
+      "answer": "Fawlty Towers",
+      "aliases": [
+        "Hotell i særklasse",
+        "Hotell i serklasse",
+        "Fawlty Tower"
+      ]
+    },
+    {
+      "question": "Hva heter mediekonsernet som Roy-familien kjemper om kontrollen over i «Succession»?",
+      "answer": "Waystar Royco",
+      "aliases": ["Waystar", "Waystar Roy Co", "Waystar-Royco"]
+    },
+    {
+      "question": "Hva heter reklamebyrået der Don Draper er kreativ leder ved starten av «Mad Men»?",
+      "answer": "Sterling Cooper",
+      "aliases": ["Sterling Cooper Advertising", "Sterling & Cooper"]
+    }
+  ]
+}
