@@ -1,0 +1,30 @@
+{
+  "theme": "Poteter",
+  "questions": [
+    {
+      "question": "I hvilken film dyrker den strandede astronauten Mark Watney poteter for å overleve?",
+      "answer": "The Martian",
+      "aliases": ["Martian"]
+    },
+    {
+      "question": "Hvilken potetsort deler navn med en liten galler som gjerne drikker styrkedråper?",
+      "answer": "Asterix",
+      "aliases": ["Astérix"]
+    },
+    {
+      "question": "Hvilket land ble rammet av «den store hungersnøden» etter at potetavlingene sviktet på 1840-tallet?",
+      "answer": "Irland",
+      "aliases": ["Ireland"]
+    },
+    {
+      "question": "Hvilken italiensk rett består av små deigputer som ofte lages med poteter og mel?",
+      "answer": "Gnocchi",
+      "aliases": []
+    },
+    {
+      "question": "Hvilken nøtt har gitt navn til en avlang potetsort som ofte serveres til julemat?",
+      "answer": "Mandel",
+      "aliases": ["Mandelen", "Mandler"]
+    }
+  ]
+}
