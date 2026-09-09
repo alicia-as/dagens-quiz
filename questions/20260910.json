@@ -1,0 +1,40 @@
+{
+  "theme": "Tvillinger",
+  "questions": [
+    {
+      "question": "Hvilken by ble ifølge myten grunnlagt av tvillingbrødrene Romulus og Remus?",
+      "answer": "Roma",
+      "aliases": ["Rom", "Rome"]
+    },
+    {
+      "question": "Hvilke to hovedpersoner i Star Wars viser seg å være tvillinger?",
+      "answer": "Luke og Leia",
+      "aliases": [
+        "Leia og Luke",
+        "Luke Skywalker og Leia",
+        "Luke Skywalker og Leia Organa",
+        "Luke og prinsesse Leia",
+        "Luke Skywalker og prinsesse Leia"
+      ]
+    },
+    {
+      "question": "Hva heter tvillingbrødrene til Ronny Wiltersen i den norske utgaven av Harry Potter?",
+      "answer": "Fred og Frank",
+      "aliases": [
+        "Frank og Fred",
+        "Fred og Frank Wiltersen",
+        "Frank og Fred Wiltersen"
+      ]
+    },
+    {
+      "question": "Hvilken skuespiller spilte tvillingbror til Arnold Schwarzenegger i komedien «Twins» fra 1988?",
+      "answer": "Danny DeVito",
+      "aliases": ["DeVito", "Danny De Vito"]
+    },
+    {
+      "question": "Hvilket amerikansk romprogram fra 1960-tallet, mellom Mercury og Apollo, hadde navn etter stjernebildet Tvillingene? I dag deler det navn med en kjent chatbot.",
+      "answer": "Gemini",
+      "aliases": ["Gemini-programmet", "Project Gemini", "Gemini program"]
+    }
+  ]
+}
