@@ -1,0 +1,30 @@
+{
+  "theme": "Med «stein» i svaret",
+  "questions": [
+    {
+      "question": "Hva heter vitenskapsmannen som skaper et levende vesen i Mary Shelleys roman fra 1818?",
+      "answer": "Victor Frankenstein",
+      "aliases": ["Frankenstein", "Viktor Frankenstein"]
+    },
+    {
+      "question": "Hvilket tysk band står bak låtene «Du hast» og «Sonne»?",
+      "answer": "Rammstein",
+      "aliases": ["Ramstein"]
+    },
+    {
+      "question": "Hvilken produsent av pianoer og flygler har «& Sons» som del av navnet?",
+      "answer": "Steinway",
+      "aliases": ["Steinway & Sons", "Steinway and Sons"]
+    },
+    {
+      "question": "Hva heter den berømte steinen med tre skriftformer som ble nøkkelen til å tyde egyptiske hieroglyfer?",
+      "answer": "Rosettasteinen",
+      "aliases": ["Rosettastein", "Rosetta-steinen", "Rosetta steinen", "Rosetta Stone", "Rosetta"]
+    },
+    {
+      "question": "Hva kalles en høy, oppreist minnestein, ofte fra forhistorisk tid?",
+      "answer": "Bautastein",
+      "aliases": ["Bauta", "Bautasten", "Bautasteinen"]
+    }
+  ]
+}
