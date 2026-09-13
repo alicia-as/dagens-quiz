@@ -1,0 +1,30 @@
+{
+  "theme": "Vulkaner",
+  "questions": [
+    {
+      "question": "Hvilken vulkan begravde Pompeii i år 79?",
+      "answer": "Vesuv",
+      "aliases": ["Vesuvio", "Vesuvius", "Vesuvius-fjellet", "Monte Vesuvio", "Mount Vesuvius"]
+    },
+    {
+      "question": "Hvilken islandsk vulkan stanset flytrafikken i Europa i 2010?",
+      "answer": "Eyjafjallajökull",
+      "aliases": ["Eyjafjallajokull", "Eyjafjalla", "Eyjafjallajökul", "Eyjafjallajokul"]
+    },
+    {
+      "question": "Hvilken vulkan på Sicilia er Europas høyeste aktive?",
+      "answer": "Etna",
+      "aliases": ["Mount Etna", "Monte Etna"]
+    },
+    {
+      "question": "Hvilken vulkan i Tanzania er Afrikas høyeste fjell?",
+      "answer": "Kilimanjaro",
+      "aliases": ["Mount Kilimanjaro", "Kilimanjaro-fjellet", "Kibo"]
+    },
+    {
+      "question": "Hvilken gresk øy med kjent caldera antas å ha inspirert Atlantis-myten?",
+      "answer": "Santorini",
+      "aliases": ["Thira", "Thera", "Santorin", "Fira"]
+    }
+  ]
+}
