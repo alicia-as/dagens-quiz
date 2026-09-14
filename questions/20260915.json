@@ -1,0 +1,30 @@
+{
+  "theme": "Sopp 🍄",
+  "questions": [
+    {
+      "question": "Hvilken gul matsopp kalles gjerne «skogens gull»?",
+      "answer": "Kantarell",
+      "aliases": ["Kantareller", "Kantarellen", "Gul kantarell"]
+    },
+    {
+      "question": "Sopp finnes ikke bare i skogen. Hva er det folkelige navnet på infeksjonen legen kaller tinea pedis?",
+      "answer": "Fotsopp",
+      "aliases": ["Fotsoppen", "Athlete's foot"]
+    },
+    {
+      "question": "Hvilket dyr ble tradisjonelt brukt til å snuse opp trøfler i Frankrike og Italia, før hunder overtok jobben?",
+      "answer": "Gris",
+      "aliases": ["Griser", "Grisen", "Purke", "Purka", "Svin", "Trøffelgris", "Gris (purke)"]
+    },
+    {
+      "question": "Verdens største kjente organisme, målt i areal, er en honningsopp som brer seg over nesten ti kvadratkilometer skog. I hvilken amerikansk delstat – som nesten høres ut som et krydder – vokser den?",
+      "answer": "Oregon",
+      "aliases": ["Oregon, USA"]
+    },
+    {
+      "question": "Hvilken parasittsopp, som i virkeligheten tar kontroll over maur, er utgangspunktet for zombie-epidemien i «The Last of Us»?",
+      "answer": "Cordyceps",
+      "aliases": ["Kordyceps", "Ophiocordyceps", "Ophiocordyceps unilateralis", "Cordyceps-sopp"]
+    }
+  ]
+}
