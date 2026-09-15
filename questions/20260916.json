@@ -1,0 +1,30 @@
+{
+  "theme": "Lys 💡",
+  "questions": [
+    {
+      "question": "Aurora borealis er det latinske navnet på hvilket lysfenomen?",
+      "answer": "Nordlys",
+      "aliases": ["Nordlyset", "Polarlys", "Polarlyset", "Northern lights"]
+    },
+    {
+      "question": "Hva heter Norges eldste fyr, tent første gang i 1656?",
+      "answer": "Lindesnes fyr",
+      "aliases": ["Lindesnes", "Lindesnes fyrstasjon"]
+    },
+    {
+      "question": "Hvilken amerikansk oppfinner fikk i 1880 patent på en glødelampe med karbontråd?",
+      "answer": "Thomas Edison",
+      "aliases": ["Edison", "Thomas Alva Edison", "Thomas A. Edison"]
+    },
+    {
+      "question": "Hvem fikk Nobelprisen i fysikk i 1921 for forklaringen av den fotoelektriske effekten?",
+      "answer": "Albert Einstein",
+      "aliases": ["Einstein"]
+    },
+    {
+      "question": "Hvilken kanadisk artist toppet listene verden over i 2020 med «Blinding Lights»?",
+      "answer": "The Weeknd",
+      "aliases": ["Weeknd", "Abel Tesfaye", "Tesfaye"]
+    }
+  ]
+}
