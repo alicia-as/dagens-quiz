@@ -1,0 +1,30 @@
+{
+  "theme": "Dataspill 🎮",
+  "questions": [
+    {
+      "question": "Hvilket spill, skapt av svenske Markus «Notch» Persson, er tidenes mest solgte dataspill?",
+      "answer": "Minecraft",
+      "aliases": ["Mine Craft"]
+    },
+    {
+      "question": "Hvilket spill fulgte med Nokia-telefoner fra 1997, og går ut på å styre en stadig lengre strek uten å krasje?",
+      "answer": "Snake",
+      "aliases": ["Snake II", "Snake 2", "Slangen", "Slange", "Snakes"]
+    },
+    {
+      "question": "Fra hvilket land kommer Rovio, selskapet bak «Angry Birds»?",
+      "answer": "Finland",
+      "aliases": ["Suomi"]
+    },
+    {
+      "question": "Under hvilket navn debuterte Mario i arkadespillet «Donkey Kong» i 1981, før han fikk navnet sitt?",
+      "answer": "Jumpman",
+      "aliases": ["Jump Man"]
+    },
+    {
+      "question": "Hvilket norskutviklet ordspill for mobil, laget av Håkon Bertheussen i 2010, har fortsatt millioner av brukere?",
+      "answer": "Wordfeud",
+      "aliases": ["Word Feud"]
+    }
+  ]
+}
