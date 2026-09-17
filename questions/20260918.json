@@ -7,14 +7,14 @@
       "aliases": ["Salsasaus", "Salsa saus", "Salsa-saus"]
     },
     {
-      "question": "I Mexico er det et tynt flatbrød, i Spania en tykk omelett med poteter. Hva heter det?",
+      "question": "I Mexico er det et tynt flatbrød, i Spania en tykk omelett med poteter – hvilket ord?",
       "answer": "Tortilla",
       "aliases": ["Tortillas", "Tortillalefse", "Tortilla-lefse", "Tortilla lefse"]
     },
     {
-      "question": "Hva kalles en jalapeño som er røkt og tørket?",
+      "question": "Hva kalles en jalapeño som er røkt og tørket – et navn som også er tatt av en amerikansk hurtigmatkjede?",
       "answer": "Chipotle",
-      "aliases": ["Chipotles", "Chipotlechili", "Chipotle-chili", "Chipotle chili"]
+      "aliases": ["Chipotles", "Chipotlechili", "Chipotle-chili", "Chipotle chili", "Chipotle Mexican Grill"]
     },
     {
       "question": "Hvilken chilisaus fra Louisiana er oppkalt etter en meksikansk delstat?",
@@ -22,9 +22,9 @@
       "aliases": ["Tabascosaus", "Tabasco-saus", "Tabasco saus", "Tabasco sauce"]
     },
     {
-      "question": "I 1943 improviserte Ignacio Anaya en rett av friterte tortillabiter, smeltet ost og jalapeño til noen sultne gjester i grensebyen Piedras Negras. Retten fikk navn etter kallenavnet hans – hva heter den?",
-      "answer": "Nachos",
-      "aliases": ["Nacho", "Nachoer", "Nachochips", "Nacho chips", "Nachos med ost"]
+      "question": "I 1943 improviserte Ignacio Anaya en rett av friterte tortillabiter, smeltet ost og jalapeño til noen sultne gjester i grensebyen Piedras Negras. Retten fikk navn etter kallenavnet hans – hva var det?",
+      "answer": "Nacho",
+      "aliases": ["Nachos", "Nachoer", "Nachochips", "Nacho chips"]
     }
   ]
 }
