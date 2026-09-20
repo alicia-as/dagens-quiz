@@ -1,0 +1,29 @@
+{
+  "theme": "Med «bro» i svaret",
+  "questions": [
+    {
+      "question": "Hvilken irsk skuespiller debuterte som James Bond i «GoldenEye»?",
+      "answer": "Pierce Brosnan",
+      "aliases": ["Brosnan"]
+    },
+    {
+      "question": "Hvilken langhalset dinosaur har et navn som betyr «tordenøgle»?",
+      "answer": "Brontosaurus",
+      "aliases": ["Brontosaur", "Brontosaurus excelsus"]
+    },
+    {
+      "question": "Hvilken legering av kobber og tinn har gitt navn til en hel tidsalder?",
+      "answer": "Bronse",
+      "aliases": ["Bronze"]
+    },
+    {
+      "question": "Hvilket NFL-lag vant Super Bowl 50 med Peyton Manning som quarterback?",
+      "answer": "Denver Broncos",
+      "aliases": ["Broncos"]
+    },
+    {
+      "question": "Hvilken kroatisk kystby er kjent for gamlebyen innenfor de massive bymurene?",
+      "answer": "Dubrovnik"
+    }
+  ]
+}
