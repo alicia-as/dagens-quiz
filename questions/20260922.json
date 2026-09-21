@@ -1,0 +1,30 @@
+{
+  "theme": "Festninger",
+  "questions": [
+    {
+      "question": "Hvilken festning i Oslofjorden senket den tyske krysseren «Blücher» 9. april 1940?",
+      "answer": "Oscarsborg",
+      "aliases": ["Oscarsborg festning", "Oscarsborg festning i Drøbak"]
+    },
+    {
+      "question": "På hvilken øy utenfor Trondheim satt Peder Schumacher Griffenfeld som statsfange i 18 år? Øya har gitt navn til et kjent alkoholfritt øl.",
+      "answer": "Munkholmen",
+      "aliases": ["Munkholm", "Munkholmen festning", "Munckholm"]
+    },
+    {
+      "question": "Hvilken festning i Paris ble stormet 14. juli 1789?",
+      "answer": "Bastillen",
+      "aliases": ["Bastille", "La Bastille", "Bastille-fengselet"]
+    },
+    {
+      "question": "Hvilken festning i San Antonio falt i 1836 og ble et kamprop for Texas?",
+      "answer": "Alamo",
+      "aliases": ["The Alamo", "Fort Alamo", "Alamo-festningen"]
+    },
+    {
+      "question": "Hvilken by i Østfold har en bevart stjernefestning rundt Gamlebyen?",
+      "answer": "Fredrikstad",
+      "aliases": ["Fredrikstad festning", "Gamle Fredrikstad"]
+    }
+  ]
+}
