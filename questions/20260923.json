@@ -1,0 +1,61 @@
+{
+  "theme": "Førstemann ut",
+  "questions": [
+    {
+      "question": "Hvilken ekspedisjonsleder nådde Sørpolen først?",
+      "answer": "Roald Amundsen",
+      "aliases": [
+        "Amundsen",
+        "Roald Engelbregt Gravning Amundsen"
+      ]
+    },
+    {
+      "question": "Hvilken fransk by arrangerte vinteridrettsuken i 1924, senere anerkjent som de første vinter-OL?",
+      "answer": "Chamonix",
+      "aliases": [
+        "Chamonix-Mont-Blanc",
+        "Chamonix Mont Blanc"
+      ]
+    },
+    {
+      "question": "Hvem var den første kvinnen som mottok en Nobelpris?",
+      "answer": "Marie Curie",
+      "aliases": [
+        "Curie",
+        "Madame Curie",
+        "Marie Skłodowska-Curie",
+        "Marie Sklodowska-Curie",
+        "Marie Curie-Skłodowska",
+        "Marie Curie-Sklodowska",
+        "Maria Skłodowska-Curie",
+        "Maria Sklodowska-Curie",
+        "Maria Skłodowska",
+        "Maria Sklodowska",
+        "Marie Skłodowska",
+        "Marie Sklodowska",
+        "Skłodowska-Curie",
+        "Sklodowska-Curie"
+      ]
+    },
+    {
+      "question": "Hvem var det første mennesket i bane rundt jorda?",
+      "answer": "Jurij Gagarin",
+      "aliases": [
+        "Gagarin",
+        "Yuri Gagarin",
+        "Yuriy Gagarin",
+        "Yury Gagarin",
+        "Yurii Gagarin",
+        "Juri Gagarin",
+        "Jurij Aleksejevitsj Gagarin",
+        "Juri Aleksejevitsj Gagarin",
+        "Yuri Alekseyevich Gagarin"
+      ]
+    },
+    {
+      "question": "Hvilket land vant det første FIFA-VM i fotball i 1930?",
+      "answer": "Uruguay",
+      "aliases": []
+    }
+  ]
+}
