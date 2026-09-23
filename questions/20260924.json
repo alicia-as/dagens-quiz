@@ -1,0 +1,28 @@
+{
+  "theme": "Hatter og hodeplagg",
+  "questions": [
+    {
+      "question": "Hva heter den bredbremmede hatten som ofte forbindes med Mexico?",
+      "answer": "Sombrero"
+    },
+    {
+      "question": "Hva slags hatt bruker Oddjob som kastevåpen i Bond-filmen «Goldfinger»?",
+      "answer": "Bowlerhatt",
+      "aliases": ["Bowler", "Bowler hat", "Bowler-hatt"]
+    },
+    {
+      "question": "Hvilken fiktiv detektiv forbindes med en deerstalker-lue?",
+      "answer": "Sherlock Holmes",
+      "aliases": ["Holmes", "Sherlock"]
+    },
+    {
+      "question": "Hvilken fransk keiser er særlig kjent for sin hatt med to spisser?",
+      "answer": "Napoleon Bonaparte",
+      "aliases": ["Napoleon", "Napoléon", "Bonaparte", "Napoléon Bonaparte"]
+    },
+    {
+      "question": "Hva kalles et hodeplagg laget av et langt tøystykke som vikles rundt hodet? Tar du bort første bokstav, blir ordet veldig byvennlig.",
+      "answer": "Turban"
+    }
+  ]
+}
