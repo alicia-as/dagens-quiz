@@ -1,0 +1,28 @@
+{
+  "theme": "Alt som ringer",
+  "questions": [
+    {
+      "question": "Hva heter klokkeren i Notre-Dame i Victor Hugos roman?",
+      "answer": "Quasimodo",
+      "aliases": ["Quasimodu"]
+    },
+    {
+      "question": "Hvilken finsk mobilprodusent gjorde et utdrag fra gitarstykket «Gran Vals» til en av verdens mest kjente ringetoner?",
+      "answer": "Nokia"
+    },
+    {
+      "question": "Hvilket australsk rockeband står bak «Hells Bells» fra albumet «Back in Black»?",
+      "answer": "AC/DC",
+      "aliases": ["ACDC", "AC DC", "AC-DC"]
+    },
+    {
+      "question": "Gongongen markerer slutten på runden. Hvor mange minutter varer en runde i seniorboksing etter World Boxings regler?",
+      "answer": " Tre minutter ",
+      "aliases": [" 3 ", " Tre ", " 3 minutter ", " 3 min ", " Tre min "]
+    },
+    {
+      "question": "Hvilket bilmerke har fire sammenkoblede ringer som symbol, til minne om sammenslåingen av fire bilprodusenter?",
+      "answer": "Audi"
+    }
+  ]
+}
