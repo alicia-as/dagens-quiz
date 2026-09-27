@@ -1,0 +1,30 @@
+{
+  "theme": "Fobier 😱",
+  "questions": [
+    {
+      "question": "Ergofobi har samme rot som ergonomi, og mange kjenner nok et snev av den på mandager. Hva er man redd for?",
+      "answer": "Arbeid",
+      "aliases": ["Jobb", "Jobben", "Å jobbe", "Jobbing", "Å arbeide", "Arbeidet", "Å gå på jobb", "Work"]
+    },
+    {
+      "question": "Grev Dracula lider av alliumfobi. Hva er han redd for?",
+      "answer": "Hvitløk",
+      "aliases": ["Hvitløken", "Kvitløk", "Kvitlauk", "Hvitløksfedd", "Garlic"]
+    },
+    {
+      "question": "Hvilke små kryp er man redd for med myrmekofobi? Svenskene har et ganske likt ord for dem.",
+      "answer": " Maur ",
+      "aliases": ["Mauren", "Maurene", "Maurer", "Myror", "Myrer", "Ants"]
+    },
+    {
+      "question": "Hvilket pålegg er man redd for å få klistret fast i ganen hvis man har arachibutyrofobi?",
+      "answer": "Peanøttsmør",
+      "aliases": ["Peanøttsmøret", "Peanut butter", "Nøttesmør"]
+    },
+    {
+      "question": "Hippopotomonstrosesquippedaliofobi er kanskje verdens slemmeste navn på en fobi. Hva er man redd for?",
+      "answer": "Lange ord",
+      "aliases": ["Langt ord", "Store ord", "Ord som er lange", "Lange navn", "Long words"]
+    }
+  ]
+}
