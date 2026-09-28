@@ -1,0 +1,28 @@
+{
+  "theme": "På plateomslaget",
+  "questions": [
+    {
+      "question": "På hvilket Beatles-album går de fire medlemmene over et fotgjengerfelt i London?",
+      "answer": "Abbey Road",
+      "aliases": ["Abby Road"]
+    },
+    {
+      "question": "Hvilket band har en baby under vann på omslaget til «Nevermind»?",
+      "answer": "Nirvana"
+    },
+    {
+      "question": "Hvilket band ga ut «The Dark Side of the Moon», med et prisme og en regnbue på omslaget?",
+      "answer": "Pink Floyd"
+    },
+    {
+      "question": "Hvilken artist står med ryggen til, i jeans foran et amerikansk flagg, på omslaget til «Born in the U.S.A.»?",
+      "answer": "Bruce Springsteen",
+      "aliases": ["Springsteen", "The Boss"]
+    },
+    {
+      "question": "Hvilken popkunstner laget den berømte bananen på omslaget til «The Velvet Underground & Nico»?",
+      "answer": "Andy Warhol",
+      "aliases": ["Warhol", "Andrew Warhola"]
+    }
+  ]
+}
