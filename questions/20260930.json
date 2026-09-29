@@ -1,0 +1,30 @@
+{
+  "theme": "Fermentert!",
+  "questions": [
+    {
+      "question": "Hva heter det koreanske tilbehøret av fermenterte grønnsaker, ofte kinakål med chili og hvitløk?",
+      "answer": "Kimchi",
+      "aliases": ["Kimchee", "Kim chee", "Kimtsji"]
+    },
+    {
+      "question": "Hva heter den syrnede melkedrikken som lages med en kultur av både bakterier og gjær?",
+      "answer": "Kefir",
+      "aliases": ["Kefirmelk", "Kefirmjølk"]
+    },
+    {
+      "question": "Hva er det tyske navnet på fermentert kål som gjerne serveres til pølser og svinekjøtt?",
+      "answer": "Sauerkraut",
+      "aliases": ["Sauer kraut", "Surkål", "Tysk surkål"]
+    },
+    {
+      "question": "Hva heter den japanske, fermenterte soyabønnepastaen som gir navn til en suppe?",
+      "answer": "Miso",
+      "aliases": ["Misopasta", "Miso-pasta", "Miso pasta"]
+    },
+    {
+      "question": "Fra hvilket dyr kommer melken som brukes i den franske blåmuggosten roquefort?",
+      "answer": "Sau",
+      "aliases": ["Sauen", "Sauer", "Får", "Søye", "Sheep", "Sauemelk", "Fåremelk"]
+    }
+  ]
+}
