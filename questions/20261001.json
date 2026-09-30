@@ -1,0 +1,29 @@
+{
+  "theme": "Berømte søskenpar",
+  "questions": [
+    {
+      "question": "Hvilket etternavn hadde brødrene Orville og Wilbur, som fikk et motorfly på vingene i 1903?",
+      "answer": "Wright",
+      "aliases": ["Brødrene Wright", "Wright-brødrene", "Wright brothers"]
+    },
+    {
+      "question": "Brødrene Adolf og Rudolf Dassler startet hvert sitt sportsmerke. Adolf startet Adidas – hvilket merke startet Rudolf?",
+      "answer": "Puma"
+    },
+    {
+      "question": "Hva er etternavnet til filmskaperbrødrene Joel og Ethan, som står bak «Fargo» og «The Big Lebowski»?",
+      "answer": "Coen",
+      "aliases": ["Brødrene Coen", "Coen-brødrene", "Coen brothers"]
+    },
+    {
+      "question": "Hvilket australsk rockeband ble startet av brødrene Malcolm og Angus Young? Navnet kan også stå på elektrisk utstyr.",
+      "answer": "AC/DC",
+      "aliases": ["ACDC", "AC DC", "AC-DC"]
+    },
+    {
+      "question": "Hva heter søsteren til Michael Jackson som ga ut albumet «Rhythm Nation 1814»?",
+      "answer": "Janet Jackson",
+      "aliases": ["Janet"]
+    }
+  ]
+}
