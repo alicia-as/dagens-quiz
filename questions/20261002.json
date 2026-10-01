@@ -1,0 +1,28 @@
+{
+  "theme": "Filmen fikk nytt navn 🎬",
+  "questions": [
+    {
+      "question": "Hvilken norsk tittel fikk fengselsdramaet «The Shawshank Redemption»?",
+      "answer": "Frihetens regn"
+    },
+    {
+      "question": "Hva er originaltittelen på komedien som på norsk heter «En ny dag truer», der Bill Murray opplever samme dag om og om igjen?",
+      "answer": "Groundhog Day",
+      "aliases": ["Groundhogday", "Groundhog"]
+    },
+    {
+      "question": "Hva heter «One Flew Over the Cuckoo’s Nest», med Jack Nicholson, på norsk?",
+      "answer": "Gjøkeredet",
+      "aliases": ["Gaukreiret"]
+    },
+    {
+      "question": "Med en lignende tittel som i spørsmål 3: Hva heter «Where Eagles Dare» på norsk, der Richard Burton og Clint Eastwood er på oppdrag under andre verdenskrig?",
+      "answer": "Ørneredet",
+      "aliases": ["Ørnerede", "Ørneredet – Where Eagles Dare"]
+    },
+    {
+      "question": "Hva heter «Stand by Me» på norsk? Tittelen passer også på seks venner som ofte møtes på en kafé i New York.",
+      "answer": "Venner for livet"
+    }
+  ]
+}
