@@ -1,0 +1,30 @@
+{
+  "theme": "Det mangler en kroppsdel",
+  "questions": [
+    {
+      "question": "Hvilken sviende plage blir til en fotballklubb fra Bergen hvis du fjerner en kroppsdel?",
+      "answer": "Halsbrann",
+      "aliases": ["Brann"]
+    },
+    {
+      "question": "Hvilken åpning i ansiktet blir til grunnstoff nummer fem når du fjerner en kroppsdel fra ordet?",
+      "answer": "Nesebor",
+      "aliases": ["Bor"]
+    },
+    {
+      "question": "Hvilken ubehagelig opplevelse på fotballbanen blir til en eggprodusent når du fjerner en kroppsdel?",
+      "answer": "Lårhøne",
+      "aliases": ["Lårhøna", "Høne"]
+    },
+    {
+      "question": "Hvilket ord for en snekker eller rørlegger blir til noe både Ibsen og Beethoven etterlot seg mange av, når du fjerner en kroppsdel?",
+      "answer": "Håndverker",
+      "aliases": ["Handverker", "Verker"]
+    },
+    {
+      "question": "Hvilket plagsomt fenomen i garderoben blir til noe du gjerne kan ha i en risotto, når du fjerner en kroppsdel?",
+      "answer": "Fotsopp",
+      "aliases": ["Sopp"]
+    }
+  ]
+}
