@@ -1,0 +1,30 @@
+{
+  "theme": "To bokstaver bytter plass",
+  "questions": [
+    {
+      "question": "Hva kan du strikke en julegave av? Bytt plass på to bokstaver, så får du noe julegaven kan ligge under.",
+      "answer": "Garn",
+      "aliases": ["Gran"]
+    },
+    {
+      "question": "Hvilken brikke på sjakkbrettet blir til noe som kan jage folk ut av samfunnsdebatten når to bokstaver bytter plass?",
+      "answer": "Hest",
+      "aliases": ["Hets"]
+    },
+    {
+      "question": "Vi starter i en hovedstad i Nord-Afrika og ender med en øltype i glasset. Hvilken by tar oss dit når to bokstaver bytter plass?",
+      "answer": "Alger",
+      "aliases": ["Lager"]
+    },
+    {
+      "question": "Hvilket ungt husdyr blir til en beskjed du kan gi noen med pensel i hånden når to bokstaver bytter plass?",
+      "answer": "Lam",
+      "aliases": ["Mal"]
+    },
+    {
+      "question": "Det kan være verdt millioner på et museum. Bytt plass på to bokstaver, så beskriver det vasen du nettopp mistet i gulvet. Hva er ordet?",
+      "answer": "Kunst",
+      "aliases": ["Knust"]
+    }
+  ]
+}
