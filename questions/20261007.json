@@ -1,0 +1,29 @@
+{
+  "theme": "Hva binder dem sammen?",
+  "questions": [
+    {
+      "question": "På savannen kan du dra på det, på en Mac kan du surfe med det, og til kaffen kan du spise kjeks med samme navn. Hvilket ord?",
+      "answer": "Safari",
+      "aliases": ["Apple Safari"]
+    },
+    {
+      "question": "Den ene svetter seg gjennom et maraton, den andre ligger pent på spisebordet, og den tredje går bare på skrå på sjakkbrettet. Hva kalles alle tre?",
+      "answer": "Løper",
+      "aliases": ["Løperen", "Loper"]
+    },
+    {
+      "question": "En liten klovnefisk blir borte, mens en kaptein styrer ubåten Nautilus. De deler et navn som betyr «ingen» på latin. Hvilket?",
+      "answer": "Nemo",
+      "aliases": ["Kaptein Nemo", "Captain Nemo"]
+    },
+    {
+      "question": "Vi starter med en gresk bokstav, tar en tur innom en elvemunning og ender hos et amerikansk flyselskap. Hvilket ord følger oss hele veien?",
+      "answer": "Delta",
+      "aliases": ["Delta Air Lines", "Delta Airlines"]
+    },
+    {
+      "question": "Hva heter byen ved Michigansjøen som deler navn med både musikalen om Roxie Hart og bandet bak «If You Leave Me Now»?",
+      "answer": "Chicago"
+    }
+  ]
+}
