@@ -1,0 +1,30 @@
+{
+  "theme": "Superhelter 🦸",
+  "questions": [
+    {
+      "question": "Hvilken by passer Batman på?",
+      "answer": "Gotham City",
+      "aliases": ["Gotham", "Gotham by"]
+    },
+    {
+      "question": "Mange i Supermans liv har initialene L.L. Hva heter journalisten han er forelsket i?",
+      "answer": "Lois Lane",
+      "aliases": ["Lois"]
+    },
+    {
+      "question": "Hvilken kanadisk skuespiller har spilt både Green Lantern og Deadpool?",
+      "answer": "Ryan Reynolds",
+      "aliases": ["Reynolds"]
+    },
+    {
+      "question": "Hvor mange uendelighetssteiner trenger Thanos for å utslette halve universet med ett knips?",
+      "answer": " Seks ",
+      "aliases": [" 6 ", " Seks steiner ", " 6 steiner ", " Seks stykker ", " 6 stk "]
+    },
+    {
+      "question": "Hvilken maskert helt fra 1936 bor i en hodeskallegrotte og har i flere tiår vært et av Norges mest populære tegneserieblader?",
+      "answer": "Fantomet",
+      "aliases": ["The Phantom", "Phantom", "Fantomen", "Den vandrende ånd"]
+    }
+  ]
+}
