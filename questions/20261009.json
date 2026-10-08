@@ -1,0 +1,29 @@
+{
+  "theme": "Navnet lyver",
+  "questions": [
+    {
+      "question": "Det knasker gjerne høy og grønnsaker, men navnet høres ut som om det burde bo i en grisebinge. Hvilket lite kjæledyr?",
+      "answer": "Marsvin"
+    },
+    {
+      "question": "Den blir kortere jo mer du bruker den, men metallet i navnet finner du ikke inni. Hva er det?",
+      "answer": "Blyant",
+      "aliases": ["Gråblyant"]
+    },
+    {
+      "question": "Både Russland og Iran har kyst langs det. Til tross for navnet er det verdens største innsjø. Hva heter det?",
+      "answer": "Kaspihavet",
+      "aliases": ["Det kaspiske hav", "Det kaspiske havet", "Kaspiske hav"]
+    },
+    {
+      "question": "Hvilket godteri høres ut som noe fra en krydderbod i Istanbul, men ble funnet opp av en danske?",
+      "answer": "Tyrkisk pepper",
+      "aliases": ["Tyrkisk peber", "Turkinpippuri"]
+    },
+    {
+      "question": "Denne lille fisken blir ingen travstjerne. Til gjengjeld er det faren som føder ungene. Hva heter den?",
+      "answer": "Sjøhest",
+      "aliases": ["Sjøhester"]
+    }
+  ]
+}
