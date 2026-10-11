@@ -1,0 +1,28 @@
+{
+  "theme": "Fra merke til hverdagsord",
+  "questions": [
+    {
+      "question": "Hvilket varemerke for plaststoffet PTFE ble til etter en tilfeldig oppdagelse under arbeid med kjølemidler i 1938?",
+      "answer": "Teflon"
+    },
+    {
+      "question": "Hvilket leketøy fikk navn etter et amerikansk paibakeri, fordi studenter kastet de tomme paiformene mellom seg?",
+      "answer": "Frisbee",
+      "aliases": ["Frisbi"]
+    },
+    {
+      "question": "Hvilket svensk merke for kokeapparater har et navn som betyr «den første» på latin? Utstyret var med på Amundsens sydpolekspedisjon.",
+      "answer": "Primus"
+    },
+    {
+      "question": "Hvilken norsk snacksprodusent tapte kampen om eneretten til ordet «potetgull»?",
+      "answer": "Maarud",
+      "aliases": ["Maarud AS"]
+    },
+    {
+      "question": "Hvilket japansk selskap lanserte den første Walkman-spilleren i 1979?",
+      "answer": "Sony",
+      "aliases": ["Sony Corporation"]
+    }
+  ]
+}
