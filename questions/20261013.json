@@ -1,0 +1,30 @@
+{
+  "theme": "Borte, men ikke glemt",
+  "questions": [
+    {
+      "question": "Hvilket videoformat ble lansert av JVC i 1976 og fylte etter hvert hyllene i videobutikkene? Vi er ute etter tre bokstaver.",
+      "answer": "VHS",
+      "aliases": ["Video Home System"]
+    },
+    {
+      "question": "Før bredbåndet kunne veien til internett begynne med piping og skurring over telefonlinjen. Hvilket apparat sto for oppkoblingen?",
+      "answer": "Modem",
+      "aliases": ["Oppringt modem", "Telefonmodem"]
+    },
+    {
+      "question": "Denne delen av telefonkatalogen het tidligere «Yrkeslisten». Hvilket navn fikk den i 1988, etter fargen på papiret?",
+      "answer": "Gule Sider",
+      "aliases": ["Gulesider", "De gule sidene"]
+    },
+    {
+      "question": "Hvilket digitalt kjæledyr fra Bandai måtte mates og passes i en liten eggformet dings, og ble en stor lekehit på 1990-tallet?",
+      "answer": "Tamagotchi",
+      "aliases": ["Tamagochi", "Tamagotshi"]
+    },
+    {
+      "question": "Arkitekten Georg Fredrik Fasting vant en konkurranse i 1932 med «Riks». Hvilken rød innretning, som etter hvert dukket opp over hele Norge, hadde han tegnet?",
+      "answer": "Telefonkiosk",
+      "aliases": ["Telefonkiosken", "Telefonboks", "Den røde telefonkiosken"]
+    }
+  ]
+}
