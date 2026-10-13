@@ -1,0 +1,28 @@
+{
+  "theme": "Berømte kupp og tyverier",
+  "questions": [
+    {
+      "question": "Hvilket maleri tok Vincenzo Peruggia med seg fra Louvre i 1911, før han to år senere forsøkte å selge det til en kunsthandler i Italia?",
+      "answer": "Mona Lisa",
+      "aliases": ["Monalisa", "La Gioconda", "La Joconde"]
+    },
+    {
+      "question": "Da bevæpnede ranere stjal «Skrik» fra Munchmuseet i 2004, tok de også et annet maleri. Hvilket, med samme navn som en amerikansk popstjerne?",
+      "answer": "Madonna"
+    },
+    {
+      "question": "I hvilken norsk by fikk ranerne med seg over 57 millioner kroner under NOKAS-ranet i 2004?",
+      "answer": "Stavanger"
+    },
+    {
+      "question": "Under hvilket navn er flykapreren kjent som i 1971 hoppet ut av et passasjerfly med fallskjerm og løsepenger, og deretter forsvant?",
+      "answer": "D. B. Cooper",
+      "aliases": ["D.B. Cooper", "DB Cooper", "D B Cooper", "Dan Cooper", "Cooper"]
+    },
+    {
+      "question": "I «Ocean’s Eleven» fra 2001 planlegger Danny Ocean og gjengen å rane tre kasinoer samme kveld. I hvilken by?",
+      "answer": "Las Vegas",
+      "aliases": ["Vegas"]
+    }
+  ]
+}
