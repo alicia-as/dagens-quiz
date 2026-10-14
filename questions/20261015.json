@@ -1,0 +1,28 @@
+{
+  "theme": "Akronymer",
+  "questions": [
+    {
+      "question": "På en engelsk bondegård er det en vær, mens det i datamaskinen er arbeidsminne. Hvilke tre bokstaver er vi ute etter?",
+      "answer": "RAM",
+      "aliases": ["RAM-minne", "RAM minne"]
+    },
+    {
+      "question": "Da oppfinneren skulle gi dette elektrosjokkvåpenet et navn, hentet han inspirasjon fra bokhelten Tom Swift og hans elektriske rifle. Hva kalte han våpenet?",
+      "answer": "TASER",
+      "aliases": ["Taserpistol", "Taser-pistol"]
+    },
+    {
+      "question": "De satte sammen forbokstavene i sine fire fornavn, men oppdaget at et svensk fiskemerke allerede het det samme. Hvilken popgruppe fikk likevel bruke navnet?",
+      "answer": "ABBA"
+    },
+    {
+      "question": "Her kolliderer små partikler i enorme maskiner. De fire bokstavene i navnet kommer fra det franske navnet på et europeisk forskningsråd. Hva heter forskningssenteret?",
+      "answer": "CERN"
+    },
+    {
+      "question": "På engelsk kan ordet bety en knappenål. Når du skal betale med kort, er det et personlig identifikasjonsnummer. Hvilke tre bokstaver?",
+      "answer": "PIN",
+      "aliases": ["PIN-kode", "Pinkode", "PIN kode"]
+    }
+  ]
+}
