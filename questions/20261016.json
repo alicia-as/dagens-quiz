@@ -1,0 +1,30 @@
+{
+  "theme": "Bandnavn på bortebane 🎸",
+  "questions": [
+    {
+      "question": "Hvilket band ga ut det psykedeliske albumet «Their Satanic Majesties Request» i 1967? Tar vi navnet bokstavelig, blir det vanskelig for mosen å feste seg.",
+      "answer": "The Rolling Stones",
+      "aliases": ["Rolling Stones", "Stones"]
+    },
+    {
+      "question": "Hvilket band ga ut dobbeltalbumet «Mellon Collie and the Infinite Sadness» i 1995? Navnet kan få deg til å tenke på rampeunger som ødelegger Halloween-pynten.",
+      "answer": "The Smashing Pumpkins",
+      "aliases": ["Smashing Pumpkins"]
+    },
+    {
+      "question": "Hvilken gruppe ga ut «Elephunk» i 2003, med blant annet «Where Is the Love?»? På norsk høres navnet ut som belgfrukter som har vært i slagsmål.",
+      "answer": "The Black Eyed Peas",
+      "aliases": ["Black Eyed Peas", "BEP"]
+    },
+    {
+      "question": "Hvilket band fikk sitt store kommersielle gjennombrudd med «Blood Sugar Sex Magik» i 1991? Navnet kunne også vært en advarsel til en kokk med sarte smaksløker.",
+      "answer": "Red Hot Chili Peppers",
+      "aliases": ["RHCP", "Chili Peppers", "The Red Hot Chili Peppers"]
+    },
+    {
+      "question": "Hvilket band slapp «Use Your Illusion I» og «Use Your Illusion II» på samme dag i 1991? Navnet forener noe som kan avslutte en krangel, med noe som kan reparere forholdet etterpå.",
+      "answer": "Guns N' Roses",
+      "aliases": ["Guns N Roses", "Guns N’ Roses", "Guns and Roses", "Guns & Roses", "GNR"]
+    }
+  ]
+}
