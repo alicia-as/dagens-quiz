@@ -1,0 +1,27 @@
+{
+  "theme": "En smak av et sted",
+  "questions": [
+    {
+      "question": "Hvilken by i Burgund har gitt navn til en sterk sennep som gjerne brukes i vinaigrette?",
+      "answer": "Dijon"
+    },
+    {
+      "question": "En italiensk by har gitt navn til en lufttørket skinke som bare trenger svinekjøtt, salt og god tid. Hvilken by?",
+      "answer": "Parma"
+    },
+    {
+      "question": "Vi kaller den rosenkål, men på engelsk har de små kålhodene navn etter en europeisk hovedstad. Hvilken?",
+      "answer": "Brussel",
+      "aliases": ["Brussels", "Bruxelles", "Brüssel", "Brussel sprouts", "Brussels sprouts"]
+    },
+    {
+      "question": "Hennessy, Martell og Rémy Martin lager alle et druebrennevin som har navn etter en fransk by. Hvilken?",
+      "answer": "Cognac",
+      "aliases": ["Konjakk", "Kognakk"]
+    },
+    {
+      "question": "Hvilken portugisisk øy, med Funchal som største by, har gitt navn til en sterkvin som også brukes i sauser?",
+      "answer": "Madeira"
+    }
+  ]
+}
