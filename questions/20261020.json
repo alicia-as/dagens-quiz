@@ -1,0 +1,30 @@
+{
+  "theme": "En bokstav for mye",
+  "questions": [
+    {
+      "question": "Hvilket tre står gjerne pyntet i stua i desember, og blir til noe som kan utløse alarmen i en bank hvis du fjerner én bokstav?",
+      "answer": "Gran",
+      "aliases": ["Ran"]
+    },
+    {
+      "question": "Hvilket land ble Chopin født i? Fjern én bokstav fra landsnavnet, så får du underlaget tennisspillerne løper rundt på i Wimbledon.",
+      "answer": "Polen",
+      "aliases": ["Plen"]
+    },
+    {
+      "question": "I hvilken by inngikk Norge og Sverige en viktig avtale i 1814? Med én bokstav mindre får du noe som passer til kjøttkakene.",
+      "answer": "Moss",
+      "aliases": ["Mos"]
+    },
+    {
+      "question": "Hvilket våpen har vært brukt av kavalerister og brukes fortsatt i olympisk fekting? Fjern én bokstav, så får du etternavnet til mannen som regnes som Norges største matematiker gjennom tidene.",
+      "answer": "Sabel",
+      "aliases": ["Abel"]
+    },
+    {
+      "question": "Hvilken fugl er kjent for å danse for å imponere en partner? Fjern én bokstav, så får du noe mange har forsøkt å slippe å svelge en skje av til frokost.",
+      "answer": "Trane",
+      "aliases": ["Tran"]
+    }
+  ]
+}
