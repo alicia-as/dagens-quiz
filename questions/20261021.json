@@ -1,0 +1,28 @@
+{
+  "theme": "På feil side av kartet",
+  "questions": [
+    {
+      "question": "Da Hans Ø ble delt i 2022, fikk Kongeriket Danmark en ny nabo over land. Hvilket land?",
+      "answer": "Canada",
+      "aliases": ["Kanada"]
+    },
+    {
+      "question": "Uansett hvilken vei du kjører ut av dette kongedømmet, kommer du til Sør-Afrika. Hvilket land, med hovedstad Maseru?",
+      "answer": "Lesotho"
+    },
+    {
+      "question": "Ceuta og Melilla ligger på det afrikanske fastlandet, men tilhører et europeisk land. Hvilket?",
+      "answer": "Spania",
+      "aliases": ["Spain", "España", "Espana"]
+    },
+    {
+      "question": "Provinsen Cabinda er skilt fra resten av landet av en stripe av DR Kongo. Hvilket portugisiskspråklig land tilhører den?",
+      "answer": "Angola"
+    },
+    {
+      "question": "På hvilken middelhavsøy beholdt Storbritannia suvereniteten over baseområdene Akrotiri og Dhekelia da øya ble selvstendig i 1960?",
+      "answer": "Kypros",
+      "aliases": ["Cyprus", "Kýpros"]
+    }
+  ]
+}
