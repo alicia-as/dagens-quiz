@@ -1,0 +1,30 @@
+{
+  "theme": "En annen i hovedrollen",
+  "questions": [
+    {
+      "question": "Will Smith takket nei til hovedrollen i denne filmen fra 1999 og laget heller «Wild Wild West». Hvilken film av Wachowski-søsknene gikk han glipp av?",
+      "answer": "The Matrix",
+      "aliases": ["Matrix"]
+    },
+    {
+      "question": "Eric Stoltz hadde allerede gjort flere ukers opptak til en tidsreisefilm fra 1985 da han ble byttet ut. Hvilken skuespiller overtok hovedrollen?",
+      "answer": "Michael J. Fox",
+      "aliases": ["Michael J Fox", "Michael Fox", "Fox"]
+    },
+    {
+      "question": "Stuart Townsend hadde trent til rollen i flere måneder, men ble erstattet av Viggo Mortensen på kort varsel. Hvilken figur i Tolkiens univers skulle han ha spilt?",
+      "answer": "Aragorn",
+      "aliases": ["Aragorn II"]
+    },
+    {
+      "question": "Al Pacino har fortalt at han takket nei til «Star Wars» fordi han ikke forsto manuset. Hvilken rolle ble han tilbudt?",
+      "answer": "Han Solo",
+      "aliases": ["Han"]
+    },
+    {
+      "question": "Hun var aktuell som Mia i «La La Land», men hadde allerede forpliktet seg til rollen som Belle i «Skjønnheten og udyret». Hvilken «magisk» skuespiller er vi ute etter?",
+      "answer": "Emma Watson",
+      "aliases": ["Watson"]
+    }
+  ]
+}
