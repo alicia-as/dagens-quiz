@@ -1,0 +1,29 @@
+{
+  "theme": "Det skulle du ikke ha gjort",
+  "questions": [
+    {
+      "question": "Hvilken drikk fikk ny oppskrift i 1985, bare for å få originalen tilbake etter 79 dager med protester fra kundene?",
+      "answer": "Coca-Cola",
+      "aliases": ["Coca Cola", "Cocacola", "Cola", "Coke"]
+    },
+    {
+      "question": "Hvilken film vant egentlig Oscar for beste film i 2017, da folkene bak «La La Land» allerede sto på scenen og takket?",
+      "answer": "Moonlight"
+    },
+    {
+      "question": "Hvilken Spielberg-film var Atari-spillet basert på som ble hastelaget til jul i 1982, og som senere ble funnet på en søppelfylling i New Mexico?",
+      "answer": "E.T.",
+      "aliases": ["ET", "E.T", "E T", "E.T. the Extra-Terrestrial", "ET the Extra Terrestrial"]
+    },
+    {
+      "question": "Hvilken kvartett fra Liverpool fikk nei fra plateselskapet Decca etter en audition på nyttårsdagen i 1962?",
+      "answer": "The Beatles",
+      "aliases": ["Beatles"]
+    },
+    {
+      "question": "Hvilket romteleskop ble skutt opp i 1990 med et feilslipt speil og måtte få korrigerende optikk for å se skarpt?",
+      "answer": "Hubble",
+      "aliases": ["Hubble-teleskopet", "Hubbleteleskopet", "Hubble Space Telescope", "HST"]
+    }
+  ]
+}
