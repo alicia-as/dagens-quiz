@@ -1,0 +1,29 @@
+{
+  "theme": "Små ting, stor betydning",
+  "questions": [
+    {
+      "question": "Hvilken Christopher Nolan-film fra 2010 slutter med en liten snurrebass som publikum ikke får vite om velter?",
+      "answer": "Inception"
+    },
+    {
+      "question": "Hva het romfergen som gikk tapt 73 sekunder etter oppskytingen i 1986, etter at en tetningsring sviktet i kulden?",
+      "answer": "Challenger",
+      "aliases": ["Space Shuttle Challenger"]
+    },
+    {
+      "question": "Hvilken vektenhet for edelstener har navn etter frø fra johannesbrødtreet og tilsvarer 0,2 gram?",
+      "answer": "Karat",
+      "aliases": ["Carat"]
+    },
+    {
+      "question": "Hvilken liten kontorgjenstand ble båret på jakkeslaget under okkupasjonen for å vise at nordmenn måtte holde sammen?",
+      "answer": "Binders",
+      "aliases": ["En binders", "Papirklips"]
+    },
+    {
+      "question": "Hva heter kroppens minste knokkel, som ligger i mellomøret og har navn etter noe en rytter setter foten i?",
+      "answer": "Stigbøylen",
+      "aliases": ["Stigbøyle", "Stapes"]
+    }
+  ]
+}
