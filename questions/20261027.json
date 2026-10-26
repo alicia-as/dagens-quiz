@@ -1,0 +1,30 @@
+{
+  "theme": "Nordiske naboer",
+  "questions": [
+    {
+      "question": "Hva heter Sveriges største innsjø?",
+      "answer": "Vänern",
+      "aliases": ["Vanern", "Vænern"]
+    },
+    {
+      "question": "Hvilket land tilhører Åland, der svensk er det eneste offisielle språket?",
+      "answer": "Finland",
+      "aliases": ["Suomi"]
+    },
+    {
+      "question": "Hvilket nordisk land har vunnet Eurovision flest ganger?",
+      "answer": "Sverige",
+      "aliases": ["Sweden"]
+    },
+    {
+      "question": "Hva heter hovedstaden på Færøyene?",
+      "answer": "Tórshavn",
+      "aliases": ["Torshavn", "Thorshavn"]
+    },
+    {
+      "question": "Hva heter den islandske vulkanen som skapte store problemer for europeisk flytrafikk i 2010?",
+      "answer": "Eyjafjallajökull",
+      "aliases": ["Eyjafjallajokull", "Eyjafjallajøkull"]
+    }
+  ]
+}
