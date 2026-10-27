@@ -1,0 +1,28 @@
+{
+  "theme": "Ett ord, to betydninger",
+  "questions": [
+    {
+      "question": "Hvilken del av øyet deler navn med en gresk gudinne som fungerte som budbringer mellom gudene og menneskene?",
+      "answer": "Iris",
+      "aliases": ["Regnbuehinnen", "Regnbuehinne"]
+    },
+    {
+      "question": "Da Robert Hooke undersøkte tynne korksnitt i 1665, lånte han et ord fra klosterlivet for å beskrive det han så. Hvilket ord?",
+      "answer": "Celle",
+      "aliases": ["Celler"]
+    },
+    {
+      "question": "Hvilket ord forbinder Georges Bizet med et norsk programvareselskap som ble etablert i 1995?",
+      "answer": "Opera"
+    },
+    {
+      "question": "I hvilken europeisk by ligger Dom Luís I-broen? Bynavnet er også en utgift du kan ha når du sender ut bryllupsinvitasjoner.",
+      "answer": "Porto",
+      "aliases": ["Oporto"]
+    },
+    {
+      "question": "Hvilken enhet tilsvarer omtrent 0,987 atmosfærer og deler navn med en virksomhet som kan trenge skjenkebevilling?",
+      "answer": "Bar"
+    }
+  ]
+}
