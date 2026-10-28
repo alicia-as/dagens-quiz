@@ -1,0 +1,29 @@
+{
+  "theme": "Oppfinnelser som forandret hverdagen",
+  "questions": [
+    {
+      "question": "Hvilket kjøkkenapparat har sitt opphav i Percy Spencers arbeid med radarutstyr hos Raytheon i 1945?",
+      "answer": "Mikrobølgeovn",
+      "aliases": ["Mikrobølgeovnen", "Mikro", "Mikroovn"]
+    },
+    {
+      "question": "Hvilken oppfinnelse utviklet George de Mestral etter å ha studert frøkapsler i mikroskop og sett hvordan små kroker festet seg i pels og tekstiler?",
+      "answer": "Borrelås",
+      "aliases": ["Borrelåsen", "Velcro"]
+    },
+    {
+      "question": "Hva laget en kvinne i Dresden i 1908 ved hjelp av en gjennomhullet messingbeholder og trekkpapir fra sønnens skrivebok? Oppfinnelsen la grunnlaget for selskapet Melitta.",
+      "answer": "Kaffefilter",
+      "aliases": ["Kaffefilteret", "Kaffefiltre", "Kaffefilter av papir", "Papirfilter"]
+    },
+    {
+      "question": "Roy Plunkett undersøkte en gassbeholder i 1938 og fant et hvitt pulver der han hadde ventet å finne kjølemiddel. Hvilket materiale hadde han oppdaget, som senere skulle finne veien til kjøkkenet?",
+      "answer": "Teflon",
+      "aliases": ["PTFE", "Polytetrafluoretylen"]
+    },
+    {
+      "question": "Hvilken syntetisk fiber utviklet Wallace Carothers og forskergruppen hans hos DuPont på 1930-tallet? Den ble et alternativ til silke og fikk stor betydning under andre verdenskrig.",
+      "answer": "Nylon"
+    }
+  ]
+}
