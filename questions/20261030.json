@@ -1,0 +1,52 @@
+{
+  "theme": "Halloween-grøss 🎃",
+  "questions": [
+    {
+      "question": "Halloween er kvelden før hvilken kristen høytid 1. november?",
+      "answer": "Allehelgensdag",
+      "aliases": [
+        "Allehelgensdagen",
+        "Allehelgen",
+        "Allehelgens dag",
+        "Helgenes dag",
+        "All Saints' Day",
+        "All Saints Day"
+      ]
+    },
+    {
+      "question": "Hvilken by i Massachusetts, som deler navn med delstatshovedstaden i Oregon og et sigarettmerke, er kjent for de beryktede hekseprosessene i 1692?",
+      "answer": "Salem"
+    },
+    {
+      "question": "I hvilken region i dagens Romania ligger grev Draculas slott i Bram Stokers roman?",
+      "answer": "Transilvania",
+      "aliases": [
+        "Transylvania",
+        "Transsylvania",
+        "Transsilvania",
+        "Siebenbürgen"
+      ]
+    },
+    {
+      "question": "Hvilken meksikansk høytid i begynnelsen av november hedrer de døde med sukkerskaller og ringblomster?",
+      "answer": "Día de los Muertos",
+      "aliases": [
+        "Dia de los Muertos",
+        "Día de Muertos",
+        "Dia de Muertos",
+        "De dødes dag",
+        "Dødes dag",
+        "Day of the Dead"
+      ]
+    },
+    {
+      "question": "Hvilken film fra 1984 har slagordet «Who you gonna call?»",
+      "answer": "Ghostbusters",
+      "aliases": [
+        "Ghost Busters",
+        "Ghostbusters 1",
+        "Spøkelsesjegerne"
+      ]
+    }
+  ]
+}
