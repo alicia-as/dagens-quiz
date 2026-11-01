@@ -1,0 +1,30 @@
+{
+  "theme": "Hvem er på pengene?",
+  "questions": [
+    {
+      "question": "Hvilken amerikansk statsmann og oppfinner er avbildet på hundredollarseddelen, selv om han aldri var president?",
+      "answer": "Benjamin Franklin",
+      "aliases": ["Franklin", "Ben Franklin"]
+    },
+    {
+      "question": "Hvilken nobelprisvinner, kjent for romanene om Kristin Lavransdatter, var avbildet på den norske 500-kroneseddelen?",
+      "answer": "Sigrid Undset",
+      "aliases": ["Undset"]
+    },
+    {
+      "question": "Hvilken kunstner hadde portrettet sitt på den norske tusenlappen, med et utsnitt av maleriet «Solen» på baksiden?",
+      "answer": "Edvard Munch",
+      "aliases": ["Munch"]
+    },
+    {
+      "question": "Hvilken forfatter er avbildet på Sveriges 20-kroneseddel, med Småland som motiv på baksiden? Hun vokste opp på gården Näs ved Vimmerby.",
+      "answer": "Astrid Lindgren",
+      "aliases": ["Lindgren"]
+    },
+    {
+      "question": "Hvilken matematiker og kodeknekker fra Bletchley Park ble ansiktet på Bank of Englands nye 50-pundseddel i 2021?",
+      "answer": "Alan Turing",
+      "aliases": ["Turing"]
+    }
+  ]
+}
