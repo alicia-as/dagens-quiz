@@ -1,0 +1,28 @@
+{
+  "theme": "Byen het noe annet",
+  "questions": [
+    {
+      "question": "Hvilken amerikansk storby het Nieuw Amsterdam før engelskmennene overtok den nederlandske kolonien i 1664?",
+      "answer": "New York",
+      "aliases": ["New York City", "NYC"]
+    },
+    {
+      "question": "Hvilken russisk by het først Petrograd og deretter Leningrad, før den fikk tilbake sitt opprinnelige navn i 1991?",
+      "answer": "St. Petersburg",
+      "aliases": ["St Petersburg", "Sankt Petersburg", "Saint Petersburg"]
+    },
+    {
+      "question": "Hvilken by ved Bosporos har vært kjent som både Byzantion og Konstantinopel?",
+      "answer": "Istanbul",
+      "aliases": ["İstanbul"]
+    },
+    {
+      "question": "Hvilken sørindisk storby het offisielt Madras fram til 1996? Det gamle navnet brukes fortsatt om en type karrirett.",
+      "answer": "Chennai"
+    },
+    {
+      "question": "Hvilken hovedstad var tidligere kjent under det danske navnet Godthåb?",
+      "answer": "Nuuk"
+    }
+  ]
+}
