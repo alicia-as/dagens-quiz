@@ -1,0 +1,28 @@
+{
+  "theme": "Hovedsteder på K",
+  "questions": [
+    {
+      "question": "I hvilken hovedstad ble Tahrir-plassen sentrum for demonstrasjonene som førte til Hosni Mubaraks fall i 2011?",
+      "answer": "Kairo",
+      "aliases": ["Cairo"]
+    },
+    {
+      "question": "I hvilken hovedstad har en eventyrfigur sittet på en stein ved havnen siden 1913, selv om hun har mistet hodet flere ganger?",
+      "answer": "København",
+      "aliases": ["Copenhagen"]
+    },
+    {
+      "question": "I hvilken hovedstad vokser guttene Amir og Hassan opp i Khaled Hosseinis roman «Drageløperen»?",
+      "answer": "Kabul"
+    },
+    {
+      "question": "Hvilken hovedstad ligger i en dal ved foten av Himalaya, der palassene på Durbarplassen og buddhistiske stupaer står på UNESCOs verdensarvliste?",
+      "answer": "Katmandu",
+      "aliases": ["Kathmandu"]
+    },
+    {
+      "question": "I hvilken karibisk hovedstad er Bob Marleys tidligere hjem blitt museum, og reggae en viktig del av byens identitet?",
+      "answer": "Kingston"
+    }
+  ]
+}
