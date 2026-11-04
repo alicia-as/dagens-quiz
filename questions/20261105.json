@@ -1,0 +1,26 @@
+{
+  "theme": "Dyr i navnet",
+  "questions": [
+    {
+      "question": "Hvilken asiatisk bystat har et navn som betyr «løvebyen», og en kjent statue med løvehode og fiskekropp?",
+      "answer": "Singapore"
+    },
+    {
+      "question": "Hvilket vestafrikansk land med hovedstad Freetown har et navn som viser til «løvefjellene»?",
+      "answer": "Sierra Leone"
+    },
+    {
+      "question": "Hvilken delstatshovedstad i USA er oppkalt etter en mytisk fugl som gjenoppstår fra asken?",
+      "answer": "Phoenix",
+      "aliases": ["Føniks"]
+    },
+    {
+      "question": "Hvilken norsk by ved Tyrifjorden har en hunnfugl først i navnet og er sentrum i Ringerike?",
+      "answer": "Hønefoss"
+    },
+    {
+      "question": "Hvilken sveitsisk by skal ifølge sagnet ha fått navn etter en bjørn, og har i dag en egen bjørnepark ved elven Aare?",
+      "answer": "Bern"
+    }
+  ]
+}
