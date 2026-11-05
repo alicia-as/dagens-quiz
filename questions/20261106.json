@@ -1,0 +1,30 @@
+{
+  "theme": "Verdens eldste",
+  "questions": [
+    {
+      "question": "Hvilken italiensk universitetsby, kjent for sine røde middelalderbygninger, lange arkader og en saus som har lånt byens navn, huser et universitet som regner grunnleggelsen sin tilbake til 1088?",
+      "answer": "Bologna",
+      "aliases": ["Bologna"]
+    },
+    {
+      "question": "Hvilken amerikansk nasjonalpark, kjent for sine geysirer og varme kilder, ble opprettet i 1872 og regnes som verdens første?",
+      "answer": "Yellowstone",
+      "aliases": ["Yellowstone nasjonalpark"]
+    },
+    {
+      "question": "Hvilken syrisk storby regnes blant verdens eldste sammenhengende bebodde byer, og har en gammel bydel med en berømt Umayyade-moské?",
+      "answer": "Damaskus",
+      "aliases": ["Damascus"]
+    },
+    {
+      "question": "Hvilken marokkansk by huser al-Qarawiyyin, en læreinstitusjon grunnlagt på 800-tallet, og har gitt navn til en rød, sylinderformet hodeplaggstype?",
+      "answer": "Fès",
+      "aliases": ["Fez"]
+    },
+    {
+      "question": "I hvilken europeisk hovedstad ligger Sobrino de Botín, en restaurant i en smal gate nær Plaza Mayor som Guinness oppfører som verdens eldste i kontinuerlig drift?",
+      "answer": "Madrid",
+      "aliases": []
+    }
+  ]
+}
