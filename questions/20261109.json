@@ -1,0 +1,26 @@
+{
+  "theme": "Mat fra Italia",
+  "questions": [
+    {
+      "question": "Hvilken krydderurt gir den klassiske grønne pestoen både fargen og mye av smaken, sammen med pinjekjerner, hvitløk og ost?",
+      "answer": "Basilikum"
+    },
+    {
+      "question": "Hvilken italiensk blåmuggost har navn etter en by like øst for Milano, og finnes i både en mild «dolce» og en kraftigere «piccante» variant?",
+      "answer": "Gorgonzola"
+    },
+    {
+      "question": "Hvilken italiensk forrett består tradisjonelt av løvtynne skiver rått okse- eller kalvekjøtt?",
+      "answer": "Carpaccio"
+    },
+    {
+      "question": "Hva heter den italienske fløtedesserten som stivner med gelatin og gjerne serveres med bærsaus? Navnet betyr «kokt fløte».",
+      "answer": "Panna cotta",
+      "aliases": ["Pannacotta"]
+    },
+    {
+      "question": "Hvilken kornsort brukes til polenta, som kan serveres som en myk grøt eller avkjøles og stekes i skiver?",
+      "answer": "Mais"
+    }
+  ]
+}
