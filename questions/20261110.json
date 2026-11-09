@@ -1,0 +1,29 @@
+{
+  "theme": "Sju i én smekk",
+  "questions": [
+    {
+      "question": "I hvilken norsk fjord finner vi fossene «De sju søstrene», med «Friaren» på motsatt side?",
+      "answer": "Geirangerfjorden",
+      "aliases": ["Geiranger"]
+    },
+    {
+      "question": "Hvilket grunnstoff har atomnummer sju og utgjør omtrent 78 prosent av lufta vi puster inn?",
+      "answer": "Nitrogen",
+      "aliases": ["Kvelstoff"]
+    },
+    {
+      "question": "Hvilken løpsdistanse avslutter kvinnenes sjukamp utendørs?",
+      "answer": "800 meter",
+      "aliases": ["800", "Åtte hundre meter"]
+    },
+    {
+      "question": "Hvilken amerikansk duo ga ut «Seven Nation Army» på albumet «Elephant» i 2003?",
+      "answer": "The White Stripes",
+      "aliases": ["White Stripes"]
+    },
+    {
+      "question": "Hvilken av de sju dødssyndene heter «superbia» på latin og innebærer at man setter seg selv for høyt?",
+      "answer": "Hovmod"
+    }
+  ]
+}
