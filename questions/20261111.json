@@ -1,0 +1,27 @@
+{
+  "theme": "Norske byer",
+  "questions": [
+    {
+      "question": "Hvilken by ble grunnlagt av Christian IV i 1624, etter at det var funnet sølv i området året før?",
+      "answer": "Kongsberg"
+    },
+    {
+      "question": "Hvilken by er vertskap for Den norske filmfestivalen og utdelingen av Amandaprisen?",
+      "answer": "Haugesund"
+    },
+    {
+      "question": "Hva heter elva som Gamle Bybro krysser mellom Midtbyen og Bakklandet i Trondheim?",
+      "answer": "Nidelva",
+      "aliases": ["Nidelven"]
+    },
+    {
+      "question": "Hva heter bryggeriet som ble grunnlagt i Tromsø i 1877, og som har navn etter grunnleggerens etternavn?",
+      "answer": "Mack",
+      "aliases": ["Macks", "Macks bryggeri", "Macks Ølbryggeri"]
+    },
+    {
+      "question": "Hvilken by i Romsdal har vært vertskap for en jazzfestival siden 1961?",
+      "answer": "Molde"
+    }
+  ]
+}
