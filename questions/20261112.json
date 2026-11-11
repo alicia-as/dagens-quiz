@@ -1,0 +1,27 @@
+{
+  "theme": "Rød tråd",
+  "questions": [
+    {
+      "question": "Hvilket britisk land har en rød drage på flagget og Cardiff som hovedstad?",
+      "answer": "Wales"
+    },
+    {
+      "question": "Røde Kors-emblemet ble laget ved å bytte om fargene i flagget til et europeisk land. Hvilket?",
+      "answer": "Sveits",
+      "aliases": ["Switzerland"]
+    },
+    {
+      "question": "Hva kalles tyrefekteren som bruker en rød kappe, kalt muleta, i den siste delen av en spansk tyrefekting?",
+      "answer": "Matador",
+      "aliases": ["Matadoren"]
+    },
+    {
+      "question": "Hvilken europeisk hovedstad forbindes særlig med røde dobbeltdekkerbusser og svarte drosjer?",
+      "answer": "London"
+    },
+    {
+      "question": "Hva heter det lille røde monsteret med oransje nese i «Sesame Street»?",
+      "answer": "Elmo"
+    }
+  ]
+}
