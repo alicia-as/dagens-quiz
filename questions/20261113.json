@@ -1,0 +1,28 @@
+{
+  "theme": "På boks",
+  "questions": [
+    {
+      "question": "Hvilken amerikansk kunstner stilte i 1962 ut 32 malerier av suppebokser fra Campbell’s?",
+      "answer": "Andy Warhol",
+      "aliases": ["Warhol"]
+    },
+    {
+      "question": "Hva kalles de fargerike etikettene fra hermetikkbokser som er blitt populære samleobjekter? I Stavanger har de også gitt navn til et museum.",
+      "answer": "Iddiser",
+      "aliases": ["Iddisar", "Iddis", "Iddisene", "Iddisane"]
+    },
+    {
+      "question": "Hvilken hudkrem, kjent fra en rund, blå metallboks, har et navn som betyr «snøhvit» på latin?",
+      "answer": "Nivea",
+      "aliases": ["Nivea Creme", "Nivea krem"]
+    },
+    {
+      "question": "Hvilken potetsnacks ligger pent stablet i en høy, rund boks, og har en fasong som matematikere kaller en hyperbolsk paraboloide?",
+      "answer": "Pringles"
+    },
+    {
+      "question": "Hvilket metall brukes som et tynt belegg på stålet i hermetikkbokser for å beskytte mot rust? Det har samme navn som en kommune i Telemark.",
+      "answer": "Tinn"
+    }
+  ]
+}
