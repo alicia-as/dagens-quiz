@@ -1,0 +1,27 @@
+{
+  "theme": "Det står i stjernene",
+  "questions": [
+    {
+      "question": "Tre stjerner på rekke danner beltet til en jeger fra gresk mytologi. I skulderen hans finner vi den rødlige stjernen Betelgeuse. Hva heter stjernebildet?",
+      "answer": "Orion"
+    },
+    {
+      "question": "Hvilken planet er oppkalt etter romernes havgud og er den ytterste av de åtte planetene i solsystemet?",
+      "answer": "Neptun",
+      "aliases": ["Neptune"]
+    },
+    {
+      "question": "Solsystemets letteste planet har gitt navn til et tungt grunnstoff – i alle fall på engelsk. Hvilken planet er det snakk om?",
+      "answer": "Merkur",
+      "aliases": ["Mercury"]
+    },
+    {
+      "question": "Hvilken stjerne, med samme navn som Harry Potters gudfar, lyser sterkest på nattehimmelen sett fra jorda?",
+      "answer": "Sirius"
+    },
+    {
+      "question": "I forgårs fanget oppskytingstårnet Mechazilla SpaceXs Starship etter en tur i bane rundt jorda. I hvilken amerikansk delstat skjedde dette?",
+      "answer": "Texas"
+    }
+  ]
+}
