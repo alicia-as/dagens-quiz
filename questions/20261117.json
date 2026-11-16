@@ -1,0 +1,29 @@
+{
+  "theme": "Snarveier",
+  "questions": [
+    {
+      "question": "Hva het containerskipet som gikk på grunn i Suezkanalen i 2021 og sperret skipstrafikken i seks dager?",
+      "answer": "Ever Given",
+      "aliases": ["MV Ever Given"]
+    },
+    {
+      "question": "I 1520 seilte en portugisisk sjøfarer fra Atlanterhavet til Stillehavet gjennom et sund sør i Chile. Hva heter sundet som i dag bærer navnet hans?",
+      "answer": "Magellanstredet",
+      "aliases": ["Magellansundet", "Magellans stred", "Magellans sund", "Strait of Magellan"]
+    },
+    {
+      "question": "I hvilken eventyrverden møter Lucy faunen Tumnus etter å ha gått gjennom et klesskap i en av C.S. Lewis’ bøker?",
+      "answer": "Narnia"
+    },
+    {
+      "question": "Under OL i St. Louis i 1904 kom Fred Lorz først i mål, men ble diskvalifisert da det viste seg at han hadde sittet på med bil underveis. Hvilken øvelse deltok han i?",
+      "answer": "Maraton",
+      "aliases": ["Marathon", "Maratonløp", "Maratonløpet"]
+    },
+    {
+      "question": "I 1861 kunne beskjeder nå fram til California på få minutter, og postrytterne i Pony Express mistet jobben. Hvilken oppfinnelse hadde gjort det mulig å sende meldinger så raskt?",
+      "answer": "Telegrafen",
+      "aliases": ["Telegraf", "Elektrisk telegraf", "Den elektriske telegrafen"]
+    }
+  ]
+}
