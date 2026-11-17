@@ -2,9 +2,9 @@
   "theme": "Nytt navn",
   "questions": [
     {
-      "question": "Hvilket kongenavn tok den danske prins Carl da Stortinget valgte ham til konge av Norge 18. november 1905?",
-      "answer": "Haakon VII",
-      "aliases": ["Haakon", "Haakon 7", "Haakon den sjuende", "Håkon VII", "Håkon 7"]
+      "question": "Hvilket navn tok bokseren Cassius Clay kort tid etter at han slo Sonny Liston og ble verdensmester i tungvekt i 1964?",
+      "answer": "Muhammad Ali",
+      "aliases": ["Ali", "Mohammed Ali", "Muhammed Ali"]
     },
     {
       "question": "Hva het Sri Lanka før landet ble republikk i 1972? Det gamle navnet brukes fortsatt på te fra øya.",
