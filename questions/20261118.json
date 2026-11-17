@@ -1,0 +1,29 @@
+{
+  "theme": "Nytt navn",
+  "questions": [
+    {
+      "question": "Hvilket kongenavn tok den danske prins Carl da Stortinget valgte ham til konge av Norge 18. november 1905?",
+      "answer": "Haakon VII",
+      "aliases": ["Haakon", "Haakon 7", "Haakon den sjuende", "Håkon VII", "Håkon 7"]
+    },
+    {
+      "question": "Hva het Sri Lanka før landet ble republikk i 1972? Det gamle navnet brukes fortsatt på te fra øya.",
+      "answer": "Ceylon"
+    },
+    {
+      "question": "Hvilken britisk pianist og sanger ble født som Reginald Dwight og slo gjennom med «Your Song» i 1970?",
+      "answer": "Elton John",
+      "aliases": ["Sir Elton John"]
+    },
+    {
+      "question": "Hvilken fotballklubb fra Trondheim tok først navn etter Odd fra Skien og slo senere Odd i cupfinalen i 1960?",
+      "answer": "Rosenborg",
+      "aliases": ["Rosenborg Ballklub", "Rosenborg BK", "RBK"]
+    },
+    {
+      "question": "Hvilken frukt ble kalt «kinesisk stikkelsbær» på New Zealand før den i 1959 fikk navn etter en fugl?",
+      "answer": "Kiwi",
+      "aliases": ["Kiwifrukt"]
+    }
+  ]
+}
