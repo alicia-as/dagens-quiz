@@ -2,8 +2,8 @@
 
 ## Utvalg og antall
 
-- Hver dagsquiz skal ha nøyaktig fem spørsmål. Et spørsmål brukeren ber om å beholde, opptar én av de fem plassene.
-- Hold oversikt over valgte spørsmål når brukeren ber om flere kandidater. Hvis de siste valgene gir flere enn fem, behold spørsmål brukeren uttrykkelig har låst, og vis et forslag med fem der de nye valgene er med. Si hvilket tidligere valg du foreslår å legge til side.
+- Hver dagsquiz skal ha nøyaktig fem spørsmål.
+- Eksempelspørsmål i temaforslag viser hvordan temaet kan fungere. Brukerens valg blant kandidatene avgjør hvilke spørsmål som kommer med i quizen.
 - Når brukeren ber om å se JSON, vis utkastet med alle fem spørsmålene. Tell dem både før du viser utkastet og før du committer.
 
 ## Stil og vanskelighetsgrad
