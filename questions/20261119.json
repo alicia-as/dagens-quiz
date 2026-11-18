@@ -1,0 +1,30 @@
+{
+  "theme": "Bak masken",
+  "questions": [
+    {
+      "question": "Hvem spiller Stanley Ipkiss, den sjenerte bankfunksjonæren som blir grønn i ansiktet når han tar på seg en magisk maske i en komedie fra 1994?",
+      "answer": "Jim Carrey",
+      "aliases": ["Carrey", "Jim Carey"]
+    },
+    {
+      "question": "Hvilken fransk duo holdt seg taus bak robothjelmene mens Pharrell Williams takket for Grammy-prisen de vant sammen for «Get Lucky»?",
+      "answer": "Daft Punk",
+      "aliases": ["Daftpunk"]
+    },
+    {
+      "question": "Hvilken «Maskorama»-vinner, med Ulrikke Brandstorp bak masken, hadde et navn kong Harald også brukte spøkefullt om dronning Sonja på TV?",
+      "answer": "Trollet",
+      "aliases": ["Troll", "Et troll"]
+    },
+    {
+      "question": "Hvilken type lue, som kan dekke nesten hele ansiktet, har navn etter en by der det sto et slag under Krimkrigen i 1854?",
+      "answer": "Balaklava",
+      "aliases": ["Balaclava", "Balaklavalue", "Balaclavalue", "Finlandshette"]
+    },
+    {
+      "question": "I hvilket Shakespeare-stykke sniker en ung mann fra familien Montague seg inn på maskeball hos familien Capulet?",
+      "answer": "Romeo og Julie",
+      "aliases": ["Romeo & Julie", "Romeo and Juliet", "Romeo & Juliet", "Romeo og Juliet"]
+    }
+  ]
+}
