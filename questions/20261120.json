@@ -1,0 +1,28 @@
+{
+  "theme": "Norsk på TV",
+  "questions": [
+    {
+      "question": "Hvilken NRK-serie fra 2015 fulgte en gjeng elever på Hartvig Nissens skole i Oslo? Serien fikk senere en amerikansk versjon lagt til Austin i Texas.",
+      "answer": "Skam"
+    },
+    {
+      "question": "I hvilken NRK-serie havner kokken Marit, de to barna hennes og kompisen Kim på den lille øya Ylvingen på Helgelandskysten?",
+      "answer": "Himmelblå",
+      "aliases": ["Himmelbla"]
+    },
+    {
+      "question": "I hvilken serie tar Helena Mikkelsen over som trener for det nyopprykkede herrelaget Varg?",
+      "answer": "Heimebane",
+      "aliases": ["Hjemmebane"]
+    },
+    {
+      "question": "Hvilken dramaserie begynner i Stavanger i 1969, da oljeselskapene er i ferd med å gi opp letingen og Phillips Petroleum gjør et stort funn?",
+      "answer": "Lykkeland"
+    },
+    {
+      "question": "Hvilken komiserie om livet i landsbyen Norheim ble spilt inn på både norsk og engelsk med de samme skuespillerne?",
+      "answer": "Vikingane",
+      "aliases": ["Vikingene", "Norsemen"]
+    }
+  ]
+}
