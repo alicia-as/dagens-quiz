@@ -1,0 +1,30 @@
+{
+  "theme": "Full gass",
+  "questions": [
+    {
+      "question": "Luftskipet «Hindenburg» var fylt med det letteste grunnstoffet da det tok fyr i 1937. Hvilken gass var det?",
+      "answer": "Hydrogen",
+      "aliases": ["Hydrogengass"]
+    },
+    {
+      "question": "Hvilken edelgass har samme navn som planeten der Supermann ble født?",
+      "answer": "Krypton",
+      "aliases": ["Kryptongass"]
+    },
+    {
+      "question": "Hvilken annen edelgass utgjør nesten én prosent av lufta? Navnet kommer fra det greske ordet for «lat».",
+      "answer": "Argon",
+      "aliases": ["Argongass"]
+    },
+    {
+      "question": "Hvilken gass gir gamle lysskilt den rødoransje gløden? Navnet kommer fra det greske ordet for «ny».",
+      "answer": "Neon",
+      "aliases": ["Neongass"]
+    },
+    {
+      "question": "Svenskene sier «syre», danskene sier «ilt». Hva kaller vi gassen på norsk?",
+      "answer": "Oksygen",
+      "aliases": ["Oxygen", "Surstoff", "Oksygengass"]
+    }
+  ]
+}
