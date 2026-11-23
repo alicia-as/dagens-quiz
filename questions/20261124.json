@@ -1,0 +1,30 @@
+{
+  "theme": "Til frokost",
+  "questions": [
+    {
+      "question": "Hva heter det runde brødet med hull i midten som bakerne i Montréal koker i honningvann før de steker det i vedfyrt ovn?",
+      "answer": "Bagel",
+      "aliases": ["Bagels", "Beigel", "Montréal-bagel", "Montreal-bagel"]
+    },
+    {
+      "question": "Hvilken kornsort bruker skottene i både frokostgrøten «porridge» og nasjonalretten haggis?",
+      "answer": "Havre",
+      "aliases": ["Havregryn", "Havrekorn", "Oats"]
+    },
+    {
+      "question": "I Frankrike heter det «pain perdu», som betyr «tapt brød». Hva kaller vi retten der gårsdagens brød dyppes i egg og melk og stekes gyllent i panna?",
+      "answer": "Arme riddere",
+      "aliases": ["Arme ridder", "French toast"]
+    },
+    {
+      "question": "En børsmekler med bakrus skal ha bestilt toast med bacon, posjerte egg og hollandaisesaus på Waldorf-hotellet i New York. Hva heter frokostretten som ifølge historien fikk navn etter ham?",
+      "answer": "Egg Benedict",
+      "aliases": ["Eggs Benedict", "Egg à la Benedict", "Egg a la Benedict", "Benedict"]
+    },
+    {
+      "question": "En «London Fog» lages med dampet melk, vanilje og en svart te med bergamott. Hva heter teen?",
+      "answer": "Earl Grey",
+      "aliases": ["Earl Gray", "Early Grey", "Earl Grey-te"]
+    }
+  ]
+}
