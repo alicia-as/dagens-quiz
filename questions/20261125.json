@@ -1,0 +1,30 @@
+{
+  "theme": "Fra sjøen til språket",
+  "questions": [
+    {
+      "question": "Hva heter sporet i vannet bak en båt i fart? Ordet brukes også om det som følger etter en krise.",
+      "answer": "Kjølvann",
+      "aliases": ["Kjølvannet", "Kjølvatn", "Kjølvatnet"]
+    },
+    {
+      "question": "Hvilket uttrykk for uventede hindringer viser til steinknauser som kan ligge skjult under vann?",
+      "answer": "Skjær i sjøen",
+      "aliases": ["Skjær", "Et skjær i sjøen"]
+    },
+    {
+      "question": "En sjømann kommer til kaia etter at skipet har gått. Hvilket ord beskriver både ham og en konkurrent som har blitt hengende etter?",
+      "answer": "Akterutseilt",
+      "aliases": ["Akterutseilet", "Akterutsegla"]
+    },
+    {
+      "question": "Hvilket verb bruker vi både om å måle dybden med en vekt i en snor og om å undersøke stemningen i et rom?",
+      "answer": "Lodde",
+      "aliases": ["Å lodde", "Lodde dybden", "Lodde stemningen"]
+    },
+    {
+      "question": "Hvilket uttrykk for å tisse betydde opprinnelig å pumpe en båt tom for vann?",
+      "answer": "Slå lens",
+      "aliases": ["Å slå lens", "Slå læns"]
+    }
+  ]
+}
