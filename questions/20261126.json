@@ -1,0 +1,47 @@
+{
+  "theme": "Speilvendt",
+  "questions": [
+    {
+      "question": "Hvilken artist ga ut «Man in the Mirror» på albumet «Bad»?",
+      "answer": "Michael Jackson",
+      "aliases": [
+        "Jackson"
+      ]
+    },
+    {
+      "question": "Hvilken Apollo-ferd satte ut de første reflektorene på månen, slik at forskere kunne måle avstanden dit med laser fra jorda?",
+      "answer": "Apollo 11  ",
+      "aliases": [
+        "Apollo-11  ",
+        "Apollo11  ",
+        "11  ",
+        "Apollo elleve",
+        "Elleve"
+      ]
+    },
+    {
+      "question": "Hvilken fredsavtale mellom Tyskland og de allierte ble undertegnet i en speilsal med 357 speil i 1919?",
+      "answer": "Versaillestraktaten",
+      "aliases": [
+        "Versailles",
+        "Versaillesfreden",
+        "Versaillesavtalen",
+        "Treaty of Versailles"
+      ]
+    },
+    {
+      "question": "Hvilken skikkelse fra gresk mytologi avviste nymfen Ekko og forelsket seg i sitt eget speilbilde?",
+      "answer": "Narkissos",
+      "aliases": [
+        "Narcissus"
+      ]
+    },
+    {
+      "question": "Hva heter det optiske instrumentet som lar et ubåtmannskap se hva som skjer over vannflaten mens ubåten er under vann?",
+      "answer": "Periskop",
+      "aliases": [
+        "Periscope"
+      ]
+    }
+  ]
+}
