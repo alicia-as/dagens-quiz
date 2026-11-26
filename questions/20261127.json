@@ -1,0 +1,29 @@
+{
+  "theme": "Svart fredag",
+  "questions": [
+    {
+      "question": "I 1939 flyttet en amerikansk president Thanksgiving én uke tidligere for å gi butikkene en lengre julehandel, til store protester. Hvilken president, også kjent for «New Deal»?",
+      "answer": "Franklin D. Roosevelt",
+      "aliases": ["Roosevelt", "Franklin Roosevelt", "Franklin Delano Roosevelt", "Franklin D Roosevelt", "FDR", "F.D. Roosevelt"]
+    },
+    {
+      "question": "Mandagen etter Black Friday fikk i 2005 sitt eget engelske navn, som den store dagen for netthandel. Hva kalles den?",
+      "answer": "Cyber Monday",
+      "aliases": ["Cybermonday", "Cyber-Monday", "Cybermandag", "Cyber mandag"]
+    },
+    {
+      "question": "I Storbritannia, Canada og Australia er den store salgsdagen ikke i november, men 26. desember. Hva heter dagen på engelsk? Navnet har ingenting med kampsport å gjøre.",
+      "answer": "Boxing Day",
+      "aliases": ["Boxingday", "Boxing-Day", "Boxing"]
+    },
+    {
+      "question": "På Black Friday i 2011 rykket et amerikansk friluftsmerke inn en helsides annonse i New York Times med teksten «Don't Buy This Jacket». Hvilket merke, som deler navn med et landområde helt sør i Sør-Amerika?",
+      "answer": "Patagonia"
+    },
+    {
+      "question": "Hvilken amerikansk artist med et svært passende etternavn gikk viralt som 13-åring i 2011 med låten «Friday»?",
+      "answer": "Rebecca Black",
+      "aliases": ["Black", "Rebekka Black", "Rebeca Black"]
+    }
+  ]
+}
